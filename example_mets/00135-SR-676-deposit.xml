@@ -1,0 +1,57 @@
+<audio_item>
+  <dc.identifier.other>00135-SR-676</dc.identifier.other>
+  <dc.title>Sound Recording - Three New Chestnuts, for two harpsichords [1985-86]; George Lucktenberg and Anthony
+   Newman; L.C. 12 June 1986 - 1986 June 12, 1987 October 13</dc.title>
+  <dc.contributor.author>Albright, William</dc.contributor.author>
+  <dc.date.issued>2013</dc.date.issued>
+  <dc.date.created>2013</dc.date.created>
+  <dc.coverage.temporal>1986 June 12, 1987 October 13</dc.coverage.temporal>
+  <dc.type>Musical performances</dc.type>
+  <dc.description.restriction>Don't download, available only for use in reading room, be good, etc.</dc.description.restriction>
+  <dc.rights.access>This stuff is open only for research, etc.</dc.rights.access>
+  <dc.rights.copyright>You need to check with the copyright holder, etc.</dc.rights.copyright>
+  <dc.date.open>2014-01-09</dc.date.open>
+  <dc.description>Content Note:  This is a note about just what all these wierd segments, etc. mean.</dc.description>
+  <dc.abstract>[Side 1] : Recording of Albright's "Three New Chestnuts for Two Harpsichords"
+   performed by Geroge Lucktenberg and Anthony Newman.</dc.abstract>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1-am.wav</dc.title.filename>
+    <dc.description.filename>[Side 1]</dc.description.filename>
+    <dc.format.mimetype>audio/wav</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1-pm.wav</dc.title.filename>
+    <dc.description.filename>[Side 1]</dc.description.filename>
+    <dc.format.mimetype>audio/wav</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1.mp3</dc.title.filename>
+    <dc.description.filename>[Side 1]</dc.description.filename>
+    <dc.format.mimetype>audio/mpeg3</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1-001.JPG</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1-002.JPG</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>00135-SR-676-1-003.JPG</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>notes.txt</dc.title.filename>
+    <dc.description.filename>Item Notes</dc.description.filename>
+    <dc.format.mimetype>text/plain</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>mets.xml</dc.title.filename>
+    <dc.description.filename>METS XML</dc.description.filename>
+    <dc.format.mimetype>text/xml</dc.format.mimetype>
+  </bitstream>
+</audio_item>
