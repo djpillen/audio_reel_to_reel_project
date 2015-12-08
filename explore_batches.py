@@ -1,21 +1,84 @@
 import os
 from os.path import join
 import pickle
+import re
+import csv
+
+'''
+# possible strategy
+
+assumptions
+-----------
+* each folder in R:/Digitization/Audio/Vendor Digitization/Reel-to-Reel Project/[batch]/[date]/[collection] will become a DSpace item
+* each of those folders corresponds to one or more records in the beal AV database
+* each audio item within each folder should correspond to a coll-part#/filename in beal (aka digfilecalc)
+
+steps
+-----
+
+1. make a dictionary with info from beal like: beal_items_dict = {collitemno:{'digfilecalcs':{[array of digfilecalcs with related info]},'title':the title,etc}
+2. iterate through the batches dictionary and for each item in batches_dict[batch][collection]:
+	2a. make a dictionary like dspace_items_dict = {item:{'bitstreams':{[array with each file]}}}
+'''
+
+''' 
+#important beal export header locations
+shipping date -- 49
+digfilecalc -- 15
+collitemno -- 11
+itemtitle = 29
+'''
+
+'''
+# re.sub to identify digfilcalc from filenames, e.g. '850-SR-1016-2-1-2-pm.wav' and '850-SR-1016-2-1-2.mp3' both return 850-SR-1016-2-1-2
+
+re.sub(r'\-?([A-Za-z]+)?\..*$','',filename)
+
+'''
+
+'''
+for batch in batches_dict:
+	for collection in batches_dict[batch]:
+		for item in batches_dict[batch][collection]:
+			audio_files = [filename for filename in batches_dict[batch][collection][item] if filename.endswith('mp3') or filename.endswith('wav')]
+			audio_calcs = [re.sub(r'\-?([A-Za-z]+)?\..*$','',filename) for filename in audio_files]
+			uniques = set(audio_calcs)
+			for audio_calc in uniques:
+				if audio_calc not in digfilecalcs:
+					print audio_calc
+'''
 
 cwd = os.getcwd()
 
 batches_dir = 'R:/Digitization/Audio/Vendor Digitization/Reel-to-Reel Project'
 
-batch_1 = join(batches_dir,'Batch 1/20130218')
-batch_2 = join(batches_dir, 'Batch 2/20130716')
-batch_3 = join(batches_dir, 'Batch 3/20140117')
-batch_4 = join(batches_dir, 'Batch 4/20140826')
-
-batches = {"Batch 1":batch_1, "Batch 2":batch_2, "Batch 3":batch_3, "Batch 4":batch_4}
-
 batches_file = join(cwd,'batches.p')
 
+batch_1_dir = join(batches_dir,'Batch 1/20130218')
+batch_2_dir = join(batches_dir, 'Batch 2/20130716')
+batch_3_dir = join(batches_dir, 'Batch 3/20140117')
+batch_4_dir = join(batches_dir, 'Batch 4/20140826')
+
+beal_exports_dir = join(cwd,'BEAL_exports')
+
+
+batch_1_export = join(beal_exports_dir, '20130218.csv')
+batch_2_export = join(beal_exports_dir, '20130716.csv')
+batch_3_export = join(beal_exports_dir, '20140117.csv')
+batch_4_export = join(beal_exports_dir, '20140826.csv')
+
+beal_items_file = join(cwd,'beal_items.p')
+
+beal_exports = {"Batch 1":batch_1_export, "Batch 2":batch_2_export, "Batch 3":batch_3_export, "Batch 4":batch_4_export}
+
+batches = {"Batch 1":batch_1_dir, "Batch 2":batch_2_dir, "Batch 3":batch_3_dir, "Batch 4":batch_4_dir}
+
 expected_extensions = ['xml','jpg','wav','mp3','txt']
+
+audio_extensions = ['wav','mp3']
+mets_extention = 'xml'
+notes_extension = 'txt'
+photo_extension = 'jpg'
 
 # Simple function to find the item number from a directory name to verify filenaming conventions, e.g. "0732-SR-1-1" returns "0732-SR-1"
 def identify_item_number(item):
@@ -35,6 +98,24 @@ def build_batch_dict(batch):
 			collection_items[collection][item] = [filename for filename in os.listdir(item_dir) if not os.path.isdir(join(item_dir,filename))]
 	return collection_items
 
+def build_beal_dict(export_dir):
+	beal_items_dict = {}
+	for filename in os.listdir(export_dir):
+		with open(join(export_dir,filename),'rb') as csvfile:
+			reader = csv.reader(csvfile)
+			next(reader,None)
+			for row in reader:
+				if row[11]:
+					collitemno = row[11]
+					title = row[29]
+					digfilecalc = row[15]
+					beal_items_dict[digfilecalc] = {'collitemno':collitemno,'title':title}
+					
+	with open(beal_items_file,'wb') as beal_file_out:
+		pickle.dump(beal_items_dict,beal_file_out)
+					
+
+
 if not os.path.exists(batches_file):
 	print "Existing batches file not found."
 	batches_dict = {}
@@ -53,7 +134,7 @@ else:
 
 
 
-
+build_beal_dict(beal_exports_dir)
 
 """
 # Use this to find potential errors with files/filenaming.
