@@ -116,7 +116,7 @@ g3
 S'85164-SR-91'
 p53
 sg5
-S'Dr. Norman Thomas, \x93Communism, McCarthyism and Freedom\x94 '
+S'Dr. Norman Thomas, \xe2\x80\x9cCommunism, McCarthyism and Freedom\xe2\x80\x9d '
 p54
 ssS'2010215-SR-4-1'
 p55
@@ -215,7 +215,7 @@ g3
 S'85164-SR-99'
 p97
 sg5
-S'Wesley Grisham, \x93The Power of Silence\x94; \x93Life\x92s Greatest Discovery\x94 '
+S'Wesley Grisham, \xe2\x80\x9cThe Power of Silence\xe2\x80\x9d; \xe2\x80\x9cLife\xe2\x80\x99s Greatest Discovery\xe2\x80\x9d '
 p98
 ssS'852178-SR-442-1'
 p99
@@ -341,7 +341,7 @@ g3
 S'2009039-SR-27'
 p153
 sg5
-S'\x93Brainwashing the Ultimate Weapon,\x94 William E, Mayer; Karl Prussion, Ann Arbor, Michigan'
+S'\xe2\x80\x9cBrainwashing the Ultimate Weapon,\xe2\x80\x9d William E, Mayer; Karl Prussion, Ann Arbor, Michigan'
 p154
 ssS'2009039-SR-27-1'
 p155
@@ -350,7 +350,7 @@ g3
 S'2009039-SR-27'
 p157
 sg5
-S'\x93Brainwashing the Ultimate Weapon,\x94 William E, Mayer; Karl Prussion, Ann Arbor, Michigan'
+S'\xe2\x80\x9cBrainwashing the Ultimate Weapon,\xe2\x80\x9d William E, Mayer; Karl Prussion, Ann Arbor, Michigan'
 p158
 ssS'85287-SR-178-1'
 p159
@@ -1871,7 +1871,7 @@ g3
 S'851326-SR-1'
 p833
 sg5
-S'Speech of Martin Niem\xf6ller before the National Conference of the Fellowship of Reconciliation, Ohio'
+S'Speech of Martin Niem\xc3\xb6ller before the National Conference of the Fellowship of Reconciliation, Ohio'
 p834
 ssS'0601-SR-143-1'
 p835
@@ -2411,7 +2411,7 @@ g3
 S'85164-SR-84'
 p1073
 sg5
-S'\x93No Corrupt Communication" ; \x93The Peril of Profitable Patriotism\x94 ; \x93Personal Peace in a Warring World\x94'
+S'\xe2\x80\x9cNo Corrupt Communication" ; \xe2\x80\x9cThe Peril of Profitable Patriotism\xe2\x80\x9d ; \xe2\x80\x9cPersonal Peace in a Warring World\xe2\x80\x9d'
 p1074
 ssS'85164-SR-84-1-2'
 p1075
@@ -2420,7 +2420,7 @@ g3
 S'85164-SR-84'
 p1077
 sg5
-S'\x93No Corrupt Communication" ;  \x93The Peril of Profitable Patriotism\x94 ; \x93Personal Peace in a Warring World\x94'
+S'\xe2\x80\x9cNo Corrupt Communication" ;  \xe2\x80\x9cThe Peril of Profitable Patriotism\xe2\x80\x9d ; \xe2\x80\x9cPersonal Peace in a Warring World\xe2\x80\x9d'
 p1078
 ssS'87250-SR-13-1-1'
 p1079
@@ -2546,7 +2546,7 @@ g3
 S'2009039-SR-37'
 p1133
 sg5
-S'Brown. \x93Communism vs. Civil Rights,\x94 Julia Brown, Detroit, Michigan'
+S'Brown. \xe2\x80\x9cCommunism vs. Civil Rights,\xe2\x80\x9d Julia Brown, Detroit, Michigan'
 p1134
 ssS'2009039-SR-37-2'
 p1135
@@ -2555,7 +2555,7 @@ g3
 S'2009039-SR-37'
 p1137
 sg5
-S'Brown. \x93Communism vs. Civil Rights,\x94 Julia Brown, Detroit, Michigan'
+S'Brown. \xe2\x80\x9cCommunism vs. Civil Rights,\xe2\x80\x9d Julia Brown, Detroit, Michigan'
 p1138
 ssS'8738-SR-60-1-1'
 p1139
@@ -2636,7 +2636,7 @@ g3
 S'2009039-SR-15'
 p1173
 sg5
-S'\x93Communism in Education,\x94 Bella Dodd; \x93Communism and Youth,\x94 Herbert Philbrick with Ronald Reagan, George Putnam, Roy Rogers, Dale Evans, Pat Boone'
+S'\xe2\x80\x9cCommunism in Education,\xe2\x80\x9d Bella Dodd; \xe2\x80\x9cCommunism and Youth,\xe2\x80\x9d Herbert Philbrick with Ronald Reagan, George Putnam, Roy Rogers, Dale Evans, Pat Boone'
 p1174
 ssS'2009039-SR-15-2'
 p1175
@@ -2645,7 +2645,7 @@ g3
 S'2009039-SR-15'
 p1177
 sg5
-S'\x93Communism and Youth,\x94 Herbert Philbrick with Ronald Reagan, George Putnam, Roy Rogers, Dale Evans, Pat Boone, Los Angeles, California'
+S'\xe2\x80\x9cCommunism and Youth,\xe2\x80\x9d Herbert Philbrick with Ronald Reagan, George Putnam, Roy Rogers, Dale Evans, Pat Boone, Los Angeles, California'
 p1178
 ssS'85686-SR-21-1'
 p1179
@@ -2816,7 +2816,7 @@ g3
 S'2009045-SR-28'
 p1253
 sg5
-S'The Advance of the Fungii, WKAR Listener\x92s Choice Program presentation'
+S'The Advance of the Fungii, WKAR Listener\xe2\x80\x99s Choice Program presentation'
 p1254
 ssS'85506-SR-12-2'
 p1255
@@ -3455,7 +3455,7 @@ g3
 S'85199-SR-5'
 p1537
 sg5
-S'Side 1: Address of Congressman Glenard Paul Lipscomb, 16th Congressional District Dinner\xa0  February 13,1954'
+S'Side 1: Address of Congressman Glenard Paul Lipscomb, 16th Congressional District Dinner\xc2\xa0  February 13,1954'
 p1538
 ssS'8738-SR-59-7-1'
 p1539
@@ -3554,7 +3554,7 @@ g3
 S'88142-SR-17'
 p1581
 sg5
-S'Sofus \x93Tom\x94 Jensen'
+S'Sofus \xe2\x80\x9cTom\xe2\x80\x9d Jensen'
 p1582
 ssS'851077-SR-89-1'
 p1583
@@ -3689,7 +3689,7 @@ g3
 S'2009039-SR-18'
 p1641
 sg5
-S'Cleon Skousen, Annual meeting of Michigan Farm Bureau, East Lansing, Michigan; \x93Communist Takeover of America,\x94 Howard Kershner'
+S'Cleon Skousen, Annual meeting of Michigan Farm Bureau, East Lansing, Michigan; \xe2\x80\x9cCommunist Takeover of America,\xe2\x80\x9d Howard Kershner'
 p1642
 ssS'851077-SR-38-1'
 p1643
@@ -3707,7 +3707,7 @@ g3
 S'2009039-SR-18'
 p1649
 sg5
-S'Cleon Skousen, Annual meeting of Michigan Farm Bureau, East Lansing, Michigan; \x93Communist Takeover of America,\x94 Howard Kershner'
+S'Cleon Skousen, Annual meeting of Michigan Farm Bureau, East Lansing, Michigan; \xe2\x80\x9cCommunist Takeover of America,\xe2\x80\x9d Howard Kershner'
 p1650
 ssS'851077-SR-122-1'
 p1651
@@ -4220,7 +4220,7 @@ g3
 S'852178-SR-20'
 p1877
 sg5
-S'George Romney press conference, American Motors \x93Progress Report,\x94 Statler Hotel'
+S'George Romney press conference, American Motors \xe2\x80\x9cProgress Report,\xe2\x80\x9d Statler Hotel'
 p1878
 ssS'851077-SR-182-1'
 p1879
@@ -4634,7 +4634,7 @@ g3
 S'0601-SR-135'
 p2061
 sg5
-S'The Shape of Content \x96 Henry Russel Lecture'
+S'The Shape of Content \xe2\x80\x93 Henry Russel Lecture'
 p2062
 ssS'85746-SR-2-1'
 p2063
@@ -4733,7 +4733,7 @@ g3
 S'8635-SR-10'
 p2105
 sg5
-S'Lecture: Post War Trends in Executive Power [includes interviews with Bundestag members]\xa0\xa0'
+S'Lecture: Post War Trends in Executive Power [includes interviews with Bundestag members]\xc2\xa0\xc2\xa0'
 p2106
 ssS'0601-SR-155-1-1'
 p2107
@@ -4823,7 +4823,7 @@ g3
 S'85686-SR-5'
 p2145
 sg5
-S'Radio program \x93Platform\x94 presented by Michigan Democratic Party: William Patrick and Zolton Ferency'
+S'Radio program \xe2\x80\x9cPlatform\xe2\x80\x9d presented by Michigan Democratic Party: William Patrick and Zolton Ferency'
 p2146
 ssS'88142-SR-30-2'
 p2147
@@ -5111,7 +5111,7 @@ g3
 S'85164-SR-86'
 p2273
 sg5
-S'\x93The Right To Be Inspired" ;\x93That Co-Essential Second Touch\x94'
+S'\xe2\x80\x9cThe Right To Be Inspired" ;\xe2\x80\x9cThat Co-Essential Second Touch\xe2\x80\x9d'
 p2274
 ssS'87250-SR-7-1-1'
 p2275
@@ -5129,7 +5129,7 @@ g3
 S'2009045-SR-29'
 p2281
 sg5
-S'The Advance of the Fungii, 2nd Performance WKAR Listener\x92s Choice,'
+S'The Advance of the Fungii, 2nd Performance WKAR Listener\xe2\x80\x99s Choice,'
 p2282
 ssS'85287-SR-102-1'
 p2283
@@ -5903,7 +5903,7 @@ g3
 S'8634-SR-33'
 p2625
 sg5
-S'Meet Your Congress Program: "What Should We Do About Indo-China?\x94'
+S'Meet Your Congress Program: "What Should We Do About Indo-China?\xe2\x80\x9d'
 p2626
 ssS'8738-SR-121-1-1-2'
 p2627
@@ -6128,7 +6128,7 @@ g3
 S'85193-SR-58'
 p2725
 sg5
-S'\x93Capital Report\x94 WWJ radio program with Philip A. Hart'
+S'\xe2\x80\x9cCapital Report\xe2\x80\x9d WWJ radio program with Philip A. Hart'
 p2726
 ssS'851077-SR-268-1'
 p2727
@@ -6290,7 +6290,7 @@ g3
 S'8738-SR-6-1'
 p2797
 sg5
-S'"Tales of the Valiant"  Program #13: Jos\xe9 Rizal [Philippines], ([R20A])'
+S'"Tales of the Valiant"  Program #13: Jos\xc3\xa9 Rizal [Philippines], ([R20A])'
 p2798
 ssS'851077-SR-116-1'
 p2799
@@ -6308,7 +6308,7 @@ g3
 S'85193-SR-13'
 p2805
 sg5
-S'\x93Leading Question\x94 radio program with Philip A. Hart and Senator Herman Talmadge of Georgia debating the Civil Rights Bill.'
+S'\xe2\x80\x9cLeading Question\xe2\x80\x9d radio program with Philip A. Hart and Senator Herman Talmadge of Georgia debating the Civil Rights Bill.'
 p2806
 ssS'85506-SR-2-1'
 p2807
@@ -6470,7 +6470,7 @@ g3
 S'87250-SR-29-1'
 p2877
 sg5
-S'University of Michigan Men\'s Glee Club "Chor der Singeleiter L\xfcbeck"'
+S'University of Michigan Men\'s Glee Club "Chor der Singeleiter L\xc3\xbcbeck"'
 p2878
 ssS'85199-SR-8-1'
 p2879
@@ -6479,7 +6479,7 @@ g3
 S'85199-SR-8'
 p2881
 sg5
-S'Address of Richard Nixon at the Young Republican Convention, Detroit\xa0(recording of radio broadcast)'
+S'Address of Richard Nixon at the Young Republican Convention, Detroit\xc2\xa0(recording of radio broadcast)'
 p2882
 ssS'85164-SR-84-2'
 p2883
@@ -6488,7 +6488,7 @@ g3
 S'85164-SR-84'
 p2885
 sg5
-S'"No Corrupt Communication";  \x93Faith-a Healing Factor\x94 ;  \x93The Ultimate Art\x94'
+S'"No Corrupt Communication";  \xe2\x80\x9cFaith-a Healing Factor\xe2\x80\x9d ;  \xe2\x80\x9cThe Ultimate Art\xe2\x80\x9d'
 p2886
 ssS'88142-SR-25-1'
 p2887
@@ -6632,7 +6632,7 @@ g3
 S'851100-SR-3'
 p2949
 sg5
-S'WDTR program \x93A Time to Talk\x94 with guests Art Johnson, Jessie Kennedy, Francis Kornegay, and Horace Sheffield.'
+S'WDTR program \xe2\x80\x9cA Time to Talk\xe2\x80\x9d with guests Art Johnson, Jessie Kennedy, Francis Kornegay, and Horace Sheffield.'
 p2950
 ssS'00135-SR-679-1'
 p2951
@@ -6974,7 +6974,7 @@ g3
 S'85164-SR-86'
 p3101
 sg5
-S'\x93United Nations\x94 ; \x93The Ultimate Victory\x94'
+S'\xe2\x80\x9cUnited Nations\xe2\x80\x9d ; \xe2\x80\x9cThe Ultimate Victory\xe2\x80\x9d'
 p3102
 ssS'87250-SR-91-1-1'
 p3103
@@ -7100,7 +7100,7 @@ g3
 S'851100-SR-1'
 p3157
 sg5
-S'Detroit Urban League Annual Dinner Meeting, Charles T. Fisher, III, speaker, \x93Detroit \x96 The Challenge and the Promise\x94'
+S'Detroit Urban League Annual Dinner Meeting, Charles T. Fisher, III, speaker, \xe2\x80\x9cDetroit \xe2\x80\x93 The Challenge and the Promise\xe2\x80\x9d'
 p3158
 ssS'85816-SR-11-1'
 p3159
@@ -7235,7 +7235,7 @@ g3
 S'8635-SR-3'
 p3217
 sg5
-S'Symposium: Political Science 52: Federalism\xa0'
+S'Symposium: Political Science 52: Federalism\xc2\xa0'
 p3218
 ssS'8738-SR-93-10-1'
 p3219
@@ -7937,7 +7937,7 @@ g3
 S'2009039-SR-35'
 p3529
 sg5
-S'Sound track of film shown by Frank Wilkinson; lecture \x93Abolish the HUAC,\x94 Frank Wilkinson. Side B: question and answer period after lecture, Ann Arbor, Michigan'
+S'Sound track of film shown by Frank Wilkinson; lecture \xe2\x80\x9cAbolish the HUAC,\xe2\x80\x9d Frank Wilkinson. Side B: question and answer period after lecture, Ann Arbor, Michigan'
 p3530
 ssS'851077-SR-8-1'
 p3531
@@ -7955,7 +7955,7 @@ g3
 S'2009039-SR-35'
 p3537
 sg5
-S'Sound track of film shown by Frank Wilkinson; lecture \x93Abolish the HUAC,\x94 Frank Wilkinson. Side B: question and answer period after lecture, Ann Arbor, Michigan'
+S'Sound track of film shown by Frank Wilkinson; lecture \xe2\x80\x9cAbolish the HUAC,\xe2\x80\x9d Frank Wilkinson. Side B: question and answer period after lecture, Ann Arbor, Michigan'
 p3538
 ssS'851510-SR-10-1'
 p3539
@@ -8981,7 +8981,7 @@ g3
 S'85193-SR-5'
 p3993
 sg5
-S'\x93Youth Wants to Know\x94 Julian Barber interviews Philip A. Hart.'
+S'\xe2\x80\x9cYouth Wants to Know\xe2\x80\x9d Julian Barber interviews Philip A. Hart.'
 p3994
 ssS'851077-SR-273-1'
 p3995
@@ -9638,7 +9638,7 @@ g3
 S'8634-SR-32'
 p4285
 sg5
-S'Meet Your Congress Program: "Are We Holding or Losing Our Allies?\x94'
+S'Meet Your Congress Program: "Are We Holding or Losing Our Allies?\xe2\x80\x9d'
 p4286
 ssS'2009039-SR-22-2'
 p4287
@@ -9647,7 +9647,7 @@ g3
 S'2009039-SR-22'
 p4289
 sg5
-S'\x93Probe,\x94 Albert E. Burke; Captain Eddie; Detroit, Michigan; Cleon Skousen, Atlantic City, New Jersey'
+S'\xe2\x80\x9cProbe,\xe2\x80\x9d Albert E. Burke; Captain Eddie; Detroit, Michigan; Cleon Skousen, Atlantic City, New Jersey'
 p4290
 ssS'2009039-SR-22-1'
 p4291
@@ -9656,7 +9656,7 @@ g3
 S'2009039-SR-22'
 p4293
 sg5
-S'\x93Probe,\x94 Albert E. Burke; Captain Eddie; Detroit, Michigan; Cleon Skousen, Atlantic City, New Jersey'
+S'\xe2\x80\x9cProbe,\xe2\x80\x9d Albert E. Burke; Captain Eddie; Detroit, Michigan; Cleon Skousen, Atlantic City, New Jersey'
 p4294
 ssS'85164-SR-36-2'
 p4295
@@ -9674,7 +9674,7 @@ g3
 S'86393-SR-25'
 p4301
 sg5
-S'G. Mennen Williams appearance on \x93Today\x94 show, in connection with Michigan Week'
+S'G. Mennen Williams appearance on \xe2\x80\x9cToday\xe2\x80\x9d show, in connection with Michigan Week'
 p4302
 ssS'85164-SR-36-1'
 p4303
@@ -9737,7 +9737,7 @@ g3
 S'00135-SR-664'
 p4329
 sg5
-S'Organbook: A set of pieces for pipe organ\x97tape part'
+S'Organbook: A set of pieces for pipe organ\xe2\x80\x94tape part'
 p4330
 ssS'8738-SR-14-2-1'
 p4331
@@ -9926,7 +9926,7 @@ g3
 S'8738-SR-9-5'
 p4413
 sg5
-S'"About Books" - Interview with Viktor Frankl \x93Death Camp to Existentialism" ([R60A])'
+S'"About Books" - Interview with Viktor Frankl \xe2\x80\x9cDeath Camp to Existentialism" ([R60A])'
 p4414
 ssS'85287-SR-157-1'
 p4415
@@ -10151,7 +10151,7 @@ g3
 S'85193-SR-104'
 p4513
 sg5
-S'Jane Hart\x92s press conference following her conviction'
+S'Jane Hart\xe2\x80\x99s press conference following her conviction'
 p4514
 ssS'85519-SR-12-1'
 p4515
@@ -10583,7 +10583,7 @@ g3
 S'2009039-SR-8'
 p4705
 sg5
-S'Willis E. Stone; \x93The Abolition of Income Taxes\x94, \x93The Proposed 23rd Amendment\x94'
+S'Willis E. Stone; \xe2\x80\x9cThe Abolition of Income Taxes\xe2\x80\x9d, \xe2\x80\x9cThe Proposed 23rd Amendment\xe2\x80\x9d'
 p4706
 ssS'2009039-SR-8-1'
 p4707
@@ -10592,7 +10592,7 @@ g3
 S'2009039-SR-8'
 p4709
 sg5
-S'Willis E. Stone; \x93The Abolition of Income Taxes\x94, \x93The Proposed 23rd Amendment\x94'
+S'Willis E. Stone; \xe2\x80\x9cThe Abolition of Income Taxes\xe2\x80\x9d, \xe2\x80\x9cThe Proposed 23rd Amendment\xe2\x80\x9d'
 p4710
 ssS'2009039-SR-36-2'
 p4711
@@ -10601,7 +10601,7 @@ g3
 S'2009039-SR-36'
 p4713
 sg5
-S'\x93American Opinion Interviews,\x94 Ann Arbor, Michigan'
+S'\xe2\x80\x9cAmerican Opinion Interviews,\xe2\x80\x9d Ann Arbor, Michigan'
 p4714
 ssS'03171-SR-28-1'
 p4715
@@ -10673,7 +10673,7 @@ g3
 S'85193-SR-96'
 p4745
 sg5
-S'Hart\x92s Last Speech other remarks, and Jane Hart\x92s interview with John Chambers, WWJ-TV'
+S'Hart\xe2\x80\x99s Last Speech other remarks, and Jane Hart\xe2\x80\x99s interview with John Chambers, WWJ-TV'
 p4746
 ssS'8738-SR-2-1-1'
 p4747
@@ -11159,7 +11159,7 @@ g3
 S'2009039-SR-32'
 p4961
 sg5
-S'\x93I was a Slave in Russia,\x94 John Noble, Ann Arbor, Michigan; Fred Schwarz-Vincent Hallinan debate, San Francisco, California'
+S'\xe2\x80\x9cI was a Slave in Russia,\xe2\x80\x9d John Noble, Ann Arbor, Michigan; Fred Schwarz-Vincent Hallinan debate, San Francisco, California'
 p4962
 ssS'851077-SR-138-1'
 p4963
@@ -11798,7 +11798,7 @@ g3
 S'85199-SR-6'
 p5245
 sg5
-S'Address of Secretary of Labor, James Mitchell, Flint, Michigan\xa0(recorded by National Broadcasting Company)'
+S'Address of Secretary of Labor, James Mitchell, Flint, Michigan\xc2\xa0(recorded by National Broadcasting Company)'
 p5246
 ssS'8742-SR-5-1'
 p5247
@@ -11924,7 +11924,7 @@ g3
 S'851100-SR-9'
 p5301
 sg5
-S'President\x92s Cabinet Dinner, Cobo Hall. Bob Considine and Whitney Young discuss Detroit riots.'
+S'President\xe2\x80\x99s Cabinet Dinner, Cobo Hall. Bob Considine and Whitney Young discuss Detroit riots.'
 p5302
 ssS'8738-SR-120-1-1'
 p5303
@@ -12005,7 +12005,7 @@ g3
 S'87209-SR-4'
 p5337
 sg5
-S'Philippine Institute of Public Administration Project \x96 Rededication of Rizal Hall'
+S'Philippine Institute of Public Administration Project \xe2\x80\x93 Rededication of Rizal Hall'
 p5338
 ssS'8738-SR-30-1-1'
 p5339
@@ -12023,7 +12023,7 @@ g3
 S'851326-SR-1'
 p5345
 sg5
-S'Speech of Martin Niem\xf6ller before the National Conference of the Fellowship of Reconciliation, Ohio'
+S'Speech of Martin Niem\xc3\xb6ller before the National Conference of the Fellowship of Reconciliation, Ohio'
 p5346
 ssS'8742-SR-1-2'
 p5347
@@ -12329,7 +12329,7 @@ g3
 S'86996-SR-1'
 p5481
 sg5
-S'"Learning for Longer Living\x94 - GE 30: Clark Tibbitts and Charles Kidd, "Our Aging Population"'
+S'"Learning for Longer Living\xe2\x80\x9d - GE 30: Clark Tibbitts and Charles Kidd, "Our Aging Population"'
 p5482
 ssS'851077-SR-213-1'
 p5483
@@ -12941,7 +12941,7 @@ g3
 S'2009039-SR-13'
 p5753
 sg5
-S'Strom Thurmond, Flint, Michigan; \x93Red Infiltration of National Council of Churches,\x94 Edgar Bundy'
+S'Strom Thurmond, Flint, Michigan; \xe2\x80\x9cRed Infiltration of National Council of Churches,\xe2\x80\x9d Edgar Bundy'
 p5754
 ssS'06100-SR-27-2-1'
 p5755
@@ -12968,7 +12968,7 @@ g3
 S'2009039-SR-13'
 p5765
 sg5
-S'Strom Thurmond, Flint, Michigan; \x93Red Infiltration of National Council of Churches,\x94 Edgar Bundy'
+S'Strom Thurmond, Flint, Michigan; \xe2\x80\x9cRed Infiltration of National Council of Churches,\xe2\x80\x9d Edgar Bundy'
 p5766
 ssS'86393-SR-14-1'
 p5767
@@ -12995,7 +12995,7 @@ g3
 S'85193-SR-82'
 p5777
 sg5
-S'President Kennedy\x92s Address at the Muskegon, Airport'
+S'President Kennedy\xe2\x80\x99s Address at the Muskegon, Airport'
 p5778
 ssS'851077-SR-234-1'
 p5779
@@ -13202,7 +13202,7 @@ g3
 S'8654-SR-1'
 p5869
 sg5
-S'Rotary luncheon honoring Charles A. Sink\xa0'
+S'Rotary luncheon honoring Charles A. Sink\xc2\xa0'
 p5870
 ssS'85686-SR-8-1'
 p5871
@@ -13211,7 +13211,7 @@ g3
 S'85686-SR-8'
 p5873
 sg5
-S'Radio program \x93Platform\x94 presented by Michigan Democratic Party: Averill Harriman and Philip A. Hart, and Norman Crandall.'
+S'Radio program \xe2\x80\x9cPlatform\xe2\x80\x9d presented by Michigan Democratic Party: Averill Harriman and Philip A. Hart, and Norman Crandall.'
 p5874
 ssS'9997-SR-26-2'
 p5875
@@ -13247,7 +13247,7 @@ g3
 S'85193-SR-4'
 p5889
 sg5
-S'\x93Speak Up\x94 program with Marsha Rose, Hart discusses Democratic hopefuls including John F. Kennedy'
+S'\xe2\x80\x9cSpeak Up\xe2\x80\x9d program with Marsha Rose, Hart discusses Democratic hopefuls including John F. Kennedy'
 p5890
 ssS'851077-SR-256-1'
 p5891
@@ -13706,7 +13706,7 @@ g3
 S'85686-SR-10'
 p6093
 sg5
-S'Radio program \x93Platform\x94 presented by Michigan Democratic Party: Damon Keith on civil rights; and Norman Crandall, director of special projects division of the Democratic Party of Michigan.'
+S'Radio program \xe2\x80\x9cPlatform\xe2\x80\x9d presented by Michigan Democratic Party: Damon Keith on civil rights; and Norman Crandall, director of special projects division of the Democratic Party of Michigan.'
 p6094
 ssS'851077-SR-142-1'
 p6095
@@ -13958,7 +13958,7 @@ g3
 S'00135-SR-665'
 p6205
 sg5
-S'Organbook II\x97tape part [for Mvt. III]'
+S'Organbook II\xe2\x80\x94tape part [for Mvt. III]'
 p6206
 ssS'86393-SR-106-1'
 p6207
@@ -14075,7 +14075,7 @@ g3
 S'85193-SR-105'
 p6257
 sg5
-S'Jane Hart\x92s press conference following her conviction'
+S'Jane Hart\xe2\x80\x99s press conference following her conviction'
 p6258
 ssS'8738-SR-125-6-1'
 p6259
@@ -14624,7 +14624,7 @@ g3
 S'2009039-SR-9'
 p6501
 sg5
-S'Anderson lecture, Detroit, Michigan; Herbert Philbrick, \x93Communist Brainwashing and Cybernetics,\x94 Philadelphia, Pennsylvania'
+S'Anderson lecture, Detroit, Michigan; Herbert Philbrick, \xe2\x80\x9cCommunist Brainwashing and Cybernetics,\xe2\x80\x9d Philadelphia, Pennsylvania'
 p6502
 ssS'85287-SR-172-1'
 p6503
@@ -14642,7 +14642,7 @@ g3
 S'2009039-SR-9'
 p6509
 sg5
-S'Anderson lecture, Detroit, Michigan; Herbert Philbrick, \x93Communist Brainwashing and Cybernetics,\x94 Philadelphia, Pennsylvania'
+S'Anderson lecture, Detroit, Michigan; Herbert Philbrick, \xe2\x80\x9cCommunist Brainwashing and Cybernetics,\xe2\x80\x9d Philadelphia, Pennsylvania'
 p6510
 ssS'8634-SR-16-1'
 p6511
@@ -15056,7 +15056,7 @@ g3
 S'0601-SR-141'
 p6693
 sg5
-S'Lord, Who Hast Formed Me; Sing to the Lord; Whoe\x92er She Be; Lord, Who Hast Formed Me'
+S'Lord, Who Hast Formed Me; Sing to the Lord; Whoe\xe2\x80\x99er She Be; Lord, Who Hast Formed Me'
 p6694
 ssS'85444-SR-1-1'
 p6695
@@ -15245,7 +15245,7 @@ g3
 S'851100-SR-17'
 p6777
 sg5
-S'Dr. Francis A. Kornegay speech \x93The Work of the Detroit Urban League\x94 [on Memorial to Whitney Young] at Grosse Pointe Unitarian Church.'
+S'Dr. Francis A. Kornegay speech \xe2\x80\x9cThe Work of the Detroit Urban League\xe2\x80\x9d [on Memorial to Whitney Young] at Grosse Pointe Unitarian Church.'
 p6778
 ssS'85519-SR-7-1'
 p6779
@@ -15380,7 +15380,7 @@ g3
 S'851378-SR-28'
 p6837
 sg5
-S'"Report on Congress" (weekly report of Martha Wright Griffiths)\xa0'
+S'"Report on Congress" (weekly report of Martha Wright Griffiths)\xc2\xa0'
 p6838
 ssS'851077-SR-78-1'
 p6839
@@ -15731,7 +15731,7 @@ g3
 S'2009045-SR-17'
 p6993
 sg5
-S'Cassiopeia guitar realization performed at \x93Everybody Wins,\x94 Canterbury House, Ann Arbor, Mich. '
+S'Cassiopeia guitar realization performed at \xe2\x80\x9cEverybody Wins,\xe2\x80\x9d Canterbury House, Ann Arbor, Mich. '
 p6994
 ssS'87278-SR-5-1'
 p6995
@@ -15812,7 +15812,7 @@ g3
 S'2009039-SR-42'
 p7029
 sg5
-S'Detroit Rally; \x93Communist Plan for Conquest of the USA,\x94 Fred Schwarz; Detroit Rally; \x93Communism and the FBI,\x94 Herbert Philbrick'
+S'Detroit Rally; \xe2\x80\x9cCommunist Plan for Conquest of the USA,\xe2\x80\x9d Fred Schwarz; Detroit Rally; \xe2\x80\x9cCommunism and the FBI,\xe2\x80\x9d Herbert Philbrick'
 p7030
 ssS'2009039-SR-42-2'
 p7031
@@ -15821,7 +15821,7 @@ g3
 S'2009039-SR-42'
 p7033
 sg5
-S'Detroit Rally; \x93Communist Plan for Conquest of the USA,\x94 Fred Schwarz; Detroit Rally; \x93Communism and the FBI,\x94 Herbert Philbrick'
+S'Detroit Rally; \xe2\x80\x9cCommunist Plan for Conquest of the USA,\xe2\x80\x9d Fred Schwarz; Detroit Rally; \xe2\x80\x9cCommunism and the FBI,\xe2\x80\x9d Herbert Philbrick'
 p7034
 ssS'8738-SR-10-4-1'
 p7035
@@ -16550,7 +16550,7 @@ g3
 S'2009039-SR-16'
 p7357
 sg5
-S'\x93Brainwashing,\x94 Fred Schwarz and Father Stephen Dunker; \x93Communist Infiltration of Education,\x94 Bella Dodd, Detroit, Michigan'
+S'\xe2\x80\x9cBrainwashing,\xe2\x80\x9d Fred Schwarz and Father Stephen Dunker; \xe2\x80\x9cCommunist Infiltration of Education,\xe2\x80\x9d Bella Dodd, Detroit, Michigan'
 p7358
 ssS'2009039-SR-16-1'
 p7359
@@ -16559,7 +16559,7 @@ g3
 S'2009039-SR-16'
 p7361
 sg5
-S'\x93Brainwashing,\x94 Fred Schwarz and Father Stephen Dunker; \x93Communist Infiltration of Education,\x94 Bella Dodd, Detroit, Michigan'
+S'\xe2\x80\x9cBrainwashing,\xe2\x80\x9d Fred Schwarz and Father Stephen Dunker; \xe2\x80\x9cCommunist Infiltration of Education,\xe2\x80\x9d Bella Dodd, Detroit, Michigan'
 p7362
 ssS'2009045-SR-30-1'
 p7363
@@ -16811,7 +16811,7 @@ g3
 S'2009039-SR-36'
 p7473
 sg5
-S'\x93American Opinion Interviews,\x94 Ann Arbor, Michigan'
+S'\xe2\x80\x9cAmerican Opinion Interviews,\xe2\x80\x9d Ann Arbor, Michigan'
 p7474
 ssS'95107-SR-6-1'
 p7475
@@ -16982,7 +16982,7 @@ g3
 S'2009039-SR-32'
 p7549
 sg5
-S'\x93I was a Slave in Russia,\x94 John Noble, Ann Arbor, Michigan; Fred Schwarz-Vincent Hallinan debate, San Francisco, California'
+S'\xe2\x80\x9cI was a Slave in Russia,\xe2\x80\x9d John Noble, Ann Arbor, Michigan; Fred Schwarz-Vincent Hallinan debate, San Francisco, California'
 p7550
 ssS'87209-SR-2-1'
 p7551
@@ -17000,7 +17000,7 @@ g3
 S'2009039-SR-14'
 p7557
 sg5
-S'\x93Counterattack,\x94 Bella Dodd; first and second talk, question and answer session'
+S'\xe2\x80\x9cCounterattack,\xe2\x80\x9d Bella Dodd; first and second talk, question and answer session'
 p7558
 ssS'851077-SR-104-1'
 p7559
@@ -17018,7 +17018,7 @@ g3
 S'2009039-SR-14'
 p7565
 sg5
-S'\x93Counterattack,\x94 Bella Dodd; first and second talk, question and answer session'
+S'\xe2\x80\x9cCounterattack,\xe2\x80\x9d Bella Dodd; first and second talk, question and answer session'
 p7566
 ssS'8667-SR-1-1'
 p7567
@@ -17054,7 +17054,7 @@ g3
 S'8742-SR-7'
 p7581
 sg5
-S'Robert E. Ward, \x93Area Studies and the Center for Japanese Studies,\x94 Matsumoto Shigeki'
+S'Robert E. Ward, \xe2\x80\x9cArea Studies and the Center for Japanese Studies,\xe2\x80\x9d Matsumoto Shigeki'
 p7582
 ssS'85199-SR-7-1'
 p7583
@@ -17072,7 +17072,7 @@ g3
 S'8742-SR-7'
 p7589
 sg5
-S'Robert E. Ward, \x93Area Studies and the Center for Japanese Studies,\x94'
+S'Robert E. Ward, \xe2\x80\x9cArea Studies and the Center for Japanese Studies,\xe2\x80\x9d'
 p7590
 ssS'851077-SR-36-1'
 p7591
@@ -17423,7 +17423,7 @@ g3
 S'8634-SR-28'
 p7745
 sg5
-S'Meet Your Congress Program: "Political Issues of the Coming Campaign\x94'
+S'Meet Your Congress Program: "Political Issues of the Coming Campaign\xe2\x80\x9d'
 p7746
 ssS'0445-SR-7-1'
 p7747
@@ -18188,7 +18188,7 @@ g3
 S'86996-SR-2'
 p8085
 sg5
-S'"Learning for Longer Living\x94 - GE 32: Wilma Donahue, "Psychological Aspects of Aging"'
+S'"Learning for Longer Living\xe2\x80\x9d - GE 32: Wilma Donahue, "Psychological Aspects of Aging"'
 p8086
 ssS'85287-SR-107-1'
 p8087

@@ -48,28 +48,20 @@ for batch in batches_dict:
 					print audio_calc
 '''
 
-cwd = os.getcwd()
+base_dir = os.getcwd()
 
 batches_dir = 'R:/Digitization/Audio/Vendor Digitization/Reel-to-Reel Project'
 
-batches_file = join(cwd,'batches.p')
+batches_file = join(base_dir,'batches.p')
 
 batch_1_dir = join(batches_dir,'Batch 1/20130218')
 batch_2_dir = join(batches_dir, 'Batch 2/20130716')
 batch_3_dir = join(batches_dir, 'Batch 3/20140117')
 batch_4_dir = join(batches_dir, 'Batch 4/20140826')
 
-beal_exports_dir = join(cwd,'BEAL_exports')
+beal_exports_dir = join(base_dir,'BEAL_exports')
 
-
-batch_1_export = join(beal_exports_dir, '20130218.csv')
-batch_2_export = join(beal_exports_dir, '20130716.csv')
-batch_3_export = join(beal_exports_dir, '20140117.csv')
-batch_4_export = join(beal_exports_dir, '20140826.csv')
-
-beal_items_file = join(cwd,'beal_items.p')
-
-beal_exports = {"Batch 1":batch_1_export, "Batch 2":batch_2_export, "Batch 3":batch_3_export, "Batch 4":batch_4_export}
+beal_items_file = join(base_dir,'beal_items.p')
 
 batches = {"Batch 1":batch_1_dir, "Batch 2":batch_2_dir, "Batch 3":batch_3_dir, "Batch 4":batch_4_dir}
 
@@ -98,6 +90,7 @@ def build_batch_dict(batch):
 			collection_items[collection][item] = [filename for filename in os.listdir(item_dir) if not os.path.isdir(join(item_dir,filename))]
 	return collection_items
 
+
 def build_beal_dict(export_dir):
 	beal_items_dict = {}
 	for filename in os.listdir(export_dir):
@@ -107,9 +100,23 @@ def build_beal_dict(export_dir):
 			for row in reader:
 				if row[11]:
 					collitemno = row[11]
-					title = row[29]
+					description_filename_parts = []
+					side = row[26]
+					if side:
+						description_filename_parts.append('[Side ' + side + ']')
+					part = row[27]
+					if part:
+						description_filename_parts.append(part)
+					segment = row[28]
+					if segment:
+						description_filename_parts.append('[Segment '+ segment + ']')
+					description_filename = ' : '.join(description_filename_parts)
+					title = row[29].decode('windows-1252').encode('utf-8')
+					notecontent = row[33]
+					if notecontent:
+						abstract = description_filename + ' : ' + notecontent
 					digfilecalc = row[15]
-					beal_items_dict[digfilecalc] = {'collitemno':collitemno,'title':title}
+					beal_items_dict[digfilecalc] = {'collitemno':collitemno,'title':title,'description_filename':description_filename,'abstract':abstract}
 					
 	with open(beal_items_file,'wb') as beal_file_out:
 		pickle.dump(beal_items_dict,beal_file_out)
@@ -136,9 +143,16 @@ else:
 
 build_beal_dict(beal_exports_dir)
 
-"""
+
 # Use this to find potential errors with files/filenaming.
 # Leaving this here for reference, but it looks like everything is good
+issues_dir = join(base_dir,'issues')
+
+thumbs_csv = join(issues_dir,'thumbs.csv')
+misnamed_notes_csv = join(issues_dir,'misnamed_notes.csv')
+multiple_notes_csv = join(issues_dir,'multiple_notes.csv')
+extensions_csv = join(issues_dir,'extensions.csv')
+
 
 problematic_because_thumbs = []
 problematic_because_misnamed_notes = []
@@ -152,7 +166,7 @@ for batch in batches_dict:
 			item_number = identify_item_number(item)
 			item_dir = join(batch_dir, collection, item)
 			extensions = [filename.split('.')[-1] for filename in batches_dict[batch][collection][item]]
-			unexpected_extensions = [extension for extension in extensions if extension not in expected_extensions]
+			unexpected_extensions = [extension for extension in extensions if extension not in expected_extensions and extension != 'db']
 			missing_extensions = [extension for extension in expected_extensions if extension not in extensions]
 			if len(unexpected_extensions) > 0 or len(missing_extensions) > 0:
 				problematic_because_extensions.append(item_dir)
@@ -168,14 +182,27 @@ for batch in batches_dict:
 			#for filename in batches_dict[batch][collection][item]:
 				#if not filename.startswith(item_number) and not filename == "Thumbs.db":
 					#print join(batch_dir, collection, item, filename)
-					
 
-unique_thumbs = [problem for problem in problematic_because_thumbs if problem not in problematic_because_extensions]
-unique_notes = [problem for problem in problematic_because_misnamed_notes if problem not in problematic_because_extensions]
-unique_extensions = [problem for problem in problematic_because_extensions if problem not in problematic_because_misnamed_notes and problem not in problematic_because_thumbs]
+def write_problem_csv(problem_list, problem_csv):
+	with open(problem_csv,'ab') as csvfile:
+		writer = csv.writer(csvfile)
+		for item in problem_list:
+			writer.writerow([item])
 
-print "Unique thumbs:", unique_thumbs
-print "Unique notes:", unique_notes
-print "Unique extensions:", unique_extensions
-print "Multiple notes:", problematic_because_multiple_notes
-"""
+if problematic_because_thumbs:
+	write_problem_csv(problematic_because_thumbs,thumbs_csv)
+if problematic_because_extensions:
+	write_problem_csv(problematic_because_extensions,extensions_csv)
+if problematic_because_misnamed_notes:
+	write_problem_csv(problematic_because_misnamed_notes,misnamed_notes_csv)
+if problematic_because_multiple_notes:
+	write_problem_csv(problematic_because_multiple_notes,multiple_notes_csv)
+
+#unique_thumbs = [problem for problem in problematic_because_thumbs if problem not in problematic_because_extensions]
+#unique_notes = [problem for problem in problematic_because_misnamed_notes if problem not in problematic_because_extensions]
+#unique_extensions = [problem for problem in problematic_because_extensions if problem not in problematic_because_misnamed_notes and problem not in problematic_because_thumbs]
+
+#print "Unique thumbs:", unique_thumbs
+#print "Unique notes:", unique_notes
+#print "Unique extensions:", unique_extensions
+#print "Multiple notes:", problematic_because_multiple_notes
