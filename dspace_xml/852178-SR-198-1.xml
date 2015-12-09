@@ -1,0 +1,54 @@
+<audio_item>
+  <dc.identifier.other>852178-SR-198-1</dc.identifier.other>
+  <dc.title>Sound Recording - George Romney speech, Negro Ministers - 1962 April 30</dc.title>
+  <dc.contributor.author>Romney, George</dc.contributor.author>
+  <dc.data.issued>2015</dc.data.issued>
+  <dc.date.created>6/05/2014</dc.date.created>
+  <dc.coverage.temporal>1962 April 30</dc.coverage.temporal>
+  <dc.type>Addresses</dc.type>
+  <dc.rights.access>This material is available for research only in the Reading Room of the Bentley Historical Library at the University of Michigan (Ann Arbor, MI).</dc.rights.access>
+  <dc.rights.copyright>This recording may be protected by copyright law. Every audio, visual, or textual work has copyright protection unless that protection has expired over time or its creator has placed it in the public domain. It is the responsibility of anyone interested in reproducing, broadcasting or publishing content from the Bentley Historical Library collections to determine copyright holders and secure permissions accordingly.</dc.rights.copyright>
+  <dc.date.open>2015</dc.date.open>
+  <dc.description>Content note: The sound recording(s) associated with this repository item derive from a single audio reel tape. A single tape may yield multiple audio files if there were variations in tape stock, speed, or channels (i.e. stereo or mono). For more information see http://deepblue.lib.umich.edu/handle/2027.42/108126.</dc.description>
+  <dc.abstract>[Side 1] : [Part 1] : George Romney discussing segregation at the surrounding housing facilities associated with the Willow Run Assembly Plant.</dc.abstract>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-am.wav</dc.title.filename>
+    <dc.description.filename>[Side 1] : [Part 1]</dc.description.filename>
+    <dc.format.mimetype>audio/wav</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-pm.wav</dc.title.filename>
+    <dc.description.filename>[Side 1] : [Part 1]</dc.description.filename>
+    <dc.format.mimetype>audio/wav</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1.mp3</dc.title.filename>
+    <dc.description.filename>[Side 1] : [Part 1]</dc.description.filename>
+    <dc.format.mimetype>audio/mpeg3</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-001.jpg</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-002.jpg</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-003.jpg</dc.title.filename>
+    <dc.description.filename>Item Photo</dc.description.filename>
+    <dc.format.mimetype>image/jpeg</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1-notes.txt</dc.title.filename>
+    <dc.description.filename>Item Notes</dc.description.filename>
+    <dc.format.mimetype>text/plain</dc.format.mimetype>
+  </bitstream>
+  <bitstream>
+    <dc.title.filename>852178-SR-198-1.xml</dc.title.filename>
+    <dc.description.filename>METS XML</dc.description.filename>
+    <dc.format.mimetype>text/xml</dc.format.mimetype>
+  </bitstream>
+</audio_item>

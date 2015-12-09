@@ -1,3 +1,5 @@
+ # -*- coding: utf-8 -*-
+
 import os
 from os.path import join
 import pickle
@@ -78,6 +80,15 @@ def identify_item_number(item):
 	item_number = '-'.join(item_split[:3])
 	return item_number
 
+def find_collitemno(item):
+	collitemno = False
+	while not collitemno and len(item.split('-')) > 1:
+		if item in beal_items['items']:
+			collitemno = item
+		else:
+			item = '-'.join(item.split('-')[:-1])
+	return collitemno
+
 def build_batch_dict(batch):
 	collections = [item for item in os.listdir(batch) if os.path.isdir(join(batch,item))]
 	collection_items = {}
@@ -90,33 +101,59 @@ def build_batch_dict(batch):
 			collection_items[collection][item] = [filename for filename in os.listdir(item_dir) if not os.path.isdir(join(item_dir,filename))]
 	return collection_items
 
+def cleanup_beal_exports(export_dir):
+	for filename in os.listdir(export_dir):
+		exported = open(join(export_dir,filename),'rb')
+		data = exported.read()
+		exported.close()
+		no_nulls = open(join(export_dir,filename),'wb')
+		no_nulls.write(data.replace('\x00','').replace('\x0b',''))
+		no_nulls.close()
 
 def build_beal_dict(export_dir):
-	beal_items_dict = {}
+	beal_items_dict = {'files':{},'items':{}}
 	for filename in os.listdir(export_dir):
 		with open(join(export_dir,filename),'rb') as csvfile:
 			reader = csv.reader(csvfile)
 			next(reader,None)
+			lastcollitemno = None
 			for row in reader:
 				if row[11]:
-					collitemno = row[11]
+					collitemno = row[11].strip()
+					lastcollitemno = collitemno
+					collectioncreator = row[78].strip()
+					audio_genre = row[51].strip()
+					itemdate = row[23].strip()
+					returndate = row[43].strip()
 					description_filename_parts = []
-					side = row[26]
+					programno = row[38].strip()
+					if programno:
+						description_filename_parts.append('[Program ' + programno + ']')
+					side = row[25].strip()
 					if side:
 						description_filename_parts.append('[Side ' + side + ']')
-					part = row[27]
+					part = row[27].strip()
 					if part:
 						description_filename_parts.append(part)
-					segment = row[28]
+					segment = row[26]
 					if segment:
 						description_filename_parts.append('[Segment '+ segment + ']')
 					description_filename = ' : '.join(description_filename_parts)
-					title = row[29].decode('windows-1252').encode('utf-8')
-					notecontent = row[33]
+					title = row[29].decode('windows-1252').encode('utf-8').strip()
+					notecontent = row[33].strip()
 					if notecontent:
 						abstract = description_filename + ' : ' + notecontent
 					digfilecalc = row[15]
-					beal_items_dict[digfilecalc] = {'collitemno':collitemno,'title':title,'description_filename':description_filename,'abstract':abstract}
+					beal_items_dict['files'][digfilecalc] = {'collitemno':collitemno,'title':title,'description_filename':description_filename.decode('windows-1252').encode('utf-8'),'abstract':abstract.decode('windows-1252').encode('utf-8')}
+					if collitemno not in beal_items_dict['items']:
+						beal_items_dict['items'][collitemno] = {'title':title,'collectioncreator':collectioncreator,'digfilecalcs':[], 'itemdate':itemdate,'returndate':returndate,'types':[]}
+					beal_items_dict['items'][collitemno]['digfilecalcs'].append(digfilecalc)
+					beal_items_dict['items'][collitemno]['types'].append(audio_genre)
+				else:
+					if row[51]:
+						audio_genre = row[51]
+						collitemno = lastcollitemno
+						beal_items_dict['items'][collitemno]['types'].append(audio_genre)
 					
 	with open(beal_items_file,'wb') as beal_file_out:
 		pickle.dump(beal_items_dict,beal_file_out)
@@ -139,11 +176,11 @@ else:
 	print "Existing batches file found"
 	batches_dict = pickle.load(open(batches_file,'rb'))
 
-
-
+#Uncomment cleanup_beal_exports after exporting new CSVs to remove tricky bytes
+#cleanup_beal_exports(beal_exports_dir)
 build_beal_dict(beal_exports_dir)
 
-
+'''
 # Use this to find potential errors with files/filenaming.
 # Leaving this here for reference, but it looks like everything is good
 issues_dir = join(base_dir,'issues')
@@ -206,3 +243,4 @@ if problematic_because_multiple_notes:
 #print "Unique notes:", unique_notes
 #print "Unique extensions:", unique_extensions
 #print "Multiple notes:", problematic_because_multiple_notes
+'''
