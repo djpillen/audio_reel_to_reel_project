@@ -1,54 +1,8 @@
- # -*- coding: utf-8 -*-
-
+import csv
 import os
 from os.path import join
 import pickle
 import re
-import csv
-
-'''
-# possible strategy
-
-assumptions
------------
-* each folder in R:/Digitization/Audio/Vendor Digitization/Reel-to-Reel Project/[batch]/[date]/[collection] will become a DSpace item
-* each of those folders corresponds to one or more records in the beal AV database
-* each audio item within each folder should correspond to a coll-part#/filename in beal (aka digfilecalc)
-
-steps
------
-
-1. make a dictionary with info from beal like: beal_items_dict = {collitemno:{'digfilecalcs':{[array of digfilecalcs with related info]},'title':the title,etc}
-2. iterate through the batches dictionary and for each item in batches_dict[batch][collection]:
-	2a. make a dictionary like dspace_items_dict = {item:{'bitstreams':{[array with each file]}}}
-'''
-
-''' 
-#important beal export header locations
-shipping date -- 49
-digfilecalc -- 15
-collitemno -- 11
-itemtitle = 29
-'''
-
-'''
-# re.sub to identify digfilcalc from filenames, e.g. '850-SR-1016-2-1-2-pm.wav' and '850-SR-1016-2-1-2.mp3' both return 850-SR-1016-2-1-2
-
-re.sub(r'\-?([A-Za-z]+)?\..*$','',filename)
-
-'''
-
-'''
-for batch in batches_dict:
-	for collection in batches_dict[batch]:
-		for item in batches_dict[batch][collection]:
-			audio_files = [filename for filename in batches_dict[batch][collection][item] if filename.endswith('mp3') or filename.endswith('wav')]
-			audio_calcs = [re.sub(r'\-?([A-Za-z]+)?\..*$','',filename) for filename in audio_files]
-			uniques = set(audio_calcs)
-			for audio_calc in uniques:
-				if audio_calc not in digfilecalcs:
-					print audio_calc
-'''
 
 base_dir = os.getcwd()
 
@@ -67,28 +21,17 @@ beal_items_file = join(base_dir,'beal_items.p')
 
 batches = {"Batch 1":batch_1_dir, "Batch 2":batch_2_dir, "Batch 3":batch_3_dir, "Batch 4":batch_4_dir}
 
-expected_extensions = ['xml','jpg','wav','mp3','txt']
+# Removes problematic bytes from a Beal exported CSV
+def cleanup_beal_exports(export_dir):
+	for filename in os.listdir(export_dir):
+		exported = open(join(export_dir,filename),'rb')
+		data = exported.read()
+		exported.close()
+		no_nulls = open(join(export_dir,filename),'wb')
+		no_nulls.write(data.replace('\x00','').replace('\x0b',''))
+		no_nulls.close()
 
-audio_extensions = ['wav','mp3']
-mets_extention = 'xml'
-notes_extension = 'txt'
-photo_extension = 'jpg'
-
-# Simple function to find the item number from a directory name to verify filenaming conventions, e.g. "0732-SR-1-1" returns "0732-SR-1"
-def identify_item_number(item):
-	item_split = item.split('-')
-	item_number = '-'.join(item_split[:3])
-	return item_number
-
-def find_collitemno(item):
-	collitemno = False
-	while not collitemno and len(item.split('-')) > 1:
-		if item in beal_items['items']:
-			collitemno = item
-		else:
-			item = '-'.join(item.split('-')[:-1])
-	return collitemno
-
+# Assembles a dictionary for each batch like: [collection][item] = [files]
 def build_batch_dict(batch):
 	collections = [item for item in os.listdir(batch) if os.path.isdir(join(batch,item))]
 	collection_items = {}
@@ -101,16 +44,10 @@ def build_batch_dict(batch):
 			collection_items[collection][item] = [filename for filename in os.listdir(item_dir) if not os.path.isdir(join(item_dir,filename))]
 	return collection_items
 
-def cleanup_beal_exports(export_dir):
-	for filename in os.listdir(export_dir):
-		exported = open(join(export_dir,filename),'rb')
-		data = exported.read()
-		exported.close()
-		no_nulls = open(join(export_dir,filename),'wb')
-		no_nulls.write(data.replace('\x00','').replace('\x0b',''))
-		no_nulls.close()
-
+# Assembles a dictionary from Beal exported CSVs containing all required information
+# Dictionary looks like: {'items':{collitemnos with item-level information}, 'files':{digfilecalcs with file-level information}}
 def build_beal_dict(export_dir):
+	print "Building Beal dictionary"
 	beal_items_dict = {'files':{},'items':{}}
 	for filename in os.listdir(export_dir):
 		with open(join(export_dir,filename),'rb') as csvfile:
@@ -158,8 +95,7 @@ def build_beal_dict(export_dir):
 	with open(beal_items_file,'wb') as beal_file_out:
 		pickle.dump(beal_items_dict,beal_file_out)
 					
-
-
+# Make a batches_dict and save it to a pickle file if it doesn't already exist
 if not os.path.exists(batches_file):
 	print "Existing batches file not found."
 	batches_dict = {}
@@ -170,19 +106,25 @@ if not os.path.exists(batches_file):
 		batches_dict[batch] = build_batch_dict(batch_dir)
 
 	with open(batches_file,'wb') as batches_file_out:
-		print "Saving pickle file"
+		print "Saving batches file"
 		pickle.dump(batches_dict, batches_file_out)
+# Load the existing batches_dict from a pickle file if it does exist
 else:
 	print "Existing batches file found"
 	batches_dict = pickle.load(open(batches_file,'rb'))
 
-#Uncomment cleanup_beal_exports after exporting new CSVs to remove tricky bytes
+# Uncomment the below cleanup_beal_exports function call after exporting new CSVs to remove tricky bytes
 #cleanup_beal_exports(beal_exports_dir)
 build_beal_dict(beal_exports_dir)
+
+
 
 '''
 # Use this to find potential errors with files/filenaming.
 # Leaving this here for reference, but it looks like everything is good
+
+expected_extensions = ['xml','jpg','wav','mp3','txt']
+
 issues_dir = join(base_dir,'issues')
 
 thumbs_csv = join(issues_dir,'thumbs.csv')

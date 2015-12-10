@@ -1,10 +1,8 @@
- # -*- coding: utf-8 -*-
-
+from lxml.builder import E
+from lxml import etree
 import os
 from os.path import join
 import pickle
-from lxml.builder import E
-from lxml import etree
 
 base_dir = os.getcwd()
 
