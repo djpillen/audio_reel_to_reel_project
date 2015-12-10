@@ -30364,146 +30364,133 @@ sS'collectioncreator'
 p12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
 p12151
-sg11
-g8868
 sS'returndate'
 p12152
 S'6/24/2013'
 p12153
-sS'digfilecalcs'
+sS'titles'
 p12154
 (lp12155
-g8863
-asS'types'
+g8868
+asS'digfilecalcs'
 p12156
 (lp12157
-S'Radio programs'
+g8863
+asS'types'
 p12158
+(lp12159
+S'Radio programs'
+p12160
 assg5583
-(dp12159
+(dp12161
 g12148
 S'1947 July 20'
-p12160
+p12162
 sg12150
 S'Cushing, George'
-p12161
-sg11
-g5586
+p12163
 sg12152
 S'2/25/2015'
-p12162
+p12164
 sg12154
-(lp12163
-g5581
+(lp12165
+g5586
 asg12156
-(lp12164
+(lp12166
+g5581
+asg12158
+(lp12167
 S'Radio programs'
-p12165
+p12168
 aS'Talk shows'
-p12166
+p12169
 assg8259
-(dp12167
+(dp12170
 g12148
 S'1947 July 06'
-p12168
+p12171
 sg12150
 S'Cushing, George'
-p12169
-sg11
-g8262
+p12172
 sg12152
 S'2/25/2015'
-p12170
-sg12154
-(lp12171
-g8257
-asg12156
-(lp12172
-S'Radio programs'
 p12173
+sg12154
+(lp12174
+g8262
+asg12156
+(lp12175
+g8257
+asg12158
+(lp12176
+S'Radio programs'
+p12177
 aS'Talk shows'
-p12174
+p12178
 assg117
-(dp12175
+(dp12179
 g12148
 S'1963 December 09'
-p12176
+p12180
 sg12150
 S"University of Michigan. Men's Glee Club"
-p12177
-sg11
-g120
-sg12152
-S'11/01/2013'
-p12178
-sg12154
-(lp12179
-g115
-asg12156
-(lp12180
-S'Musical performances'
 p12181
+sg12152
+S'11/01/2013'
+p12182
+sg12154
+(lp12183
+g120
+asg12156
+(lp12184
+g115
+asg12158
+(lp12185
+S'Musical performances'
+p12186
 assg10191
-(dp12182
+(dp12187
 g12148
 S'1987 November 21'
-p12183
-sg12150
-S"University of Michigan. Men's Glee Club"
-p12184
-sg11
-g10194
-sg12152
-S'11/01/2013'
-p12185
-sg12154
-(lp12186
-g10189
-asg12156
-(lp12187
-S'Musical performances'
 p12188
-assg6393
-(dp12189
-g12148
-S'1987 November 21'
+sg12150
+S"University of Michigan. Men's Glee Club"
+p12189
+sg12152
+S'11/01/2013'
 p12190
-sg12150
-S"University of Michigan. Men's Glee Club"
-p12191
-sg11
-g6396
-sg12152
-S'11/01/2013'
-p12192
 sg12154
-(lp12193
-g6391
+(lp12191
+g10194
 asg12156
-(lp12194
+(lp12192
+g10189
+asg12158
+(lp12193
 S'Musical performances'
-p12195
-assg9825
-(dp12196
+p12194
+assg6393
+(dp12195
 g12148
 S'1987 November 21'
-p12197
+p12196
 sg12150
 S"University of Michigan. Men's Glee Club"
-p12198
-sg11
-g9828
+p12197
 sg12152
 S'11/01/2013'
-p12199
+p12198
 sg12154
-(lp12200
-g9823
+(lp12199
+g6396
 asg12156
+(lp12200
+g6391
+asg12158
 (lp12201
 S'Musical performances'
 p12202
-assg273
+assg9825
 (dp12203
 g12148
 S'1987 November 21'
@@ -30511,26000 +30498,27213 @@ p12204
 sg12150
 S"University of Michigan. Men's Glee Club"
 p12205
-sg11
-g276
 sg12152
 S'11/01/2013'
 p12206
 sg12154
 (lp12207
-g271
+g9828
 asg12156
 (lp12208
+g9823
+asg12158
+(lp12209
 S'Musical performances'
-p12209
-assg3303
-(dp12210
+p12210
+assg273
+(dp12211
 g12148
-S'1964 November 22'
-p12211
-sg12150
-S'Sinclair, John and Leni'
+S'1987 November 21'
 p12212
-sg11
-g3306
-sg12152
-S'6/24/2013'
-p12213
-sg12154
-(lp12214
-g3301
-ag2623
-asg12156
-(lp12215
-S'Poetry readings'
-p12216
-aS'Poetry readings'
-p12217
-assg3861
-(dp12218
-g12148
-S'1971 July 11'
-p12219
 sg12150
 S"University of Michigan. Men's Glee Club"
-p12220
-sg11
-g3864
+p12213
 sg12152
 S'11/01/2013'
-p12221
+p12214
 sg12154
-(lp12222
-g3859
-ag6799
-ag3865
-ag6793
+(lp12215
+g276
 asg12156
-(lp12223
+(lp12216
+g271
+asg12158
+(lp12217
 S'Musical performances'
-p12224
-aS'Musical performances'
-p12225
-aS'Musical performances'
+p12218
+assg3303
+(dp12219
+g12148
+S'1964 November 22'
+p12220
+sg12150
+S'Sinclair, John and Leni'
+p12221
+sg12152
+S'6/24/2013'
+p12222
+sg12154
+(lp12223
+g3306
+asg12156
+(lp12224
+g3301
+ag2623
+asg12158
+(lp12225
+S'Poetry readings'
 p12226
-aS'Musical performances'
+aS'Poetry readings'
 p12227
-assg6771
+assg3861
 (dp12228
 g12148
-S'1969'
+S'1971 July 11'
 p12229
 sg12150
-S'Hart, Philip A.'
+S"University of Michigan. Men's Glee Club"
 p12230
-sg11
-g6774
 sg12152
 S'11/01/2013'
 p12231
 sg12154
 (lp12232
-g6769
+g3864
 asg12156
 (lp12233
-S'Press conferences'
-p12234
-assg9387
-(dp12235
+g3859
+ag6799
+ag3865
+ag6793
+asg12158
+(lp12234
+S'Musical performances'
+p12235
+aS'Musical performances'
+p12236
+aS'Musical performances'
+p12237
+aS'Musical performances'
+p12238
+assg6771
+(dp12239
 g12148
 S'1969'
-p12236
+p12240
 sg12150
 S'Hart, Philip A.'
-p12237
-sg11
-g9390
+p12241
 sg12152
 S'11/01/2013'
-p12238
+p12242
 sg12154
-(lp12239
-g9385
+(lp12243
+g6774
 asg12156
-(lp12240
+(lp12244
+g6769
+asg12158
+(lp12245
 S'Press conferences'
-p12241
+p12246
+assg9387
+(dp12247
+g12148
+S'1969'
+p12248
+sg12150
+S'Hart, Philip A.'
+p12249
+sg12152
+S'11/01/2013'
+p12250
+sg12154
+(lp12251
+g9390
+asg12156
+(lp12252
+g9385
+asg12158
+(lp12253
+S'Press conferences'
+p12254
 assg8919
-(dp12242
+(dp12255
 g12148
 S'1969 Spring'
-p12243
+p12256
 sg12150
 S'Sinclair, John and Leni'
-p12244
-sg11
-g8922
+p12257
 sg12152
 S'6/24/2013'
-p12245
+p12258
 sg12154
-(lp12246
-g8917
+(lp12259
+g8922
 asg12156
-(lp12247
+(lp12260
+g8917
+asg12158
+(lp12261
 S'Musical performances'
-p12248
+p12262
 aS'Poetry readings'
-p12249
+p12263
 assg11235
-(dp12250
+(dp12264
 g12148
 S'1966'
-p12251
+p12265
 sg12150
 S'Sinclair, John and Leni'
-p12252
-sg11
-g11238
+p12266
 sg12152
 S'6/24/2013'
-p12253
+p12267
 sg12154
-(lp12254
-g11233
+(lp12268
+g11238
 asg12156
-(lp12255
+(lp12269
+g11233
+asg12158
+(lp12270
 S'Musical performances'
-p12256
+p12271
 aS'Poetry readings'
-p12257
+p12272
 assg5337
-(dp12258
+(dp12273
 g12148
 S'1965'
-p12259
+p12274
 sg12150
 S'Sinclair, John and Leni'
-p12260
-sg11
-g5340
+p12275
 sg12152
 S'6/24/2013'
-p12261
+p12276
 sg12154
-(lp12262
+(lp12277
+g5340
+asg12156
+(lp12278
 g5335
 ag5347
-asg12156
-(lp12263
+asg12158
+(lp12279
 S'Musical performances'
-p12264
+p12280
 aS'Poetry readings'
-p12265
+p12281
 aS'Musical performances'
-p12266
+p12282
 aS'Poetry readings'
-p12267
+p12283
 assg903
-(dp12268
+(dp12284
 g12148
 S'1964 October 13'
-p12269
+p12285
 sg12150
 S'Rockwell, George Lincoln'
-p12270
-sg11
-g906
+p12286
 sg12152
 S'2/25/2015'
-p12271
+p12287
 sg12154
-(lp12272
+(lp12288
+g906
+asg12156
+(lp12289
 g901
 ag11197
 ag3181
-asg12156
-(lp12273
+asg12158
+(lp12290
 S'Addresses'
-p12274
+p12291
 aS'Addresses'
-p12275
+p12292
 aS'Addresses'
-p12276
+p12293
 assg5343
-(dp12277
+(dp12294
 g12148
 S'1947 May 04'
-p12278
+p12295
 sg12150
 S'Cushing, George'
-p12279
-sg11
-g5346
+p12296
 sg12152
 S'2/25/2015'
-p12280
+p12297
 sg12154
-(lp12281
-g5341
+(lp12298
+g5346
 asg12156
-(lp12282
+(lp12299
+g5341
+asg12158
+(lp12300
 S'Radio programs'
-p12283
+p12301
 aS'Talk shows'
-p12284
+p12302
 assg6879
-(dp12285
+(dp12303
 g12148
 S'1973 November 15'
-p12286
+p12304
 sg12150
 S'Michigan Organization for Human Rights'
-p12287
-sg11
-g6882
+p12305
 sg12152
 S'6/05/2014'
-p12288
+p12306
 sg12154
-(lp12289
-g6877
+(lp12307
+g6882
 asg12156
-(lp12290
+(lp12308
+g6877
+asg12158
+(lp12309
 S'Radio programs'
-p12291
+p12310
 assg465
-(dp12292
+(dp12311
 g12148
 S'1973 December 13'
-p12293
+p12312
 sg12150
 S'Michigan Organization for Human Rights'
-p12294
-sg11
-g468
+p12313
 sg12152
 S'6/05/2014'
-p12295
+p12314
 sg12154
-(lp12296
-g463
+(lp12315
+g468
 asg12156
-(lp12297
+(lp12316
+g463
+asg12158
+(lp12317
 S'Radio programs'
-p12298
+p12318
 assg6633
-(dp12299
+(dp12319
 g12148
 S'1973 October 09'
-p12300
+p12320
 sg12150
 S'Michigan Organization for Human Rights'
-p12301
-sg11
-g6636
-sg12152
-S'6/05/2014'
-p12302
-sg12154
-(lp12303
-g6631
-asg12156
-(lp12304
-S'Radio programs'
-p12305
-assg12135
-(dp12306
-g12148
-S'1973 November 08'
-p12307
-sg12150
-S'Michigan Organization for Human Rights'
-p12308
-sg11
-g12138
-sg12152
-S'6/05/2014'
-p12309
-sg12154
-(lp12310
-g12133
-asg12156
-(lp12311
-S'Radio programs'
-p12312
-assg6831
-(dp12313
-g12148
-S'1973 October 04'
-p12314
-sg12150
-S'Michigan Organization for Human Rights'
-p12315
-sg11
-g6834
-sg12152
-S'6/05/2014'
-p12316
-sg12154
-(lp12317
-g6829
-asg12156
-(lp12318
-S'Radio programs'
-p12319
-assg9603
-(dp12320
-g12148
-S'1973 October 14'
 p12321
-sg12150
-S'Michigan Organization for Human Rights'
-p12322
-sg11
-g9606
 sg12152
 S'6/05/2014'
-p12323
+p12322
 sg12154
-(lp12324
-g9601
+(lp12323
+g6636
 asg12156
+(lp12324
+g6631
+asg12158
 (lp12325
 S'Radio programs'
 p12326
-assg3963
+assg12135
 (dp12327
 g12148
-S'1973 May'
+S'1973 November 08'
 p12328
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Michigan Organization for Human Rights'
 p12329
-sg11
-g3966
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p12330
 sg12154
 (lp12331
-g3961
+g12138
 asg12156
 (lp12332
-S'Musical performances'
-p12333
-assg3969
-(dp12334
+g12133
+asg12158
+(lp12333
+S'Radio programs'
+p12334
+assg6831
+(dp12335
 g12148
-S'1973 August 28'
-p12335
+S'1973 October 04'
+p12336
 sg12150
 S'Michigan Organization for Human Rights'
-p12336
-sg11
-g3972
+p12337
 sg12152
 S'6/05/2014'
-p12337
+p12338
 sg12154
-(lp12338
-g3967
-asg12156
 (lp12339
+g6834
+asg12156
+(lp12340
+g6829
+asg12158
+(lp12341
 S'Radio programs'
-p12340
-assg10071
-(dp12341
-g12148
-S'1955 May 20'
 p12342
+assg9603
+(dp12343
+g12148
+S'1973 October 14'
+p12344
+sg12150
+S'Michigan Organization for Human Rights'
+p12345
+sg12152
+S'6/05/2014'
+p12346
+sg12154
+(lp12347
+g9606
+asg12156
+(lp12348
+g9601
+asg12158
+(lp12349
+S'Radio programs'
+p12350
+assg3963
+(dp12351
+g12148
+S'1973 May'
+p12352
 sg12150
 S"University of Michigan. Men's Glee Club"
-p12343
-sg11
-g10074
+p12353
 sg12152
 S'11/01/2013'
-p12344
+p12354
 sg12154
-(lp12345
-g10069
+(lp12355
+g3966
 asg12156
-(lp12346
+(lp12356
+g3961
+asg12158
+(lp12357
 S'Musical performances'
-p12347
+p12358
+assg3969
+(dp12359
+g12148
+S'1973 August 28'
+p12360
+sg12150
+S'Michigan Organization for Human Rights'
+p12361
+sg12152
+S'6/05/2014'
+p12362
+sg12154
+(lp12363
+g3972
+asg12156
+(lp12364
+g3967
+asg12158
+(lp12365
+S'Radio programs'
+p12366
+assg10071
+(dp12367
+g12148
+S'1955 May 20'
+p12368
+sg12150
+S"University of Michigan. Men's Glee Club"
+p12369
+sg12152
+S'11/01/2013'
+p12370
+sg12154
+(lp12371
+g10074
+asg12156
+(lp12372
+g10069
+asg12158
+(lp12373
+S'Musical performances'
+p12374
 assg4041
-(dp12348
+(dp12375
 g12148
 S'1952'
-p12349
+p12376
 sg12150
 S'Leonard, Donald S.'
-p12350
-sg11
-g4044
+p12377
 sg12152
 S'11/01/2013'
-p12351
+p12378
 sg12154
-(lp12352
+(lp12379
+g4044
+asg12156
+(lp12380
 g4039
 ag12121
-asg12156
-(lp12353
+asg12158
+(lp12381
 S'Television'
-p12354
+p12382
 aS'Television'
-p12355
+p12383
 assg3135
-(dp12356
+(dp12384
 g12148
 S'1954 July 18'
-p12357
+p12385
 sg12150
 S'Cushing, George'
-p12358
-sg11
-g3138
+p12386
 sg12152
 S'2/25/2015'
-p12359
+p12387
 sg12154
-(lp12360
-g3133
+(lp12388
+g3138
 asg12156
-(lp12361
+(lp12389
+g3133
+asg12158
+(lp12390
 S'Radio programs'
-p12362
+p12391
 aS'Talk shows'
-p12363
+p12392
 assg7287
-(dp12364
+(dp12393
 g12148
 S'1954 July 25'
-p12365
+p12394
 sg12150
 S'Cushing, George'
-p12366
-sg11
-g7290
+p12395
 sg12152
 S'2/25/2015'
-p12367
+p12396
 sg12154
-(lp12368
-g7285
+(lp12397
+g7290
 asg12156
-(lp12369
+(lp12398
+g7285
+asg12158
+(lp12399
 S'Radio programs'
-p12370
+p12400
 aS'Talk shows'
-p12371
+p12401
 assg10653
-(dp12372
+(dp12402
 g12148
 S'1954 August 08'
-p12373
+p12403
 sg12150
 S'Cushing, George'
-p12374
-sg11
-g10656
+p12404
 sg12152
 S'2/25/2015'
-p12375
+p12405
 sg12154
-(lp12376
-g10651
+(lp12406
+g10656
 asg12156
-(lp12377
+(lp12407
+g10651
+asg12158
+(lp12408
 S'Radio programs'
-p12378
+p12409
 aS'Talk shows'
-p12379
+p12410
 assg1137
-(dp12380
+(dp12411
 g12148
 S'[Undated]'
-p12381
+p12412
 sg12150
 S'University of Michigan. Alumni Association.'
-p12382
-sg11
-g1140
+p12413
 sg12152
 S'11/01/2013'
-p12383
+p12414
 sg12154
-(lp12384
-g1135
+(lp12415
+g1140
 asg12156
-(lp12385
+(lp12416
+g1135
+asg12158
+(lp12417
 S'Musical performances'
-p12386
+p12418
 assg297
-(dp12387
+(dp12419
 g12148
 S'1954 August 15'
-p12388
+p12420
 sg12150
 S'Cushing, George'
-p12389
-sg11
-g300
+p12421
 sg12152
 S'2/25/2015'
-p12390
+p12422
 sg12154
-(lp12391
-g295
+(lp12423
+g300
 asg12156
-(lp12392
+(lp12424
+g295
+asg12158
+(lp12425
 S'Radio programs'
-p12393
+p12426
 aS'Talk shows'
-p12394
+p12427
 assg1083
-(dp12395
+(dp12428
 g12148
 S'1954 August 22'
-p12396
+p12429
 sg12150
 S'Cushing, George'
-p12397
-sg11
-g1086
+p12430
 sg12152
 S'2/25/2015'
-p12398
+p12431
 sg12154
-(lp12399
-g1081
+(lp12432
+g1086
 asg12156
-(lp12400
+(lp12433
+g1081
+asg12158
+(lp12434
 S'Radio programs'
-p12401
+p12435
 aS'Talk shows'
-p12402
+p12436
 assg7293
-(dp12403
+(dp12437
 g12148
 S'[Undated]'
-p12404
+p12438
 sg12150
 S'University of Michigan. Alumni Association.'
-p12405
-sg11
-g7296
+p12439
 sg12152
 S'11/01/2013'
-p12406
+p12440
 sg12154
-(lp12407
-g7291
+(lp12441
+g7296
 asg12156
-(lp12408
+(lp12442
+g7291
+asg12158
+(lp12443
 S'Musical performances'
-p12409
+p12444
 assg4095
-(dp12410
+(dp12445
 g12148
 S'1954 September 05'
-p12411
+p12446
 sg12150
 S'Cushing, George'
-p12412
-sg11
-g4098
+p12447
 sg12152
 S'2/25/2015'
-p12413
+p12448
 sg12154
-(lp12414
-g4093
+(lp12449
+g4098
 asg12156
-(lp12415
+(lp12450
+g4093
+asg12158
+(lp12451
 S'Radio programs'
-p12416
+p12452
 aS'Talk shows'
-p12417
+p12453
 assg6693
-(dp12418
+(dp12454
 g12148
 S'1954 September 12'
-p12419
+p12455
 sg12150
 S'Cushing, George'
-p12420
-sg11
-g6696
+p12456
 sg12152
 S'2/25/2015'
-p12421
+p12457
 sg12154
-(lp12422
-g6691
+(lp12458
+g6696
 asg12156
-(lp12423
+(lp12459
+g6691
+asg12158
+(lp12460
 S'Radio programs'
-p12424
+p12461
 aS'Talk shows'
-p12425
+p12462
 assg4833
-(dp12426
+(dp12463
 g12148
 S'1979 January 17'
-p12427
+p12464
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12428
-sg11
-g4836
-sg12152
-S'6/24/2013'
-p12429
-sg12154
-(lp12430
-g4831
-asg12156
-(lp12431
-S'Lectures'
-p12432
-aS'Radio programs'
-p12433
-assg7533
-(dp12434
-g12148
-S'1981 April 10'
-p12435
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12436
-sg11
-g7536
-sg12152
-S'6/24/2013'
-p12437
-sg12154
-(lp12438
-g7531
-asg12156
-(lp12439
-S'Lectures'
-p12440
-aS'Radio programs'
-p12441
-assg1191
-(dp12442
-g12148
-S'1981 April 10'
-p12443
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12444
-sg11
-g1194
-sg12152
-S'6/24/2013'
-p12445
-sg12154
-(lp12446
-g1189
-asg12156
-(lp12447
-S'Lectures'
-p12448
-aS'Radio programs'
-p12449
-assg3249
-(dp12450
-g12148
-S'1968 January 03'
-p12451
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12452
-sg11
-g3252
-sg12152
-S'6/24/2013'
-p12453
-sg12154
-(lp12454
-g3247
-ag3259
-asg12156
-(lp12455
-S'Interviews'
-p12456
-aS'Radio programs'
-p12457
-aS'Press conferences'
-p12458
-aS'Talk shows'
-p12459
-aS'Interviews'
-p12460
-aS'Radio programs'
-p12461
-aS'Press conferences'
-p12462
-aS'Talk shows'
-p12463
-assg7677
-(dp12464
-g12148
-S'1962 June 12'
 p12465
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12466
-sg11
-g7680
 sg12152
 S'6/24/2013'
-p12467
+p12466
 sg12154
-(lp12468
-g7675
+(lp12467
+g4836
 asg12156
+(lp12468
+g4831
+asg12158
 (lp12469
-S'Addresses'
+S'Lectures'
 p12470
 aS'Radio programs'
 p12471
-assg7947
+assg7533
 (dp12472
 g12148
-S'1965 May 28'
+S'1981 April 10'
 p12473
 sg12150
-S'Williams, Robert F.'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p12474
-sg11
-g7950
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p12475
 sg12154
 (lp12476
-g7945
+g7536
 asg12156
 (lp12477
-S'Musical performances'
-p12478
-aS'Radio programs'
+g7531
+asg12158
+(lp12478
+S'Lectures'
 p12479
-assg5511
-(dp12480
+aS'Radio programs'
+p12480
+assg1191
+(dp12481
+g12148
+S'1981 April 10'
+p12482
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12483
+sg12152
+S'6/24/2013'
+p12484
+sg12154
+(lp12485
+g1194
+asg12156
+(lp12486
+g1189
+asg12158
+(lp12487
+S'Lectures'
+p12488
+aS'Radio programs'
+p12489
+assg3249
+(dp12490
+g12148
+S'1968 January 03'
+p12491
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12492
+sg12152
+S'6/24/2013'
+p12493
+sg12154
+(lp12494
+g3252
+asg12156
+(lp12495
+g3247
+ag3259
+asg12158
+(lp12496
+S'Interviews'
+p12497
+aS'Radio programs'
+p12498
+aS'Press conferences'
+p12499
+aS'Talk shows'
+p12500
+aS'Interviews'
+p12501
+aS'Radio programs'
+p12502
+aS'Press conferences'
+p12503
+aS'Talk shows'
+p12504
+assg7677
+(dp12505
+g12148
+S'1962 June 12'
+p12506
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12507
+sg12152
+S'6/24/2013'
+p12508
+sg12154
+(lp12509
+g7680
+asg12156
+(lp12510
+g7675
+asg12158
+(lp12511
+S'Addresses'
+p12512
+aS'Radio programs'
+p12513
+assg7947
+(dp12514
 g12148
 S'1965 May 28'
-p12481
+p12515
 sg12150
 S'Williams, Robert F.'
-p12482
-sg11
-g5514
-sg12152
-S'2/25/2015'
-p12483
-sg12154
-(lp12484
-g5509
-asg12156
-(lp12485
-S'Musical performances'
-p12486
-aS'Radio programs'
-p12487
-assg5499
-(dp12488
-g12148
-S'1977'
-p12489
-sg12150
-S"University of Michigan. Men's Glee Club"
-p12490
-sg11
-g5502
-sg12152
-S'11/01/2013'
-p12491
-sg12154
-(lp12492
-g5497
-asg12156
-(lp12493
-S'Musical performances'
-p12494
-assg11223
-(dp12495
-g12148
-S'1977'
-p12496
-sg12150
-S"University of Michigan. Men's Glee Club"
-p12497
-sg11
-g11226
-sg12152
-S'11/01/2013'
-p12498
-sg12154
-(lp12499
-g11221
-asg12156
-(lp12500
-S'Musical performances'
-p12501
-assg8481
-(dp12502
-g12148
-S'1964 December 11'
-p12503
-sg12150
-S'Williams, Robert F.'
-p12504
-sg11
-g8484
-sg12152
-S'2/25/2015'
-p12505
-sg12154
-(lp12506
-g8479
-asg12156
-(lp12507
-S'Musical performances'
-p12508
-aS'Radio programs'
-p12509
-assg4215
-(dp12510
-g12148
-S'1964 December 11'
-p12511
-sg12150
-S'Williams, Robert F.'
-p12512
-sg11
-g4218
-sg12152
-S'2/25/2015'
-p12513
-sg12154
-(lp12514
-g4213
-asg12156
-(lp12515
-S'Musical performances'
 p12516
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p12517
-assg4977
-(dp12518
-g12148
-S'1964 November'
-p12519
-sg12150
-S'Williams, Robert F.'
-p12520
-sg11
-g4980
-sg12152
-S'2/25/2015'
+sg12154
+(lp12518
+g7950
+asg12156
+(lp12519
+g7945
+asg12158
+(lp12520
+S'Musical performances'
 p12521
-sg12154
-(lp12522
-g4975
-asg12156
-(lp12523
-S'Addresses'
+aS'Radio programs'
+p12522
+assg5511
+(dp12523
+g12148
+S'1965 May 28'
 p12524
-aS'Radio programs'
+sg12150
+S'Williams, Robert F.'
 p12525
-assg11445
-(dp12526
-g12148
-S'1969 October 06'
-p12527
-sg12150
-S'Williams, Robert F.'
-p12528
-sg11
-g11448
 sg12152
 S'2/25/2015'
-p12529
+p12526
 sg12154
-(lp12530
-g11443
+(lp12527
+g5514
 asg12156
-(lp12531
-S''
-p12532
-assg1899
-(dp12533
-g12148
-S'1965 April 23'
-p12534
-sg12150
-S'Williams, Robert F.'
-p12535
-sg11
-g1902
-sg12152
-S'2/25/2015'
-p12536
-sg12154
-(lp12537
-g1897
-asg12156
-(lp12538
-S'Addresses'
-p12539
+(lp12528
+g5509
+asg12158
+(lp12529
+S'Musical performances'
+p12530
 aS'Radio programs'
-p12540
-assg4917
-(dp12541
+p12531
+assg5499
+(dp12532
 g12148
-S'[Undated]'
-p12542
+S'1977'
+p12533
 sg12150
-S'Williams, Robert F.'
-p12543
-sg11
-g4920
+S"University of Michigan. Men's Glee Club"
+p12534
 sg12152
-S'2/25/2015'
-p12544
+S'11/01/2013'
+p12535
 sg12154
-(lp12545
-g4915
+(lp12536
+g5502
 asg12156
+(lp12537
+g5497
+asg12158
+(lp12538
+S'Musical performances'
+p12539
+assg11223
+(dp12540
+g12148
+S'1977'
+p12541
+sg12150
+S"University of Michigan. Men's Glee Club"
+p12542
+sg12152
+S'11/01/2013'
+p12543
+sg12154
+(lp12544
+g11226
+asg12156
+(lp12545
+g11221
+asg12158
 (lp12546
-S'Lectures'
+S'Musical performances'
 p12547
-assg2277
+assg8481
 (dp12548
 g12148
-S'[Undated]'
+S'1964 December 11'
 p12549
 sg12150
 S'Williams, Robert F.'
 p12550
-sg11
-g2280
 sg12152
 S'2/25/2015'
 p12551
 sg12154
 (lp12552
-g2275
-ag2269
+g8484
 asg12156
 (lp12553
-S'Radio programs'
-p12554
-aS'Radio programs'
+g8479
+asg12158
+(lp12554
+S'Musical performances'
 p12555
+aS'Radio programs'
+p12556
+assg4215
+(dp12557
+g12148
+S'1964 December 11'
+p12558
+sg12150
+S'Williams, Robert F.'
+p12559
+sg12152
+S'2/25/2015'
+p12560
+sg12154
+(lp12561
+g4218
+asg12156
+(lp12562
+g4213
+asg12158
+(lp12563
+S'Musical performances'
+p12564
+aS'Radio programs'
+p12565
+assg4977
+(dp12566
+g12148
+S'1964 November'
+p12567
+sg12150
+S'Williams, Robert F.'
+p12568
+sg12152
+S'2/25/2015'
+p12569
+sg12154
+(lp12570
+g4980
+asg12156
+(lp12571
+g4975
+asg12158
+(lp12572
+S'Addresses'
+p12573
+aS'Radio programs'
+p12574
+assg11445
+(dp12575
+g12148
+S'1969 October 06'
+p12576
+sg12150
+S'Williams, Robert F.'
+p12577
+sg12152
+S'2/25/2015'
+p12578
+sg12154
+(lp12579
+g11448
+asg12156
+(lp12580
+g11443
+asg12158
+(lp12581
+S''
+p12582
+assg1899
+(dp12583
+g12148
+S'1965 April 23'
+p12584
+sg12150
+S'Williams, Robert F.'
+p12585
+sg12152
+S'2/25/2015'
+p12586
+sg12154
+(lp12587
+g1902
+asg12156
+(lp12588
+g1897
+asg12158
+(lp12589
+S'Addresses'
+p12590
+aS'Radio programs'
+p12591
+assg4917
+(dp12592
+g12148
+S'[Undated]'
+p12593
+sg12150
+S'Williams, Robert F.'
+p12594
+sg12152
+S'2/25/2015'
+p12595
+sg12154
+(lp12596
+g4920
+asg12156
+(lp12597
+g4915
+asg12158
+(lp12598
+S'Lectures'
+p12599
+assg2277
+(dp12600
+g12148
+S'[Undated]'
+p12601
+sg12150
+S'Williams, Robert F.'
+p12602
+sg12152
+S'2/25/2015'
+p12603
+sg12154
+(lp12604
+g2280
+asg12156
+(lp12605
+g2275
+ag2269
+asg12158
+(lp12606
+S'Radio programs'
+p12607
+aS'Radio programs'
+p12608
 assg8877
-(dp12556
+(dp12609
 g12148
 S'1959 April 24'
-p12557
+p12610
 sg12150
 S'Gingrich, Arnold'
-p12558
-sg11
-g8880
+p12611
 sg12152
 S'2/25/2015'
-p12559
+p12612
 sg12154
-(lp12560
+(lp12613
+g8880
+asg12156
+(lp12614
 g8875
 ag8881
-asg12156
-(lp12561
-g12532
-ag12532
+asg12158
+(lp12615
+g12582
+ag12582
 assg1221
-(dp12562
+(dp12616
 g12148
 S'1963?'
-p12563
+p12617
 sg12150
 S'Gingrich, Arnold'
-p12564
-sg11
-g1224
+p12618
 sg12152
 S'2/25/2015'
-p12565
+p12619
 sg12154
-(lp12566
-g1219
+(lp12620
+g1224
 asg12156
-(lp12567
+(lp12621
+g1219
+asg12158
+(lp12622
 S'Interviews'
-p12568
+p12623
 aS'Radio programs'
-p12569
+p12624
 assg7683
-(dp12570
+(dp12625
 g12148
 S'1967 June 17'
-p12571
+p12626
 sg12150
 S'Gingrich, Arnold'
-p12572
-sg11
-g7686
+p12627
 sg12152
 S'2/25/2015'
-p12573
+p12628
 sg12154
-(lp12574
-g7681
+(lp12629
+g7686
 asg12156
-(lp12575
-g12532
+(lp12630
+g7681
+asg12158
+(lp12631
+g12582
 assg7539
-(dp12576
+(dp12632
 g12148
 S'1964 January 20'
-p12577
+p12633
 sg12150
 S'Gingrich, Arnold'
-p12578
-sg11
-g7542
+p12634
 sg12152
 S'2/25/2015'
-p12579
+p12635
 sg12154
-(lp12580
+(lp12636
+g7542
+asg12156
+(lp12637
 g7537
 ag8659
-asg12156
-(lp12581
+asg12158
+(lp12638
 S'Interviews'
-p12582
+p12639
 aS'Radio programs'
-p12583
+p12640
 aS'Interviews'
-p12584
+p12641
 aS'Radio programs'
-p12585
+p12642
 assg5775
-(dp12586
+(dp12643
 g12148
 S'1966 September 25'
-p12587
+p12644
 sg12150
 S'Gingrich, Arnold'
-p12588
-sg11
-g5778
+p12645
 sg12152
 S'2/25/2015'
-p12589
+p12646
 sg12154
-(lp12590
-g5773
+(lp12647
+g5778
 asg12156
-(lp12591
+(lp12648
+g5773
+asg12158
+(lp12649
 S'Interviews'
-p12592
+p12650
 aS'Radio programs'
-p12593
+p12651
 assg8571
-(dp12594
+(dp12652
 g12148
 S'1962'
-p12595
+p12653
 sg12150
 S'Drew, Walter'
-p12596
-sg11
-g8574
+p12654
 sg12152
 S'11/01/2013'
-p12597
+p12655
 sg12154
-(lp12598
+(lp12656
+g8574
+asg12156
+(lp12657
 g8569
 ag8575
-asg12156
-(lp12599
+asg12158
+(lp12658
 S'Interviews'
-p12600
+p12659
 aS'Interviews'
-p12601
+p12660
 assg5823
-(dp12602
+(dp12661
 g12148
 S'1969 Fall'
-p12603
+p12662
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12604
-sg11
-g5826
+p12663
 sg12152
 S'6/24/2013'
-p12605
+p12664
 sg12154
-(lp12606
+(lp12665
+g5826
+asg12156
+(lp12666
 g5821
 ag5827
-asg12156
-(lp12607
+asg12158
+(lp12667
 S'Radio programs'
-p12608
+p12668
 aS'Class'
-p12609
+p12669
 aS'Radio programs'
-p12610
+p12670
 aS'Class'
-p12611
+p12671
 assg8559
-(dp12612
+(dp12672
 g12148
 S'1969 Fall'
-p12613
+p12673
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12614
-sg11
-g8562
+p12674
 sg12152
 S'6/24/2013'
-p12615
+p12675
 sg12154
-(lp12616
+(lp12676
+g8562
+asg12156
+(lp12677
 g8557
 ag8563
-asg12156
-(lp12617
+asg12158
+(lp12678
 S'Lectures'
-p12618
+p12679
 aS'Radio programs'
-p12619
+p12680
 aS'Class'
-p12620
+p12681
 aS'Lectures'
-p12621
+p12682
 aS'Radio programs'
-p12622
+p12683
 aS'Class'
-p12623
+p12684
 assg2361
-(dp12624
+(dp12685
 g12148
 S'1969 Fall'
-p12625
+p12686
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12626
-sg11
-g2364
+p12687
 sg12152
 S'6/24/2013'
-p12627
+p12688
 sg12154
-(lp12628
+(lp12689
+g2364
+asg12156
+(lp12690
 g2359
 ag2353
-asg12156
-(lp12629
+asg12158
+(lp12691
 S'Lectures'
-p12630
+p12692
 aS'Radio programs'
-p12631
+p12693
 aS'Class'
-p12632
+p12694
 aS'Lectures'
-p12633
+p12695
 aS'Radio programs'
-p12634
+p12696
 aS'Class'
-p12635
+p12697
 assg6303
-(dp12636
+(dp12698
 g12148
 S'1987 February 20, 1986 May 27'
-p12637
+p12699
 sg12150
 S'Historica Critica'
-p12638
-sg11
-g6306
+p12700
 sg12152
 S'6/05/2014'
-p12639
+p12701
 sg12154
-(lp12640
+(lp12702
+g6306
+asg12156
+(lp12703
 g6301
 ag6307
-asg12156
-(lp12641
+asg12158
+(lp12704
 S'Oral Histories'
-p12642
+p12705
 aS'Interviews'
-p12643
+p12706
 aS'Oral Histories'
-p12644
+p12707
 aS'Interviews'
-p12645
+p12708
 assg6711
-(dp12646
+(dp12709
 g12148
 S'1987 February 20, 1987 April 27'
-p12647
+p12710
 sg12150
 S'Historica Critica'
-p12648
-sg11
-g6714
+p12711
 sg12152
 S'6/05/2014'
-p12649
+p12712
 sg12154
-(lp12650
+(lp12713
+g6714
+asg12156
+(lp12714
 g6709
 ag6703
 ag10177
 ag10183
-asg12156
-(lp12651
+asg12158
+(lp12715
 S'Oral Histories'
-p12652
+p12716
 aS'Interviews'
-p12653
+p12717
 aS'Oral Histories'
-p12654
+p12718
 aS'Interviews'
-p12655
+p12719
 aS'Oral Histories'
-p12656
+p12720
 aS'Interviews'
-p12657
+p12721
 aS'Oral Histories'
-p12658
+p12722
 aS'Interviews'
-p12659
+p12723
 assg2853
-(dp12660
+(dp12724
 g12148
 S'1986 May 27'
-p12661
+p12725
 sg12150
 S'Historica Critica'
-p12662
-sg11
-g2856
+p12726
 sg12152
 S'6/05/2014'
-p12663
+p12727
 sg12154
-(lp12664
-g2851
+(lp12728
+g2856
 asg12156
-(lp12665
+(lp12729
+g2851
+asg12158
+(lp12730
 S'Oral Histories'
-p12666
+p12731
 aS'Interviews'
-p12667
+p12732
 assg33
-(dp12668
+(dp12733
 g12148
 S'1958 August 24, 1958 August 31'
-p12669
+p12734
 sg12150
 S'Crane, Henry Hitt'
-p12670
-sg11
-g36
+p12735
 sg12152
 S'6/24/2013'
-p12671
+p12736
 sg12154
-(lp12672
+(lp12737
+g36
+asg12156
+(lp12738
 g31
 ag37
-asg12156
-(lp12673
+asg12158
+(lp12739
 S'Sermons'
-p12674
+p12740
 aS'Sermons'
-p12675
+p12741
 assg9573
-(dp12676
+(dp12742
 g12148
 S'1960 November 27'
-p12677
+p12743
 sg12150
 S'Crane, Henry Hitt'
-p12678
-sg11
-g9576
+p12744
 sg12152
 S'6/24/2013'
-p12679
+p12745
 sg12154
-(lp12680
+(lp12746
+g9576
+asg12156
+(lp12747
 g9571
 ag9577
-asg12156
-(lp12681
+asg12158
+(lp12748
 S'Sermons'
-p12682
+p12749
 aS'Sermons'
-p12683
+p12750
 assg3069
-(dp12684
+(dp12751
 g12148
 S'1955 June 05'
-p12685
+p12752
 sg12150
 S'Cushing, George'
-p12686
-sg11
-g3072
+p12753
 sg12152
 S'2/25/2015'
-p12687
+p12754
 sg12154
-(lp12688
-g3067
+(lp12755
+g3072
 asg12156
-(lp12689
+(lp12756
+g3067
+asg12158
+(lp12757
 S'Radio programs'
-p12690
+p12758
 aS'Talk shows'
-p12691
+p12759
 assg9555
-(dp12692
+(dp12760
 g12148
 S'1955 June 19'
-p12693
+p12761
 sg12150
 S'Cushing, George'
-p12694
-sg11
-g9558
+p12762
 sg12152
 S'2/25/2015'
-p12695
+p12763
 sg12154
-(lp12696
-g9553
+(lp12764
+g9558
 asg12156
-(lp12697
+(lp12765
+g9553
+asg12158
+(lp12766
 S'Radio programs'
-p12698
+p12767
 aS'Talk shows'
-p12699
+p12768
 assg6537
-(dp12700
+(dp12769
 g12148
 S'1955 February 13'
-p12701
-sg12150
-S'Cushing, George'
-p12702
-sg11
-g6540
-sg12152
-S'2/25/2015'
-p12703
-sg12154
-(lp12704
-g6535
-asg12156
-(lp12705
-S'Radio programs'
-p12706
-aS'Talk shows'
-p12707
-assg9345
-(dp12708
-g12148
-S'1955 May 01'
-p12709
-sg12150
-S'Cushing, George'
-p12710
-sg11
-g9348
-sg12152
-S'2/25/2015'
-p12711
-sg12154
-(lp12712
-g9343
-asg12156
-(lp12713
-S'Radio programs'
-p12714
-aS'Talk shows'
-p12715
-assg12099
-(dp12716
-g12148
-S'1955 January 19'
-p12717
-sg12150
-S'Cushing, George'
-p12718
-sg11
-g12102
-sg12152
-S'2/25/2015'
-p12719
-sg12154
-(lp12720
-g12097
-asg12156
-(lp12721
-S'Radio programs'
-p12722
-assg9495
-(dp12723
-g12148
-S'1955 January 16'
-p12724
-sg12150
-S'Cushing, George'
-p12725
-sg11
-g9498
-sg12152
-S'2/25/2015'
-p12726
-sg12154
-(lp12727
-g9493
-asg12156
-(lp12728
-S'Radio programs'
-p12729
-aS'Talk shows'
-p12730
-assg6513
-(dp12731
-g12148
-S'1954 December 12'
-p12732
-sg12150
-S'Cushing, George'
-p12733
-sg11
-g6516
-sg12152
-S'2/25/2015'
-p12734
-sg12154
-(lp12735
-g6511
-asg12156
-(lp12736
-S'Radio programs'
-p12737
-aS'Talk shows'
-p12738
-assg9321
-(dp12739
-g12148
-S'1954 December 12'
-p12740
-sg12150
-S'Cushing, George'
-p12741
-sg11
-g9324
-sg12152
-S'2/25/2015'
-p12742
-sg12154
-(lp12743
-g9319
-asg12156
-(lp12744
-S'Radio programs'
-p12745
-aS'Talk shows'
-p12746
-assg3141
-(dp12747
-g12148
-S'1954 December 05'
-p12748
-sg12150
-S'Cushing, George'
-p12749
-sg11
-g3144
-sg12152
-S'2/25/2015'
-p12750
-sg12154
-(lp12751
-g3139
-asg12156
-(lp12752
-S'Radio programs'
-p12753
-aS'Talk shows'
-p12754
-assg447
-(dp12755
-g12148
-S'1954 December 12'
-p12756
-sg12150
-S'Cushing, George'
-p12757
-sg11
-g450
-sg12152
-S'2/25/2015'
-p12758
-sg12154
-(lp12759
-g445
-asg12156
-(lp12760
-S'Radio programs'
-p12761
-aS'Talk shows'
-p12762
-assg3609
-(dp12763
-g12148
-S'[Undated]'
-p12764
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12765
-sg11
-g3612
-sg12152
-S'6/24/2013'
-p12766
-sg12154
-(lp12767
-g3607
-asg12156
-(lp12768
-S'Radio programs'
-p12769
-aS'Poetry readings'
 p12770
-assg777
-(dp12771
-g12148
-S'1953 November 06'
-p12772
 sg12150
-S"University of Michigan. Men's Glee Club"
-p12773
-sg11
-g780
+S'Cushing, George'
+p12771
 sg12152
-S'11/01/2013'
-p12774
+S'2/25/2015'
+p12772
 sg12154
-(lp12775
-g775
+(lp12773
+g6540
 asg12156
-(lp12776
-S'Musical performances'
+(lp12774
+g6535
+asg12158
+(lp12775
+S'Radio programs'
+p12776
+aS'Talk shows'
 p12777
-assg3993
+assg9345
 (dp12778
 g12148
-S'[Undated]'
+S'1955 May 01'
 p12779
 sg12150
-S'Williams, Robert F.'
+S'Cushing, George'
 p12780
-sg11
-g3996
 sg12152
 S'2/25/2015'
 p12781
 sg12154
 (lp12782
-g3991
-ag3985
+g9348
 asg12156
 (lp12783
-S'Musical performances'
-p12784
-aS'Radio programs'
+g9343
+asg12158
+(lp12784
+S'Radio programs'
 p12785
-aS'Musical performances'
+aS'Talk shows'
 p12786
-aS'Radio programs'
-p12787
-assg6585
-(dp12788
+assg12099
+(dp12787
 g12148
-S'1966 January 21'
-p12789
+S'1955 January 19'
+p12788
 sg12150
-S'Williams, Robert F.'
-p12790
-sg11
-g6588
+S'Cushing, George'
+p12789
 sg12152
 S'2/25/2015'
-p12791
+p12790
 sg12154
+(lp12791
+g12102
+asg12156
 (lp12792
-g6583
-asg12156
+g12097
+asg12158
 (lp12793
-S'Musical performances'
+S'Radio programs'
 p12794
-aS'Radio programs'
-p12795
-assg6579
-(dp12796
+assg9495
+(dp12795
 g12148
-S'1967 October 06'
-p12797
+S'1955 January 16'
+p12796
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12798
-sg11
-g6582
+S'Cushing, George'
+p12797
 sg12152
-S'6/24/2013'
-p12799
+S'2/25/2015'
+p12798
 sg12154
-(lp12800
-g6577
+(lp12799
+g9498
 asg12156
+(lp12800
+g9493
+asg12158
 (lp12801
-S'Lectures'
+S'Radio programs'
 p12802
-aS'Radio programs'
+aS'Talk shows'
 p12803
-assg9393
+assg6513
 (dp12804
 g12148
-S'1967 October 05'
+S'1954 December 12'
 p12805
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Cushing, George'
 p12806
-sg11
-g9396
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p12807
 sg12154
 (lp12808
-g9391
+g6516
 asg12156
 (lp12809
-S'Lectures'
-p12810
-aS'Radio programs'
+g6511
+asg12158
+(lp12810
+S'Radio programs'
 p12811
-assg495
-(dp12812
+aS'Talk shows'
+p12812
+assg9321
+(dp12813
 g12148
-S'1967 October 04'
-p12813
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1954 December 12'
 p12814
-sg11
-g498
-sg12152
-S'6/24/2013'
+sg12150
+S'Cushing, George'
 p12815
+sg12152
+S'2/25/2015'
+p12816
 sg12154
-(lp12816
-g493
-asg12156
 (lp12817
+g9324
+asg12156
+(lp12818
+g9319
+asg12158
+(lp12819
 S'Radio programs'
-p12818
-aS'Conferences'
-p12819
-assg12117
-(dp12820
-g12148
-S'1967 October 04'
+p12820
+aS'Talk shows'
 p12821
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12822
-sg11
-g12120
-sg12152
-S'6/24/2013'
+assg3141
+(dp12822
+g12148
+S'1954 December 05'
 p12823
+sg12150
+S'Cushing, George'
+p12824
+sg12152
+S'2/25/2015'
+p12825
 sg12154
-(lp12824
-g12115
-ag12103
+(lp12826
+g3144
 asg12156
-(lp12825
+(lp12827
+g3139
+asg12158
+(lp12828
 S'Radio programs'
-p12826
-aS'Dialogues'
-p12827
-aS'Radio programs'
-p12828
-aS'Dialogues'
 p12829
-assg4293
-(dp12830
+aS'Talk shows'
+p12830
+assg447
+(dp12831
 g12148
-S'1967 October 03'
-p12831
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1954 December 12'
 p12832
-sg11
-g4296
-sg12152
-S'6/24/2013'
+sg12150
+S'Cushing, George'
 p12833
+sg12152
+S'2/25/2015'
+p12834
 sg12154
-(lp12834
-g4291
-asg12156
 (lp12835
-S'Lectures'
-p12836
-aS'Radio programs'
-p12837
-assg9519
-(dp12838
-g12148
-S'1967 October 03'
+g450
+asg12156
+(lp12836
+g445
+asg12158
+(lp12837
+S'Radio programs'
+p12838
+aS'Talk shows'
 p12839
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12840
-sg11
-g9522
-sg12152
-S'6/24/2013'
+assg3609
+(dp12840
+g12148
+S'[Undated]'
 p12841
-sg12154
-(lp12842
-g9517
-asg12156
-(lp12843
-S'Lectures'
-p12844
-aS'Radio programs'
-p12845
-assg3201
-(dp12846
-g12148
-S'1967 October 02'
-p12847
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p12848
-sg11
-g3204
+p12842
 sg12152
 S'6/24/2013'
-p12849
+p12843
 sg12154
-(lp12850
-g3199
+(lp12844
+g3612
 asg12156
-(lp12851
-S'Lectures'
-p12852
-aS'Radio programs'
-p12853
-assg10311
-(dp12854
+(lp12845
+g3607
+asg12158
+(lp12846
+S'Radio programs'
+p12847
+aS'Poetry readings'
+p12848
+assg777
+(dp12849
 g12148
-S'1980 April 13'
-p12855
+S'1953 November 06'
+p12850
 sg12150
 S"University of Michigan. Men's Glee Club"
-p12856
-sg11
-g10314
+p12851
 sg12152
 S'11/01/2013'
-p12857
+p12852
 sg12154
-(lp12858
-g10309
+(lp12853
+g780
 asg12156
-(lp12859
+(lp12854
+g775
+asg12158
+(lp12855
 S'Musical performances'
+p12856
+assg3993
+(dp12857
+g12148
+S'[Undated]'
+p12858
+sg12150
+S'Williams, Robert F.'
+p12859
+sg12152
+S'2/25/2015'
 p12860
-assg7905
-(dp12861
-g12148
-S'1948 May 10'
-p12862
-sg12150
-S'Cushing, George'
-p12863
-sg11
-g7908
-sg12152
-S'2/25/2015'
+sg12154
+(lp12861
+g3996
+asg12156
+(lp12862
+g3991
+ag3985
+asg12158
+(lp12863
+S'Musical performances'
 p12864
-sg12154
-(lp12865
-g7903
-asg12156
-(lp12866
-S'Radio programs'
+aS'Radio programs'
+p12865
+aS'Musical performances'
+p12866
+aS'Radio programs'
 p12867
-aS'Talk shows'
-p12868
-assg10029
-(dp12869
+assg6585
+(dp12868
 g12148
-S'1948 May 16'
-p12870
+S'1966 January 21'
+p12869
 sg12150
-S'Cushing, George'
-p12871
-sg11
-g10032
+S'Williams, Robert F.'
+p12870
 sg12152
 S'2/25/2015'
-p12872
+p12871
 sg12154
-(lp12873
-g10027
+(lp12872
+g6588
 asg12156
+(lp12873
+g6583
+asg12158
 (lp12874
-S'Radio programs'
+S'Musical performances'
 p12875
-aS'Talk shows'
+aS'Radio programs'
 p12876
-assg3723
+assg6579
 (dp12877
 g12148
-S'1948 May 23'
+S'1967 October 06'
 p12878
 sg12150
-S'Cushing, George'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p12879
-sg11
-g3726
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p12880
 sg12154
 (lp12881
-g3721
+g6582
 asg12156
 (lp12882
-S'Radio programs'
-p12883
-aS'Talk shows'
+g6577
+asg12158
+(lp12883
+S'Lectures'
 p12884
-assg1233
-(dp12885
+aS'Radio programs'
+p12885
+assg9393
+(dp12886
 g12148
-S'1948 June 06'
-p12886
-sg12150
-S'Cushing, George'
+S'1967 October 05'
 p12887
-sg11
-g1236
-sg12152
-S'2/25/2015'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p12888
+sg12152
+S'6/24/2013'
+p12889
 sg12154
-(lp12889
-g1231
-asg12156
 (lp12890
-S'Radio programs'
-p12891
-aS'Talk shows'
-p12892
-assg4221
-(dp12893
-g12148
-S'1948 March 14'
+g9396
+asg12156
+(lp12891
+g9391
+asg12158
+(lp12892
+S'Lectures'
+p12893
+aS'Radio programs'
 p12894
-sg12150
-S'Cushing, George'
-p12895
-sg11
-g4224
-sg12152
-S'2/25/2015'
+assg495
+(dp12895
+g12148
+S'1967 October 04'
 p12896
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12897
+sg12152
+S'6/24/2013'
+p12898
 sg12154
-(lp12897
-g4219
+(lp12899
+g498
 asg12156
-(lp12898
+(lp12900
+g493
+asg12158
+(lp12901
 S'Radio programs'
-p12899
-aS'Talk shows'
-p12900
-assg6873
-(dp12901
-g12148
-S'1948 March 21'
 p12902
-sg12150
-S'Cushing, George'
+aS'Conferences'
 p12903
-sg11
-g6876
+assg12117
+(dp12904
+g12148
+S'1967 October 04'
+p12905
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12906
 sg12152
-S'2/25/2015'
-p12904
-sg12154
-(lp12905
-g6871
-asg12156
-(lp12906
-S'Radio programs'
+S'6/24/2013'
 p12907
-aS'Talk shows'
-p12908
-assg10263
-(dp12909
-g12148
-S'1946 September 22'
-p12910
-sg12150
-S'Cushing, George'
+sg12154
+(lp12908
+g12120
+ag12108
+asg12156
+(lp12909
+g12115
+ag12103
+asg12158
+(lp12910
+S'Radio programs'
 p12911
-sg11
-g10266
-sg12152
-S'2/25/2015'
+aS'Dialogues'
 p12912
-sg12154
-(lp12913
-g10261
-asg12156
-(lp12914
-S'Radio programs'
-p12915
-aS'Talk shows'
+aS'Radio programs'
+p12913
+aS'Dialogues'
+p12914
+assg4293
+(dp12915
+g12148
+S'1967 October 03'
 p12916
-assg10269
-(dp12917
-g12148
-S'1948 March 25'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12917
+sg12152
+S'6/24/2013'
 p12918
-sg12150
-S'Cushing, George'
-p12919
-sg11
-g10272
-sg12152
-S'2/25/2015'
-p12920
 sg12154
+(lp12919
+g4296
+asg12156
+(lp12920
+g4291
+asg12158
 (lp12921
-g10267
-asg12156
-(lp12922
-S'Radio programs'
+S'Lectures'
+p12922
+aS'Radio programs'
 p12923
-aS'Talk shows'
-p12924
-assg10107
-(dp12925
+assg9519
+(dp12924
 g12148
-S'1946 September 08'
-p12926
+S'1967 October 03'
+p12925
 sg12150
-S'Cushing, George'
-p12927
-sg11
-g10110
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p12926
 sg12152
-S'2/25/2015'
-p12928
+S'6/24/2013'
+p12927
 sg12154
-(lp12929
-g10105
+(lp12928
+g9522
 asg12156
+(lp12929
+g9517
+asg12158
 (lp12930
-S'Radio programs'
+S'Lectures'
 p12931
-aS'Talk shows'
+aS'Radio programs'
 p12932
-assg7497
+assg3201
 (dp12933
 g12148
-S'1946 September 15'
+S'1967 October 02'
 p12934
 sg12150
-S'Cushing, George'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p12935
-sg11
-g7500
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p12936
 sg12154
 (lp12937
-g7495
+g3204
 asg12156
 (lp12938
-S'Radio programs'
-p12939
-aS'Talk shows'
+g3199
+asg12158
+(lp12939
+S'Lectures'
 p12940
-assg10227
-(dp12941
+aS'Radio programs'
+p12941
+assg10311
+(dp12942
 g12148
-S'1946 July 07'
-p12942
-sg12150
-S'Cushing, George'
+S'1980 April 13'
 p12943
-sg11
-g10230
-sg12152
-S'2/25/2015'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p12944
+sg12152
+S'11/01/2013'
+p12945
 sg12154
-(lp12945
-g10225
-asg12156
 (lp12946
-S'Radio programs'
-p12947
-aS'Talk shows'
-p12948
-assg4905
-(dp12949
+g10314
+asg12156
+(lp12947
+g10309
+asg12158
+(lp12948
+S'Musical performances'
+p12949
+assg7905
+(dp12950
 g12148
-S'1946 August 14'
-p12950
-sg12150
-S'Cushing, George'
+S'1948 May 10'
 p12951
-sg11
-g4908
-sg12152
-S'2/25/2015'
+sg12150
+S'Cushing, George'
 p12952
+sg12152
+S'2/25/2015'
+p12953
 sg12154
-(lp12953
-g4903
-asg12156
 (lp12954
+g7908
+asg12156
+(lp12955
+g7903
+asg12158
+(lp12956
 S'Radio programs'
-p12955
+p12957
 aS'Talk shows'
-p12956
-assg10053
-(dp12957
-g12148
-S'1946 June 23'
 p12958
-sg12150
-S'Cushing, George'
-p12959
-sg11
-g10056
-sg12152
-S'2/25/2015'
+assg10029
+(dp12959
+g12148
+S'1948 May 16'
 p12960
+sg12150
+S'Cushing, George'
+p12961
+sg12152
+S'2/25/2015'
+p12962
 sg12154
-(lp12961
-g10051
+(lp12963
+g10032
 asg12156
-(lp12962
+(lp12964
+g10027
+asg12158
+(lp12965
 S'Radio programs'
-p12963
-aS'Talk shows'
-p12964
-assg7455
-(dp12965
-g12148
-S'1946 June 30'
 p12966
-sg12150
-S'Cushing, George'
+aS'Talk shows'
 p12967
-sg11
-g7458
-sg12152
-S'2/25/2015'
-p12968
-sg12154
-(lp12969
-g7453
-asg12156
-(lp12970
-S'Radio programs'
-p12971
-aS'Talk shows'
-p12972
-assg4017
-(dp12973
+assg3723
+(dp12968
 g12148
-S'1946 June 16'
-p12974
+S'1948 May 23'
+p12969
 sg12150
 S'Cushing, George'
-p12975
-sg11
-g4020
+p12970
 sg12152
 S'2/25/2015'
-p12976
+p12971
 sg12154
-(lp12977
-g4015
+(lp12972
+g3726
 asg12156
-(lp12978
+(lp12973
+g3721
+asg12158
+(lp12974
 S'Radio programs'
-p12979
+p12975
 aS'Talk shows'
+p12976
+assg1233
+(dp12977
+g12148
+S'1948 June 06'
+p12978
+sg12150
+S'Cushing, George'
+p12979
+sg12152
+S'2/25/2015'
 p12980
-assg10773
-(dp12981
-g12148
-S'1968 September 15'
-p12982
-sg12150
-S'Canterbury House (Ann Arbor, Mich.)'
-p12983
-sg11
-g10776
-sg12152
-S'6/05/2014'
+sg12154
+(lp12981
+g1236
+asg12156
+(lp12982
+g1231
+asg12158
+(lp12983
+S'Radio programs'
 p12984
-sg12154
-(lp12985
-g10771
-ag11155
-ag11161
-asg12156
-(lp12986
-S'Musical performances'
+aS'Talk shows'
+p12985
+assg4221
+(dp12986
+g12148
+S'1948 March 14'
 p12987
-aS'Musical performances'
+sg12150
+S'Cushing, George'
 p12988
-aS'Musical performances'
+sg12152
+S'2/25/2015'
 p12989
-assg8109
-(dp12990
-g12148
-S'1986'
-p12991
-sg12150
-S"University of Michigan. Men's Glee Club"
-p12992
-sg11
-g8112
-sg12152
-S'11/01/2013'
+sg12154
+(lp12990
+g4224
+asg12156
+(lp12991
+g4219
+asg12158
+(lp12992
+S'Radio programs'
 p12993
-sg12154
-(lp12994
-g8107
-asg12156
-(lp12995
-S'Musical performances'
-p12996
-assg3189
-(dp12997
+aS'Talk shows'
+p12994
+assg6873
+(dp12995
 g12148
-S'1986 April 12'
-p12998
+S'1948 March 21'
+p12996
 sg12150
-S"University of Michigan. Men's Glee Club"
-p12999
-sg11
-g3192
+S'Cushing, George'
+p12997
 sg12152
-S'11/01/2013'
-p13000
+S'2/25/2015'
+p12998
 sg12154
-(lp13001
-g3187
+(lp12999
+g6876
 asg12156
-(lp13002
-S'Musical performances'
+(lp13000
+g6871
+asg12158
+(lp13001
+S'Radio programs'
+p13002
+aS'Talk shows'
 p13003
-assg4659
+assg10263
 (dp13004
 g12148
-S'1986 April 12'
+S'1946 September 22'
 p13005
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Cushing, George'
 p13006
-sg11
-g4662
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p13007
 sg12154
 (lp13008
-g4657
+g10266
 asg12156
 (lp13009
-S'Musical performances'
-p13010
-assg10923
-(dp13011
-g12148
-S'1986'
+g10261
+asg12158
+(lp13010
+S'Radio programs'
+p13011
+aS'Talk shows'
 p13012
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13013
-sg11
-g10926
-sg12152
-S'11/01/2013'
+assg10269
+(dp13013
+g12148
+S'1948 March 25'
 p13014
-sg12154
-(lp13015
-g10921
-asg12156
-(lp13016
-S'Musical performances'
-p13017
-assg1773
-(dp13018
-g12148
-S'1972 August 27'
-p13019
 sg12150
-S'Democratic Party (Mich.)'
+S'Cushing, George'
+p13015
+sg12152
+S'2/25/2015'
+p13016
+sg12154
+(lp13017
+g10272
+asg12156
+(lp13018
+g10267
+asg12158
+(lp13019
+S'Radio programs'
 p13020
-sg11
-g1776
-sg12152
-S'6/05/2014'
+aS'Talk shows'
 p13021
-sg12154
-(lp13022
-g1771
-ag1777
-asg12156
-(lp13023
-S'Conferences'
+assg10107
+(dp13022
+g12148
+S'1946 September 08'
+p13023
+sg12150
+S'Cushing, George'
 p13024
-aS'Conferences'
+sg12152
+S'2/25/2015'
 p13025
-assg1635
-(dp13026
-g12148
-S'1972 August 27'
-p13027
-sg12150
-S'Democratic Party (Mich.)'
-p13028
-sg11
-g1638
-sg12152
-S'6/05/2014'
+sg12154
+(lp13026
+g10110
+asg12156
+(lp13027
+g10105
+asg12158
+(lp13028
+S'Radio programs'
 p13029
-sg12154
-(lp13030
-g1633
-ag1639
-asg12156
-(lp13031
-g12532
-ag12532
-assg8079
-(dp13032
+aS'Talk shows'
+p13030
+assg7497
+(dp13031
 g12148
-S'1972 August 27'
-p13033
+S'1946 September 15'
+p13032
 sg12150
-S'Democratic Party (Mich.)'
-p13034
-sg11
-g8082
+S'Cushing, George'
+p13033
 sg12152
-S'6/05/2014'
-p13035
+S'2/25/2015'
+p13034
 sg12154
-(lp13036
-g8077
-ag8071
+(lp13035
+g7500
 asg12156
+(lp13036
+g7495
+asg12158
 (lp13037
-S'Conferences'
+S'Radio programs'
 p13038
-aS'Conferences'
+aS'Talk shows'
 p13039
-assg10401
+assg10227
 (dp13040
 g12148
-S'1972 August 27'
+S'1946 July 07'
 p13041
 sg12150
-S'Democratic Party (Mich.)'
+S'Cushing, George'
 p13042
-sg11
-g10404
 sg12152
-S'6/05/2014'
+S'2/25/2015'
 p13043
 sg12154
 (lp13044
-g10399
-ag10393
+g10230
 asg12156
 (lp13045
-S'Conferences'
-p13046
-aS'Conferences'
+g10225
+asg12158
+(lp13046
+S'Radio programs'
 p13047
-assg5109
-(dp13048
-g12148
-S'1968 April 22'
-p13049
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13050
-sg11
-g5112
-sg12152
-S'6/24/2013'
-p13051
-sg12154
-(lp13052
-g5107
-asg12156
-(lp13053
-S'Interviews'
-p13054
-aS'Radio programs'
-p13055
 aS'Talk shows'
+p13048
+assg4905
+(dp13049
+g12148
+S'1946 August 14'
+p13050
+sg12150
+S'Cushing, George'
+p13051
+sg12152
+S'2/25/2015'
+p13052
+sg12154
+(lp13053
+g4908
+asg12156
+(lp13054
+g4903
+asg12158
+(lp13055
+S'Radio programs'
 p13056
-assg4893
-(dp13057
+aS'Talk shows'
+p13057
+assg10053
+(dp13058
 g12148
-S'1952 May 25'
-p13058
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1946 June 23'
 p13059
-sg11
-g4896
-sg12152
-S'11/01/2013'
+sg12150
+S'Cushing, George'
 p13060
+sg12152
+S'2/25/2015'
+p13061
 sg12154
-(lp13061
-g4891
-asg12156
 (lp13062
-S'Musical performances'
-p13063
-assg12111
-(dp13064
-g12148
-S'1962 April 18'
+g10056
+asg12156
+(lp13063
+g10051
+asg12158
+(lp13064
+S'Radio programs'
 p13065
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Talk shows'
 p13066
-sg11
-g12114
+assg7455
+(dp13067
+g12148
+S'1946 June 30'
+p13068
+sg12150
+S'Cushing, George'
+p13069
 sg12152
-S'11/01/2013'
-p13067
-sg12154
-(lp13068
-g12109
-asg12156
-(lp13069
-S'Musical performances'
+S'2/25/2015'
 p13070
-assg1857
-(dp13071
-g12148
-S'1969 February 02'
-p13072
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13073
-sg11
-g1860
-sg12152
-S'6/24/2013'
+sg12154
+(lp13071
+g7458
+asg12156
+(lp13072
+g7453
+asg12158
+(lp13073
+S'Radio programs'
 p13074
-sg12154
-(lp13075
-g1855
-asg12156
-(lp13076
-S'Lectures'
+aS'Talk shows'
+p13075
+assg4017
+(dp13076
+g12148
+S'1946 June 16'
 p13077
-aS'Radio programs'
+sg12150
+S'Cushing, George'
 p13078
-aS'Panel discussions'
+sg12152
+S'2/25/2015'
 p13079
-assg11205
-(dp13080
-g12148
-S'1965 October 06'
-p13081
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13082
-sg11
-g11208
-sg12152
-S'11/01/2013'
+sg12154
+(lp13080
+g4020
+asg12156
+(lp13081
+g4015
+asg12158
+(lp13082
+S'Radio programs'
 p13083
-sg12154
-(lp13084
-g11203
-asg12156
-(lp13085
-S'Musical performances'
-p13086
-assg2811
-(dp13087
+aS'Talk shows'
+p13084
+assg10773
+(dp13085
 g12148
-S'1971 March 20'
-p13088
+S'1968 September 15'
+p13086
 sg12150
-S"University of Michigan. Men's Glee Club"
-p13089
-sg11
-g2814
+S'Canterbury House (Ann Arbor, Mich.)'
+p13087
 sg12152
-S'11/01/2013'
-p13090
+S'6/05/2014'
+p13088
 sg12154
-(lp13091
-g2809
-ag2803
+(lp13089
+g10776
 asg12156
-(lp13092
+(lp13090
+g10771
+ag11155
+ag11161
+asg12158
+(lp13091
 S'Musical performances'
+p13092
+aS'Musical performances'
 p13093
 aS'Musical performances'
 p13094
-assg10623
+assg8109
 (dp13095
 g12148
-S'1978'
+S'1986'
 p13096
 sg12150
 S"University of Michigan. Men's Glee Club"
 p13097
-sg11
-g10626
 sg12152
 S'11/01/2013'
 p13098
 sg12154
 (lp13099
-g10621
-ag10627
+g8112
 asg12156
 (lp13100
+g8107
+asg12158
+(lp13101
 S'Musical performances'
-p13101
-aS'Musical performances'
 p13102
-assg5475
+assg3189
 (dp13103
 g12148
-S'1978'
+S'1986 April 12'
 p13104
 sg12150
 S"University of Michigan. Men's Glee Club"
 p13105
-sg11
-g5478
 sg12152
 S'11/01/2013'
 p13106
 sg12154
 (lp13107
-g5473
+g3192
 asg12156
 (lp13108
+g3187
+asg12158
+(lp13109
 S'Musical performances'
-p13109
-assg5805
-(dp13110
+p13110
+assg4659
+(dp13111
 g12148
-S'1978 January 23-February 2'
-p13111
-sg12150
-S'Bassett, Leslie'
+S'1986 April 12'
 p13112
-sg11
-g5808
-sg12152
-S'6/05/2014'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p13113
+sg12152
+S'11/01/2013'
+p13114
 sg12154
-(lp13114
-g5803
-ag5797
-asg12156
 (lp13115
+g4662
+asg12156
+(lp13116
+g4657
+asg12158
+(lp13117
 S'Musical performances'
-p13116
-aS'Musical performances'
-p13117
-assg9213
-(dp13118
+p13118
+assg10923
+(dp13119
 g12148
-S'1962 November 03'
-p13119
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1986'
 p13120
-sg11
-g9216
-sg12152
-S'11/01/2013'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p13121
+sg12152
+S'11/01/2013'
+p13122
 sg12154
-(lp13122
-g9211
-asg12156
 (lp13123
+g10926
+asg12156
+(lp13124
+g10921
+asg12158
+(lp13125
 S'Musical performances'
-p13124
-assg3003
-(dp13125
-g12148
-S'1962 November 03'
 p13126
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13127
-sg11
-g3006
-sg12152
-S'11/01/2013'
+assg1773
+(dp13127
+g12148
+S'1972 August 27'
 p13128
-sg12154
-(lp13129
-g3001
-asg12156
-(lp13130
-S'Musical performances'
-p13131
-assg153
-(dp13132
-g12148
-S'1967 July 23-24'
-p13133
 sg12150
-S'Romney, George'
+S'Democratic Party (Mich.)'
+p13129
+sg12152
+S'6/05/2014'
+p13130
+sg12154
+(lp13131
+g1776
+asg12156
+(lp13132
+g1771
+ag1777
+asg12158
+(lp13133
+S'Conferences'
 p13134
-sg11
-g156
-sg12152
-S'6/05/2014'
+aS'Conferences'
 p13135
-sg12154
-(lp13136
-g151
-asg12156
-(lp13137
-S'Press conferences'
+assg1635
+(dp13136
+g12148
+S'1972 August 27'
+p13137
+sg12150
+S'Democratic Party (Mich.)'
 p13138
-assg9507
-(dp13139
-g12148
-S'1967 August 22'
-p13140
-sg12150
-S'Romney, George'
-p13141
-sg11
-g9510
 sg12152
 S'6/05/2014'
-p13142
+p13139
 sg12154
-(lp13143
-g9505
+(lp13140
+g1638
 asg12156
-(lp13144
-S'Conferences'
+(lp13141
+g1633
+ag1639
+asg12158
+(lp13142
+g12582
+ag12582
+assg8079
+(dp13143
+g12148
+S'1972 August 27'
+p13144
+sg12150
+S'Democratic Party (Mich.)'
 p13145
-assg6321
-(dp13146
-g12148
-S'1967 September 22'
-p13147
-sg12150
-S'Romney, George'
-p13148
-sg11
-g6324
 sg12152
 S'6/05/2014'
-p13149
+p13146
 sg12154
-(lp13150
-g6319
+(lp13147
+g8082
 asg12156
-(lp13151
+(lp13148
+g8077
+ag8071
+asg12158
+(lp13149
 S'Conferences'
-p13152
-assg6453
-(dp13153
+p13150
+aS'Conferences'
+p13151
+assg10401
+(dp13152
 g12148
-S'1956 May 24'
+S'1972 August 27'
+p13153
+sg12150
+S'Democratic Party (Mich.)'
 p13154
-sg12150
-S'Williams, G. Mennen'
-p13155
-sg11
-g6456
 sg12152
-S'11/01/2013'
-p13156
+S'6/05/2014'
+p13155
 sg12154
-(lp13157
-g6451
+(lp13156
+g10404
 asg12156
+(lp13157
+g10399
+ag10393
+asg12158
 (lp13158
-S'Interviews'
+S'Conferences'
 p13159
-aS'Sound tracks'
+aS'Conferences'
 p13160
-aS'Telephone Recording'
-p13161
-assg525
-(dp13162
+assg5109
+(dp13161
 g12148
-S'[Undated]'
-p13163
+S'1968 April 22'
+p13162
 sg12150
-S'Crane, Henry Hitt'
-p13164
-sg11
-g528
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13163
 sg12152
 S'6/24/2013'
-p13165
+p13164
 sg12154
+(lp13165
+g5112
+asg12156
 (lp13166
-g523
-ag529
-asg12156
+g5107
+asg12158
 (lp13167
-S'Sermons'
+S'Interviews'
 p13168
-aS'Sermons'
+aS'Radio programs'
 p13169
-assg10815
-(dp13170
+aS'Talk shows'
+p13170
+assg4893
+(dp13171
 g12148
-S'1987 February 24'
-p13171
-sg12150
-S'Historica Critica'
+S'1952 May 25'
 p13172
-sg11
-g10818
-sg12152
-S'6/05/2014'
-p13173
-sg12154
-(lp13174
-g10813
-ag10825
-asg12156
-(lp13175
-S'Oral Histories'
-p13176
-aS'Interviews'
-p13177
-aS'Oral Histories'
-p13178
-aS'Interviews'
-p13179
-assg11289
-(dp13180
-g12148
-S'1987 February 24'
-p13181
-sg12150
-S'Historica Critica'
-p13182
-sg11
-g11292
-sg12152
-S'6/05/2014'
-p13183
-sg12154
-(lp13184
-g11287
-ag11275
-ag7165
-ag5317
-asg12156
-(lp13185
-S'Oral Histories'
-p13186
-aS'Interviews'
-p13187
-aS'Oral Histories'
-p13188
-aS'Interviews'
-p13189
-aS'Oral Histories'
-p13190
-aS'Interviews'
-p13191
-aS'Oral Histories'
-p13192
-aS'Interviews'
-p13193
-assg9951
-(dp13194
-g12148
-S'1975 November 22'
-p13195
 sg12150
 S"University of Michigan. Men's Glee Club"
-p13196
-sg11
-g9954
+p13173
 sg12152
 S'11/01/2013'
-p13197
+p13174
 sg12154
-(lp13198
-g9949
+(lp13175
+g4896
 asg12156
-(lp13199
+(lp13176
+g4891
+asg12158
+(lp13177
 S'Musical performances'
-p13200
-assg1161
-(dp13201
+p13178
+assg12111
+(dp13179
 g12148
-S'1966 January 17'
-p13202
+S'1962 April 18'
+p13180
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13181
+sg12152
+S'11/01/2013'
+p13182
+sg12154
+(lp13183
+g12114
+asg12156
+(lp13184
+g12109
+asg12158
+(lp13185
+S'Musical performances'
+p13186
+assg1857
+(dp13187
+g12148
+S'1969 February 02'
+p13188
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13203
-sg11
-g1164
+p13189
 sg12152
 S'6/24/2013'
-p13204
+p13190
 sg12154
-(lp13205
-g1159
+(lp13191
+g1860
 asg12156
-(lp13206
-S'Radio programs'
-p13207
-aS'Poetry readings'
-p13208
-assg7125
-(dp13209
-g12148
-S'[between 1950 and 1959]'
-p13210
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13211
-sg11
-g7128
-sg12152
-S'6/24/2013'
-p13212
-sg12154
-(lp13213
-g7123
-asg12156
-(lp13214
-S'Musical performances'
-p13215
+(lp13192
+g1855
+asg12158
+(lp13193
+S'Lectures'
+p13194
 aS'Radio programs'
+p13195
+aS'Panel discussions'
+p13196
+assg11205
+(dp13197
+g12148
+S'1965 October 06'
+p13198
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13199
+sg12152
+S'11/01/2013'
+p13200
+sg12154
+(lp13201
+g11208
+asg12156
+(lp13202
+g11203
+asg12158
+(lp13203
+S'Musical performances'
+p13204
+assg2811
+(dp13205
+g12148
+S'1971 March 20'
+p13206
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13207
+sg12152
+S'11/01/2013'
+p13208
+sg12154
+(lp13209
+g2814
+asg12156
+(lp13210
+g2809
+ag2803
+asg12158
+(lp13211
+S'Musical performances'
+p13212
+aS'Musical performances'
+p13213
+assg10623
+(dp13214
+g12148
+S'1978'
+p13215
+sg12150
+S"University of Michigan. Men's Glee Club"
 p13216
-assg5247
-(dp13217
-g12148
-S'1953 November 29'
-p13218
-sg12150
-S'Moody, Blair'
-p13219
-sg11
-g5250
 sg12152
-S'2/25/2015'
-p13220
+S'11/01/2013'
+p13217
 sg12154
-(lp13221
-g5245
+(lp13218
+g10626
 asg12156
-(lp13222
-S'Radio programs'
-p13223
-assg6897
-(dp13224
+(lp13219
+g10621
+ag10627
+asg12158
+(lp13220
+S'Musical performances'
+p13221
+aS'Musical performances'
+p13222
+assg5475
+(dp13223
 g12148
-S'1953 December 13'
+S'1978'
+p13224
+sg12150
+S"University of Michigan. Men's Glee Club"
 p13225
-sg12150
-S'Moody, Blair'
-p13226
-sg11
-g6900
 sg12152
-S'2/25/2015'
-p13227
+S'11/01/2013'
+p13226
 sg12154
-(lp13228
-g6895
+(lp13227
+g5478
 asg12156
+(lp13228
+g5473
+asg12158
 (lp13229
-S'Radio programs'
+S'Musical performances'
 p13230
-assg4197
+assg5805
 (dp13231
 g12148
-S'[between October 1955 and December 29, 1955]'
+S'1978 January 23-February 2'
 p13232
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Bassett, Leslie'
 p13233
-sg11
-g4200
 sg12152
-S'6/24/2013'
+S'6/05/2014'
 p13234
 sg12154
 (lp13235
-g4195
+g5808
 asg12156
 (lp13236
+g5803
+ag5797
+asg12158
+(lp13237
 S'Musical performances'
-p13237
-aS'Radio programs'
 p13238
-aS'Historical dramas'
+aS'Musical performances'
 p13239
-assg10545
+assg9213
 (dp13240
 g12148
-S'1964 July 28'
+S'1962 November 03'
 p13241
 sg12150
-S'Kramer, Arthur W.'
+S"University of Michigan. Men's Glee Club"
 p13242
-sg11
-g10548
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p13243
 sg12154
 (lp13244
-g10543
-ag10549
+g9216
 asg12156
 (lp13245
-S'Rallies'
-p13246
-aS'Rallies'
+g9211
+asg12158
+(lp13246
+S'Musical performances'
 p13247
-assg2979
+assg3003
 (dp13248
 g12148
-S'1964 November 08'
+S'1962 November 03'
 p13249
 sg12150
-S'Kramer, Arthur W.'
+S"University of Michigan. Men's Glee Club"
 p13250
-sg11
-g2982
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p13251
 sg12154
 (lp13252
-g2977
-ag4567
+g3006
 asg12156
 (lp13253
-S'Rallies'
-p13254
-aS'Rallies'
+g3001
+asg12158
+(lp13254
+S'Musical performances'
 p13255
-assg5049
+assg153
 (dp13256
 g12148
-S'[Undated]'
+S'1967 July 23-24'
 p13257
 sg12150
-S'Kramer, Arthur W.'
+S'Romney, George'
 p13258
-sg11
-g5052
 sg12152
 S'6/05/2014'
 p13259
 sg12154
 (lp13260
-g5047
-ag5035
+g156
 asg12156
 (lp13261
-S'Addresses'
-p13262
-aS'Addresses'
+g151
+asg12158
+(lp13262
+S'Press conferences'
 p13263
-assg2151
+assg9507
 (dp13264
 g12148
-S'1974 May 16'
+S'1967 August 22'
 p13265
 sg12150
-S'Michigan Organization for Human Rights'
+S'Romney, George'
 p13266
-sg11
-g2154
 sg12152
 S'6/05/2014'
 p13267
 sg12154
 (lp13268
-g2149
+g9510
 asg12156
 (lp13269
-S'Radio programs'
-p13270
-assg11649
-(dp13271
+g9505
+asg12158
+(lp13270
+S'Conferences'
+p13271
+assg6321
+(dp13272
 g12148
-S'1974 May 17'
-p13272
-sg12150
-S'Michigan Organization for Human Rights'
+S'1967 September 22'
 p13273
-sg11
-g11652
-sg12152
-S'6/05/2014'
+sg12150
+S'Romney, George'
 p13274
+sg12152
+S'6/05/2014'
+p13275
 sg12154
-(lp13275
-g11647
-asg12156
 (lp13276
-S'Radio programs'
-p13277
-assg8763
-(dp13278
-g12148
-S'1986 June 10'
+g6324
+asg12156
+(lp13277
+g6319
+asg12158
+(lp13278
+S'Conferences'
 p13279
-sg12150
-S'Historica Critica'
-p13280
-sg11
-g8766
-sg12152
-S'6/05/2014'
+assg6453
+(dp13280
+g12148
+S'1956 May 24'
 p13281
+sg12150
+S'Williams, G. Mennen'
+p13282
+sg12152
+S'11/01/2013'
+p13283
 sg12154
-(lp13282
-g8761
+(lp13284
+g6456
 asg12156
-(lp13283
-S'Oral Histories'
-p13284
-aS'Interviews'
-p13285
-assg11103
-(dp13286
-g12148
-S'1986 June 10'
+(lp13285
+g6451
+asg12158
+(lp13286
+S'Interviews'
 p13287
-sg12150
-S'Historica Critica'
+aS'Sound tracks'
 p13288
-sg11
-g11106
-sg12152
-S'6/05/2014'
+aS'Telephone Recording'
 p13289
-sg12154
-(lp13290
-g11101
-asg12156
-(lp13291
-S'Oral Histories'
-p13292
-aS'Interviews'
-p13293
-assg2505
-(dp13294
+assg525
+(dp13290
 g12148
-S'1986 June 10'
-p13295
+S'[Undated]'
+p13291
+sg12150
+S'Crane, Henry Hitt'
+p13292
+sg12152
+S'6/24/2013'
+p13293
+sg12154
+(lp13294
+g528
+asg12156
+(lp13295
+g523
+ag529
+asg12158
+(lp13296
+S'Sermons'
+p13297
+aS'Sermons'
+p13298
+assg10815
+(dp13299
+g12148
+S'1987 February 24'
+p13300
 sg12150
 S'Historica Critica'
-p13296
-sg11
-g2508
-sg12152
-S'6/05/2014'
-p13297
-sg12154
-(lp13298
-g2503
-asg12156
-(lp13299
-S'Oral Histories'
-p13300
-aS'Interviews'
 p13301
-assg2259
-(dp13302
-g12148
-S'1974 January 03'
-p13303
-sg12150
-S'Michigan Organization for Human Rights'
-p13304
-sg11
-g2262
 sg12152
 S'6/05/2014'
-p13305
+p13302
 sg12154
-(lp13306
-g2257
+(lp13303
+g10818
 asg12156
-(lp13307
-S'Radio programs'
+(lp13304
+g10813
+ag10825
+asg12158
+(lp13305
+S'Oral Histories'
+p13306
+aS'Interviews'
+p13307
+aS'Oral Histories'
 p13308
-assg11739
-(dp13309
+aS'Interviews'
+p13309
+assg11289
+(dp13310
 g12148
-S'1973 December 20'
-p13310
-sg12150
-S'Michigan Organization for Human Rights'
+S'1987 February 24'
 p13311
-sg11
-g11742
-sg12152
-S'6/05/2014'
+sg12150
+S'Historica Critica'
 p13312
+sg12152
+S'6/05/2014'
+p13313
 sg12154
-(lp13313
-g11737
-asg12156
 (lp13314
-S'Radio programs'
-p13315
-assg2403
-(dp13316
-g12148
-S'1974 January 17'
+g11292
+asg12156
+(lp13315
+g11287
+ag11275
+ag7165
+ag5317
+asg12158
+(lp13316
+S'Oral Histories'
 p13317
-sg12150
-S'Michigan Organization for Human Rights'
+aS'Interviews'
 p13318
-sg11
-g2406
-sg12152
-S'6/05/2014'
+aS'Oral Histories'
 p13319
-sg12154
-(lp13320
-g2401
-asg12156
-(lp13321
-S'Radio programs'
+aS'Interviews'
+p13320
+aS'Oral Histories'
+p13321
+aS'Interviews'
 p13322
-assg5103
-(dp13323
-g12148
-S'1974 January 10'
+aS'Oral Histories'
+p13323
+aS'Interviews'
 p13324
-sg12150
-S'Michigan Organization for Human Rights'
-p13325
-sg11
-g5106
-sg12152
-S'6/05/2014'
+assg9951
+(dp13325
+g12148
+S'1975 November 22'
 p13326
-sg12154
-(lp13327
-g5101
-asg12156
-(lp13328
-S'Radio programs'
-p13329
-assg2175
-(dp13330
-g12148
-S'1974 July 04'
-p13331
 sg12150
-S'Michigan Organization for Human Rights'
+S"University of Michigan. Men's Glee Club"
+p13327
+sg12152
+S'11/01/2013'
+p13328
+sg12154
+(lp13329
+g9954
+asg12156
+(lp13330
+g9949
+asg12158
+(lp13331
+S'Musical performances'
 p13332
-sg11
-g2178
+assg1161
+(dp13333
+g12148
+S'1966 January 17'
+p13334
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13335
 sg12152
-S'6/05/2014'
-p13333
-sg12154
-(lp13334
-g2173
-asg12156
-(lp13335
-S'Radio programs'
+S'6/24/2013'
 p13336
-assg11679
-(dp13337
-g12148
-S'1974 January 24'
-p13338
-sg12150
-S'Michigan Organization for Human Rights'
-p13339
-sg11
-g11682
-sg12152
-S'6/05/2014'
+sg12154
+(lp13337
+g1164
+asg12156
+(lp13338
+g1159
+asg12158
+(lp13339
+S'Radio programs'
 p13340
-sg12154
-(lp13341
-g11677
-ag11683
-asg12156
-(lp13342
-S'Radio programs'
+aS'Poetry readings'
+p13341
+assg7125
+(dp13342
+g12148
+S'[between 1950 and 1959]'
 p13343
-aS'Radio programs'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p13344
-assg5697
-(dp13345
-g12148
-S'1974 May 05'
-p13346
-sg12150
-S'Michigan Organization for Human Rights'
-p13347
-sg11
-g5700
 sg12152
-S'6/05/2014'
-p13348
+S'6/24/2013'
+p13345
 sg12154
-(lp13349
-g5695
+(lp13346
+g7128
 asg12156
-(lp13350
-S'Radio programs'
-p13351
-assg8493
-(dp13352
+(lp13347
+g7123
+asg12158
+(lp13348
+S'Musical performances'
+p13349
+aS'Radio programs'
+p13350
+assg5247
+(dp13351
 g12148
-S'1974 June 13'
+S'1953 November 29'
+p13352
+sg12150
+S'Moody, Blair'
 p13353
-sg12150
-S'Michigan Organization for Human Rights'
-p13354
-sg11
-g8496
 sg12152
-S'6/05/2014'
-p13355
+S'2/25/2015'
+p13354
 sg12154
-(lp13356
-g8491
+(lp13355
+g5250
 asg12156
+(lp13356
+g5245
+asg12158
 (lp13357
 S'Radio programs'
 p13358
-assg6051
+assg6897
 (dp13359
 g12148
-S'1961 November 01'
+S'1953 December 13'
 p13360
 sg12150
-S'Hart, Philip A.'
+S'Moody, Blair'
 p13361
-sg11
-g6054
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p13362
 sg12154
 (lp13363
-g6049
+g6900
 asg12156
 (lp13364
-S'Addresses'
-p13365
-assg5451
-(dp13366
+g6895
+asg12158
+(lp13365
+S'Radio programs'
+p13366
+assg4197
+(dp13367
 g12148
-S'1961 November 11'
-p13367
-sg12150
-S'Hart, Philip A.'
+S'[between October 1955 and December 29, 1955]'
 p13368
-sg11
-g5454
-sg12152
-S'11/01/2013'
-p13369
-sg12154
-(lp13370
-g5449
-asg12156
-(lp13371
-S'Addresses'
-p13372
-aS'Dialogues'
-p13373
-assg12033
-(dp13374
-g12148
-S'1968 May 16'
-p13375
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13376
-sg11
-g12036
+p13369
 sg12152
 S'6/24/2013'
-p13377
+p13370
 sg12154
-(lp13378
-g12031
+(lp13371
+g4200
 asg12156
-(lp13379
-S'Interviews'
-p13380
+(lp13372
+g4195
+asg12158
+(lp13373
+S'Musical performances'
+p13374
 aS'Radio programs'
-p13381
-aS'Talk shows'
-p13382
-assg2877
-(dp13383
+p13375
+aS'Historical dramas'
+p13376
+assg10545
+(dp13377
 g12148
-S'1959 March'
-p13384
+S'1964 July 28'
+p13378
 sg12150
-S'Hart, Philip A.'
-p13385
-sg11
-g2880
-sg12152
-S'11/01/2013'
-p13386
-sg12154
-(lp13387
-g2875
-asg12156
-(lp13388
-S'Interviews'
-p13389
-assg5991
-(dp13390
-g12148
-S'1961 February 23'
-p13391
-sg12150
-S'Hart, Philip A.'
-p13392
-sg11
-g5994
-sg12152
-S'11/01/2013'
-p13393
-sg12154
-(lp13394
-g5989
-asg12156
-(lp13395
-S'Interviews'
-p13396
-assg8835
-(dp13397
-g12148
-S'1960 June 12'
-p13398
-sg12150
-S'Hart, Philip A.'
-p13399
-sg11
-g8838
-sg12152
-S'11/01/2013'
-p13400
-sg12154
-(lp13401
-g8833
-asg12156
-(lp13402
-S'Interviews'
-p13403
-aS'Debates'
-p13404
-aS'Television'
-p13405
-assg3429
-(dp13406
-g12148
-S'August 14, 1973'
-p13407
-sg12150
-S'Michigan Organization for Human Rights'
-p13408
-sg11
-g3432
+S'Kramer, Arthur W.'
+p13379
 sg12152
 S'6/05/2014'
-p13409
+p13380
 sg12154
-(lp13410
-g3427
+(lp13381
+g10548
 asg12156
-(lp13411
-S'Radio programs'
-p13412
-assg549
-(dp13413
+(lp13382
+g10543
+ag10549
+asg12158
+(lp13383
+S'Rallies'
+p13384
+aS'Rallies'
+p13385
+assg2979
+(dp13386
 g12148
-S'1973 May'
-p13414
+S'1964 November 08'
+p13387
 sg12150
-S"University of Michigan. Men's Glee Club"
-p13415
-sg11
-g552
+S'Kramer, Arthur W.'
+p13388
 sg12152
-S'11/01/2013'
-p13416
+S'6/05/2014'
+p13389
 sg12154
-(lp13417
-g547
+(lp13390
+g2982
 asg12156
+(lp13391
+g2977
+ag4567
+asg12158
+(lp13392
+S'Rallies'
+p13393
+aS'Rallies'
+p13394
+assg5049
+(dp13395
+g12148
+S'[Undated]'
+p13396
+sg12150
+S'Kramer, Arthur W.'
+p13397
+sg12152
+S'6/05/2014'
+p13398
+sg12154
+(lp13399
+g5052
+asg12156
+(lp13400
+g5047
+ag5035
+asg12158
+(lp13401
+S'Addresses'
+p13402
+aS'Addresses'
+p13403
+assg2151
+(dp13404
+g12148
+S'1974 May 16'
+p13405
+sg12150
+S'Michigan Organization for Human Rights'
+p13406
+sg12152
+S'6/05/2014'
+p13407
+sg12154
+(lp13408
+g2154
+asg12156
+(lp13409
+g2149
+asg12158
+(lp13410
+S'Radio programs'
+p13411
+assg11649
+(dp13412
+g12148
+S'1974 May 17'
+p13413
+sg12150
+S'Michigan Organization for Human Rights'
+p13414
+sg12152
+S'6/05/2014'
+p13415
+sg12154
+(lp13416
+g11652
+asg12156
+(lp13417
+g11647
+asg12158
 (lp13418
-S'Musical performances'
+S'Radio programs'
 p13419
-assg10077
+assg8763
 (dp13420
 g12148
-S'1973 May'
+S'1986 June 10'
 p13421
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Historica Critica'
 p13422
-sg11
-g10080
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p13423
 sg12154
 (lp13424
-g10075
+g8766
 asg12156
 (lp13425
-S'Musical performances'
-p13426
-assg6045
-(dp13427
-g12148
-S'1954'
-p13428
-sg12150
-S'Pratt, Randy'
-p13429
-sg11
-g6048
-sg12152
-S'11/01/2013'
-p13430
-sg12154
-(lp13431
-g6043
-asg12156
-(lp13432
+g8761
+asg12158
+(lp13426
 S'Oral Histories'
-p13433
-assg11607
-(dp13434
+p13427
+aS'Interviews'
+p13428
+assg11103
+(dp13429
 g12148
-S'1946 October 06'
-p13435
+S'1986 June 10'
+p13430
 sg12150
-S'Cushing, George'
+S'Historica Critica'
+p13431
+sg12152
+S'6/05/2014'
+p13432
+sg12154
+(lp13433
+g11106
+asg12156
+(lp13434
+g11101
+asg12158
+(lp13435
+S'Oral Histories'
 p13436
-sg11
-g11610
-sg12152
-S'2/25/2015'
+aS'Interviews'
 p13437
-sg12154
-(lp13438
-g11605
-asg12156
-(lp13439
-S'Radio programs'
+assg2505
+(dp13438
+g12148
+S'1986 June 10'
+p13439
+sg12150
+S'Historica Critica'
 p13440
-aS'Talk shows'
+sg12152
+S'6/05/2014'
 p13441
-assg3687
-(dp13442
-g12148
-S'1958 March 29'
-p13443
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13444
-sg11
-g3690
-sg12152
-S'6/24/2013'
+sg12154
+(lp13442
+g2508
+asg12156
+(lp13443
+g2503
+asg12158
+(lp13444
+S'Oral Histories'
 p13445
-sg12154
-(lp13446
-g3685
-asg12156
-(lp13447
-S'Radio programs'
+aS'Interviews'
+p13446
+assg2259
+(dp13447
+g12148
+S'1974 January 03'
 p13448
-aS'Documentaries'
+sg12150
+S'Michigan Organization for Human Rights'
 p13449
-assg6639
-(dp13450
-g12148
-S'1958 March 06'
-p13451
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13452
-sg11
-g6642
 sg12152
-S'6/24/2013'
-p13453
+S'6/05/2014'
+p13450
 sg12154
-(lp13454
-g6637
+(lp13451
+g2262
 asg12156
-(lp13455
+(lp13452
+g2257
+asg12158
+(lp13453
 S'Radio programs'
+p13454
+assg11739
+(dp13455
+g12148
+S'1973 December 20'
 p13456
-aS'Documentaries'
+sg12150
+S'Michigan Organization for Human Rights'
 p13457
-assg333
-(dp13458
-g12148
-S'1966 March 02'
-p13459
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13460
-sg11
-g336
 sg12152
-S'6/24/2013'
-p13461
+S'6/05/2014'
+p13458
 sg12154
-(lp13462
-g331
+(lp13459
+g11742
 asg12156
-(lp13463
-S'Addresses'
+(lp13460
+g11737
+asg12158
+(lp13461
+S'Radio programs'
+p13462
+assg2403
+(dp13463
+g12148
+S'1974 January 17'
 p13464
-aS'Radio programs'
+sg12150
+S'Michigan Organization for Human Rights'
 p13465
-assg6501
-(dp13466
-g12148
-S'1967 October 05'
-p13467
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13468
-sg11
-g6504
 sg12152
-S'6/24/2013'
-p13469
+S'6/05/2014'
+p13466
 sg12154
-(lp13470
-g6499
+(lp13467
+g2406
 asg12156
-(lp13471
-S'Addresses'
+(lp13468
+g2401
+asg12158
+(lp13469
+S'Radio programs'
+p13470
+assg5103
+(dp13471
+g12148
+S'1974 January 10'
 p13472
-aS'Radio programs'
+sg12150
+S'Michigan Organization for Human Rights'
 p13473
-assg3813
-(dp13474
-g12148
-S'1961 November 04'
-p13475
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13476
-sg11
-g3816
 sg12152
-S'11/01/2013'
-p13477
+S'6/05/2014'
+p13474
 sg12154
-(lp13478
-g3811
+(lp13475
+g5106
 asg12156
-(lp13479
-S'Musical performances'
+(lp13476
+g5101
+asg12158
+(lp13477
+S'Radio programs'
+p13478
+assg2175
+(dp13479
+g12148
+S'1974 July 04'
 p13480
-aS'Interviews'
-p13481
-assg9807
-(dp13482
-g12148
-S'1961 November 04'
-p13483
 sg12150
-S"University of Michigan. Men's Glee Club"
-p13484
-sg11
-g9810
+S'Michigan Organization for Human Rights'
+p13481
+sg12152
+S'6/05/2014'
+p13482
+sg12154
+(lp13483
+g2178
+asg12156
+(lp13484
+g2173
+asg12158
+(lp13485
+S'Radio programs'
+p13486
+assg11679
+(dp13487
+g12148
+S'1974 January 24'
+p13488
+sg12150
+S'Michigan Organization for Human Rights'
+p13489
+sg12152
+S'6/05/2014'
+p13490
+sg12154
+(lp13491
+g11682
+asg12156
+(lp13492
+g11677
+ag11683
+asg12158
+(lp13493
+S'Radio programs'
+p13494
+aS'Radio programs'
+p13495
+assg5697
+(dp13496
+g12148
+S'1974 May 05'
+p13497
+sg12150
+S'Michigan Organization for Human Rights'
+p13498
+sg12152
+S'6/05/2014'
+p13499
+sg12154
+(lp13500
+g5700
+asg12156
+(lp13501
+g5695
+asg12158
+(lp13502
+S'Radio programs'
+p13503
+assg8493
+(dp13504
+g12148
+S'1974 June 13'
+p13505
+sg12150
+S'Michigan Organization for Human Rights'
+p13506
+sg12152
+S'6/05/2014'
+p13507
+sg12154
+(lp13508
+g8496
+asg12156
+(lp13509
+g8491
+asg12158
+(lp13510
+S'Radio programs'
+p13511
+assg6051
+(dp13512
+g12148
+S'1961 November 01'
+p13513
+sg12150
+S'Hart, Philip A.'
+p13514
 sg12152
 S'11/01/2013'
-p13485
+p13515
 sg12154
-(lp13486
-g9805
+(lp13516
+g6054
 asg12156
-(lp13487
-S'Musical performances'
-p13488
-aS'Interviews'
-p13489
-assg6213
-(dp13490
+(lp13517
+g6049
+asg12158
+(lp13518
+S'Addresses'
+p13519
+assg5451
+(dp13520
 g12148
-S'1967 February 28'
-p13491
+S'1961 November 11'
+p13521
+sg12150
+S'Hart, Philip A.'
+p13522
+sg12152
+S'11/01/2013'
+p13523
+sg12154
+(lp13524
+g5454
+asg12156
+(lp13525
+g5449
+asg12158
+(lp13526
+S'Addresses'
+p13527
+aS'Dialogues'
+p13528
+assg12033
+(dp13529
+g12148
+S'1968 May 16'
+p13530
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13492
-sg11
-g6216
-sg12152
-S'6/24/2013'
-p13493
-sg12154
-(lp13494
-g6211
-ag6205
-asg12156
-(lp13495
-S'Advertising'
-p13496
-aS'Radio programs'
-p13497
-aS'Advertising'
-p13498
-aS'Radio programs'
-p13499
-assg5055
-(dp13500
-g12148
-S'1960 January 15'
-p13501
-sg12150
-S'Crane, Henry Hitt'
-p13502
-sg11
-g5058
-sg12152
-S'6/24/2013'
-p13503
-sg12154
-(lp13504
-g5053
-ag5059
-asg12156
-(lp13505
-S'Sermons'
-p13506
-aS'Sermons'
-p13507
-assg7419
-(dp13508
-g12148
-S'1962 October 15'
-p13509
-sg12150
-S'Crane, Henry Hitt'
-p13510
-sg11
-g7422
-sg12152
-S'6/24/2013'
-p13511
-sg12154
-(lp13512
-g7417
-ag7423
-asg12156
-(lp13513
-S'Sermons'
-p13514
-aS'Sermons'
-p13515
-assg1245
-(dp13516
-g12148
-S'1964 June 19'
-p13517
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13518
-sg11
-g1248
-sg12152
-S'11/01/2013'
-p13519
-sg12154
-(lp13520
-g1243
-asg12156
-(lp13521
-S'Musical performances'
-p13522
-assg10467
-(dp13523
-g12148
-S'1964 June 19'
-p13524
-sg12150
-S"University of Michigan. Men's Glee Club"
-p13525
-sg11
-g10470
-sg12152
-S'11/01/2013'
-p13526
-sg12154
-(lp13527
-g10465
-asg12156
-(lp13528
-S'Musical performances'
-p13529
-assg10617
-(dp13530
-g12148
-S'1950'
 p13531
-sg12150
-S'Pollock, James Kerr'
-p13532
-sg11
-g10620
 sg12152
-S'11/01/2013'
-p13533
+S'6/24/2013'
+p13532
 sg12154
-(lp13534
-g10615
+(lp13533
+g12036
 asg12156
+(lp13534
+g12031
+asg12158
 (lp13535
-S'Lectures'
+S'Interviews'
 p13536
-aS'Class'
+aS'Radio programs'
 p13537
-aS'Debates'
+aS'Talk shows'
 p13538
-assg8301
+assg2877
 (dp13539
 g12148
-S'1950 January 10'
+S'1959 March'
 p13540
 sg12150
-S'Pollock, James Kerr'
+S'Hart, Philip A.'
 p13541
-sg11
-g8304
 sg12152
 S'11/01/2013'
 p13542
 sg12154
 (lp13543
-g8299
+g2880
 asg12156
 (lp13544
-S'Lectures'
-p13545
-aS'Class'
+g2875
+asg12158
+(lp13545
+S'Interviews'
 p13546
-aS'Debates'
-p13547
-assg2043
-(dp13548
+assg5991
+(dp13547
 g12148
-S'1950 March 07'
+S'1961 February 23'
+p13548
+sg12150
+S'Hart, Philip A.'
 p13549
-sg12150
-S'Pollock, James Kerr'
+sg12152
+S'11/01/2013'
 p13550
-sg11
-g2046
-sg12152
-S'11/01/2013'
-p13551
 sg12154
+(lp13551
+g5994
+asg12156
 (lp13552
-g2041
-asg12156
+g5989
+asg12158
 (lp13553
-S'Lectures'
+S'Interviews'
 p13554
-aS'Class'
-p13555
-aS'Debates'
-p13556
-assg4785
-(dp13557
+assg8835
+(dp13555
 g12148
-S'1950'
-p13558
+S'1960 June 12'
+p13556
 sg12150
-S'Pollock, James Kerr'
-p13559
-sg11
-g4788
+S'Hart, Philip A.'
+p13557
 sg12152
 S'11/01/2013'
-p13560
+p13558
 sg12154
-(lp13561
-g4783
+(lp13559
+g8838
 asg12156
-(lp13562
-S'Lectures'
-p13563
-aS'Class'
-p13564
+(lp13560
+g8833
+asg12158
+(lp13561
+S'Interviews'
+p13562
 aS'Debates'
-p13565
-assg4947
-(dp13566
+p13563
+aS'Television'
+p13564
+assg3429
+(dp13565
 g12148
-S'1970 December 24'
+S'August 14, 1973'
+p13566
+sg12150
+S'Michigan Organization for Human Rights'
 p13567
+sg12152
+S'6/05/2014'
+p13568
+sg12154
+(lp13569
+g3432
+asg12156
+(lp13570
+g3427
+asg12158
+(lp13571
+S'Radio programs'
+p13572
+assg549
+(dp13573
+g12148
+S'1973 May'
+p13574
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13575
+sg12152
+S'11/01/2013'
+p13576
+sg12154
+(lp13577
+g552
+asg12156
+(lp13578
+g547
+asg12158
+(lp13579
+S'Musical performances'
+p13580
+assg10077
+(dp13581
+g12148
+S'1973 May'
+p13582
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13583
+sg12152
+S'11/01/2013'
+p13584
+sg12154
+(lp13585
+g10080
+asg12156
+(lp13586
+g10075
+asg12158
+(lp13587
+S'Musical performances'
+p13588
+assg6045
+(dp13589
+g12148
+S'1954'
+p13590
+sg12150
+S'Pratt, Randy'
+p13591
+sg12152
+S'11/01/2013'
+p13592
+sg12154
+(lp13593
+g6048
+asg12156
+(lp13594
+g6043
+asg12158
+(lp13595
+S'Oral Histories'
+p13596
+assg11607
+(dp13597
+g12148
+S'1946 October 06'
+p13598
+sg12150
+S'Cushing, George'
+p13599
+sg12152
+S'2/25/2015'
+p13600
+sg12154
+(lp13601
+g11610
+asg12156
+(lp13602
+g11605
+asg12158
+(lp13603
+S'Radio programs'
+p13604
+aS'Talk shows'
+p13605
+assg3687
+(dp13606
+g12148
+S'1958 March 29'
+p13607
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13568
-sg11
-g4950
+p13608
 sg12152
 S'6/24/2013'
-p13569
-sg12154
-(lp13570
-g4945
-asg12156
-(lp13571
-S'Literary readings'
-p13572
-aS'Musical performances'
-p13573
-aS'Radio programs'
-p13574
-aS'Dramatic readings'
-p13575
-assg8319
-(dp13576
-g12148
-S'1950 March 07'
-p13577
-sg12150
-S'Pollock, James Kerr'
-p13578
-sg11
-g8322
-sg12152
-S'11/01/2013'
-p13579
-sg12154
-(lp13580
-g8317
-ag8311
-asg12156
-(lp13581
-S'Class'
-p13582
-aS'Class'
-p13583
-assg2133
-(dp13584
-g12148
-S'1950'
-p13585
-sg12150
-S'Pollock, James Kerr'
-p13586
-sg11
-g2136
-sg12152
-S'11/01/2013'
-p13587
-sg12154
-(lp13588
-g2131
-asg12156
-(lp13589
-S'Class'
-p13590
-assg4827
-(dp13591
-g12148
-S'1950'
-p13592
-sg12150
-S'Pollock, James Kerr'
-p13593
-sg11
-g4830
-sg12152
-S'11/01/2013'
-p13594
-sg12154
-(lp13595
-g4825
-asg12156
-(lp13596
-S'Class'
-p13597
-assg4959
-(dp13598
-g12148
-S'1950'
-p13599
-sg12150
-S'Pollock, James Kerr'
-p13600
-sg11
-g4962
-sg12152
-S'11/01/2013'
-p13601
-sg12154
-(lp13602
-g4957
-asg12156
-(lp13603
-S'Lectures'
-p13604
-aS'Class'
-p13605
-aS'Debates'
-p13606
-assg2421
-(dp13607
-g12148
-S'1989 February, 1983'
-p13608
-sg12150
-S'Bassett, Leslie'
 p13609
-sg11
-g2424
-sg12152
-S'6/05/2014'
-p13610
 sg12154
-(lp13611
-g2419
-ag2413
+(lp13610
+g3690
 asg12156
+(lp13611
+g3685
+asg12158
 (lp13612
-S'Musical performances'
+S'Radio programs'
 p13613
-aS'Musical performances'
+aS'Documentaries'
 p13614
-assg8067
+assg6639
 (dp13615
 g12148
-S'1983 February 25'
+S'1958 March 06'
 p13616
 sg12150
-S'Bassett, Leslie'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p13617
-sg11
-g8070
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p13618
 sg12154
 (lp13619
-g8065
+g6642
 asg12156
 (lp13620
-S'Musical performances'
-p13621
-assg1743
-(dp13622
-g12148
-S'1955, 1960 February 21'
-p13623
-sg12150
-S'Bassett, Leslie'
-p13624
-sg11
-g1746
-sg12152
-S'6/05/2014'
-p13625
-sg12154
-(lp13626
-g1741
-ag1735
-asg12156
-(lp13627
-S'Musical performances'
-p13628
-aS'Musical performances'
-p13629
-assg7605
-(dp13630
-g12148
-S'1954 August 29'
-p13631
-sg12150
-S'Cushing, George'
-p13632
-sg11
-g7608
-sg12152
-S'2/25/2015'
-p13633
-sg12154
-(lp13634
-g7603
-asg12156
-(lp13635
+g6637
+asg12158
+(lp13621
 S'Radio programs'
-p13636
-aS'Talk shows'
-p13637
-assg11427
-(dp13638
+p13622
+aS'Documentaries'
+p13623
+assg333
+(dp13624
 g12148
-S'1977 April 30, 1978 March 17'
-p13639
-sg12150
-S'Bassett, Leslie'
-p13640
-sg11
-g11430
-sg12152
-S'6/05/2014'
-p13641
-sg12154
-(lp13642
-g11425
-ag11419
-asg12156
-(lp13643
-S'Musical performances'
-p13644
-aS'Musical performances'
-p13645
-assg1869
-(dp13646
-g12148
-S'1952 August 12'
-p13647
-sg12150
-S'Bassett, Leslie'
-p13648
-sg11
-g1872
-sg12152
-S'6/05/2014'
-p13649
-sg12154
-(lp13650
-g1867
-asg12156
-(lp13651
-S'Musical performances'
-p13652
-aS'Radio programs'
-p13653
-assg5709
-(dp13654
-g12148
-S'1965 June 15'
-p13655
+S'1966 March 02'
+p13625
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13656
-sg11
-g5712
+p13626
 sg12152
 S'6/24/2013'
-p13657
+p13627
 sg12154
-(lp13658
-g5707
+(lp13628
+g336
 asg12156
-(lp13659
+(lp13629
+g331
+asg12158
+(lp13630
 S'Addresses'
-p13660
+p13631
 aS'Radio programs'
-p13661
-aS'Dedications (ceremonies)'
-p13662
-assg10563
-(dp13663
+p13632
+assg6501
+(dp13633
 g12148
-S'1949 January 05'
-p13664
+S'1967 October 05'
+p13634
 sg12150
-S'Cushing, George'
-p13665
-sg11
-g10566
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13635
 sg12152
-S'2/25/2015'
-p13666
+S'6/24/2013'
+p13636
 sg12154
-(lp13667
-g10561
+(lp13637
+g6504
 asg12156
-(lp13668
-S'Radio programs'
+(lp13638
+g6499
+asg12158
+(lp13639
+S'Addresses'
+p13640
+aS'Radio programs'
+p13641
+assg3813
+(dp13642
+g12148
+S'1961 November 04'
+p13643
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13644
+sg12152
+S'11/01/2013'
+p13645
+sg12154
+(lp13646
+g3816
+asg12156
+(lp13647
+g3811
+asg12158
+(lp13648
+S'Musical performances'
+p13649
+aS'Interviews'
+p13650
+assg9807
+(dp13651
+g12148
+S'1961 November 04'
+p13652
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13653
+sg12152
+S'11/01/2013'
+p13654
+sg12154
+(lp13655
+g9810
+asg12156
+(lp13656
+g9805
+asg12158
+(lp13657
+S'Musical performances'
+p13658
+aS'Interviews'
+p13659
+assg6213
+(dp13660
+g12148
+S'1967 February 28'
+p13661
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13662
+sg12152
+S'6/24/2013'
+p13663
+sg12154
+(lp13664
+g6216
+asg12156
+(lp13665
+g6211
+ag6205
+asg12158
+(lp13666
+S'Advertising'
+p13667
+aS'Radio programs'
+p13668
+aS'Advertising'
 p13669
-aS'Talk shows'
+aS'Radio programs'
 p13670
-assg1047
+assg5055
 (dp13671
 g12148
-S'1949 January 09'
+S'1960 January 15'
 p13672
 sg12150
-S'Cushing, George'
+S'Crane, Henry Hitt'
 p13673
-sg11
-g1050
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p13674
 sg12154
 (lp13675
-g1045
+g5058
 asg12156
 (lp13676
-S'Radio programs'
-p13677
-aS'Talk shows'
+g5053
+ag5059
+asg12158
+(lp13677
+S'Sermons'
 p13678
-assg5943
-(dp13679
+aS'Sermons'
+p13679
+assg7419
+(dp13680
 g12148
-S'1948 December 12'
-p13680
-sg12150
-S'Cushing, George'
+S'1962 October 15'
 p13681
-sg11
-g5946
-sg12152
-S'2/25/2015'
+sg12150
+S'Crane, Henry Hitt'
 p13682
+sg12152
+S'6/24/2013'
+p13683
 sg12154
-(lp13683
-g5941
-asg12156
 (lp13684
-S'Radio programs'
-p13685
-aS'Talk shows'
-p13686
-assg4563
-(dp13687
-g12148
-S'1948 December 19'
+g7422
+asg12156
+(lp13685
+g7417
+ag7423
+asg12158
+(lp13686
+S'Sermons'
+p13687
+aS'Sermons'
 p13688
-sg12150
-S'Cushing, George'
-p13689
-sg11
-g4566
-sg12152
-S'2/25/2015'
+assg1245
+(dp13689
+g12148
+S'1964 June 19'
 p13690
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13691
+sg12152
+S'11/01/2013'
+p13692
 sg12154
-(lp13691
-g4561
+(lp13693
+g1248
 asg12156
-(lp13692
-S'Radio programs'
-p13693
-aS'Talk shows'
-p13694
-assg5643
-(dp13695
-g12148
-S'1946 June 02'
+(lp13694
+g1243
+asg12158
+(lp13695
+S'Musical performances'
 p13696
-sg12150
-S'Cushing, George'
-p13697
-sg11
-g5646
-sg12152
-S'2/25/2015'
+assg10467
+(dp13697
+g12148
+S'1964 June 19'
 p13698
+sg12150
+S"University of Michigan. Men's Glee Club"
+p13699
+sg12152
+S'11/01/2013'
+p13700
 sg12154
-(lp13699
-g5641
+(lp13701
+g10470
 asg12156
-(lp13700
-S'Radio programs'
-p13701
-aS'Talk shows'
-p13702
-assg7251
-(dp13703
-g12148
-S'1946 May 26'
+(lp13702
+g10465
+asg12158
+(lp13703
+S'Musical performances'
 p13704
-sg12150
-S'Cushing, George'
-p13705
-sg11
-g7254
-sg12152
-S'2/25/2015'
+assg10617
+(dp13705
+g12148
+S'1950'
 p13706
+sg12150
+S'Pollock, James Kerr'
+p13707
+sg12152
+S'11/01/2013'
+p13708
 sg12154
-(lp13707
-g7249
+(lp13709
+g10620
 asg12156
-(lp13708
-S'Radio programs'
-p13709
-aS'Talk shows'
-p13710
-assg8463
-(dp13711
-g12148
-S'1948 October 24'
+(lp13710
+g10615
+asg12158
+(lp13711
+S'Lectures'
 p13712
-sg12150
-S'Cushing, George'
+aS'Class'
 p13713
-sg11
-g8466
-sg12152
-S'2/25/2015'
+aS'Debates'
 p13714
-sg12154
-(lp13715
-g8461
-asg12156
-(lp13716
-S'Radio programs'
+assg8301
+(dp13715
+g12148
+S'1950 January 10'
+p13716
+sg12150
+S'Pollock, James Kerr'
 p13717
-aS'Talk shows'
+sg12152
+S'11/01/2013'
 p13718
-assg9147
-(dp13719
-g12148
-S'1948 October 17'
-p13720
-sg12150
-S'Cushing, George'
-p13721
-sg11
-g9150
-sg12152
-S'2/25/2015'
+sg12154
+(lp13719
+g8304
+asg12156
+(lp13720
+g8299
+asg12158
+(lp13721
+S'Lectures'
 p13722
-sg12154
-(lp13723
-g9145
-asg12156
-(lp13724
-S'Radio programs'
-p13725
-aS'Talk shows'
-p13726
-assg10803
-(dp13727
+aS'Class'
+p13723
+aS'Debates'
+p13724
+assg2043
+(dp13725
 g12148
-S'1948 November 07'
-p13728
+S'1950 March 07'
+p13726
 sg12150
-S'Cushing, George'
-p13729
-sg11
-g10806
+S'Pollock, James Kerr'
+p13727
 sg12152
-S'2/25/2015'
-p13730
+S'11/01/2013'
+p13728
 sg12154
-(lp13731
-g10801
+(lp13729
+g2046
 asg12156
-(lp13732
-S'Radio programs'
+(lp13730
+g2041
+asg12158
+(lp13731
+S'Lectures'
+p13732
+aS'Class'
 p13733
-aS'Talk shows'
+aS'Debates'
 p13734
-assg2493
+assg4785
 (dp13735
 g12148
-S'1948 October 31'
+S'1950'
 p13736
 sg12150
-S'Cushing, George'
+S'Pollock, James Kerr'
 p13737
-sg11
-g2496
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p13738
 sg12154
 (lp13739
-g2491
+g4788
 asg12156
 (lp13740
-S'Radio programs'
-p13741
-aS'Talk shows'
+g4783
+asg12158
+(lp13741
+S'Lectures'
 p13742
-assg11643
-(dp13743
-g12148
-S'1948 November 21'
+aS'Class'
+p13743
+aS'Debates'
 p13744
-sg12150
-S'Cushing, George'
-p13745
-sg11
-g11646
-sg12152
-S'2/25/2015'
+assg4947
+(dp13745
+g12148
+S'1970 December 24'
 p13746
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13747
+sg12152
+S'6/24/2013'
+p13748
 sg12154
-(lp13747
-g11641
+(lp13749
+g4950
 asg12156
-(lp13748
-S'Radio programs'
-p13749
-aS'Talk shows'
-p13750
-assg5979
-(dp13751
-g12148
-S'1948 November 13'
+(lp13750
+g4945
+asg12158
+(lp13751
+S'Literary readings'
 p13752
-sg12150
-S'Cushing, George'
+aS'Musical performances'
 p13753
-sg11
-g5982
-sg12152
-S'2/25/2015'
+aS'Radio programs'
 p13754
-sg12154
-(lp13755
-g5977
-asg12156
-(lp13756
-S'Radio programs'
+aS'Dramatic readings'
+p13755
+assg8319
+(dp13756
+g12148
+S'1950 March 07'
 p13757
-aS'Talk shows'
+sg12150
+S'Pollock, James Kerr'
 p13758
-assg2937
-(dp13759
-g12148
-S'1948 December 05'
-p13760
-sg12150
-S'Cushing, George'
-p13761
-sg11
-g2940
 sg12152
-S'2/25/2015'
-p13762
+S'11/01/2013'
+p13759
 sg12154
-(lp13763
-g2935
+(lp13760
+g8322
 asg12156
-(lp13764
-S'Radio programs'
-p13765
-aS'Talk shows'
+(lp13761
+g8317
+ag8311
+asg12158
+(lp13762
+S'Class'
+p13763
+aS'Class'
+p13764
+assg2133
+(dp13765
+g12148
+S'1950'
 p13766
-assg2943
-(dp13767
-g12148
-S'1946 March 17'
+sg12150
+S'Pollock, James Kerr'
+p13767
+sg12152
+S'11/01/2013'
 p13768
-sg12150
-S'Cushing, George'
-p13769
-sg11
-g2946
-sg12152
-S'2/25/2015'
-p13770
 sg12154
+(lp13769
+g2136
+asg12156
+(lp13770
+g2131
+asg12158
 (lp13771
-g2941
-asg12156
-(lp13772
-S'Radio programs'
-p13773
-aS'Talk shows'
+S'Class'
+p13772
+assg4827
+(dp13773
+g12148
+S'1950'
 p13774
-assg5937
-(dp13775
-g12148
-S'1946 April 07'
+sg12150
+S'Pollock, James Kerr'
+p13775
+sg12152
+S'11/01/2013'
 p13776
-sg12150
-S'Cushing, George'
-p13777
-sg11
-g5940
-sg12152
-S'2/25/2015'
-p13778
 sg12154
+(lp13777
+g4830
+asg12156
+(lp13778
+g4825
+asg12158
 (lp13779
-g5935
-asg12156
-(lp13780
-S'Radio programs'
-p13781
-aS'Talk shows'
-p13782
-assg8745
-(dp13783
+S'Class'
+p13780
+assg4959
+(dp13781
 g12148
-S'1946 March 31'
-p13784
+S'1950'
+p13782
 sg12150
-S'Cushing, George'
-p13785
-sg11
-g8748
+S'Pollock, James Kerr'
+p13783
 sg12152
-S'2/25/2015'
-p13786
+S'11/01/2013'
+p13784
 sg12154
-(lp13787
-g8743
+(lp13785
+g4962
 asg12156
-(lp13788
-S'Radio programs'
+(lp13786
+g4957
+asg12158
+(lp13787
+S'Lectures'
+p13788
+aS'Class'
 p13789
-aS'Talk shows'
+aS'Debates'
 p13790
-assg2889
+assg2421
 (dp13791
 g12148
-S'1946 April 21'
+S'1989 February, 1983'
 p13792
 sg12150
-S'Cushing, George'
+S'Bassett, Leslie'
 p13793
-sg11
-g2892
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p13794
 sg12154
 (lp13795
-g2887
+g2424
 asg12156
 (lp13796
-S'Radio programs'
-p13797
-aS'Talk shows'
+g2419
+ag2413
+asg12158
+(lp13797
+S'Musical performances'
 p13798
-assg9177
-(dp13799
+aS'Musical performances'
+p13799
+assg8067
+(dp13800
 g12148
-S'1946 May 19'
-p13800
-sg12150
-S'Cushing, George'
+S'1983 February 25'
 p13801
-sg11
-g9180
-sg12152
-S'2/25/2015'
+sg12150
+S'Bassett, Leslie'
 p13802
+sg12152
+S'6/05/2014'
+p13803
 sg12154
-(lp13803
-g9175
-asg12156
 (lp13804
-S'Radio programs'
-p13805
-aS'Talk shows'
-p13806
-assg11727
-(dp13807
+g8070
+asg12156
+(lp13805
+g8065
+asg12158
+(lp13806
+S'Musical performances'
+p13807
+assg1743
+(dp13808
 g12148
-S'1946 May 12'
-p13808
-sg12150
-S'Cushing, George'
+S'1955, 1960 February 21'
 p13809
-sg11
-g11730
-sg12152
-S'2/25/2015'
+sg12150
+S'Bassett, Leslie'
 p13810
+sg12152
+S'6/05/2014'
+p13811
 sg12154
-(lp13811
-g11725
-asg12156
 (lp13812
-S'Radio programs'
-p13813
-aS'Talk shows'
-p13814
-assg7185
-(dp13815
-g12148
-S'1949 January 30'
+g1746
+asg12156
+(lp13813
+g1741
+ag1735
+asg12158
+(lp13814
+S'Musical performances'
+p13815
+aS'Musical performances'
 p13816
-sg12150
-S'Cushing, George'
-p13817
-sg11
-g7188
-sg12152
-S'2/25/2015'
+assg7605
+(dp13817
+g12148
+S'1954 August 29'
 p13818
-sg12154
-(lp13819
-g7183
-asg12156
-(lp13820
-S'Radio programs'
-p13821
-aS'Talk shows'
-p13822
-assg7239
-(dp13823
-g12148
-S'1972 January 31'
-p13824
-sg12150
-S'Sinclair, John and Leni'
-p13825
-sg11
-g7242
-sg12152
-S'6/24/2013'
-p13826
-sg12154
-(lp13827
-g7237
-ag7225
-ag7231
-ag7213
-asg12156
-(lp13828
-S'Meetings'
-p13829
-aS'Meetings'
-p13830
-aS'Meetings'
-p13831
-aS'Meetings'
-p13832
-assg7509
-(dp13833
-g12148
-S'1949 March 06'
-p13834
 sg12150
 S'Cushing, George'
-p13835
-sg11
-g7512
+p13819
 sg12152
 S'2/25/2015'
-p13836
+p13820
 sg12154
-(lp13837
-g7507
+(lp13821
+g7608
 asg12156
-(lp13838
+(lp13822
+g7603
+asg12158
+(lp13823
 S'Radio programs'
-p13839
+p13824
 aS'Talk shows'
-p13840
-assg3027
-(dp13841
+p13825
+assg11427
+(dp13826
 g12148
-S'1962 April 02'
+S'1977 April 30, 1978 March 17'
+p13827
+sg12150
+S'Bassett, Leslie'
+p13828
+sg12152
+S'6/05/2014'
+p13829
+sg12154
+(lp13830
+g11430
+asg12156
+(lp13831
+g11425
+ag11419
+asg12158
+(lp13832
+S'Musical performances'
+p13833
+aS'Musical performances'
+p13834
+assg1869
+(dp13835
+g12148
+S'1952 August 12'
+p13836
+sg12150
+S'Bassett, Leslie'
+p13837
+sg12152
+S'6/05/2014'
+p13838
+sg12154
+(lp13839
+g1872
+asg12156
+(lp13840
+g1867
+asg12158
+(lp13841
+S'Musical performances'
 p13842
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Radio programs'
 p13843
-sg11
-g3030
+assg5709
+(dp13844
+g12148
+S'1965 June 15'
+p13845
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p13846
 sg12152
 S'6/24/2013'
-p13844
-sg12154
-(lp13845
-g3025
-asg12156
-(lp13846
-S'Lectures'
 p13847
-aS'Radio programs'
-p13848
-aS'Poetry readings'
-p13849
-assg3009
-(dp13850
-g12148
-S'1961 August 30'
-p13851
-sg12150
-S'Romney, George'
-p13852
-sg11
-g3012
-sg12152
-S'6/05/2014'
-p13853
 sg12154
-(lp13854
-g3007
+(lp13848
+g5712
 asg12156
-(lp13855
-S'Press conferences'
-p13856
-assg93
-(dp13857
-g12148
-S'1961 August 30'
-p13858
-sg12150
-S'Romney, George'
-p13859
-sg11
-g96
-sg12152
-S'6/05/2014'
-p13860
-sg12154
-(lp13861
-g91
-asg12156
-(lp13862
-S'Press conferences'
-p13863
-assg9591
-(dp13864
-g12148
-S'1961 August 30'
-p13865
-sg12150
-S'Romney, George'
-p13866
-sg11
-g9594
-sg12152
-S'6/05/2014'
-p13867
-sg12154
-(lp13868
-g9589
-asg12156
-(lp13869
-S'Press conferences'
-p13870
-assg207
-(dp13871
-g12148
-S'[Undated], 1982 November 1'
-p13872
-sg12150
-S'University of Michigan. Alumni Association.'
-p13873
-sg11
-g210
-sg12152
-S'11/01/2013'
-p13874
-sg12154
-(lp13875
-g205
-ag199
-asg12156
-(lp13876
-S'Conferences'
-p13877
-aS'Conferences'
-p13878
-assg10089
-(dp13879
-g12148
-S'1980 April 23'
-p13880
-sg12150
-S'Galens Medical Society'
-p13881
-sg11
-g10092
-sg12152
-S'6/05/2014'
-p13882
-sg12154
-(lp13883
-g10087
-ag10081
-asg12156
-(lp13884
-S'Musical performances'
-p13885
-aS'Dramatic readings'
-p13886
-aS'Musical performances'
-p13887
-aS'Dramatic readings'
-p13888
-assg3711
-(dp13889
-g12148
-S'1961 October 27-28'
-p13890
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13891
-sg11
-g3714
-sg12152
-S'6/24/2013'
-p13892
-sg12154
-(lp13893
-g3709
-asg12156
-(lp13894
-S'Radio programs'
-p13895
-aS'Conferences'
-p13896
-aS'Panel discussions'
-p13897
-assg9849
-(dp13898
-g12148
-S'1961 October 27-28'
-p13899
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13900
-sg11
-g9852
-sg12152
-S'6/24/2013'
-p13901
-sg12154
-(lp13902
-g9847
-asg12156
-(lp13903
-S'Radio programs'
-p13904
-aS'Panel discussions'
-p13905
-assg369
-(dp13906
-g12148
-S'1961 October 27-28'
-p13907
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13908
-sg11
-g372
-sg12152
-S'6/24/2013'
-p13909
-sg12154
-(lp13910
-g367
-asg12156
-(lp13911
-S'Radio programs'
-p13912
-aS'Panel discussions'
-p13913
-assg6519
-(dp13914
-g12148
-S'1967 November 29'
-p13915
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p13916
-sg11
-g6522
-sg12152
-S'6/24/2013'
-p13917
-sg12154
-(lp13918
-g6517
-asg12156
-(lp13919
+(lp13849
+g5707
+asg12158
+(lp13850
 S'Addresses'
-p13920
+p13851
 aS'Radio programs'
-p13921
+p13852
 aS'Dedications (ceremonies)'
-p13922
-assg9933
-(dp13923
+p13853
+assg10563
+(dp13854
 g12148
-S'1969 October 29, 1971 January 11, 1975 October 23'
+S'1949 January 05'
+p13855
+sg12150
+S'Cushing, George'
+p13856
+sg12152
+S'2/25/2015'
+p13857
+sg12154
+(lp13858
+g10566
+asg12156
+(lp13859
+g10561
+asg12158
+(lp13860
+S'Radio programs'
+p13861
+aS'Talk shows'
+p13862
+assg1047
+(dp13863
+g12148
+S'1949 January 09'
+p13864
+sg12150
+S'Cushing, George'
+p13865
+sg12152
+S'2/25/2015'
+p13866
+sg12154
+(lp13867
+g1050
+asg12156
+(lp13868
+g1045
+asg12158
+(lp13869
+S'Radio programs'
+p13870
+aS'Talk shows'
+p13871
+assg5943
+(dp13872
+g12148
+S'1948 December 12'
+p13873
+sg12150
+S'Cushing, George'
+p13874
+sg12152
+S'2/25/2015'
+p13875
+sg12154
+(lp13876
+g5946
+asg12156
+(lp13877
+g5941
+asg12158
+(lp13878
+S'Radio programs'
+p13879
+aS'Talk shows'
+p13880
+assg4563
+(dp13881
+g12148
+S'1948 December 19'
+p13882
+sg12150
+S'Cushing, George'
+p13883
+sg12152
+S'2/25/2015'
+p13884
+sg12154
+(lp13885
+g4566
+asg12156
+(lp13886
+g4561
+asg12158
+(lp13887
+S'Radio programs'
+p13888
+aS'Talk shows'
+p13889
+assg5643
+(dp13890
+g12148
+S'1946 June 02'
+p13891
+sg12150
+S'Cushing, George'
+p13892
+sg12152
+S'2/25/2015'
+p13893
+sg12154
+(lp13894
+g5646
+asg12156
+(lp13895
+g5641
+asg12158
+(lp13896
+S'Radio programs'
+p13897
+aS'Talk shows'
+p13898
+assg7251
+(dp13899
+g12148
+S'1946 May 26'
+p13900
+sg12150
+S'Cushing, George'
+p13901
+sg12152
+S'2/25/2015'
+p13902
+sg12154
+(lp13903
+g7254
+asg12156
+(lp13904
+g7249
+asg12158
+(lp13905
+S'Radio programs'
+p13906
+aS'Talk shows'
+p13907
+assg8463
+(dp13908
+g12148
+S'1948 October 24'
+p13909
+sg12150
+S'Cushing, George'
+p13910
+sg12152
+S'2/25/2015'
+p13911
+sg12154
+(lp13912
+g8466
+asg12156
+(lp13913
+g8461
+asg12158
+(lp13914
+S'Radio programs'
+p13915
+aS'Talk shows'
+p13916
+assg9147
+(dp13917
+g12148
+S'1948 October 17'
+p13918
+sg12150
+S'Cushing, George'
+p13919
+sg12152
+S'2/25/2015'
+p13920
+sg12154
+(lp13921
+g9150
+asg12156
+(lp13922
+g9145
+asg12158
+(lp13923
+S'Radio programs'
 p13924
-sg12150
-S'Bassett, Leslie'
+aS'Talk shows'
 p13925
-sg11
-g9936
+assg10803
+(dp13926
+g12148
+S'1948 November 07'
+p13927
+sg12150
+S'Cushing, George'
+p13928
 sg12152
-S'6/05/2014'
-p13926
-sg12154
-(lp13927
-g9931
-asg12156
-(lp13928
-S'Musical performances'
+S'2/25/2015'
 p13929
-assg7317
-(dp13930
-g12148
-S'1973 May 01'
-p13931
-sg12150
-S'Bassett, Leslie'
-p13932
-sg11
-g7320
-sg12152
-S'6/05/2014'
+sg12154
+(lp13930
+g10806
+asg12156
+(lp13931
+g10801
+asg12158
+(lp13932
+S'Radio programs'
 p13933
-sg12154
-(lp13934
-g7315
-ag7321
-asg12156
-(lp13935
-S'Musical performances'
+aS'Talk shows'
+p13934
+assg2493
+(dp13935
+g12148
+S'1948 October 31'
 p13936
-aS'Musical performances'
+sg12150
+S'Cushing, George'
 p13937
-assg3645
-(dp13938
-g12148
-S'[1962?], 1966 January 13'
-p13939
-sg12150
-S'Bassett, Leslie'
-p13940
-sg11
-g3648
 sg12152
-S'6/05/2014'
-p13941
+S'2/25/2015'
+p13938
 sg12154
-(lp13942
-g3643
-ag3637
+(lp13939
+g2496
 asg12156
-(lp13943
-S'Musical performances'
-p13944
-aS'Musical performances'
+(lp13940
+g2491
+asg12158
+(lp13941
+S'Radio programs'
+p13942
+aS'Talk shows'
+p13943
+assg11643
+(dp13944
+g12148
+S'1948 November 21'
 p13945
-assg867
-(dp13946
-g12148
-S'1960, 1961 January 09'
-p13947
 sg12150
-S'Bassett, Leslie'
-p13948
-sg11
-g870
+S'Cushing, George'
+p13946
 sg12152
-S'6/05/2014'
-p13949
+S'2/25/2015'
+p13947
 sg12154
-(lp13950
-g865
+(lp13948
+g11646
 asg12156
-(lp13951
-S'Interviews'
+(lp13949
+g11641
+asg12158
+(lp13950
+S'Radio programs'
+p13951
+aS'Talk shows'
 p13952
-assg10347
+assg5979
 (dp13953
 g12148
-S'1962 June 10'
+S'1948 November 13'
 p13954
 sg12150
-S'Bassett, Leslie'
+S'Cushing, George'
 p13955
-sg11
-g10350
 sg12152
-S'6/05/2014'
+S'2/25/2015'
 p13956
 sg12154
 (lp13957
-g10345
+g5982
 asg12156
 (lp13958
-S'Musical performances'
-p13959
-assg7359
-(dp13960
-g12148
-S'1958 January 31'
+g5977
+asg12158
+(lp13959
+S'Radio programs'
+p13960
+aS'Talk shows'
 p13961
-sg12150
-S'Brucker, Wilber Marion'
-p13962
-sg11
-g7362
-sg12152
-S'11/01/2013'
+assg2937
+(dp13962
+g12148
+S'1948 December 05'
 p13963
-sg12154
-(lp13964
-g7357
-asg12156
-(lp13965
-S'Radio programs'
-p13966
-assg4671
-(dp13967
-g12148
-S'1958 January 31'
-p13968
 sg12150
-S'Brucker, Wilber Marion'
+S'Cushing, George'
+p13964
+sg12152
+S'2/25/2015'
+p13965
+sg12154
+(lp13966
+g2940
+asg12156
+(lp13967
+g2935
+asg12158
+(lp13968
+S'Radio programs'
 p13969
-sg11
-g4674
-sg12152
-S'11/01/2013'
+aS'Talk shows'
 p13970
-sg12154
-(lp13971
-g4669
-asg12156
-(lp13972
-S'Radio programs'
+assg2943
+(dp13971
+g12148
+S'1946 March 17'
+p13972
+sg12150
+S'Cushing, George'
 p13973
-assg10701
-(dp13974
-g12148
-S'1958 January 31'
-p13975
-sg12150
-S'Brucker, Wilber Marion'
-p13976
-sg11
-g10704
 sg12152
-S'11/01/2013'
-p13977
+S'2/25/2015'
+p13974
 sg12154
-(lp13978
-g10699
+(lp13975
+g2946
 asg12156
-(lp13979
+(lp13976
+g2941
+asg12158
+(lp13977
 S'Radio programs'
-p13980
-assg993
-(dp13981
+p13978
+aS'Talk shows'
+p13979
+assg5937
+(dp13980
 g12148
-S'1958 January 31'
-p13982
+S'1946 April 07'
+p13981
 sg12150
-S'Brucker, Wilber Marion'
-p13983
-sg11
-g996
+S'Cushing, George'
+p13982
 sg12152
-S'11/01/2013'
-p13984
+S'2/25/2015'
+p13983
 sg12154
-(lp13985
-g991
+(lp13984
+g5940
 asg12156
+(lp13985
+g5935
+asg12158
 (lp13986
 S'Radio programs'
 p13987
-assg10725
-(dp13988
+aS'Talk shows'
+p13988
+assg8745
+(dp13989
 g12148
-S'1958 January 31'
-p13989
-sg12150
-S'Brucker, Wilber Marion'
+S'1946 March 31'
 p13990
-sg11
-g10728
-sg12152
-S'11/01/2013'
+sg12150
+S'Cushing, George'
 p13991
+sg12152
+S'2/25/2015'
+p13992
 sg12154
-(lp13992
-g10723
-asg12156
 (lp13993
+g8748
+asg12156
+(lp13994
+g8743
+asg12158
+(lp13995
 S'Radio programs'
-p13994
-assg1209
-(dp13995
-g12148
-S'1958 January 31'
 p13996
-sg12150
-S'Brucker, Wilber Marion'
+aS'Talk shows'
 p13997
-sg11
-g1212
+assg2889
+(dp13998
+g12148
+S'1946 April 21'
+p13999
+sg12150
+S'Cushing, George'
+p14000
 sg12152
-S'11/01/2013'
-p13998
-sg12154
-(lp13999
-g1207
-asg12156
-(lp14000
-S'Radio programs'
+S'2/25/2015'
 p14001
-assg1659
-(dp14002
-g12148
-S'[Undated]'
-p14003
-sg12150
-S'Cacioppo, George'
-p14004
-sg11
-g1662
-sg12152
-S'2/25/2015'
+sg12154
+(lp14002
+g2892
+asg12156
+(lp14003
+g2887
+asg12158
+(lp14004
+S'Radio programs'
 p14005
-sg12154
-(lp14006
-g1657
-asg12156
-(lp14007
-S'Musical performances'
-p14008
-assg4413
-(dp14009
+aS'Talk shows'
+p14006
+assg9177
+(dp14007
 g12148
-S'[Undated]'
-p14010
+S'1946 May 19'
+p14008
 sg12150
-S'Cacioppo, George'
-p14011
-sg11
-g4416
+S'Cushing, George'
+p14009
 sg12152
 S'2/25/2015'
-p14012
+p14010
 sg12154
-(lp14013
-g4411
+(lp14011
+g9180
 asg12156
-(lp14014
-S'Musical performances'
+(lp14012
+g9175
+asg12158
+(lp14013
+S'Radio programs'
+p14014
+aS'Talk shows'
 p14015
-assg10491
+assg11727
 (dp14016
 g12148
-S'1968 January 17'
+S'1946 May 12'
 p14017
 sg12150
-S'Cacioppo, George'
+S'Cushing, George'
 p14018
-sg11
-g10494
 sg12152
 S'2/25/2015'
 p14019
 sg12154
 (lp14020
-g10489
+g11730
 asg12156
 (lp14021
-S'Musical performances'
-p14022
-assg7923
-(dp14023
-g12148
-S'[Undated]'
+g11725
+asg12158
+(lp14022
+S'Radio programs'
+p14023
+aS'Talk shows'
 p14024
-sg12150
-S'Cacioppo, George'
-p14025
-sg11
-g7926
-sg12152
-S'2/25/2015'
+assg7185
+(dp14025
+g12148
+S'1949 January 30'
 p14026
-sg12154
-(lp14027
-g7921
-asg12156
-(lp14028
-S'Musical performances'
-p14029
-assg4971
-(dp14030
-g12148
-S'[Undated]'
-p14031
 sg12150
-S'Cacioppo, George'
+S'Cushing, George'
+p14027
+sg12152
+S'2/25/2015'
+p14028
+sg12154
+(lp14029
+g7188
+asg12156
+(lp14030
+g7183
+asg12158
+(lp14031
+S'Radio programs'
 p14032
-sg11
-g4974
-sg12152
-S'2/25/2015'
+aS'Talk shows'
 p14033
-sg12154
-(lp14034
-g4969
-asg12156
-(lp14035
-S'Musical performances'
-p14036
-assg7713
-(dp14037
+assg7239
+(dp14034
 g12148
-S'[Undated]'
-p14038
-sg12150
-S'Cacioppo, George'
-p14039
-sg11
-g7716
-sg12152
-S'2/25/2015'
-p14040
-sg12154
-(lp14041
-g7711
-asg12156
-(lp14042
-S'Musical performances'
-p14043
-assg2091
-(dp14044
-g12148
-S'[Undated]'
-p14045
-sg12150
-S'Cacioppo, George'
-p14046
-sg11
-g2094
-sg12152
-S'2/25/2015'
-p14047
-sg12154
-(lp14048
-g2089
-asg12156
-(lp14049
-S'Musical performances'
-p14050
-assg11031
-(dp14051
-g12148
-S'[Undated]'
-p14052
-sg12150
-S'Cacioppo, George'
-p14053
-sg11
-g11034
-sg12152
-S'2/25/2015'
-p14054
-sg12154
-(lp14055
-g11029
-asg12156
-(lp14056
-S'Musical performances'
-p14057
-assg10449
-(dp14058
-g12148
-S'[Undated]'
-p14059
+S'1972 January 31'
+p14035
 sg12150
 S'Sinclair, John and Leni'
-p14060
-sg11
-g10452
+p14036
 sg12152
 S'6/24/2013'
-p14061
+p14037
 sg12154
-(lp14062
-g10447
+(lp14038
+g7242
 asg12156
-(lp14063
-S'Interviews'
-p14064
-aS'Radio programs'
-p14065
+(lp14039
+g7237
+ag7225
+ag7231
+ag7213
+asg12158
+(lp14040
+S'Meetings'
+p14041
+aS'Meetings'
+p14042
+aS'Meetings'
+p14043
+aS'Meetings'
+p14044
+assg7509
+(dp14045
+g12148
+S'1949 March 06'
+p14046
+sg12150
+S'Cushing, George'
+p14047
+sg12152
+S'2/25/2015'
+p14048
+sg12154
+(lp14049
+g7512
+asg12156
+(lp14050
+g7507
+asg12158
+(lp14051
+S'Radio programs'
+p14052
 aS'Talk shows'
+p14053
+assg3027
+(dp14054
+g12148
+S'1962 April 02'
+p14055
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14056
+sg12152
+S'6/24/2013'
+p14057
+sg12154
+(lp14058
+g3030
+asg12156
+(lp14059
+g3025
+asg12158
+(lp14060
+S'Lectures'
+p14061
+aS'Radio programs'
+p14062
+aS'Poetry readings'
+p14063
+assg3009
+(dp14064
+g12148
+S'1961 August 30'
+p14065
+sg12150
+S'Romney, George'
 p14066
-assg1893
-(dp14067
-g12148
-S'[Undated]'
-p14068
-sg12150
-S'Cacioppo, George'
-p14069
-sg11
-g1896
 sg12152
-S'2/25/2015'
-p14070
+S'6/05/2014'
+p14067
 sg12154
-(lp14071
-g1891
+(lp14068
+g3012
 asg12156
-(lp14072
-S'Musical performances'
+(lp14069
+g3007
+asg12158
+(lp14070
+S'Press conferences'
+p14071
+assg93
+(dp14072
+g12148
+S'1961 August 30'
 p14073
-assg3513
-(dp14074
-g12148
-S'[Undated]'
+sg12150
+S'Romney, George'
+p14074
+sg12152
+S'6/05/2014'
 p14075
-sg12150
-S'Cacioppo, George'
-p14076
-sg11
-g3516
-sg12152
-S'2/25/2015'
-p14077
 sg12154
+(lp14076
+g96
+asg12156
+(lp14077
+g91
+asg12158
 (lp14078
-g3511
-asg12156
-(lp14079
-S'Musical performances'
-p14080
-assg4791
-(dp14081
+S'Press conferences'
+p14079
+assg9591
+(dp14080
 g12148
-S'1965 March 20'
+S'1961 August 30'
+p14081
+sg12150
+S'Romney, George'
 p14082
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12152
+S'6/05/2014'
 p14083
-sg11
-g4794
-sg12152
-S'6/24/2013'
-p14084
 sg12154
+(lp14084
+g9594
+asg12156
 (lp14085
-g4789
-asg12156
+g9589
+asg12158
 (lp14086
-S'Radio programs'
+S'Press conferences'
 p14087
-aS'Poetry readings'
-p14088
-assg2385
-(dp14089
+assg207
+(dp14088
 g12148
-S'1962 November 20'
+S'[Undated], 1982 November 1'
+p14089
+sg12150
+S'University of Michigan. Alumni Association.'
 p14090
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14091
-sg11
-g2388
-sg12152
-S'6/24/2013'
-p14092
-sg12154
-(lp14093
-g2383
-asg12156
-(lp14094
-S'Radio programs'
-p14095
-aS'Poetry readings'
-p14096
-assg10761
-(dp14097
-g12148
-S'1956 June 09'
-p14098
-sg12150
-S'Williams, G. Mennen'
-p14099
-sg11
-g10764
 sg12152
 S'11/01/2013'
+p14091
+sg12154
+(lp14092
+g210
+asg12156
+(lp14093
+g205
+ag199
+asg12158
+(lp14094
+S'Conferences'
+p14095
+aS'Conferences'
+p14096
+assg10089
+(dp14097
+g12148
+S'1980 April 23'
+p14098
+sg12150
+S'Galens Medical Society'
+p14099
+sg12152
+S'6/05/2014'
 p14100
 sg12154
 (lp14101
-g10759
+g10092
 asg12156
 (lp14102
-S'Television'
-p14103
-assg1959
-(dp14104
-g12148
-S'1958 June 23'
-p14105
-sg12150
-S'Williams, G. Mennen'
-p14106
-sg11
-g1962
-sg12152
-S'11/01/2013'
-p14107
-sg12154
-(lp14108
-g1957
-asg12156
-(lp14109
-S'Television'
-p14110
-assg5949
-(dp14111
-g12148
-S'1985 April 13'
-p14112
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14113
-sg11
-g5952
-sg12152
-S'11/01/2013'
-p14114
-sg12154
-(lp14115
-g5947
-asg12156
-(lp14116
+g10087
+ag10081
+asg12158
+(lp14103
 S'Musical performances'
+p14104
+aS'Dramatic readings'
+p14105
+aS'Musical performances'
+p14106
+aS'Dramatic readings'
+p14107
+assg3711
+(dp14108
+g12148
+S'1961 October 27-28'
+p14109
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14110
+sg12152
+S'6/24/2013'
+p14111
+sg12154
+(lp14112
+g3714
+asg12156
+(lp14113
+g3709
+asg12158
+(lp14114
+S'Radio programs'
+p14115
+aS'Conferences'
+p14116
+aS'Panel discussions'
 p14117
-assg11919
+assg9849
 (dp14118
 g12148
-S'1985 April 13'
+S'1961 October 27-28'
 p14119
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p14120
-sg11
-g11922
 sg12152
-S'11/01/2013'
+S'6/24/2013'
 p14121
 sg12154
 (lp14122
-g11917
+g9852
 asg12156
 (lp14123
-S'Musical performances'
-p14124
-assg27
-(dp14125
-g12148
-S'1967 August'
+g9847
+asg12158
+(lp14124
+S'Radio programs'
+p14125
+aS'Panel discussions'
 p14126
-sg12150
-S'Romney, Lenore'
-p14127
-sg11
-g30
-sg12152
-S'6/05/2014'
+assg369
+(dp14127
+g12148
+S'1961 October 27-28'
 p14128
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14129
+sg12152
+S'6/24/2013'
+p14130
 sg12154
-(lp14129
-g25
+(lp14131
+g372
 asg12156
-(lp14130
-S'Addresses'
-p14131
-aS'Interviews'
-p14132
-assg5679
-(dp14133
-g12148
-S'1966 October 01'
+(lp14132
+g367
+asg12158
+(lp14133
+S'Radio programs'
 p14134
-sg12150
-S'Romney, Lenore'
+aS'Panel discussions'
 p14135
-sg11
-g5682
+assg6519
+(dp14136
+g12148
+S'1967 November 29'
+p14137
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14138
 sg12152
-S'6/05/2014'
-p14136
-sg12154
-(lp14137
-g5677
-asg12156
-(lp14138
-S'Addresses'
+S'6/24/2013'
 p14139
-assg9297
-(dp14140
-g12148
-S'1966 September 23'
-p14141
-sg12150
-S'Romney, Lenore'
-p14142
-sg11
-g9300
-sg12152
-S'6/05/2014'
+sg12154
+(lp14140
+g6522
+asg12156
+(lp14141
+g6517
+asg12158
+(lp14142
+S'Addresses'
 p14143
-sg12154
-(lp14144
-g9295
-asg12156
-(lp14145
-S'Addresses'
-p14146
-assg11691
-(dp14147
+aS'Radio programs'
+p14144
+aS'Dedications (ceremonies)'
+p14145
+assg9933
+(dp14146
 g12148
-S'1966 August 03'
+S'1969 October 29, 1971 January 11, 1975 October 23'
+p14147
+sg12150
+S'Bassett, Leslie'
 p14148
-sg12150
-S'Romney, Lenore'
+sg12152
+S'6/05/2014'
 p14149
-sg11
-g11694
-sg12152
-S'6/05/2014'
-p14150
 sg12154
+(lp14150
+g9936
+asg12156
 (lp14151
-g11689
-asg12156
+g9931
+asg12158
 (lp14152
-S'Addresses'
+S'Musical performances'
 p14153
-aS'Musical performances'
-p14154
-assg5883
-(dp14155
+assg7317
+(dp14154
 g12148
-S'1967 April 16'
+S'1973 May 01'
+p14155
+sg12150
+S'Bassett, Leslie'
 p14156
-sg12150
-S'Romney, Lenore'
+sg12152
+S'6/05/2014'
 p14157
-sg11
-g5886
-sg12152
-S'6/05/2014'
-p14158
 sg12154
+(lp14158
+g7320
+asg12156
 (lp14159
-g5881
-asg12156
+g7315
+ag7321
+asg12158
 (lp14160
-S'Interviews'
+S'Musical performances'
 p14161
-assg3195
-(dp14162
-g12148
-S'1970 March 14'
-p14163
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14164
-sg11
-g3198
-sg12152
-S'6/24/2013'
-p14165
-sg12154
-(lp14166
-g3193
-asg12156
-(lp14167
-S'Radio programs'
-p14168
-aS'Panel discussions'
-p14169
-assg5025
-(dp14170
-g12148
-S'1969 November 22'
-p14171
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14172
-sg11
-g5028
-sg12152
-S'11/01/2013'
-p14173
-sg12154
-(lp14174
-g5023
-ag5029
-asg12156
-(lp14175
-S'Musical performances'
-p14176
 aS'Musical performances'
-p14177
-assg11985
-(dp14178
+p14162
+assg3645
+(dp14163
 g12148
-S'1969 November 22'
-p14179
+S'[1962?], 1966 January 13'
+p14164
 sg12150
-S"University of Michigan. Men's Glee Club"
-p14180
-sg11
-g11988
-sg12152
-S'11/01/2013'
-p14181
-sg12154
-(lp14182
-g11983
-asg12156
-(lp14183
-S'Musical performances'
-p14184
-assg2727
-(dp14185
-g12148
-S'1959 July 20'
-p14186
-sg12150
-S'Staebler, Neil'
-p14187
-sg11
-g2730
-sg12152
-S'2/25/2015'
-p14188
-sg12154
-(lp14189
-g2725
-ag2731
-asg12156
-(lp14190
-S'Addresses'
-p14191
-aS'Addresses'
-p14192
-assg303
-(dp14193
-g12148
-S'1968 March 19'
-p14194
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14195
-sg11
-g306
-sg12152
-S'6/24/2013'
-p14196
-sg12154
-(lp14197
-g301
-asg12156
-(lp14198
-S'Lectures'
-p14199
-aS'Radio programs'
-p14200
-assg7623
-(dp14201
-g12148
-S'1952 June 21'
-p14202
-sg12150
-S'Crane, Henry Hitt'
-p14203
-sg11
-g7626
-sg12152
-S'6/24/2013'
-p14204
-sg12154
-(lp14205
-g7621
-ag7615
-asg12156
-(lp14206
-S'Sermons'
-p14207
-aS'Sermons'
-p14208
-assg10299
-(dp14209
-g12148
-S'1952 November 16, [Undated]'
-p14210
-sg12150
-S'Crane, Henry Hitt'
-p14211
-sg11
-g10302
-sg12152
-S'6/24/2013'
-p14212
-sg12154
-(lp14213
-g10297
-ag6955
-ag10291
-asg12156
-(lp14214
-S'Sermons'
-p14215
-aS'Sermons'
-p14216
-aS'Sermons'
-p14217
-assg4401
-(dp14218
-g12148
-S'1954 March 31'
-p14219
-sg12150
-S'Crane, Henry Hitt'
-p14220
-sg11
-g4404
-sg12152
-S'6/24/2013'
-p14221
-sg12154
-(lp14222
-g4399
-ag4393
-asg12156
-(lp14223
-S'Sermons'
-p14224
-aS'Sermons'
-p14225
-assg7305
-(dp14226
-g12148
-S'1954 October 24'
-p14227
-sg12150
-S'Moody, Blair'
-p14228
-sg11
-g7308
-sg12152
-S'2/25/2015'
-p14229
-sg12154
-(lp14230
-g7303
-asg12156
-(lp14231
-S'Radio programs'
-p14232
-aS'Talk shows'
-p14233
-assg4629
-(dp14234
-g12148
-S'1952 October 16'
-p14235
-sg12150
-S'Moody, Blair'
-p14236
-sg11
-g4632
-sg12152
-S'2/25/2015'
-p14237
-sg12154
-(lp14238
-g4627
-asg12156
-(lp14239
-S'Addresses'
-p14240
-assg7641
-(dp14241
-g12148
-S'[Undated]'
-p14242
-sg12150
-S'Kramer, Arthur W.'
-p14243
-sg11
-g7644
+S'Bassett, Leslie'
+p14165
 sg12152
 S'6/05/2014'
-p14244
+p14166
 sg12154
-(lp14245
-g7639
-ag7645
+(lp14167
+g3648
 asg12156
-(lp14246
-S'Rallies'
-p14247
-aS'Rallies'
-p14248
-assg1395
-(dp14249
+(lp14168
+g3643
+ag3637
+asg12158
+(lp14169
+S'Musical performances'
+p14170
+aS'Musical performances'
+p14171
+assg867
+(dp14172
 g12148
-S'[Undated]'
-p14250
+S'1960, 1961 January 09'
+p14173
 sg12150
-S'Kramer, Arthur W.'
-p14251
-sg11
-g1398
+S'Bassett, Leslie'
+p14174
 sg12152
 S'6/05/2014'
-p14252
+p14175
 sg12154
-(lp14253
-g1393
-ag1387
+(lp14176
+g870
 asg12156
-(lp14254
-S'Addresses'
-p14255
-aS'Addresses'
-p14256
-assg10917
-(dp14257
-g12148
-S'[Undated]'
-p14258
-sg12150
-S'Kramer, Arthur W.'
-p14259
-sg11
-g10920
-sg12152
-S'6/05/2014'
-p14260
-sg12154
-(lp14261
-g10915
-ag10903
-asg12156
-(lp14262
-S'Addresses'
-p14263
-aS'Addresses'
-p14264
-assg7911
-(dp14265
-g12148
-S'1966 September 27'
-p14266
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14267
-sg11
-g7914
-sg12152
-S'6/24/2013'
-p14268
-sg12154
-(lp14269
-g7909
-asg12156
-(lp14270
-S'Addresses'
-p14271
-aS'Radio programs'
-p14272
-assg8907
-(dp14273
-g12148
-S'1953 January 18'
-p14274
-sg12150
-S'Cushing, George'
-p14275
-sg11
-g8910
-sg12152
-S'2/25/2015'
-p14276
-sg12154
-(lp14277
-g8905
-asg12156
-(lp14278
-S'Radio programs'
-p14279
-aS'Talk shows'
-p14280
-assg11085
-(dp14281
-g12148
-S'1969 May 16-17'
-p14282
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14283
-sg11
-g11088
-sg12152
-S'6/24/2013'
-p14284
-sg12154
-(lp14285
-g11083
-asg12156
-(lp14286
-S'Radio programs'
-p14287
-aS'Panel discussions'
-p14288
-assg8229
-(dp14289
-g12148
-S'1952 December 14'
-p14290
-sg12150
-S'Cushing, George'
-p14291
-sg11
-g8232
-sg12152
-S'2/25/2015'
-p14292
-sg12154
-(lp14293
-g8227
-asg12156
-(lp14294
-S'Radio programs'
-p14295
-aS'Talk shows'
-p14296
-assg6267
-(dp14297
-g12148
-S'1966 June 21'
-p14298
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14299
-sg11
-g6270
-sg12152
-S'11/01/2013'
-p14300
-sg12154
-(lp14301
-g6265
-asg12156
-(lp14302
-S'Musical performances'
-p14303
-assg171
-(dp14304
-g12148
-S'1963 May 13'
-p14305
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14306
-sg11
-g174
-sg12152
-S'6/24/2013'
-p14307
-sg12154
-(lp14308
-g169
-asg12156
-(lp14309
-S'Radio programs'
-p14310
-aS'Poetry readings'
-p14311
-assg177
-(dp14312
-g12148
-S'1966 June 21'
-p14313
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14314
-sg11
-g180
-sg12152
-S'11/01/2013'
-p14315
-sg12154
-(lp14316
-g175
-asg12156
-(lp14317
-S'Musical performances'
-p14318
-assg501
-(dp14319
-g12148
-S'1955 September 04, 1955 December 11'
-p14320
-sg12150
-S'Crane, Henry Hitt'
-p14321
-sg11
-g504
-sg12152
-S'6/24/2013'
-p14322
-sg12154
-(lp14323
-g499
-ag505
-asg12156
-(lp14324
-S'Sermons'
-p14325
-aS'Sermons'
-p14326
-assg3393
-(dp14327
-g12148
-S'1956 November 28'
-p14328
-sg12150
-S'Crane, Henry Hitt'
-p14329
-sg11
-g3396
-sg12152
-S'6/24/2013'
-p14330
-sg12154
-(lp14331
-g3391
-asg12156
-(lp14332
-S'Sermons'
-p14333
-assg9597
-(dp14334
-g12148
-S'[Undated]'
-p14335
-sg12150
-S'Esquire Inc.'
-p14336
-sg11
-g9600
-sg12152
-S'11/01/2013'
-p14337
-sg12154
-(lp14338
-g9595
-asg12156
-(lp14339
+(lp14177
+g865
+asg12158
+(lp14178
 S'Interviews'
-p14340
-assg327
-(dp14341
+p14179
+assg10347
+(dp14180
 g12148
-S'1982 November 13'
-p14342
+S'1962 June 10'
+p14181
 sg12150
-S"University of Michigan. Men's Glee Club"
-p14343
-sg11
-g330
+S'Bassett, Leslie'
+p14182
 sg12152
-S'11/01/2013'
-p14344
+S'6/05/2014'
+p14183
 sg12154
-(lp14345
-g325
+(lp14184
+g10350
 asg12156
-(lp14346
+(lp14185
+g10345
+asg12158
+(lp14186
 S'Musical performances'
-p14347
-assg3717
-(dp14348
+p14187
+assg7359
+(dp14188
 g12148
-S'1982 November 13'
-p14349
+S'1958 January 31'
+p14189
 sg12150
-S"University of Michigan. Men's Glee Club"
-p14350
-sg11
-g3720
+S'Brucker, Wilber Marion'
+p14190
 sg12152
 S'11/01/2013'
-p14351
+p14191
 sg12154
-(lp14352
-g3715
+(lp14192
+g7362
 asg12156
-(lp14353
-S'Musical performances'
-p14354
-assg4239
-(dp14355
-g12148
-S'1961 May 08'
-p14356
-sg12150
-S'Hart, Philip A.'
-p14357
-sg11
-g4242
-sg12152
-S'11/01/2013'
-p14358
-sg12154
-(lp14359
-g4237
-asg12156
-(lp14360
-S'Dialogues'
-p14361
-assg4089
-(dp14362
-g12148
-S'1961 May 03-04'
-p14363
-sg12150
-S'Hart, Philip A.'
-p14364
-sg11
-g4092
-sg12152
-S'11/01/2013'
-p14365
-sg12154
-(lp14366
-g4087
-asg12156
-(lp14367
+(lp14193
+g7357
+asg12158
+(lp14194
 S'Radio programs'
-p14368
-assg7245
-(dp14369
+p14195
+assg4671
+(dp14196
 g12148
-S'1965 March 27'
-p14370
+S'1958 January 31'
+p14197
 sg12150
-S"University of Michigan. Men's Glee Club"
-p14371
-sg11
-g7248
+S'Brucker, Wilber Marion'
+p14198
 sg12152
 S'11/01/2013'
-p14372
+p14199
 sg12154
-(lp14373
-g7243
+(lp14200
+g4674
 asg12156
+(lp14201
+g4669
+asg12158
+(lp14202
+S'Radio programs'
+p14203
+assg10701
+(dp14204
+g12148
+S'1958 January 31'
+p14205
+sg12150
+S'Brucker, Wilber Marion'
+p14206
+sg12152
+S'11/01/2013'
+p14207
+sg12154
+(lp14208
+g10704
+asg12156
+(lp14209
+g10699
+asg12158
+(lp14210
+S'Radio programs'
+p14211
+assg993
+(dp14212
+g12148
+S'1958 January 31'
+p14213
+sg12150
+S'Brucker, Wilber Marion'
+p14214
+sg12152
+S'11/01/2013'
+p14215
+sg12154
+(lp14216
+g996
+asg12156
+(lp14217
+g991
+asg12158
+(lp14218
+S'Radio programs'
+p14219
+assg10725
+(dp14220
+g12148
+S'1958 January 31'
+p14221
+sg12150
+S'Brucker, Wilber Marion'
+p14222
+sg12152
+S'11/01/2013'
+p14223
+sg12154
+(lp14224
+g10728
+asg12156
+(lp14225
+g10723
+asg12158
+(lp14226
+S'Radio programs'
+p14227
+assg1209
+(dp14228
+g12148
+S'1958 January 31'
+p14229
+sg12150
+S'Brucker, Wilber Marion'
+p14230
+sg12152
+S'11/01/2013'
+p14231
+sg12154
+(lp14232
+g1212
+asg12156
+(lp14233
+g1207
+asg12158
+(lp14234
+S'Radio programs'
+p14235
+assg1659
+(dp14236
+g12148
+S'[Undated]'
+p14237
+sg12150
+S'Cacioppo, George'
+p14238
+sg12152
+S'2/25/2015'
+p14239
+sg12154
+(lp14240
+g1662
+asg12156
+(lp14241
+g1657
+asg12158
+(lp14242
+S'Musical performances'
+p14243
+assg4413
+(dp14244
+g12148
+S'[Undated]'
+p14245
+sg12150
+S'Cacioppo, George'
+p14246
+sg12152
+S'2/25/2015'
+p14247
+sg12154
+(lp14248
+g4416
+asg12156
+(lp14249
+g4411
+asg12158
+(lp14250
+S'Musical performances'
+p14251
+assg10491
+(dp14252
+g12148
+S'1968 January 17'
+p14253
+sg12150
+S'Cacioppo, George'
+p14254
+sg12152
+S'2/25/2015'
+p14255
+sg12154
+(lp14256
+g10494
+asg12156
+(lp14257
+g10489
+asg12158
+(lp14258
+S'Musical performances'
+p14259
+assg7923
+(dp14260
+g12148
+S'[Undated]'
+p14261
+sg12150
+S'Cacioppo, George'
+p14262
+sg12152
+S'2/25/2015'
+p14263
+sg12154
+(lp14264
+g7926
+asg12156
+(lp14265
+g7921
+asg12158
+(lp14266
+S'Musical performances'
+p14267
+assg4971
+(dp14268
+g12148
+S'[Undated]'
+p14269
+sg12150
+S'Cacioppo, George'
+p14270
+sg12152
+S'2/25/2015'
+p14271
+sg12154
+(lp14272
+g4974
+asg12156
+(lp14273
+g4969
+asg12158
+(lp14274
+S'Musical performances'
+p14275
+assg7713
+(dp14276
+g12148
+S'[Undated]'
+p14277
+sg12150
+S'Cacioppo, George'
+p14278
+sg12152
+S'2/25/2015'
+p14279
+sg12154
+(lp14280
+g7716
+asg12156
+(lp14281
+g7711
+asg12158
+(lp14282
+S'Musical performances'
+p14283
+assg2091
+(dp14284
+g12148
+S'[Undated]'
+p14285
+sg12150
+S'Cacioppo, George'
+p14286
+sg12152
+S'2/25/2015'
+p14287
+sg12154
+(lp14288
+g2094
+asg12156
+(lp14289
+g2089
+asg12158
+(lp14290
+S'Musical performances'
+p14291
+assg11031
+(dp14292
+g12148
+S'[Undated]'
+p14293
+sg12150
+S'Cacioppo, George'
+p14294
+sg12152
+S'2/25/2015'
+p14295
+sg12154
+(lp14296
+g11034
+asg12156
+(lp14297
+g11029
+asg12158
+(lp14298
+S'Musical performances'
+p14299
+assg10449
+(dp14300
+g12148
+S'[Undated]'
+p14301
+sg12150
+S'Sinclair, John and Leni'
+p14302
+sg12152
+S'6/24/2013'
+p14303
+sg12154
+(lp14304
+g10452
+asg12156
+(lp14305
+g10447
+asg12158
+(lp14306
+S'Interviews'
+p14307
+aS'Radio programs'
+p14308
+aS'Talk shows'
+p14309
+assg1893
+(dp14310
+g12148
+S'[Undated]'
+p14311
+sg12150
+S'Cacioppo, George'
+p14312
+sg12152
+S'2/25/2015'
+p14313
+sg12154
+(lp14314
+g1896
+asg12156
+(lp14315
+g1891
+asg12158
+(lp14316
+S'Musical performances'
+p14317
+assg3513
+(dp14318
+g12148
+S'[Undated]'
+p14319
+sg12150
+S'Cacioppo, George'
+p14320
+sg12152
+S'2/25/2015'
+p14321
+sg12154
+(lp14322
+g3516
+asg12156
+(lp14323
+g3511
+asg12158
+(lp14324
+S'Musical performances'
+p14325
+assg4791
+(dp14326
+g12148
+S'1965 March 20'
+p14327
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14328
+sg12152
+S'6/24/2013'
+p14329
+sg12154
+(lp14330
+g4794
+asg12156
+(lp14331
+g4789
+asg12158
+(lp14332
+S'Radio programs'
+p14333
+aS'Poetry readings'
+p14334
+assg2385
+(dp14335
+g12148
+S'1962 November 20'
+p14336
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14337
+sg12152
+S'6/24/2013'
+p14338
+sg12154
+(lp14339
+g2388
+asg12156
+(lp14340
+g2383
+asg12158
+(lp14341
+S'Radio programs'
+p14342
+aS'Poetry readings'
+p14343
+assg10761
+(dp14344
+g12148
+S'1956 June 09'
+p14345
+sg12150
+S'Williams, G. Mennen'
+p14346
+sg12152
+S'11/01/2013'
+p14347
+sg12154
+(lp14348
+g10764
+asg12156
+(lp14349
+g10759
+asg12158
+(lp14350
+S'Television'
+p14351
+assg1959
+(dp14352
+g12148
+S'1958 June 23'
+p14353
+sg12150
+S'Williams, G. Mennen'
+p14354
+sg12152
+S'11/01/2013'
+p14355
+sg12154
+(lp14356
+g1962
+asg12156
+(lp14357
+g1957
+asg12158
+(lp14358
+S'Television'
+p14359
+assg5949
+(dp14360
+g12148
+S'1985 April 13'
+p14361
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14362
+sg12152
+S'11/01/2013'
+p14363
+sg12154
+(lp14364
+g5952
+asg12156
+(lp14365
+g5947
+asg12158
+(lp14366
+S'Musical performances'
+p14367
+assg11919
+(dp14368
+g12148
+S'1985 April 13'
+p14369
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14370
+sg12152
+S'11/01/2013'
+p14371
+sg12154
+(lp14372
+g11922
+asg12156
+(lp14373
+g11917
+asg12158
 (lp14374
 S'Musical performances'
 p14375
-assg3759
+assg27
 (dp14376
 g12148
-S'[1969 March 27]'
+S'1967 August'
 p14377
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Romney, Lenore'
 p14378
-sg11
-g3762
 sg12152
-S'6/24/2013'
+S'6/05/2014'
 p14379
 sg12154
 (lp14380
-g3757
-ag3751
+g30
 asg12156
 (lp14381
+g25
+asg12158
+(lp14382
 S'Addresses'
-p14382
-aS'Radio programs'
 p14383
-aS'Dedications (ceremonies)'
+aS'Interviews'
 p14384
-aS'Addresses'
-p14385
-aS'Radio programs'
+assg5679
+(dp14385
+g12148
+S'1966 October 01'
 p14386
-aS'Dedications (ceremonies)'
+sg12150
+S'Romney, Lenore'
 p14387
-assg4191
-(dp14388
-g12148
-S'1965 March 27'
-p14389
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14390
-sg11
-g4194
 sg12152
-S'11/01/2013'
-p14391
+S'6/05/2014'
+p14388
 sg12154
-(lp14392
-g4189
+(lp14389
+g5682
 asg12156
-(lp14393
-S'Musical performances'
+(lp14390
+g5677
+asg12158
+(lp14391
+S'Addresses'
+p14392
+assg9297
+(dp14393
+g12148
+S'1966 September 23'
 p14394
-assg1041
-(dp14395
-g12148
-S'1947 February 08'
+sg12150
+S'Romney, Lenore'
+p14395
+sg12152
+S'6/05/2014'
 p14396
-sg12150
-S'Cushing, George'
-p14397
-sg11
-g1044
-sg12152
-S'2/25/2015'
-p14398
 sg12154
+(lp14397
+g9300
+asg12156
+(lp14398
+g9295
+asg12158
 (lp14399
-g1039
-asg12156
-(lp14400
-S'Radio programs'
-p14401
-aS'Talk shows'
+S'Addresses'
+p14400
+assg11691
+(dp14401
+g12148
+S'1966 August 03'
 p14402
-assg2847
-(dp14403
-g12148
-S'1947 February 08'
+sg12150
+S'Romney, Lenore'
+p14403
+sg12152
+S'6/05/2014'
 p14404
-sg12150
-S'Cushing, George'
-p14405
-sg11
-g2850
-sg12152
-S'2/25/2015'
-p14406
 sg12154
+(lp14405
+g11694
+asg12156
+(lp14406
+g11689
+asg12158
 (lp14407
-g2845
-asg12156
-(lp14408
-S'Radio programs'
+S'Addresses'
+p14408
+aS'Musical performances'
 p14409
-aS'Talk shows'
-p14410
-assg4557
-(dp14411
+assg5883
+(dp14410
 g12148
-S'1947 February 16'
+S'1967 April 16'
+p14411
+sg12150
+S'Romney, Lenore'
 p14412
-sg12150
-S'Cushing, George'
+sg12152
+S'6/05/2014'
 p14413
-sg11
-g4560
-sg12152
-S'2/25/2015'
-p14414
 sg12154
+(lp14414
+g5886
+asg12156
 (lp14415
-g4555
-asg12156
+g5881
+asg12158
 (lp14416
-S'Radio programs'
+S'Interviews'
 p14417
-aS'Talk shows'
-p14418
-assg7011
-(dp14419
+assg3195
+(dp14418
 g12148
-S'1947 February 23'
-p14420
+S'1970 March 14'
+p14419
 sg12150
-S'Cushing, George'
-p14421
-sg11
-g7014
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14420
 sg12152
-S'2/25/2015'
-p14422
+S'6/24/2013'
+p14421
 sg12154
-(lp14423
-g7009
+(lp14422
+g3198
 asg12156
+(lp14423
+g3193
+asg12158
 (lp14424
 S'Radio programs'
 p14425
-aS'Talk shows'
+aS'Panel discussions'
 p14426
-assg10119
+assg5025
 (dp14427
 g12148
-S'1947 January 11'
+S'1969 November 22'
 p14428
 sg12150
-S'Cushing, George'
+S"University of Michigan. Men's Glee Club"
 p14429
-sg11
-g10122
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p14430
 sg12154
 (lp14431
-g10117
+g5028
 asg12156
 (lp14432
-S'Radio programs'
-p14433
-aS'Talk shows'
+g5023
+ag5029
+asg12158
+(lp14433
+S'Musical performances'
 p14434
-assg7515
-(dp14435
+aS'Musical performances'
+p14435
+assg11985
+(dp14436
 g12148
-S'1947 January 12'
-p14436
-sg12150
-S'Cushing, George'
+S'1969 November 22'
 p14437
-sg11
-g7518
-sg12152
-S'2/25/2015'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p14438
+sg12152
+S'11/01/2013'
+p14439
 sg12154
-(lp14439
-g7513
-asg12156
 (lp14440
-S'Radio programs'
-p14441
-aS'Talk shows'
-p14442
-assg1335
-(dp14443
+g11988
+asg12156
+(lp14441
+g11983
+asg12158
+(lp14442
+S'Musical performances'
+p14443
+assg2727
+(dp14444
 g12148
-S'1947 January 19'
-p14444
-sg12150
-S'Cushing, George'
+S'1959 July 20'
 p14445
-sg11
-g1338
-sg12152
-S'2/25/2015'
+sg12150
+S'Staebler, Neil'
 p14446
+sg12152
+S'2/25/2015'
+p14447
 sg12154
-(lp14447
-g1333
-asg12156
 (lp14448
-S'Radio programs'
-p14449
-aS'Talk shows'
-p14450
-assg1341
-(dp14451
-g12148
-S'1949 February 20'
-p14452
-sg12150
-S'Cushing, George'
-p14453
-sg11
-g1344
-sg12152
-S'2/25/2015'
-p14454
-sg12154
-(lp14455
-g1339
+g2730
 asg12156
-(lp14456
-S'Radio programs'
-p14457
-aS'Talk shows'
-p14458
-assg4023
-(dp14459
-g12148
-S'1949 March 20'
-p14460
-sg12150
-S'Cushing, George'
-p14461
-sg11
-g4026
-sg12152
-S'2/25/2015'
-p14462
-sg12154
-(lp14463
-g4021
-asg12156
-(lp14464
-S'Radio programs'
-p14465
-aS'Talk shows'
-p14466
-assg1275
-(dp14467
-g12148
-S'1949 April 03'
-p14468
-sg12150
-S'Cushing, George'
-p14469
-sg11
-g1278
-sg12152
-S'2/25/2015'
-p14470
-sg12154
-(lp14471
-g1273
-asg12156
-(lp14472
-S'Radio programs'
-p14473
-aS'Talk shows'
-p14474
-assg1077
-(dp14475
-g12148
-S'1947 March 10'
-p14476
-sg12150
-S'Cushing, George'
-p14477
-sg11
-g1080
-sg12152
-S'2/25/2015'
-p14478
-sg12154
-(lp14479
-g1075
-asg12156
-(lp14480
-S'Radio programs'
-p14481
-aS'Talk shows'
-p14482
-assg10605
-(dp14483
-g12148
-S'1947 March 30'
-p14484
-sg12150
-S'Cushing, George'
-p14485
-sg11
-g10608
-sg12152
-S'2/25/2015'
-p14486
-sg12154
-(lp14487
-g10603
-asg12156
-(lp14488
-S'Radio programs'
-p14489
-aS'Talk shows'
-p14490
-assg1311
-(dp14491
-g12148
-S'1968 March 23'
-p14492
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14493
-sg11
-g1314
-sg12152
-S'11/01/2013'
-p14494
-sg12154
-(lp14495
-g1309
-asg12156
-(lp14496
-S'Musical performances'
-p14497
-assg7467
-(dp14498
-g12148
-S'1968 March 23'
-p14499
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14500
-sg11
-g7470
-sg12152
-S'11/01/2013'
-p14501
-sg12154
-(lp14502
-g7465
-asg12156
-(lp14503
-S'Musical performances'
-p14504
-assg8553
-(dp14505
-g12148
-S'1967 April 01'
-p14506
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14507
-sg11
-g8556
-sg12152
-S'11/01/2013'
-p14508
-sg12154
-(lp14509
-g8551
-asg12156
-(lp14510
-S'Musical performances'
-p14511
-assg2331
-(dp14512
-g12148
-S'1967 April 01'
-p14513
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14514
-sg11
-g2334
-sg12152
-S'11/01/2013'
-p14515
-sg12154
-(lp14516
-g2329
-asg12156
-(lp14517
-S'Musical performances'
-p14518
-assg2643
-(dp14519
-g12148
-S'1950'
-p14520
-sg12150
-S'Williams, G. Mennen'
-p14521
-sg11
-g2646
-sg12152
-S'11/01/2013'
-p14522
-sg12154
-(lp14523
-g2641
-asg12156
-(lp14524
+(lp14449
+g2725
+ag2731
+asg12158
+(lp14450
 S'Addresses'
-p14525
-aS'Radio programs'
-p14526
-aS'Dinners'
-p14527
-assg12075
-(dp14528
-g12148
-S'1950'
-p14529
-sg12150
-S'Williams, G. Mennen'
-p14530
-sg11
-g12078
-sg12152
-S'11/01/2013'
-p14531
-sg12154
-(lp14532
-g12073
-ag12067
-asg12156
-(lp14533
-S'Addresses'
-p14534
-aS'Radio programs'
-p14535
-aS'Dinners'
-p14536
+p14451
 aS'Addresses'
-p14537
+p14452
+assg303
+(dp14453
+g12148
+S'1968 March 19'
+p14454
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14455
+sg12152
+S'6/24/2013'
+p14456
+sg12154
+(lp14457
+g306
+asg12156
+(lp14458
+g301
+asg12158
+(lp14459
+S'Lectures'
+p14460
 aS'Radio programs'
-p14538
-aS'Dinners'
-p14539
-assg10671
-(dp14540
+p14461
+assg7623
+(dp14462
 g12148
-S'[1968 and 1969]'
+S'1952 June 21'
+p14463
+sg12150
+S'Crane, Henry Hitt'
+p14464
+sg12152
+S'6/24/2013'
+p14465
+sg12154
+(lp14466
+g7626
+asg12156
+(lp14467
+g7621
+ag7615
+asg12158
+(lp14468
+S'Sermons'
+p14469
+aS'Sermons'
+p14470
+assg10299
+(dp14471
+g12148
+S'1952 November 16, [Undated]'
+p14472
+sg12150
+S'Crane, Henry Hitt'
+p14473
+sg12152
+S'6/24/2013'
+p14474
+sg12154
+(lp14475
+g10302
+asg12156
+(lp14476
+g10297
+ag6955
+ag10291
+asg12158
+(lp14477
+S'Sermons'
+p14478
+aS'Sermons'
+p14479
+aS'Sermons'
+p14480
+assg4401
+(dp14481
+g12148
+S'1954 March 31'
+p14482
+sg12150
+S'Crane, Henry Hitt'
+p14483
+sg12152
+S'6/24/2013'
+p14484
+sg12154
+(lp14485
+g4404
+asg12156
+(lp14486
+g4399
+ag4393
+asg12158
+(lp14487
+S'Sermons'
+p14488
+aS'Sermons'
+p14489
+assg7305
+(dp14490
+g12148
+S'1954 October 24'
+p14491
+sg12150
+S'Moody, Blair'
+p14492
+sg12152
+S'2/25/2015'
+p14493
+sg12154
+(lp14494
+g7308
+asg12156
+(lp14495
+g7303
+asg12158
+(lp14496
+S'Radio programs'
+p14497
+aS'Talk shows'
+p14498
+assg4629
+(dp14499
+g12148
+S'1952 October 16'
+p14500
+sg12150
+S'Moody, Blair'
+p14501
+sg12152
+S'2/25/2015'
+p14502
+sg12154
+(lp14503
+g4632
+asg12156
+(lp14504
+g4627
+asg12158
+(lp14505
+S'Addresses'
+p14506
+assg7641
+(dp14507
+g12148
+S'[Undated]'
+p14508
+sg12150
+S'Kramer, Arthur W.'
+p14509
+sg12152
+S'6/05/2014'
+p14510
+sg12154
+(lp14511
+g7644
+asg12156
+(lp14512
+g7639
+ag7645
+asg12158
+(lp14513
+S'Rallies'
+p14514
+aS'Rallies'
+p14515
+assg1395
+(dp14516
+g12148
+S'[Undated]'
+p14517
+sg12150
+S'Kramer, Arthur W.'
+p14518
+sg12152
+S'6/05/2014'
+p14519
+sg12154
+(lp14520
+g1398
+asg12156
+(lp14521
+g1393
+ag1387
+asg12158
+(lp14522
+S'Addresses'
+p14523
+aS'Addresses'
+p14524
+assg10917
+(dp14525
+g12148
+S'[Undated]'
+p14526
+sg12150
+S'Kramer, Arthur W.'
+p14527
+sg12152
+S'6/05/2014'
+p14528
+sg12154
+(lp14529
+g10920
+asg12156
+(lp14530
+g10915
+ag10903
+asg12158
+(lp14531
+S'Addresses'
+p14532
+aS'Addresses'
+p14533
+assg7911
+(dp14534
+g12148
+S'1966 September 27'
+p14535
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14536
+sg12152
+S'6/24/2013'
+p14537
+sg12154
+(lp14538
+g7914
+asg12156
+(lp14539
+g7909
+asg12158
+(lp14540
+S'Addresses'
 p14541
-sg12150
-S'Bassett, Leslie'
+aS'Radio programs'
 p14542
-sg11
-g10674
+assg8907
+(dp14543
+g12148
+S'1953 January 18'
+p14544
+sg12150
+S'Cushing, George'
+p14545
 sg12152
-S'6/05/2014'
-p14543
-sg12154
-(lp14544
-g10669
-asg12156
-(lp14545
-S'Musical performances'
+S'2/25/2015'
 p14546
-assg3105
-(dp14547
-g12148
-S'1985 May 21'
-p14548
-sg12150
-S'Bassett, Leslie'
-p14549
-sg11
-g3108
-sg12152
-S'6/05/2014'
+sg12154
+(lp14547
+g8910
+asg12156
+(lp14548
+g8905
+asg12158
+(lp14549
+S'Radio programs'
 p14550
-sg12154
-(lp14551
-g3103
-ag3109
-asg12156
-(lp14552
-S'Musical performances'
+aS'Talk shows'
+p14551
+assg11085
+(dp14552
+g12148
+S'1969 May 16-17'
 p14553
-aS'Musical performances'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p14554
-assg3165
-(dp14555
-g12148
-S'1983 February 04, 1983 February 20'
-p14556
-sg12150
-S'Bassett, Leslie'
-p14557
-sg11
-g3168
 sg12152
-S'6/05/2014'
-p14558
+S'6/24/2013'
+p14555
 sg12154
-(lp14559
-g3163
-ag3169
+(lp14556
+g11088
 asg12156
-(lp14560
-S'Musical performances'
-p14561
-aS'Musical performances'
+(lp14557
+g11083
+asg12158
+(lp14558
+S'Radio programs'
+p14559
+aS'Panel discussions'
+p14560
+assg8229
+(dp14561
+g12148
+S'1952 December 14'
 p14562
-assg2787
-(dp14563
-g12148
-S'1988 April 06, 1985 May 21'
+sg12150
+S'Cushing, George'
+p14563
+sg12152
+S'2/25/2015'
 p14564
-sg12150
-S'Bassett, Leslie'
-p14565
-sg11
-g2790
-sg12152
-S'6/05/2014'
-p14566
 sg12154
+(lp14565
+g8232
+asg12156
+(lp14566
+g8227
+asg12158
 (lp14567
-g2785
-ag2791
-asg12156
-(lp14568
-S'Musical performances'
+S'Radio programs'
+p14568
+aS'Talk shows'
 p14569
-aS'Musical performances'
-p14570
-assg11559
-(dp14571
+assg6267
+(dp14570
 g12148
-S'1987 October 02'
-p14572
+S'1966 June 21'
+p14571
 sg12150
-S'Bassett, Leslie'
-p14573
-sg11
-g11562
+S"University of Michigan. Men's Glee Club"
+p14572
 sg12152
-S'6/05/2014'
-p14574
+S'11/01/2013'
+p14573
 sg12154
-(lp14575
-g11557
+(lp14574
+g6270
 asg12156
+(lp14575
+g6265
+asg12158
 (lp14576
 S'Musical performances'
 p14577
-assg6039
+assg171
 (dp14578
 g12148
-S'1977 April 30'
+S'1963 May 13'
 p14579
 sg12150
-S'Bassett, Leslie'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p14580
-sg11
-g6042
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p14581
 sg12154
 (lp14582
-g6037
-ag11245
+g174
 asg12156
 (lp14583
-S'Musical performances'
-p14584
-aS'Musical performances'
+g169
+asg12158
+(lp14584
+S'Radio programs'
 p14585
-assg7401
-(dp14586
+aS'Poetry readings'
+p14586
+assg177
+(dp14587
 g12148
-S'1967 January 22, 1982 March 10, 1985 November 25'
-p14587
-sg12150
-S'Bassett, Leslie'
+S'1966 June 21'
 p14588
-sg11
-g7404
-sg12152
-S'6/05/2014'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p14589
+sg12152
+S'11/01/2013'
+p14590
 sg12154
-(lp14590
-g7399
-ag7393
-asg12156
 (lp14591
+g180
+asg12156
+(lp14592
+g175
+asg12158
+(lp14593
 S'Musical performances'
-p14592
-aS'Musical performances'
-p14593
-assg2265
-(dp14594
+p14594
+assg501
+(dp14595
 g12148
-S'1961 May 13'
-p14595
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1955 September 04, 1955 December 11'
 p14596
-sg11
-g2268
-sg12152
-S'11/01/2013'
+sg12150
+S'Crane, Henry Hitt'
 p14597
+sg12152
+S'6/24/2013'
+p14598
 sg12154
-(lp14598
-g2263
-asg12156
 (lp14599
-S'Musical performances'
-p14600
-assg9009
-(dp14601
-g12148
-S'1961 May 13'
+g504
+asg12156
+(lp14600
+g499
+ag505
+asg12158
+(lp14601
+S'Sermons'
 p14602
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Sermons'
 p14603
-sg11
-g9012
+assg3393
+(dp14604
+g12148
+S'1956 November 28'
+p14605
+sg12150
+S'Crane, Henry Hitt'
+p14606
 sg12152
-S'11/01/2013'
-p14604
-sg12154
-(lp14605
-g9007
-asg12156
-(lp14606
-S'Musical performances'
+S'6/24/2013'
 p14607
-assg3045
-(dp14608
-g12148
-S'1958 February 10'
-p14609
-sg12150
-S'Brucker, Wilber Marion'
-p14610
-sg11
-g3048
-sg12152
-S'11/01/2013'
+sg12154
+(lp14608
+g3396
+asg12156
+(lp14609
+g3391
+asg12158
+(lp14610
+S'Sermons'
 p14611
-sg12154
-(lp14612
-g3043
-asg12156
-(lp14613
-S'Interviews'
+assg9597
+(dp14612
+g12148
+S'[Undated]'
+p14613
+sg12150
+S'Esquire Inc.'
 p14614
-assg9459
-(dp14615
-g12148
-S'1967 September 11-29'
-p14616
-sg12150
-S'Romney, George'
-p14617
-sg11
-g9462
 sg12152
-S'6/05/2014'
-p14618
+S'11/01/2013'
+p14615
 sg12154
-(lp14619
-g9457
-ag9469
+(lp14616
+g9600
 asg12156
-(lp14620
-S'Press conferences'
+(lp14617
+g9595
+asg12158
+(lp14618
+S'Interviews'
+p14619
+assg327
+(dp14620
+g12148
+S'1982 November 13'
 p14621
-aS'Press conferences'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p14622
-assg165
-(dp14623
-g12148
-S'1967 September 11-29'
-p14624
-sg12150
-S'Romney, George'
-p14625
-sg11
-g168
 sg12152
-S'6/05/2014'
-p14626
+S'11/01/2013'
+p14623
 sg12154
-(lp14627
-g163
+(lp14624
+g330
 asg12156
-(lp14628
-S'Press conferences'
+(lp14625
+g325
+asg12158
+(lp14626
+S'Musical performances'
+p14627
+assg3717
+(dp14628
+g12148
+S'1982 November 13'
 p14629
-assg3549
-(dp14630
-g12148
-S'1967 September 11-29'
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14630
+sg12152
+S'11/01/2013'
 p14631
-sg12150
-S'Romney, George'
-p14632
-sg11
-g3552
-sg12152
-S'6/05/2014'
-p14633
 sg12154
+(lp14632
+g3720
+asg12156
+(lp14633
+g3715
+asg12158
 (lp14634
-g3547
-ag3535
-asg12156
-(lp14635
-S'Press conferences'
-p14636
-aS'Press conferences'
+S'Musical performances'
+p14635
+assg4239
+(dp14636
+g12148
+S'1961 May 08'
 p14637
-assg8427
-(dp14638
-g12148
-S'1957 June 14'
+sg12150
+S'Hart, Philip A.'
+p14638
+sg12152
+S'11/01/2013'
 p14639
-sg12150
-S"University of Michigan. Men's Glee Club"
-p14640
-sg11
-g8430
-sg12152
-S'11/01/2013'
-p14641
 sg12154
+(lp14640
+g4242
+asg12156
+(lp14641
+g4237
+asg12158
 (lp14642
-g8425
-asg12156
-(lp14643
-S'Musical performances'
-p14644
-assg213
-(dp14645
+S'Dialogues'
+p14643
+assg4089
+(dp14644
 g12148
-S'1965 October 30'
-p14646
+S'1961 May 03-04'
+p14645
 sg12150
-S"University of Michigan. Men's Glee Club"
-p14647
-sg11
-g216
+S'Hart, Philip A.'
+p14646
 sg12152
 S'11/01/2013'
-p14648
+p14647
 sg12154
-(lp14649
-g211
+(lp14648
+g4092
 asg12156
+(lp14649
+g4087
+asg12158
 (lp14650
-S'Musical performances'
+S'Radio programs'
 p14651
-assg6351
+assg7245
 (dp14652
 g12148
-S'1965 October 30'
+S'1965 March 27'
 p14653
 sg12150
 S"University of Michigan. Men's Glee Club"
 p14654
-sg11
-g6354
 sg12152
 S'11/01/2013'
 p14655
 sg12154
 (lp14656
-g6349
+g7248
 asg12156
 (lp14657
+g7243
+asg12158
+(lp14658
 S'Musical performances'
-p14658
-assg9639
-(dp14659
+p14659
+assg3759
+(dp14660
 g12148
-S'1954'
-p14660
-sg12150
-S'Nickerson, Mark'
+S'[1969 March 27]'
 p14661
-sg11
-g9642
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p14662
+sg12152
+S'6/24/2013'
+p14663
+sg12154
+(lp14664
+g3762
+ag3756
+asg12156
+(lp14665
+g3757
+ag3751
+asg12158
+(lp14666
+S'Addresses'
+p14667
+aS'Radio programs'
+p14668
+aS'Dedications (ceremonies)'
+p14669
+aS'Addresses'
+p14670
+aS'Radio programs'
+p14671
+aS'Dedications (ceremonies)'
+p14672
+assg4191
+(dp14673
+g12148
+S'1965 March 27'
+p14674
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14675
+sg12152
+S'11/01/2013'
+p14676
+sg12154
+(lp14677
+g4194
+asg12156
+(lp14678
+g4189
+asg12158
+(lp14679
+S'Musical performances'
+p14680
+assg1041
+(dp14681
+g12148
+S'1947 February 08'
+p14682
+sg12150
+S'Cushing, George'
+p14683
 sg12152
 S'2/25/2015'
-p14662
-sg12154
-(lp14663
-g9637
-ag9643
-asg12156
-(lp14664
-S'Radio programs'
-p14665
-aS'Radio programs'
-p14666
-assg483
-(dp14667
-g12148
-S'1956'
-p14668
-sg12150
-S'Romney, George'
-p14669
-sg11
-g486
-sg12152
-S'6/05/2014'
-p14670
-sg12154
-(lp14671
-g481
-asg12156
-(lp14672
-S'Addresses'
-p14673
-aS'Conferences'
-p14674
-assg10611
-(dp14675
-g12148
-S'1974'
-p14676
-sg12150
-S'Engler, John'
-p14677
-sg11
-g10614
-sg12152
-S'6/24/2013'
-p14678
-sg12154
-(lp14679
-g10609
-asg12156
-(lp14680
-S'Advertising'
-p14681
-assg1101
-(dp14682
-g12148
-S'[Undated]'
-p14683
-sg12150
-S'Engler, John'
 p14684
-sg11
-g1104
-sg12152
-S'6/24/2013'
-p14685
 sg12154
+(lp14685
+g1044
+asg12156
 (lp14686
-g1099
-asg12156
+g1039
+asg12158
 (lp14687
-S'Addresses'
+S'Radio programs'
 p14688
-assg10317
-(dp14689
-g12148
-S'[Undated]'
-p14690
-sg12150
-S'Engler, John'
-p14691
-sg11
-g10320
-sg12152
-S'6/24/2013'
-p14692
-sg12154
-(lp14693
-g10315
-asg12156
-(lp14694
-S'Advertising'
-p14695
-assg1089
-(dp14696
-g12148
-S'1968 June 06'
-p14697
-sg12150
-S'Romney, Lenore'
-p14698
-sg11
-g1092
-sg12152
-S'6/05/2014'
-p14699
-sg12154
-(lp14700
-g1087
-asg12156
-(lp14701
-S'Addresses'
-p14702
-assg4623
-(dp14703
-g12148
-S'1967 August 03'
-p14704
-sg12150
-S'Romney, Lenore'
-p14705
-sg11
-g4626
-sg12152
-S'6/05/2014'
-p14706
-sg12154
-(lp14707
-g4621
-asg12156
-(lp14708
-S'Interviews'
-p14709
-assg7821
-(dp14710
-g12148
-S'1977 September 20'
-p14711
-sg12150
-S'Engler, John'
-p14712
-sg11
-g7824
-sg12152
-S'6/24/2013'
-p14713
-sg12154
-(lp14714
-g7819
-asg12156
-(lp14715
-S'News'
-p14716
-aS'Press releases'
-p14717
-assg3399
-(dp14718
-g12148
-S'1984 February 07'
-p14719
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p14720
-sg11
-g3402
-sg12152
-S'6/05/2014'
-p14721
-sg12154
-(lp14722
-g3397
-asg12156
-(lp14723
-S'Lectures'
-p14724
-aS'Musical performances'
-p14725
-aS'Radio programs'
-p14726
-assg2211
-(dp14727
-g12148
-S'1962 June 13'
-p14728
-sg12150
-S'Swainson, John B.'
-p14729
-sg11
-g2214
-sg12152
-S'6/24/2013'
-p14730
-sg12154
-(lp14731
-g2209
-asg12156
-(lp14732
-S'Interviews'
-p14733
-aS'Radio programs'
-p14734
 aS'Talk shows'
-p14735
-assg4899
-(dp14736
+p14689
+assg2847
+(dp14690
 g12148
-S'1962 May 05'
+S'1947 February 08'
+p14691
+sg12150
+S'Cushing, George'
+p14692
+sg12152
+S'2/25/2015'
+p14693
+sg12154
+(lp14694
+g2850
+asg12156
+(lp14695
+g2845
+asg12158
+(lp14696
+S'Radio programs'
+p14697
+aS'Talk shows'
+p14698
+assg4557
+(dp14699
+g12148
+S'1947 February 16'
+p14700
+sg12150
+S'Cushing, George'
+p14701
+sg12152
+S'2/25/2015'
+p14702
+sg12154
+(lp14703
+g4560
+asg12156
+(lp14704
+g4555
+asg12158
+(lp14705
+S'Radio programs'
+p14706
+aS'Talk shows'
+p14707
+assg7011
+(dp14708
+g12148
+S'1947 February 23'
+p14709
+sg12150
+S'Cushing, George'
+p14710
+sg12152
+S'2/25/2015'
+p14711
+sg12154
+(lp14712
+g7014
+asg12156
+(lp14713
+g7009
+asg12158
+(lp14714
+S'Radio programs'
+p14715
+aS'Talk shows'
+p14716
+assg10119
+(dp14717
+g12148
+S'1947 January 11'
+p14718
+sg12150
+S'Cushing, George'
+p14719
+sg12152
+S'2/25/2015'
+p14720
+sg12154
+(lp14721
+g10122
+asg12156
+(lp14722
+g10117
+asg12158
+(lp14723
+S'Radio programs'
+p14724
+aS'Talk shows'
+p14725
+assg7515
+(dp14726
+g12148
+S'1947 January 12'
+p14727
+sg12150
+S'Cushing, George'
+p14728
+sg12152
+S'2/25/2015'
+p14729
+sg12154
+(lp14730
+g7518
+asg12156
+(lp14731
+g7513
+asg12158
+(lp14732
+S'Radio programs'
+p14733
+aS'Talk shows'
+p14734
+assg1335
+(dp14735
+g12148
+S'1947 January 19'
+p14736
+sg12150
+S'Cushing, George'
 p14737
-sg12150
-S'Swainson, John B.'
+sg12152
+S'2/25/2015'
 p14738
-sg11
-g4902
-sg12152
-S'6/24/2013'
-p14739
 sg12154
+(lp14739
+g1338
+asg12156
 (lp14740
-g4897
-asg12156
+g1333
+asg12158
 (lp14741
-S'Addresses'
+S'Radio programs'
 p14742
-assg11355
-(dp14743
+aS'Talk shows'
+p14743
+assg1341
+(dp14744
 g12148
-S'1961 January 01'
-p14744
-sg12150
-S'Swainson, John B.'
+S'1949 February 20'
 p14745
-sg11
-g11358
-sg12152
-S'6/24/2013'
+sg12150
+S'Cushing, George'
 p14746
+sg12152
+S'2/25/2015'
+p14747
 sg12154
-(lp14747
-g11353
-asg12156
 (lp14748
-S'Inauguration'
-p14749
-assg5409
-(dp14750
-g12148
-S'1961 May 21-27'
+g1344
+asg12156
+(lp14749
+g1339
+asg12158
+(lp14750
+S'Radio programs'
 p14751
-sg12150
-S'Swainson, John B.'
+aS'Talk shows'
 p14752
-sg11
-g5412
+assg4023
+(dp14753
+g12148
+S'1949 March 20'
+p14754
+sg12150
+S'Cushing, George'
+p14755
 sg12152
-S'6/24/2013'
-p14753
-sg12154
-(lp14754
-g5407
-asg12156
-(lp14755
-S'Advertising'
+S'2/25/2015'
 p14756
-aS'Television'
-p14757
-assg10911
-(dp14758
-g12148
-S'1962 April 07'
-p14759
-sg12150
-S'Swainson, John B.'
+sg12154
+(lp14757
+g4026
+asg12156
+(lp14758
+g4021
+asg12158
+(lp14759
+S'Radio programs'
 p14760
-sg11
-g10914
-sg12152
-S'6/24/2013'
+aS'Talk shows'
 p14761
-sg12154
-(lp14762
-g10909
-asg12156
-(lp14763
-S'Addresses'
+assg1275
+(dp14762
+g12148
+S'1949 April 03'
+p14763
+sg12150
+S'Cushing, George'
 p14764
-assg4587
-(dp14765
-g12148
-S'1962 January 15'
-p14766
-sg12150
-S'Swainson, John B.'
-p14767
-sg11
-g4590
 sg12152
-S'6/24/2013'
-p14768
+S'2/25/2015'
+p14765
 sg12154
-(lp14769
-g4585
+(lp14766
+g1278
 asg12156
-(lp14770
-S'Interviews'
-p14771
-assg3051
-(dp14772
+(lp14767
+g1273
+asg12158
+(lp14768
+S'Radio programs'
+p14769
+aS'Talk shows'
+p14770
+assg1077
+(dp14771
 g12148
-S'1951'
+S'1947 March 10'
+p14772
+sg12150
+S'Cushing, George'
 p14773
-sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
+sg12152
+S'2/25/2015'
 p14774
-sg11
-g3054
-sg12152
-S'6/05/2014'
-p14775
 sg12154
+(lp14775
+g1080
+asg12156
 (lp14776
-g3049
-ag3055
-ag11131
-asg12156
+g1075
+asg12158
 (lp14777
-S'Dedications (ceremonies)'
+S'Radio programs'
 p14778
-aS'Dedications (ceremonies)'
+aS'Talk shows'
 p14779
-aS'Dedications (ceremonies)'
-p14780
-assg5547
-(dp14781
+assg10605
+(dp14780
 g12148
-S'1956'
-p14782
+S'1947 March 30'
+p14781
 sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14783
-sg11
-g5550
+S'Cushing, George'
+p14782
 sg12152
-S'6/05/2014'
-p14784
+S'2/25/2015'
+p14783
 sg12154
-(lp14785
-g5545
+(lp14784
+g10608
 asg12156
+(lp14785
+g10603
+asg12158
 (lp14786
-S'Sermons'
+S'Radio programs'
 p14787
-aS'Anniversary'
+aS'Talk shows'
 p14788
-assg11535
+assg1311
 (dp14789
 g12148
-S'1951'
+S'1968 March 23'
 p14790
 sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
+S"University of Michigan. Men's Glee Club"
 p14791
-sg11
-g11538
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p14792
 sg12154
 (lp14793
-g11533
-ag8635
-ag8641
+g1314
 asg12156
 (lp14794
-S'Dedications (ceremonies)'
-p14795
-aS'Dedications (ceremonies)'
+g1309
+asg12158
+(lp14795
+S'Musical performances'
 p14796
-aS'Dedications (ceremonies)'
-p14797
-assg1953
-(dp14798
+assg7467
+(dp14797
 g12148
-S'1951'
-p14799
+S'1968 March 23'
+p14798
 sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14800
-sg11
-g1956
+S"University of Michigan. Men's Glee Club"
+p14799
 sg12152
-S'6/05/2014'
-p14801
+S'11/01/2013'
+p14800
 sg12154
-(lp14802
-g1951
+(lp14801
+g7470
 asg12156
+(lp14802
+g7465
+asg12158
 (lp14803
-S'Dedications (ceremonies)'
+S'Musical performances'
 p14804
-assg8373
+assg8553
 (dp14805
 g12148
-S'1956'
+S'1967 April 01'
 p14806
 sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
+S"University of Michigan. Men's Glee Club"
 p14807
-sg11
-g8376
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p14808
 sg12154
 (lp14809
-g8371
-ag8533
-ag11173
+g8556
 asg12156
 (lp14810
-S'Sermons'
-p14811
-aS'Anniversary'
-p14812
-aS'Sermons'
-p14813
-aS'Anniversary'
-p14814
-aS'Sermons'
-p14815
-aS'Anniversary'
-p14816
-assg2517
-(dp14817
-g12148
-S'1956'
-p14818
-sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14819
-sg11
-g2520
-sg12152
-S'6/05/2014'
-p14820
-sg12154
-(lp14821
-g2515
-asg12156
-(lp14822
-S'Anniversary'
-p14823
-assg5181
-(dp14824
-g12148
-S'1956'
-p14825
-sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14826
-sg11
-g5184
-sg12152
-S'6/05/2014'
-p14827
-sg12154
-(lp14828
-g5179
-ag9475
-ag9487
-asg12156
-(lp14829
-S'Anniversary'
-p14830
-aS'Anniversary'
-p14831
-aS'Anniversary'
-p14832
-assg8199
-(dp14833
-g12148
-S'1957'
-p14834
-sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14835
-sg11
-g8202
-sg12152
-S'6/05/2014'
-p14836
-sg12154
-(lp14837
-g8197
-asg12156
-(lp14838
-S'Sermons'
-p14839
-assg5637
-(dp14840
-g12148
-S'1951'
-p14841
-sg12150
-S'West Side United Methodist Church (Ann Arbor, Michigan)'
-p14842
-sg11
-g5640
-sg12152
-S'6/05/2014'
-p14843
-sg12154
-(lp14844
-g5635
-asg12156
-(lp14845
+g8551
+asg12158
+(lp14811
 S'Musical performances'
-p14846
-aS'Dedications (ceremonies)'
-p14847
-assg8805
-(dp14848
+p14812
+assg2331
+(dp14813
 g12148
-S'1966 July 20'
-p14849
-sg12150
-S'Sink, Charles Albert'
-p14850
-sg11
-g8808
-sg12152
-S'6/24/2013'
-p14851
-sg12154
-(lp14852
-g8803
-asg12156
-(lp14853
-S'Dinners'
-p14854
-assg6195
-(dp14855
-g12148
-S'[Undated]'
-p14856
+S'1967 April 01'
+p14814
 sg12150
 S"University of Michigan. Men's Glee Club"
-p14857
-sg11
-g6198
+p14815
 sg12152
 S'11/01/2013'
-p14858
+p14816
 sg12154
-(lp14859
-g6193
+(lp14817
+g2334
 asg12156
-(lp14860
+(lp14818
+g2329
+asg12158
+(lp14819
 S'Musical performances'
-p14861
-assg5115
-(dp14862
+p14820
+assg2643
+(dp14821
 g12148
-S'1966 February 06'
-p14863
+S'1950'
+p14822
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14864
-sg11
-g5118
+S'Williams, G. Mennen'
+p14823
 sg12152
-S'6/24/2013'
-p14865
+S'11/01/2013'
+p14824
 sg12154
-(lp14866
-g5113
-ag5119
+(lp14825
+g2646
 asg12156
-(lp14867
-S'Oral Histories'
-p14868
-aS'Interviews'
-p14869
-aS'Radio programs'
-p14870
-aS'Talk shows'
-p14871
-aS'Oral Histories'
-p14872
-aS'Interviews'
-p14873
-aS'Radio programs'
-p14874
-aS'Talk shows'
-p14875
-assg9501
-(dp14876
-g12148
-S'1964 December 16'
-p14877
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14878
-sg11
-g9504
-sg12152
-S'6/24/2013'
-p14879
-sg12154
-(lp14880
-g9499
-asg12156
-(lp14881
-S'Oral Histories'
-p14882
-aS'Radio programs'
-p14883
-assg6441
-(dp14884
-g12148
-S'1962, 1964'
-p14885
-sg12150
-S'Kramer, Arthur W.'
-p14886
-sg11
-g6444
-sg12152
-S'6/05/2014'
-p14887
-sg12154
-(lp14888
-g6439
-ag6433
-asg12156
-(lp14889
+(lp14826
+g2641
+asg12158
+(lp14827
 S'Addresses'
-p14890
-aS'Addresses'
-p14891
-assg6297
-(dp14892
-g12148
-S'1983 October 25'
-p14893
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p14894
-sg11
-g6300
-sg12152
-S'6/05/2014'
-p14895
-sg12154
-(lp14896
-g6295
-asg12156
-(lp14897
-S'Lectures'
-p14898
-aS'Musical performances'
-p14899
+p14828
 aS'Radio programs'
-p14900
-assg237
-(dp14901
+p14829
+aS'Dinners'
+p14830
+assg12075
+(dp14831
 g12148
-S'1963 October 10'
-p14902
+S'1950'
+p14832
 sg12150
-S'Kramer, Arthur W.'
-p14903
-sg11
-g240
+S'Williams, G. Mennen'
+p14833
 sg12152
-S'6/05/2014'
-p14904
+S'11/01/2013'
+p14834
 sg12154
-(lp14905
-g235
-ag229
+(lp14835
+g12078
 asg12156
-(lp14906
+(lp14836
+g12073
+ag12067
+asg12158
+(lp14837
 S'Addresses'
-p14907
-aS'Addresses'
-p14908
-assg9711
-(dp14909
-g12148
-S'1962 October 09, 1962 October 24-27'
-p14910
-sg12150
-S'Kramer, Arthur W.'
-p14911
-sg11
-g9714
-sg12152
-S'6/05/2014'
-p14912
-sg12154
-(lp14913
-g9709
-ag9703
-asg12156
-(lp14914
-S'Addresses'
-p14915
+p14838
 aS'Radio programs'
-p14916
+p14839
+aS'Dinners'
+p14840
 aS'Addresses'
-p14917
+p14841
 aS'Radio programs'
-p14918
-assg771
-(dp14919
+p14842
+aS'Dinners'
+p14843
+assg10671
+(dp14844
 g12148
-S'1955 July 17'
-p14920
+S'[1968 and 1969]'
+p14845
 sg12150
 S'Bassett, Leslie'
-p14921
-sg11
-g774
+p14846
 sg12152
 S'6/05/2014'
-p14922
+p14847
 sg12154
-(lp14923
-g769
+(lp14848
+g10674
 asg12156
-(lp14924
+(lp14849
+g10669
+asg12158
+(lp14850
 S'Musical performances'
-p14925
-assg7155
-(dp14926
+p14851
+assg3105
+(dp14852
 g12148
-S'1980 May 01'
-p14927
+S'1985 May 21'
+p14853
 sg12150
-S'University of Michigan. Alumni Association.'
-p14928
-sg11
-g7158
+S'Bassett, Leslie'
+p14854
+sg12152
+S'6/05/2014'
+p14855
+sg12154
+(lp14856
+g3108
+asg12156
+(lp14857
+g3103
+ag3109
+asg12158
+(lp14858
+S'Musical performances'
+p14859
+aS'Musical performances'
+p14860
+assg3165
+(dp14861
+g12148
+S'1983 February 04, 1983 February 20'
+p14862
+sg12150
+S'Bassett, Leslie'
+p14863
+sg12152
+S'6/05/2014'
+p14864
+sg12154
+(lp14865
+g3168
+asg12156
+(lp14866
+g3163
+ag3169
+asg12158
+(lp14867
+S'Musical performances'
+p14868
+aS'Musical performances'
+p14869
+assg2787
+(dp14870
+g12148
+S'1988 April 06, 1985 May 21'
+p14871
+sg12150
+S'Bassett, Leslie'
+p14872
+sg12152
+S'6/05/2014'
+p14873
+sg12154
+(lp14874
+g2790
+asg12156
+(lp14875
+g2785
+ag2791
+asg12158
+(lp14876
+S'Musical performances'
+p14877
+aS'Musical performances'
+p14878
+assg11559
+(dp14879
+g12148
+S'1987 October 02'
+p14880
+sg12150
+S'Bassett, Leslie'
+p14881
+sg12152
+S'6/05/2014'
+p14882
+sg12154
+(lp14883
+g11562
+asg12156
+(lp14884
+g11557
+asg12158
+(lp14885
+S'Musical performances'
+p14886
+assg6039
+(dp14887
+g12148
+S'1977 April 30'
+p14888
+sg12150
+S'Bassett, Leslie'
+p14889
+sg12152
+S'6/05/2014'
+p14890
+sg12154
+(lp14891
+g6042
+asg12156
+(lp14892
+g6037
+ag11245
+asg12158
+(lp14893
+S'Musical performances'
+p14894
+aS'Musical performances'
+p14895
+assg7401
+(dp14896
+g12148
+S'1967 January 22, 1982 March 10, 1985 November 25'
+p14897
+sg12150
+S'Bassett, Leslie'
+p14898
+sg12152
+S'6/05/2014'
+p14899
+sg12154
+(lp14900
+g7404
+asg12156
+(lp14901
+g7399
+ag7393
+asg12158
+(lp14902
+S'Musical performances'
+p14903
+aS'Musical performances'
+p14904
+assg2265
+(dp14905
+g12148
+S'1961 May 13'
+p14906
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14907
 sg12152
 S'11/01/2013'
-p14929
+p14908
 sg12154
-(lp14930
-g7153
+(lp14909
+g2268
 asg12156
-(lp14931
+(lp14910
+g2263
+asg12158
+(lp14911
 S'Musical performances'
+p14912
+assg9009
+(dp14913
+g12148
+S'1961 May 13'
+p14914
+sg12150
+S"University of Michigan. Men's Glee Club"
+p14915
+sg12152
+S'11/01/2013'
+p14916
+sg12154
+(lp14917
+g9012
+asg12156
+(lp14918
+g9007
+asg12158
+(lp14919
+S'Musical performances'
+p14920
+assg3045
+(dp14921
+g12148
+S'1958 February 10'
+p14922
+sg12150
+S'Brucker, Wilber Marion'
+p14923
+sg12152
+S'11/01/2013'
+p14924
+sg12154
+(lp14925
+g3048
+asg12156
+(lp14926
+g3043
+asg12158
+(lp14927
+S'Interviews'
+p14928
+assg9459
+(dp14929
+g12148
+S'1967 September 11-29'
+p14930
+sg12150
+S'Romney, George'
+p14931
+sg12152
+S'6/05/2014'
 p14932
-assg3669
-(dp14933
-g12148
-S'1965 March 25'
-p14934
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p14935
-sg11
-g3672
-sg12152
-S'6/24/2013'
-p14936
 sg12154
-(lp14937
-g3667
+(lp14933
+g9462
 asg12156
-(lp14938
-S'Radio programs'
-p14939
-aS'Poetry readings'
-p14940
-assg7491
-(dp14941
-g12148
-S'1962 June 05'
-p14942
-sg12150
-S'Romney, Lenore'
-p14943
-sg11
-g7494
-sg12152
-S'6/05/2014'
-p14944
-sg12154
-(lp14945
-g7489
-asg12156
-(lp14946
+(lp14934
+g9457
+ag9469
+asg12158
+(lp14935
 S'Press conferences'
-p14947
-assg10281
-(dp14948
+p14936
+aS'Press conferences'
+p14937
+assg165
+(dp14938
 g12148
-S'1962 May 01'
-p14949
+S'1967 September 11-29'
+p14939
 sg12150
-S'Romney, Lenore'
-p14950
-sg11
-g10284
+S'Romney, George'
+p14940
 sg12152
 S'6/05/2014'
-p14951
+p14941
 sg12154
-(lp14952
-g10279
+(lp14942
+g168
 asg12156
-(lp14953
-S'Addresses'
+(lp14943
+g163
+asg12158
+(lp14944
+S'Press conferences'
+p14945
+assg3549
+(dp14946
+g12148
+S'1967 September 11-29'
+p14947
+sg12150
+S'Romney, George'
+p14948
+sg12152
+S'6/05/2014'
+p14949
+sg12154
+(lp14950
+g3552
+asg12156
+(lp14951
+g3547
+ag3535
+asg12158
+(lp14952
+S'Press conferences'
+p14953
+aS'Press conferences'
 p14954
-assg7731
+assg8427
 (dp14955
 g12148
-S'1962'
+S'1957 June 14'
 p14956
 sg12150
-S'Romney, Lenore'
+S"University of Michigan. Men's Glee Club"
 p14957
-sg11
-g7734
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p14958
 sg12154
 (lp14959
-g7729
+g8430
 asg12156
 (lp14960
-S'Interviews'
-p14961
-assg9855
-(dp14962
+g8425
+asg12158
+(lp14961
+S'Musical performances'
+p14962
+assg213
+(dp14963
 g12148
-S'1976 December 09'
-p14963
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1965 October 30'
 p14964
-sg11
-g9858
-sg12152
-S'6/24/2013'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p14965
+sg12152
+S'11/01/2013'
+p14966
 sg12154
-(lp14966
-g9853
-asg12156
 (lp14967
-S'Addresses'
-p14968
-aS'Radio programs'
-p14969
-assg1833
-(dp14970
+g216
+asg12156
+(lp14968
+g211
+asg12158
+(lp14969
+S'Musical performances'
+p14970
+assg6351
+(dp14971
 g12148
-S'1956 August 05, 1956 August 12'
-p14971
-sg12150
-S'Crane, Henry Hitt'
+S'1965 October 30'
 p14972
-sg11
-g1836
-sg12152
-S'6/24/2013'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p14973
+sg12152
+S'11/01/2013'
+p14974
 sg12154
-(lp14974
-g1831
-ag1825
-asg12156
 (lp14975
-S'Sermons'
-p14976
-aS'Sermons'
-p14977
-assg4611
-(dp14978
+g6354
+asg12156
+(lp14976
+g6349
+asg12158
+(lp14977
+S'Musical performances'
+p14978
+assg9639
+(dp14979
 g12148
-S'1955 December 25, 1956 January 01'
-p14979
-sg12150
-S'Crane, Henry Hitt'
+S'1954'
 p14980
-sg11
-g4614
-sg12152
-S'6/24/2013'
+sg12150
+S'Nickerson, Mark'
 p14981
+sg12152
+S'2/25/2015'
+p14982
 sg12154
-(lp14982
-g4609
-ag4603
-asg12156
 (lp14983
-S'Sermons'
-p14984
-aS'Sermons'
-p14985
-assg1065
-(dp14986
-g12148
-S'1957 August 11, 1957 August 18'
+g9642
+asg12156
+(lp14984
+g9637
+ag9643
+asg12158
+(lp14985
+S'Radio programs'
+p14986
+aS'Radio programs'
 p14987
-sg12150
-S'Crane, Henry Hitt'
-p14988
-sg11
-g1068
-sg12152
-S'6/24/2013'
+assg483
+(dp14988
+g12148
+S'1956'
 p14989
+sg12150
+S'Romney, George'
+p14990
+sg12152
+S'6/05/2014'
+p14991
 sg12154
-(lp14990
-g1063
-ag1069
+(lp14992
+g486
 asg12156
-(lp14991
-S'Sermons'
-p14992
-aS'Sermons'
-p14993
-assg10749
-(dp14994
-g12148
-S'1957 August 04, 1957 August 25'
+(lp14993
+g481
+asg12158
+(lp14994
+S'Addresses'
 p14995
-sg12150
-S'Crane, Henry Hitt'
+aS'Conferences'
 p14996
-sg11
-g10752
+assg10611
+(dp14997
+g12148
+S'1974'
+p14998
+sg12150
+S'Engler, John'
+p14999
 sg12152
 S'6/24/2013'
-p14997
-sg12154
-(lp14998
-g10747
-ag10753
-asg12156
-(lp14999
-S'Sermons'
 p15000
-aS'Sermons'
-p15001
-assg4731
-(dp15002
-g12148
-S'1957 December 29, 1958 January 05'
-p15003
-sg12150
-S'Crane, Henry Hitt'
+sg12154
+(lp15001
+g10614
+asg12156
+(lp15002
+g10609
+asg12158
+(lp15003
+S'Advertising'
 p15004
-sg11
-g4734
+assg1101
+(dp15005
+g12148
+S'[Undated]'
+p15006
+sg12150
+S'Engler, John'
+p15007
 sg12152
 S'6/24/2013'
-p15005
-sg12154
-(lp15006
-g4729
-ag4723
-asg12156
-(lp15007
-S'Sermons'
 p15008
-aS'Sermons'
-p15009
-assg4863
-(dp15010
-g12148
-S'1961 February 23'
-p15011
-sg12150
-S'Hoffman, Clare E.'
+sg12154
+(lp15009
+g1104
+asg12156
+(lp15010
+g1099
+asg12158
+(lp15011
+S'Addresses'
 p15012
-sg11
-g4866
+assg10317
+(dp15013
+g12148
+S'[Undated]'
+p15014
+sg12150
+S'Engler, John'
+p15015
 sg12152
-S'6/05/2014'
-p15013
-sg12154
-(lp15014
-g4861
-asg12156
-(lp15015
-S'Radio programs'
+S'6/24/2013'
 p15016
-assg2169
-(dp15017
-g12148
-S'1956 May 16'
-p15018
-sg12150
-S'Hoffman, Clare E.'
-p15019
-sg11
-g2172
-sg12152
-S'6/05/2014'
+sg12154
+(lp15017
+g10320
+asg12156
+(lp15018
+g10315
+asg12158
+(lp15019
+S'Advertising'
 p15020
-sg12154
-(lp15021
-g2167
-asg12156
-(lp15022
-S'Radio programs'
+assg1089
+(dp15021
+g12148
+S'1968 June 06'
+p15022
+sg12150
+S'Romney, Lenore'
 p15023
-assg8001
-(dp15024
-g12148
-S'1956 May 02'
-p15025
-sg12150
-S'Hoffman, Clare E.'
-p15026
-sg11
-g8004
 sg12152
 S'6/05/2014'
-p15027
+p15024
 sg12154
-(lp15028
-g7999
+(lp15025
+g1092
 asg12156
-(lp15029
-S'Radio programs'
+(lp15026
+g1087
+asg12158
+(lp15027
+S'Addresses'
+p15028
+assg4623
+(dp15029
+g12148
+S'1967 August 03'
 p15030
-assg10569
-(dp15031
-g12148
-S'1956 April 12'
+sg12150
+S'Romney, Lenore'
+p15031
+sg12152
+S'6/05/2014'
 p15032
-sg12150
-S'Hoffman, Clare E.'
-p15033
-sg11
-g10572
-sg12152
-S'6/05/2014'
-p15034
 sg12154
+(lp15033
+g4626
+asg12156
+(lp15034
+g4621
+asg12158
 (lp15035
-g10567
-asg12156
-(lp15036
-S'Radio programs'
-p15037
-assg4503
-(dp15038
+S'Interviews'
+p15036
+assg7821
+(dp15037
 g12148
-S'1956 April 12'
+S'1977 September 20'
+p15038
+sg12150
+S'Engler, John'
 p15039
-sg12150
-S'Hoffman, Clare E.'
+sg12152
+S'6/24/2013'
 p15040
-sg11
-g4506
-sg12152
-S'6/05/2014'
-p15041
 sg12154
+(lp15041
+g7824
+asg12156
 (lp15042
-g4501
-asg12156
+g7819
+asg12158
 (lp15043
-S'Radio programs'
+S'News'
 p15044
-assg1719
-(dp15045
+aS'Press releases'
+p15045
+assg3399
+(dp15046
 g12148
-S'1956 March 23'
-p15046
-sg12150
-S'Hoffman, Clare E.'
+S'1984 February 07'
 p15047
-sg11
-g1722
-sg12152
-S'6/05/2014'
+sg12150
+S'Eclipse Jazz (University of Michigan)'
 p15048
+sg12152
+S'6/05/2014'
+p15049
 sg12154
-(lp15049
-g1717
-asg12156
 (lp15050
-S'Radio programs'
-p15051
-assg11019
-(dp15052
-g12148
-S'1956 March 15'
+g3402
+asg12156
+(lp15051
+g3397
+asg12158
+(lp15052
+S'Lectures'
 p15053
-sg12150
-S'Hoffman, Clare E.'
+aS'Musical performances'
 p15054
-sg11
-g11022
-sg12152
-S'6/05/2014'
+aS'Radio programs'
 p15055
-sg12154
-(lp15056
-g11017
-asg12156
-(lp15057
-S'Radio programs'
-p15058
-assg1521
-(dp15059
+assg2211
+(dp15056
 g12148
-S'1956 February 10'
-p15060
+S'1962 June 13'
+p15057
 sg12150
-S'Hoffman, Clare E.'
-p15061
-sg11
-g1524
+S'Swainson, John B.'
+p15058
 sg12152
-S'6/05/2014'
-p15062
+S'6/24/2013'
+p15059
 sg12154
-(lp15063
-g1519
+(lp15060
+g2214
 asg12156
-(lp15064
-S'Radio programs'
+(lp15061
+g2209
+asg12158
+(lp15062
+S'Interviews'
+p15063
+aS'Radio programs'
+p15064
+aS'Talk shows'
 p15065
-assg4575
+assg4899
 (dp15066
 g12148
-S'1955 May 15'
+S'1962 May 05'
 p15067
 sg12150
-S'Hoffman, Clare E.'
+S'Swainson, John B.'
 p15068
-sg11
-g4578
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p15069
 sg12154
 (lp15070
-g4573
+g4902
 asg12156
 (lp15071
-S'Radio programs'
-p15072
-assg4029
-(dp15073
+g4897
+asg12158
+(lp15072
+S'Addresses'
+p15073
+assg11355
+(dp15074
 g12148
-S'1965 March 18'
-p15074
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1961 January 01'
 p15075
-sg11
-g4032
+sg12150
+S'Swainson, John B.'
+p15076
 sg12152
 S'6/24/2013'
-p15076
+p15077
 sg12154
-(lp15077
-g4027
-ag3
-asg12156
 (lp15078
-S'Addresses'
-p15079
-aS'Radio programs'
-p15080
-aS'Addresses'
-p15081
-aS'Radio programs'
-p15082
-assg8757
-(dp15083
-g12148
-S'1962 March 15'
-p15084
-sg12150
-S'Griffiths, Martha Wright'
-p15085
-sg11
-g8760
-sg12152
-S'6/05/2014'
-p15086
-sg12154
-(lp15087
-g8755
+g11358
 asg12156
+(lp15079
+g11353
+asg12158
+(lp15080
+S'Inauguration'
+p15081
+assg5409
+(dp15082
+g12148
+S'1961 May 21-27'
+p15083
+sg12150
+S'Swainson, John B.'
+p15084
+sg12152
+S'6/24/2013'
+p15085
+sg12154
+(lp15086
+g5412
+asg12156
+(lp15087
+g5407
+asg12158
 (lp15088
-S'Interviews'
+S'Advertising'
 p15089
-aS'Radio programs'
+aS'Television'
 p15090
-assg11127
+assg10911
 (dp15091
 g12148
-S'[1963?]'
+S'1962 April 07'
 p15092
 sg12150
-S'Griffiths, Martha Wright'
+S'Swainson, John B.'
 p15093
-sg11
-g11130
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p15094
 sg12154
 (lp15095
-g11125
+g10914
 asg12156
 (lp15096
-S'Interviews'
-p15097
-aS'Radio programs'
+g10909
+asg12158
+(lp15097
+S'Addresses'
 p15098
-assg5193
+assg4587
 (dp15099
 g12148
-S'1957 October, 1957 November'
+S'1962 January 15'
 p15100
 sg12150
-S'Griffiths, Martha Wright'
+S'Swainson, John B.'
 p15101
-sg11
-g5196
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p15102
 sg12154
 (lp15103
-g5191
+g4590
 asg12156
 (lp15104
-S'Radio programs'
-p15105
-assg2541
-(dp15106
+g4585
+asg12158
+(lp15105
+S'Interviews'
+p15106
+assg3051
+(dp15107
 g12148
-S'1957 October, 1957 November'
-p15107
-sg12150
-S'Griffiths, Martha Wright'
+S'1951'
 p15108
-sg11
-g2544
-sg12152
-S'6/05/2014'
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
 p15109
+sg12152
+S'6/05/2014'
+p15110
 sg12154
-(lp15110
-g2539
-asg12156
 (lp15111
-S'Radio programs'
-p15112
-assg11667
-(dp15113
-g12148
-S'1957 October, 1957 November'
+g3054
+asg12156
+(lp15112
+g3049
+ag3055
+ag11131
+asg12158
+(lp15113
+S'Dedications (ceremonies)'
 p15114
-sg12150
-S'Griffiths, Martha Wright'
+aS'Dedications (ceremonies)'
 p15115
-sg11
-g11670
-sg12152
-S'6/05/2014'
+aS'Dedications (ceremonies)'
 p15116
-sg12154
-(lp15117
-g11665
-asg12156
-(lp15118
-S'Radio programs'
+assg5547
+(dp15117
+g12148
+S'1956'
+p15118
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
 p15119
-assg2205
-(dp15120
-g12148
-S'1957 October, 1957 November'
-p15121
-sg12150
-S'Griffiths, Martha Wright'
-p15122
-sg11
-g2208
 sg12152
 S'6/05/2014'
-p15123
+p15120
 sg12154
-(lp15124
-g2203
+(lp15121
+g5550
 asg12156
-(lp15125
-S'Radio programs'
-p15126
-assg5403
-(dp15127
+(lp15122
+g5545
+asg12158
+(lp15123
+S'Sermons'
+p15124
+aS'Anniversary'
+p15125
+assg11535
+(dp15126
 g12148
-S'1958 May 15'
+S'1951'
+p15127
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
 p15128
-sg12150
-S'Griffiths, Martha Wright'
+sg12152
+S'6/05/2014'
 p15129
-sg11
-g5406
-sg12152
-S'6/05/2014'
-p15130
 sg12154
+(lp15130
+g11538
+asg12156
 (lp15131
-g5401
-asg12156
+g11533
+ag8635
+ag8641
+asg12158
 (lp15132
-S'Interviews'
+S'Dedications (ceremonies)'
 p15133
-aS'Radio programs'
+aS'Dedications (ceremonies)'
 p15134
-assg2679
-(dp15135
+aS'Dedications (ceremonies)'
+p15135
+assg1953
+(dp15136
 g12148
-S'[Undated]'
-p15136
-sg12150
-S'Griffiths, Martha Wright'
+S'1951'
 p15137
-sg11
-g2682
-sg12152
-S'6/05/2014'
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
 p15138
+sg12152
+S'6/05/2014'
+p15139
 sg12154
-(lp15139
-g2677
-asg12156
 (lp15140
-S'Radio programs'
-p15141
-assg8985
-(dp15142
-g12148
-S'1957 October 20'
+g1956
+asg12156
+(lp15141
+g1951
+asg12158
+(lp15142
+S'Dedications (ceremonies)'
 p15143
-sg12150
-S'Griffiths, Martha Wright'
-p15144
-sg11
-g8988
-sg12152
-S'6/05/2014'
+assg8373
+(dp15144
+g12148
+S'1956'
 p15145
-sg12154
-(lp15146
-g8983
-asg12156
-(lp15147
-S'Radio programs'
-p15148
-assg11139
-(dp15149
-g12148
-S'1958 February 20'
-p15150
 sg12150
-S'Griffiths, Martha Wright'
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
+p15146
+sg12152
+S'6/05/2014'
+p15147
+sg12154
+(lp15148
+g8376
+asg12156
+(lp15149
+g8371
+ag8533
+ag11173
+asg12158
+(lp15150
+S'Sermons'
 p15151
-sg11
-g11142
-sg12152
-S'6/05/2014'
+aS'Anniversary'
 p15152
-sg12154
-(lp15153
-g11137
-asg12156
-(lp15154
-g12532
-assg12027
-(dp15155
-g12148
-S'[Undated]'
+aS'Sermons'
+p15153
+aS'Anniversary'
+p15154
+aS'Sermons'
+p15155
+aS'Anniversary'
 p15156
+assg2517
+(dp15157
+g12148
+S'1956'
+p15158
 sg12150
-S'Lawton, James Frederick'
-p15157
-sg11
-g12030
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
+p15159
 sg12152
 S'6/05/2014'
-p15158
+p15160
 sg12154
-(lp15159
-g12025
+(lp15161
+g2520
 asg12156
-(lp15160
-S'Interviews'
-p15161
-aS'Dramatic readings'
-p15162
-assg6003
-(dp15163
+(lp15162
+g2515
+asg12158
+(lp15163
+S'Anniversary'
+p15164
+assg5181
+(dp15165
+g12148
+S'1956'
+p15166
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
+p15167
+sg12152
+S'6/05/2014'
+p15168
+sg12154
+(lp15169
+g5184
+asg12156
+(lp15170
+g5179
+ag9475
+ag9487
+asg12158
+(lp15171
+S'Anniversary'
+p15172
+aS'Anniversary'
+p15173
+aS'Anniversary'
+p15174
+assg8199
+(dp15175
+g12148
+S'1957'
+p15176
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
+p15177
+sg12152
+S'6/05/2014'
+p15178
+sg12154
+(lp15179
+g8202
+asg12156
+(lp15180
+g8197
+asg12158
+(lp15181
+S'Sermons'
+p15182
+assg5637
+(dp15183
+g12148
+S'1951'
+p15184
+sg12150
+S'West Side United Methodist Church (Ann Arbor, Michigan)'
+p15185
+sg12152
+S'6/05/2014'
+p15186
+sg12154
+(lp15187
+g5640
+asg12156
+(lp15188
+g5635
+asg12158
+(lp15189
+S'Musical performances'
+p15190
+aS'Dedications (ceremonies)'
+p15191
+assg8805
+(dp15192
+g12148
+S'1966 July 20'
+p15193
+sg12150
+S'Sink, Charles Albert'
+p15194
+sg12152
+S'6/24/2013'
+p15195
+sg12154
+(lp15196
+g8808
+asg12156
+(lp15197
+g8803
+asg12158
+(lp15198
+S'Dinners'
+p15199
+assg6195
+(dp15200
 g12148
 S'[Undated]'
-p15164
-sg12150
-S'Lawton, James Frederick'
-p15165
-sg11
-g6006
-sg12152
-S'6/05/2014'
-p15166
-sg12154
-(lp15167
-g6001
-asg12156
-(lp15168
-S'Musical performances'
-p15169
-aS'Interviews'
-p15170
-assg11961
-(dp15171
-g12148
-S'1949 November 03'
-p15172
-sg12150
-S'Cushing, George'
-p15173
-sg11
-g11964
-sg12152
-S'2/25/2015'
-p15174
-sg12154
-(lp15175
-g11959
-asg12156
-(lp15176
-S'Radio programs'
-p15177
-aS'Talk shows'
-p15178
-assg9927
-(dp15179
-g12148
-S'1949 October 16'
-p15180
-sg12150
-S'Cushing, George'
-p15181
-sg11
-g9930
-sg12152
-S'2/25/2015'
-p15182
-sg12154
-(lp15183
-g9925
-asg12156
-(lp15184
-S'Radio programs'
-p15185
-aS'Talk shows'
-p15186
-assg2751
-(dp15187
-g12148
-S'1949 June 12'
-p15188
-sg12150
-S'Cushing, George'
-p15189
-sg11
-g2754
-sg12152
-S'2/25/2015'
-p15190
-sg12154
-(lp15191
-g2749
-asg12156
-(lp15192
-S'Radio programs'
-p15193
-aS'Talk shows'
-p15194
-assg219
-(dp15195
-g12148
-S'1949 May 28'
-p15196
-sg12150
-S'Cushing, George'
-p15197
-sg11
-g222
-sg12152
-S'2/25/2015'
-p15198
-sg12154
-(lp15199
-g217
-asg12156
-(lp15200
-S'Radio programs'
 p15201
-aS'Talk shows'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p15202
-assg2499
-(dp15203
-g12148
-S'1949 May 28'
-p15204
-sg12150
-S'Cushing, George'
-p15205
-sg11
-g2502
 sg12152
-S'2/25/2015'
-p15206
+S'11/01/2013'
+p15203
 sg12154
-(lp15207
-g2497
+(lp15204
+g6198
 asg12156
-(lp15208
-S'Radio programs'
+(lp15205
+g6193
+asg12158
+(lp15206
+S'Musical performances'
+p15207
+assg5115
+(dp15208
+g12148
+S'1966 February 06'
 p15209
-aS'Talk shows'
-p15210
-assg11913
-(dp15211
-g12148
-S'1949 May 22'
-p15212
 sg12150
-S'Cushing, George'
-p15213
-sg11
-g11916
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15210
 sg12152
-S'2/25/2015'
-p15214
+S'6/24/2013'
+p15211
 sg12154
-(lp15215
-g11911
+(lp15212
+g5118
+ag5124
 asg12156
-(lp15216
-S'Radio programs'
+(lp15213
+g5113
+ag5119
+asg12158
+(lp15214
+S'Oral Histories'
+p15215
+aS'Interviews'
+p15216
+aS'Radio programs'
 p15217
 aS'Talk shows'
 p15218
-assg2703
-(dp15219
-g12148
-S'1949 May 08'
+aS'Oral Histories'
+p15219
+aS'Interviews'
 p15220
-sg12150
-S'Cushing, George'
+aS'Radio programs'
 p15221
-sg11
-g2706
-sg12152
-S'2/25/2015'
+aS'Talk shows'
 p15222
-sg12154
-(lp15223
-g2701
-asg12156
-(lp15224
-S'Radio programs'
+assg9501
+(dp15223
+g12148
+S'1964 December 16'
+p15224
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p15225
-aS'Talk shows'
+sg12152
+S'6/24/2013'
 p15226
-assg4617
-(dp15227
-g12148
-S'1949 May 01'
-p15228
-sg12150
-S'Cushing, George'
-p15229
-sg11
-g4620
-sg12152
-S'2/25/2015'
+sg12154
+(lp15227
+g9504
+asg12156
+(lp15228
+g9499
+asg12158
+(lp15229
+S'Oral Histories'
 p15230
-sg12154
-(lp15231
-g4615
-asg12156
-(lp15232
-S'Radio programs'
+aS'Radio programs'
+p15231
+assg6441
+(dp15232
+g12148
+S'1962, 1964'
 p15233
-aS'Talk shows'
+sg12150
+S'Kramer, Arthur W.'
 p15234
-assg11475
-(dp15235
-g12148
-S'1949 April 24'
-p15236
-sg12150
-S'Cushing, George'
-p15237
-sg11
-g11478
 sg12152
-S'2/25/2015'
-p15238
+S'6/05/2014'
+p15235
 sg12154
-(lp15239
-g11473
+(lp15236
+g6444
 asg12156
-(lp15240
-S'Radio programs'
-p15241
-aS'Talk shows'
+(lp15237
+g6439
+ag6433
+asg12158
+(lp15238
+S'Addresses'
+p15239
+aS'Addresses'
+p15240
+assg6297
+(dp15241
+g12148
+S'1983 October 25'
 p15242
-assg9021
-(dp15243
-g12148
-S'1949 April 17'
-p15244
 sg12150
-S'Cushing, George'
-p15245
-sg11
-g9024
+S'Eclipse Jazz (University of Michigan)'
+p15243
 sg12152
-S'2/25/2015'
-p15246
+S'6/05/2014'
+p15244
 sg12154
-(lp15247
-g9019
+(lp15245
+g6300
 asg12156
-(lp15248
-S'Radio programs'
+(lp15246
+g6295
+asg12158
+(lp15247
+S'Lectures'
+p15248
+aS'Musical performances'
 p15249
-aS'Talk shows'
+aS'Radio programs'
 p15250
-assg9057
+assg237
 (dp15251
 g12148
-S'1946 December 15'
+S'1963 October 10'
 p15252
 sg12150
-S'Cushing, George'
+S'Kramer, Arthur W.'
 p15253
-sg11
-g9060
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p15254
 sg12154
 (lp15255
-g9055
+g240
 asg12156
 (lp15256
-S'Radio programs'
-p15257
-aS'Talk shows'
-p15258
-assg6177
-(dp15259
-g12148
-S'1946 November 30'
-p15260
-sg12150
-S'Cushing, George'
-p15261
-sg11
-g6180
-sg12152
-S'2/25/2015'
-p15262
-sg12154
-(lp15263
-g6175
-asg12156
-(lp15264
-S'Radio programs'
-p15265
-aS'Talk shows'
-p15266
-assg99
-(dp15267
-g12148
-S'1946 November 24'
-p15268
-sg12150
-S'Cushing, George'
-p15269
-sg11
-g102
-sg12152
-S'2/25/2015'
-p15270
-sg12154
-(lp15271
-g97
-asg12156
-(lp15272
-S'Radio programs'
-p15273
-aS'Talk shows'
-p15274
-assg2631
-(dp15275
-g12148
-S'1946 November 17'
-p15276
-sg12150
-S'Cushing, George'
-p15277
-sg11
-g2634
-sg12152
-S'2/25/2015'
-p15278
-sg12154
-(lp15279
-g2629
-asg12156
-(lp15280
-S'Radio programs'
-p15281
-aS'Talk shows'
-p15282
-assg5763
-(dp15283
-g12148
-S'1946 November 10'
-p15284
-sg12150
-S'Cushing, George'
-p15285
-sg11
-g5766
-sg12152
-S'2/25/2015'
-p15286
-sg12154
-(lp15287
-g5761
-asg12156
-(lp15288
-S'Radio programs'
-p15289
-aS'Talk shows'
-p15290
-assg2949
-(dp15291
-g12148
-S'1946 October 27'
-p15292
-sg12150
-S'Cushing, George'
-p15293
-sg11
-g2952
-sg12152
-S'2/25/2015'
-p15294
-sg12154
-(lp15295
-g2947
-asg12156
-(lp15296
-S'Radio programs'
-p15297
-aS'Talk shows'
-p15298
-assg6087
-(dp15299
-g12148
-S'1946 October 20'
-p15300
-sg12150
-S'Cushing, George'
-p15301
-sg11
-g6090
-sg12152
-S'2/25/2015'
-p15302
-sg12154
-(lp15303
-g6085
-asg12156
-(lp15304
-S'Radio programs'
-p15305
-aS'Talk shows'
-p15306
-assg2721
-(dp15307
-g12148
-S'1946 October 19'
-p15308
-sg12150
-S'Cushing, George'
-p15309
-sg11
-g2724
-sg12152
-S'2/25/2015'
-p15310
-sg12154
-(lp15311
-g2719
-asg12156
-(lp15312
-S'Radio programs'
-p15313
-aS'Talk shows'
-p15314
-assg2379
-(dp15315
-g12148
-S'1947 January 11'
-p15316
-sg12150
-S'Cushing, George'
-p15317
-sg11
-g2382
-sg12152
-S'2/25/2015'
-p15318
-sg12154
-(lp15319
-g2377
-asg12156
-(lp15320
-S'Radio programs'
-p15321
-aS'Talk shows'
-p15322
-assg9441
-(dp15323
-g12148
-S'1952 July 25'
-p15324
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15325
-sg11
-g9444
-sg12152
-S'11/01/2013'
-p15326
-sg12154
-(lp15327
-g9439
-asg12156
-(lp15328
-S'Musical performances'
-p15329
-assg7089
-(dp15330
-g12148
-S'1959 June 08'
-p15331
-sg12150
-S'Murphy, Irene Ellis'
-p15332
-sg11
-g7092
-sg12152
-S'11/01/2013'
-p15333
-sg12154
-(lp15334
-g7087
-asg12156
-(lp15335
-S'Radio programs'
-p15336
-assg1605
-(dp15337
-g12148
-S'1966 January 20'
-p15338
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15339
-sg11
-g1608
-sg12152
-S'6/24/2013'
-p15340
-sg12154
-(lp15341
-g1603
-asg12156
-(lp15342
-S'Oral Histories'
-p15343
-aS'Radio programs'
-p15344
-aS'Documentaries'
-p15345
-assg4509
-(dp15346
-g12148
-S'1966 January 20'
-p15347
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15348
-sg11
-g4512
-sg12152
-S'6/24/2013'
-p15349
-sg12154
-(lp15350
-g4507
-asg12156
-(lp15351
-S'Oral Histories'
-p15352
-aS'Radio programs'
-p15353
-aS'Documentaries'
-p15354
-assg3297
-(dp15355
-g12148
-S'1976 March 28'
-p15356
-sg12150
-S'University of Michigan. Alumni Association.'
-p15357
-sg11
-g3300
-sg12152
-S'11/01/2013'
-p15358
-sg12154
-(lp15359
-g3295
-asg12156
-(lp15360
-S'Musical performances'
-p15361
-assg6315
-(dp15362
-g12148
-S'1976 March 28'
-p15363
-sg12150
-S'University of Michigan. Alumni Association.'
-p15364
-sg11
-g6318
-sg12152
-S'11/01/2013'
-p15365
-sg12154
-(lp15366
-g6313
-asg12156
-(lp15367
-S'Musical performances'
-p15368
-assg6687
-(dp15369
-g12148
-S'1967 March 02'
-p15370
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15371
-sg11
-g6690
-sg12152
-S'6/24/2013'
-p15372
-sg12154
-(lp15373
-g6685
-ag6679
-asg12156
-(lp15374
-S'Radio programs'
-p15375
-aS'Panel discussions'
-p15376
-aS'Radio programs'
-p15377
-aS'Panel discussions'
-p15378
-assg6735
-(dp15379
-g12148
-S'1950 April 19'
-p15380
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15381
-sg11
-g6738
-sg12152
-S'6/24/2013'
-p15382
-sg12154
-(lp15383
-g6733
-asg12156
-(lp15384
-S'Oral Histories'
-p15385
-aS'Interviews'
-p15386
-aS'Radio programs'
-p15387
-aS'Talk shows'
-p15388
-assg741
-(dp15389
-g12148
-S'1966 March 30'
-p15390
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15391
-sg11
-g744
-sg12152
-S'6/24/2013'
-p15392
-sg12154
-(lp15393
-g739
-asg12156
-(lp15394
+g235
+ag229
+asg12158
+(lp15257
 S'Addresses'
-p15395
+p15258
+aS'Addresses'
+p15259
+assg9711
+(dp15260
+g12148
+S'1962 October 09, 1962 October 24-27'
+p15261
+sg12150
+S'Kramer, Arthur W.'
+p15262
+sg12152
+S'6/05/2014'
+p15263
+sg12154
+(lp15264
+g9714
+asg12156
+(lp15265
+g9709
+ag9703
+asg12158
+(lp15266
+S'Addresses'
+p15267
 aS'Radio programs'
-p15396
-aS'Dedications (ceremonies)'
+p15268
+aS'Addresses'
+p15269
+aS'Radio programs'
+p15270
+assg771
+(dp15271
+g12148
+S'1955 July 17'
+p15272
+sg12150
+S'Bassett, Leslie'
+p15273
+sg12152
+S'6/05/2014'
+p15274
+sg12154
+(lp15275
+g774
+asg12156
+(lp15276
+g769
+asg12158
+(lp15277
+S'Musical performances'
+p15278
+assg7155
+(dp15279
+g12148
+S'1980 May 01'
+p15280
+sg12150
+S'University of Michigan. Alumni Association.'
+p15281
+sg12152
+S'11/01/2013'
+p15282
+sg12154
+(lp15283
+g7158
+asg12156
+(lp15284
+g7153
+asg12158
+(lp15285
+S'Musical performances'
+p15286
+assg3669
+(dp15287
+g12148
+S'1965 March 25'
+p15288
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15289
+sg12152
+S'6/24/2013'
+p15290
+sg12154
+(lp15291
+g3672
+asg12156
+(lp15292
+g3667
+asg12158
+(lp15293
+S'Radio programs'
+p15294
+aS'Poetry readings'
+p15295
+assg7491
+(dp15296
+g12148
+S'1962 June 05'
+p15297
+sg12150
+S'Romney, Lenore'
+p15298
+sg12152
+S'6/05/2014'
+p15299
+sg12154
+(lp15300
+g7494
+asg12156
+(lp15301
+g7489
+asg12158
+(lp15302
+S'Press conferences'
+p15303
+assg10281
+(dp15304
+g12148
+S'1962 May 01'
+p15305
+sg12150
+S'Romney, Lenore'
+p15306
+sg12152
+S'6/05/2014'
+p15307
+sg12154
+(lp15308
+g10284
+asg12156
+(lp15309
+g10279
+asg12158
+(lp15310
+S'Addresses'
+p15311
+assg7731
+(dp15312
+g12148
+S'1962'
+p15313
+sg12150
+S'Romney, Lenore'
+p15314
+sg12152
+S'6/05/2014'
+p15315
+sg12154
+(lp15316
+g7734
+asg12156
+(lp15317
+g7729
+asg12158
+(lp15318
+S'Interviews'
+p15319
+assg9855
+(dp15320
+g12148
+S'1976 December 09'
+p15321
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15322
+sg12152
+S'6/24/2013'
+p15323
+sg12154
+(lp15324
+g9858
+asg12156
+(lp15325
+g9853
+asg12158
+(lp15326
+S'Addresses'
+p15327
+aS'Radio programs'
+p15328
+assg1833
+(dp15329
+g12148
+S'1956 August 05, 1956 August 12'
+p15330
+sg12150
+S'Crane, Henry Hitt'
+p15331
+sg12152
+S'6/24/2013'
+p15332
+sg12154
+(lp15333
+g1836
+asg12156
+(lp15334
+g1831
+ag1825
+asg12158
+(lp15335
+S'Sermons'
+p15336
+aS'Sermons'
+p15337
+assg4611
+(dp15338
+g12148
+S'1955 December 25, 1956 January 01'
+p15339
+sg12150
+S'Crane, Henry Hitt'
+p15340
+sg12152
+S'6/24/2013'
+p15341
+sg12154
+(lp15342
+g4614
+asg12156
+(lp15343
+g4609
+ag4603
+asg12158
+(lp15344
+S'Sermons'
+p15345
+aS'Sermons'
+p15346
+assg1065
+(dp15347
+g12148
+S'1957 August 11, 1957 August 18'
+p15348
+sg12150
+S'Crane, Henry Hitt'
+p15349
+sg12152
+S'6/24/2013'
+p15350
+sg12154
+(lp15351
+g1068
+asg12156
+(lp15352
+g1063
+ag1069
+asg12158
+(lp15353
+S'Sermons'
+p15354
+aS'Sermons'
+p15355
+assg10749
+(dp15356
+g12148
+S'1957 August 04, 1957 August 25'
+p15357
+sg12150
+S'Crane, Henry Hitt'
+p15358
+sg12152
+S'6/24/2013'
+p15359
+sg12154
+(lp15360
+g10752
+asg12156
+(lp15361
+g10747
+ag10753
+asg12158
+(lp15362
+S'Sermons'
+p15363
+aS'Sermons'
+p15364
+assg4731
+(dp15365
+g12148
+S'1957 December 29, 1958 January 05'
+p15366
+sg12150
+S'Crane, Henry Hitt'
+p15367
+sg12152
+S'6/24/2013'
+p15368
+sg12154
+(lp15369
+g4734
+asg12156
+(lp15370
+g4729
+ag4723
+asg12158
+(lp15371
+S'Sermons'
+p15372
+aS'Sermons'
+p15373
+assg4863
+(dp15374
+g12148
+S'1961 February 23'
+p15375
+sg12150
+S'Hoffman, Clare E.'
+p15376
+sg12152
+S'6/05/2014'
+p15377
+sg12154
+(lp15378
+g4866
+asg12156
+(lp15379
+g4861
+asg12158
+(lp15380
+S'Radio programs'
+p15381
+assg2169
+(dp15382
+g12148
+S'1956 May 16'
+p15383
+sg12150
+S'Hoffman, Clare E.'
+p15384
+sg12152
+S'6/05/2014'
+p15385
+sg12154
+(lp15386
+g2172
+asg12156
+(lp15387
+g2167
+asg12158
+(lp15388
+S'Radio programs'
+p15389
+assg8001
+(dp15390
+g12148
+S'1956 May 02'
+p15391
+sg12150
+S'Hoffman, Clare E.'
+p15392
+sg12152
+S'6/05/2014'
+p15393
+sg12154
+(lp15394
+g8004
+asg12156
+(lp15395
+g7999
+asg12158
+(lp15396
+S'Radio programs'
 p15397
-assg4479
+assg10569
 (dp15398
 g12148
-S'1985 November 23'
+S'1956 April 12'
 p15399
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Hoffman, Clare E.'
 p15400
-sg11
-g4482
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p15401
 sg12154
 (lp15402
-g4477
+g10572
 asg12156
 (lp15403
-S'Musical performances'
-p15404
-assg7143
-(dp15405
+g10567
+asg12158
+(lp15404
+S'Radio programs'
+p15405
+assg4503
+(dp15406
 g12148
-S'1985 November 23'
-p15406
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1956 April 12'
 p15407
-sg11
-g7146
-sg12152
-S'11/01/2013'
+sg12150
+S'Hoffman, Clare E.'
 p15408
+sg12152
+S'6/05/2014'
+p15409
 sg12154
-(lp15409
-g7141
-asg12156
 (lp15410
-S'Musical performances'
-p15411
-assg10527
-(dp15412
-g12148
-S'1985 November 23'
+g4506
+asg12156
+(lp15411
+g4501
+asg12158
+(lp15412
+S'Radio programs'
 p15413
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15414
-sg11
-g10530
-sg12152
-S'11/01/2013'
+assg1719
+(dp15414
+g12148
+S'1956 March 23'
 p15415
-sg12154
-(lp15416
-g10525
-asg12156
-(lp15417
-S'Musical performances'
-p15418
-assg1425
-(dp15419
-g12148
-S'1990 March'
-p15420
 sg12150
-S'Bassett, Leslie'
+S'Hoffman, Clare E.'
+p15416
+sg12152
+S'6/05/2014'
+p15417
+sg12154
+(lp15418
+g1722
+asg12156
+(lp15419
+g1717
+asg12158
+(lp15420
+S'Radio programs'
 p15421
-sg11
-g1428
+assg11019
+(dp15422
+g12148
+S'1956 March 15'
+p15423
+sg12150
+S'Hoffman, Clare E.'
+p15424
 sg12152
 S'6/05/2014'
-p15422
-sg12154
-(lp15423
-g1423
-asg12156
-(lp15424
-S'Musical performances'
 p15425
-assg1257
-(dp15426
-g12148
-S'1986 November 01,1988 November 18, 1988 November 19'
-p15427
-sg12150
-S'Bassett, Leslie'
-p15428
-sg11
-g1260
-sg12152
-S'6/05/2014'
+sg12154
+(lp15426
+g11022
+asg12156
+(lp15427
+g11017
+asg12158
+(lp15428
+S'Radio programs'
 p15429
-sg12154
-(lp15430
-g1255
-ag1261
-asg12156
-(lp15431
-S'Musical performances'
+assg1521
+(dp15430
+g12148
+S'1956 February 10'
+p15431
+sg12150
+S'Hoffman, Clare E.'
 p15432
-aS'Musical performances'
+sg12152
+S'6/05/2014'
 p15433
-assg10041
-(dp15434
-g12148
-S'1982 March 14, 1987 April 4, 1988 October 21'
-p15435
-sg12150
-S'Bassett, Leslie'
-p15436
-sg11
-g10044
-sg12152
-S'6/05/2014'
+sg12154
+(lp15434
+g1524
+asg12156
+(lp15435
+g1519
+asg12158
+(lp15436
+S'Radio programs'
 p15437
-sg12154
-(lp15438
-g10039
-asg12156
-(lp15439
-S'Musical performances'
+assg4575
+(dp15438
+g12148
+S'1955 May 15'
+p15439
+sg12150
+S'Hoffman, Clare E.'
 p15440
-assg10035
-(dp15441
-g12148
-S'1958 June 28'
-p15442
-sg12150
-S'Brucker, Wilber Marion'
-p15443
-sg11
-g10038
-sg12152
-S'11/01/2013'
-p15444
-sg12154
-(lp15445
-g10033
-asg12156
-(lp15446
-S'Addresses'
-p15447
-aS'Dedications (ceremonies)'
-p15448
-assg1419
-(dp15449
-g12148
-S'1983?, 1987 November 14'
-p15450
-sg12150
-S'Bassett, Leslie'
-p15451
-sg11
-g1422
 sg12152
 S'6/05/2014'
-p15452
+p15441
 sg12154
-(lp15453
-g1417
-ag1399
+(lp15442
+g4578
 asg12156
-(lp15454
-S'Musical performances'
+(lp15443
+g4573
+asg12158
+(lp15444
+S'Radio programs'
+p15445
+assg4029
+(dp15446
+g12148
+S'1965 March 18'
+p15447
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15448
+sg12152
+S'6/24/2013'
+p15449
+sg12154
+(lp15450
+g4032
+ag12
+asg12156
+(lp15451
+g4027
+ag3
+asg12158
+(lp15452
+S'Addresses'
+p15453
+aS'Radio programs'
+p15454
+aS'Addresses'
 p15455
-aS'Musical performances'
+aS'Radio programs'
 p15456
-assg7041
+assg8757
 (dp15457
 g12148
-S'1980 February 25, 1980 October 20'
+S'1962 March 15'
 p15458
 sg12150
-S'Bassett, Leslie'
+S'Griffiths, Martha Wright'
 p15459
-sg11
-g7044
 sg12152
 S'6/05/2014'
 p15460
 sg12154
 (lp15461
-g7039
+g8760
 asg12156
 (lp15462
-S'Musical performances'
-p15463
-assg4425
-(dp15464
-g12148
-S'1967 February 09'
-p15465
-sg12150
-S'Detroit Urban League'
-p15466
-sg11
-g4428
-sg12152
-S'6/24/2013'
-p15467
-sg12154
-(lp15468
-g4423
-asg12156
-(lp15469
-S'Radio programs'
-p15470
-assg4737
-(dp15471
-g12148
-S'1962 March 1962'
-p15472
-sg12150
-S'Detroit Urban League'
-p15473
-sg11
-g4740
-sg12152
-S'6/24/2013'
-p15474
-sg12154
-(lp15475
-g4735
-asg12156
-(lp15476
-S'Addresses'
-p15477
-aS'Dinners'
-p15478
-assg10473
-(dp15479
-g12148
-S'[Undated]'
-p15480
-sg12150
-S'Detroit Urban League'
-p15481
-sg11
-g10476
-sg12152
-S'6/24/2013'
-p15482
-sg12154
-(lp15483
-g10471
-asg12156
-(lp15484
+g8755
+asg12158
+(lp15463
 S'Interviews'
-p15485
+p15464
 aS'Radio programs'
+p15465
+assg11127
+(dp15466
+g12148
+S'[1963?]'
+p15467
+sg12150
+S'Griffiths, Martha Wright'
+p15468
+sg12152
+S'6/05/2014'
+p15469
+sg12154
+(lp15470
+g11130
+asg12156
+(lp15471
+g11125
+asg12158
+(lp15472
+S'Interviews'
+p15473
+aS'Radio programs'
+p15474
+assg5193
+(dp15475
+g12148
+S'1957 October, 1957 November'
+p15476
+sg12150
+S'Griffiths, Martha Wright'
+p15477
+sg12152
+S'6/05/2014'
+p15478
+sg12154
+(lp15479
+g5196
+asg12156
+(lp15480
+g5191
+asg12158
+(lp15481
+S'Radio programs'
+p15482
+assg2541
+(dp15483
+g12148
+S'1957 October, 1957 November'
+p15484
+sg12150
+S'Griffiths, Martha Wright'
+p15485
+sg12152
+S'6/05/2014'
 p15486
-aS'Talk shows'
-p15487
-assg7953
-(dp15488
-g12148
-S'1968 March 18'
-p15489
-sg12150
-S'Detroit Urban League'
+sg12154
+(lp15487
+g2544
+asg12156
+(lp15488
+g2539
+asg12158
+(lp15489
+S'Radio programs'
 p15490
-sg11
-g7956
+assg11667
+(dp15491
+g12148
+S'1957 October, 1957 November'
+p15492
+sg12150
+S'Griffiths, Martha Wright'
+p15493
 sg12152
-S'6/24/2013'
-p15491
-sg12154
-(lp15492
-g7951
-asg12156
-(lp15493
-S'Addresses'
+S'6/05/2014'
 p15494
-aS'Dinners'
-p15495
-assg4983
-(dp15496
-g12148
-S'[Undated]'
-p15497
-sg12150
-S'Cacioppo, George'
+sg12154
+(lp15495
+g11670
+asg12156
+(lp15496
+g11665
+asg12158
+(lp15497
+S'Radio programs'
 p15498
-sg11
-g4986
+assg2205
+(dp15499
+g12148
+S'1957 October, 1957 November'
+p15500
+sg12150
+S'Griffiths, Martha Wright'
+p15501
 sg12152
-S'2/25/2015'
-p15499
-sg12154
-(lp15500
-g4981
-asg12156
-(lp15501
-S'Musical performances'
+S'6/05/2014'
 p15502
-assg7725
-(dp15503
-g12148
-S'[Undated]'
-p15504
-sg12150
-S'Cacioppo, George'
-p15505
-sg11
-g7728
-sg12152
-S'2/25/2015'
+sg12154
+(lp15503
+g2208
+asg12156
+(lp15504
+g2203
+asg12158
+(lp15505
+S'Radio programs'
 p15506
-sg12154
-(lp15507
-g7723
-asg12156
-(lp15508
-S'Musical performances'
+assg5403
+(dp15507
+g12148
+S'1958 May 15'
+p15508
+sg12150
+S'Griffiths, Martha Wright'
 p15509
-assg11049
-(dp15510
-g12148
-S'[Undated]'
-p15511
-sg12150
-S'Cacioppo, George'
-p15512
-sg11
-g11052
 sg12152
-S'2/25/2015'
-p15513
+S'6/05/2014'
+p15510
 sg12154
-(lp15514
-g11047
+(lp15511
+g5406
 asg12156
-(lp15515
-S'Musical performances'
-p15516
-assg567
-(dp15517
+(lp15512
+g5401
+asg12158
+(lp15513
+S'Interviews'
+p15514
+aS'Radio programs'
+p15515
+assg2679
+(dp15516
 g12148
 S'[Undated]'
+p15517
+sg12150
+S'Griffiths, Martha Wright'
 p15518
-sg12150
-S'Cacioppo, George'
-p15519
-sg11
-g570
 sg12152
-S'2/25/2015'
-p15520
+S'6/05/2014'
+p15519
 sg12154
-(lp15521
-g565
+(lp15520
+g2682
 asg12156
+(lp15521
+g2677
+asg12158
 (lp15522
-S'Musical performances'
+S'Radio programs'
 p15523
-assg3915
+assg8985
 (dp15524
 g12148
-S'1948 March 11'
+S'1957 October 20'
 p15525
 sg12150
-S'Cushing, George'
+S'Griffiths, Martha Wright'
 p15526
-sg11
-g3918
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p15527
 sg12154
 (lp15528
-g3913
+g8988
 asg12156
 (lp15529
+g8983
+asg12158
+(lp15530
 S'Radio programs'
-p15530
-aS'Talk shows'
 p15531
-assg1467
+assg11139
 (dp15532
 g12148
-S'[Undated]'
+S'1958 February 20'
 p15533
 sg12150
-S'Cacioppo, George'
+S'Griffiths, Martha Wright'
 p15534
-sg11
-g1470
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p15535
 sg12154
 (lp15536
-g1465
+g11142
 asg12156
 (lp15537
-S'Musical performances'
-p15538
-assg2103
+g11137
+asg12158
+(lp15538
+g12582
+assg12027
 (dp15539
 g12148
 S'[Undated]'
 p15540
 sg12150
-S'Cacioppo, George'
+S'Lawton, James Frederick'
 p15541
-sg11
-g2106
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p15542
 sg12154
 (lp15543
-g2101
-ag2095
+g12030
 asg12156
 (lp15544
-S'Musical performances'
-p15545
-aS'Musical performances'
+g12025
+asg12158
+(lp15545
+S'Interviews'
 p15546
-assg2049
-(dp15547
-g12148
-S'1969 May 06'
-p15548
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15549
-sg11
-g2052
-sg12152
-S'6/24/2013'
-p15550
-sg12154
-(lp15551
-g2047
-asg12156
-(lp15552
-S'Radio programs'
-p15553
-aS'Panel discussions'
-p15554
-assg8097
-(dp15555
-g12148
-S'1979 November 17'
-p15556
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15557
-sg11
-g8100
-sg12152
-S'11/01/2013'
-p15558
-sg12154
-(lp15559
-g8095
-asg12156
-(lp15560
-S'Musical performances'
-p15561
-assg11937
-(dp15562
-g12148
-S'1979 November 17'
-p15563
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15564
-sg11
-g11940
-sg12152
-S'11/01/2013'
-p15565
-sg12154
-(lp15566
-g11935
-ag11923
-asg12156
-(lp15567
-S'Musical performances'
-p15568
-aS'Musical performances'
-p15569
-assg8655
-(dp15570
+aS'Dramatic readings'
+p15547
+assg6003
+(dp15548
 g12148
 S'[Undated]'
-p15571
+p15549
 sg12150
-S'Williams, G. Mennen'
-p15572
-sg11
-g8658
+S'Lawton, James Frederick'
+p15550
 sg12152
-S'11/01/2013'
+S'6/05/2014'
+p15551
+sg12154
+(lp15552
+g6006
+asg12156
+(lp15553
+g6001
+asg12158
+(lp15554
+S'Musical performances'
+p15555
+aS'Interviews'
+p15556
+assg11961
+(dp15557
+g12148
+S'1949 November 03'
+p15558
+sg12150
+S'Cushing, George'
+p15559
+sg12152
+S'2/25/2015'
+p15560
+sg12154
+(lp15561
+g11964
+asg12156
+(lp15562
+g11959
+asg12158
+(lp15563
+S'Radio programs'
+p15564
+aS'Talk shows'
+p15565
+assg9927
+(dp15566
+g12148
+S'1949 October 16'
+p15567
+sg12150
+S'Cushing, George'
+p15568
+sg12152
+S'2/25/2015'
+p15569
+sg12154
+(lp15570
+g9930
+asg12156
+(lp15571
+g9925
+asg12158
+(lp15572
+S'Radio programs'
 p15573
-sg12154
-(lp15574
-g8653
-asg12156
-(lp15575
-S'Addresses'
+aS'Talk shows'
+p15574
+assg2751
+(dp15575
+g12148
+S'1949 June 12'
 p15576
-aS'Anniversary'
+sg12150
+S'Cushing, George'
 p15577
-assg2229
-(dp15578
-g12148
-S'[1954?]'
-p15579
-sg12150
-S'Williams, G. Mennen'
-p15580
-sg11
-g2232
 sg12152
-S'11/01/2013'
-p15581
+S'2/25/2015'
+p15578
 sg12154
-(lp15582
-g2227
+(lp15579
+g2754
 asg12156
-(lp15583
-S'Addresses'
-p15584
-assg9453
-(dp15585
+(lp15580
+g2749
+asg12158
+(lp15581
+S'Radio programs'
+p15582
+aS'Talk shows'
+p15583
+assg219
+(dp15584
 g12148
-S'1954 May'
+S'1949 May 28'
+p15585
+sg12150
+S'Cushing, George'
 p15586
-sg12150
-S'Williams, G. Mennen'
-p15587
-sg11
-g9456
 sg12152
-S'11/01/2013'
-p15588
+S'2/25/2015'
+p15587
 sg12154
-(lp15589
-g9451
+(lp15588
+g222
 asg12156
+(lp15589
+g217
+asg12158
 (lp15590
-S'Addresses'
+S'Radio programs'
 p15591
-aS'Anniversary'
+aS'Talk shows'
 p15592
-assg5661
+assg2499
 (dp15593
 g12148
-S'1952'
+S'1949 May 28'
 p15594
 sg12150
-S'Williams, G. Mennen'
+S'Cushing, George'
 p15595
-sg11
-g5664
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p15596
 sg12154
 (lp15597
-g5659
+g2502
 asg12156
 (lp15598
-S'Advertising'
-p15599
-aS'Radio programs'
+g2497
+asg12158
+(lp15599
+S'Radio programs'
 p15600
-assg951
-(dp15601
+aS'Talk shows'
+p15601
+assg11913
+(dp15602
 g12148
-S'1953 January 15'
-p15602
-sg12150
-S'Williams, G. Mennen'
+S'1949 May 22'
 p15603
-sg11
-g954
-sg12152
-S'11/01/2013'
+sg12150
+S'Cushing, George'
 p15604
+sg12152
+S'2/25/2015'
+p15605
 sg12154
-(lp15605
-g949
-asg12156
 (lp15606
-S'Addresses'
-p15607
-assg7269
-(dp15608
-g12148
-S'1965 August, September; 1966'
+g11916
+asg12156
+(lp15607
+g11911
+asg12158
+(lp15608
+S'Radio programs'
 p15609
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Talk shows'
 p15610
-sg11
-g7272
+assg2703
+(dp15611
+g12148
+S'1949 May 08'
+p15612
+sg12150
+S'Cushing, George'
+p15613
 sg12152
-S'6/24/2013'
-p15611
-sg12154
-(lp15612
-g7267
-ag7273
-ag6973
-asg12156
-(lp15613
-S'Oral Histories'
+S'2/25/2015'
 p15614
-aS'Interviews'
-p15615
-aS'Radio programs'
-p15616
-aS'Talk shows'
-p15617
-aS'Oral Histories'
+sg12154
+(lp15615
+g2706
+asg12156
+(lp15616
+g2701
+asg12158
+(lp15617
+S'Radio programs'
 p15618
-aS'Interviews'
+aS'Talk shows'
 p15619
-aS'Radio programs'
-p15620
-aS'Talk shows'
+assg4617
+(dp15620
+g12148
+S'1949 May 01'
 p15621
-aS'Oral Histories'
+sg12150
+S'Cushing, George'
 p15622
-aS'Interviews'
+sg12152
+S'2/25/2015'
 p15623
-aS'Radio programs'
-p15624
-aS'Talk shows'
-p15625
-assg8043
-(dp15626
-g12148
-S'1965 July, August, December'
+sg12154
+(lp15624
+g4620
+asg12156
+(lp15625
+g4615
+asg12158
+(lp15626
+S'Radio programs'
 p15627
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Talk shows'
 p15628
-sg11
-g8046
+assg11475
+(dp15629
+g12148
+S'1949 April 24'
+p15630
+sg12150
+S'Cushing, George'
+p15631
 sg12152
-S'6/24/2013'
-p15629
-sg12154
-(lp15630
-g8041
-ag9523
-asg12156
-(lp15631
-S'Oral Histories'
+S'2/25/2015'
 p15632
-aS'Interviews'
-p15633
-aS'Radio programs'
-p15634
-aS'Talk shows'
-p15635
-aS'Oral Histories'
+sg12154
+(lp15633
+g11478
+asg12156
+(lp15634
+g11473
+asg12158
+(lp15635
+S'Radio programs'
 p15636
-aS'Interviews'
+aS'Talk shows'
 p15637
-aS'Radio programs'
-p15638
-aS'Talk shows'
+assg9021
+(dp15638
+g12148
+S'1949 April 17'
 p15639
-assg11001
-(dp15640
-g12148
-S'1965, August, September, October'
+sg12150
+S'Cushing, George'
+p15640
+sg12152
+S'2/25/2015'
 p15641
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15642
-sg11
-g11004
-sg12152
-S'6/24/2013'
-p15643
 sg12154
+(lp15642
+g9024
+asg12156
+(lp15643
+g9019
+asg12158
 (lp15644
-g10999
-ag10993
-asg12156
-(lp15645
-S'Oral Histories'
+S'Radio programs'
+p15645
+aS'Talk shows'
 p15646
-aS'Interviews'
-p15647
-aS'Radio programs'
+assg9057
+(dp15647
+g12148
+S'1946 December 15'
 p15648
-aS'Talk shows'
+sg12150
+S'Cushing, George'
 p15649
-aS'Oral Histories'
+sg12152
+S'2/25/2015'
 p15650
-aS'Interviews'
-p15651
-aS'Radio programs'
-p15652
+sg12154
+(lp15651
+g9060
+asg12156
+(lp15652
+g9055
+asg12158
+(lp15653
+S'Radio programs'
+p15654
 aS'Talk shows'
-p15653
-assg9981
-(dp15654
-g12148
-S'1965 September'
 p15655
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15656
-sg11
-g9984
-sg12152
-S'6/24/2013'
+assg6177
+(dp15656
+g12148
+S'1946 November 30'
 p15657
+sg12150
+S'Cushing, George'
+p15658
+sg12152
+S'2/25/2015'
+p15659
 sg12154
-(lp15658
-g9979
-ag9985
+(lp15660
+g6180
 asg12156
-(lp15659
-S'Oral Histories'
-p15660
-aS'Interviews'
-p15661
-aS'Radio programs'
-p15662
-aS'Talk shows'
+(lp15661
+g6175
+asg12158
+(lp15662
+S'Radio programs'
 p15663
-aS'Oral Histories'
+aS'Talk shows'
 p15664
-aS'Interviews'
-p15665
-aS'Radio programs'
+assg99
+(dp15665
+g12148
+S'1946 November 24'
 p15666
-aS'Talk shows'
+sg12150
+S'Cushing, George'
 p15667
-assg3927
-(dp15668
-g12148
-S'1965 September, December, 1966 January'
-p15669
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15670
-sg11
-g3930
 sg12152
-S'6/24/2013'
-p15671
+S'2/25/2015'
+p15668
 sg12154
-(lp15672
-g3925
-ag3931
+(lp15669
+g102
 asg12156
-(lp15673
-S'Oral Histories'
-p15674
-aS'Interviews'
+(lp15670
+g97
+asg12158
+(lp15671
+S'Radio programs'
+p15672
+aS'Talk shows'
+p15673
+assg2631
+(dp15674
+g12148
+S'1946 November 17'
 p15675
-aS'Radio programs'
-p15676
-aS'Talk shows'
-p15677
-aS'Oral Histories'
-p15678
-aS'Interviews'
-p15679
-aS'Radio programs'
-p15680
-aS'Talk shows'
-p15681
-assg7197
-(dp15682
-g12148
-S'1965 July, September, December'
-p15683
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15684
-sg11
-g7200
+S'Cushing, George'
+p15676
 sg12152
-S'6/24/2013'
-p15685
+S'2/25/2015'
+p15677
 sg12154
-(lp15686
-g7195
-ag7189
+(lp15678
+g2634
 asg12156
+(lp15679
+g2629
+asg12158
+(lp15680
+S'Radio programs'
+p15681
+aS'Talk shows'
+p15682
+assg5763
+(dp15683
+g12148
+S'1946 November 10'
+p15684
+sg12150
+S'Cushing, George'
+p15685
+sg12152
+S'2/25/2015'
+p15686
+sg12154
 (lp15687
-S'Oral Histories'
-p15688
-aS'Interviews'
-p15689
-aS'Radio programs'
+g5766
+asg12156
+(lp15688
+g5761
+asg12158
+(lp15689
+S'Radio programs'
 p15690
 aS'Talk shows'
 p15691
-aS'Oral Histories'
-p15692
-aS'Interviews'
+assg2949
+(dp15692
+g12148
+S'1946 October 27'
 p15693
-aS'Radio programs'
+sg12150
+S'Cushing, George'
 p15694
-aS'Talk shows'
+sg12152
+S'2/25/2015'
 p15695
-assg11301
-(dp15696
-g12148
-S'1963 October 21, [22?]'
-p15697
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15698
-sg11
-g11304
-sg12152
-S'6/24/2013'
+sg12154
+(lp15696
+g2952
+asg12156
+(lp15697
+g2947
+asg12158
+(lp15698
+S'Radio programs'
 p15699
-sg12154
-(lp15700
-g11299
-asg12156
-(lp15701
-S'Addresses'
+aS'Talk shows'
+p15700
+assg6087
+(dp15701
+g12148
+S'1946 October 20'
 p15702
-aS'Radio programs'
+sg12150
+S'Cushing, George'
 p15703
-assg8991
-(dp15704
-g12148
-S'1978'
-p15705
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15706
-sg11
-g8994
 sg12152
-S'11/01/2013'
-p15707
+S'2/25/2015'
+p15704
 sg12154
-(lp15708
-g8989
-ag8995
+(lp15705
+g6090
 asg12156
-(lp15709
-S'Musical performances'
-p15710
-aS'Musical performances'
+(lp15706
+g6085
+asg12158
+(lp15707
+S'Radio programs'
+p15708
+aS'Talk shows'
+p15709
+assg2721
+(dp15710
+g12148
+S'1946 October 19'
 p15711
-assg2697
-(dp15712
-g12148
-S'1978'
-p15713
 sg12150
-S"University of Michigan. Men's Glee Club"
-p15714
-sg11
-g2700
+S'Cushing, George'
+p15712
 sg12152
-S'11/01/2013'
-p15715
+S'2/25/2015'
+p15713
 sg12154
-(lp15716
-g2695
+(lp15714
+g2724
 asg12156
-(lp15717
-S'Musical performances'
+(lp15715
+g2719
+asg12158
+(lp15716
+S'Radio programs'
+p15717
+aS'Talk shows'
 p15718
-assg10359
+assg2379
 (dp15719
 g12148
-S'1994 April 11'
+S'1947 January 11'
 p15720
 sg12150
-S'Engler, John'
+S'Cushing, George'
 p15721
-sg11
-g10362
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p15722
 sg12154
 (lp15723
-g10357
+g2382
 asg12156
 (lp15724
-S'Musical performances'
-p15725
-aS'Advertising'
-p15726
-assg87
-(dp15727
-g12148
-S'[Undated]'
-p15728
-sg12150
-S'Boyne USA Resorts'
-p15729
-sg11
-g90
-sg12152
-S'2/25/2015'
-p15730
-sg12154
-(lp15731
-g85
-asg12156
-(lp15732
-S'Advertising'
-p15733
-assg9621
-(dp15734
-g12148
-S'1976 August 11'
-p15735
-sg12150
-S'Boyne USA Resorts'
-p15736
-sg11
-g9624
-sg12152
-S'2/25/2015'
-p15737
-sg12154
-(lp15738
-g9619
-asg12156
-(lp15739
-S'Advertising'
-p15740
-assg3441
-(dp15741
-g12148
-S'[Undated]'
-p15742
-sg12150
-S'Boyne USA Resorts'
-p15743
-sg11
-g3444
-sg12152
-S'2/25/2015'
-p15744
-sg12154
-(lp15745
-g3439
-asg12156
-(lp15746
-S'Advertising'
-p15747
-assg6105
-(dp15748
-g12148
-S'1976 May 05'
-p15749
-sg12150
-S'Boyne USA Resorts'
-p15750
-sg11
-g6108
-sg12152
-S'2/25/2015'
-p15751
-sg12154
-(lp15752
-g6103
-asg12156
-(lp15753
-S'Advertising'
-p15754
-assg6417
-(dp15755
-g12148
-S'[Undated]'
-p15756
-sg12150
-S'Boyne USA Resorts'
-p15757
-sg11
-g6420
-sg12152
-S'2/25/2015'
-p15758
-sg12154
-(lp15759
-g6415
-asg12156
-(lp15760
-S'Advertising'
-p15761
-assg309
-(dp15762
-g12148
-S'[Undated]'
-p15763
-sg12150
-S'Boyne USA Resorts'
-p15764
-sg11
-g312
-sg12152
-S'2/25/2015'
-p15765
-sg12154
-(lp15766
-g307
-asg12156
-(lp15767
-S'Advertising'
-p15768
-assg6171
-(dp15769
-g12148
-S'1993 September 16'
-p15770
-sg12150
-S'Boyne USA Resorts'
-p15771
-sg11
-g6174
-sg12152
-S'2/25/2015'
-p15772
-sg12154
-(lp15773
-g6169
-asg12156
-(lp15774
-S'Advertising'
-p15775
-assg111
-(dp15776
-g12148
-S'[Undated]'
-p15777
-sg12150
-S'Boyne USA Resorts'
-p15778
-sg11
-g114
-sg12152
-S'2/25/2015'
-p15779
-sg12154
-(lp15780
-g109
-asg12156
-(lp15781
-g12532
-assg1515
-(dp15782
-g12148
-S'[Undated]'
-p15783
-sg12150
-S'Shepard, Robert J.'
-p15784
-sg11
-g1518
-sg12152
-S'11/01/2013'
-p15785
-sg12154
-(lp15786
-g1513
-ag9583
-asg12156
-(lp15787
-S'Correspondence'
-p15788
-aS'Correspondence'
-p15789
-assg11811
-(dp15790
-g12148
-S'1966 October 02-03'
-p15791
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15792
-sg11
-g11814
-sg12152
-S'6/24/2013'
-p15793
-sg12154
-(lp15794
-g11809
-ag11815
-asg12156
-(lp15795
+g2377
+asg12158
+(lp15725
 S'Radio programs'
-p15796
-aS'Poetry readings'
-p15797
-aS'Radio programs'
-p15798
-aS'Poetry readings'
-p15799
-assg5925
-(dp15800
+p15726
+aS'Talk shows'
+p15727
+assg9441
+(dp15728
 g12148
-S'1986 May 13'
-p15801
+S'1952 July 25'
+p15729
 sg12150
-S'Historica Critica'
-p15802
-sg11
-g5928
+S"University of Michigan. Men's Glee Club"
+p15730
 sg12152
-S'6/05/2014'
-p15803
+S'11/01/2013'
+p15731
 sg12154
-(lp15804
-g5923
+(lp15732
+g9444
 asg12156
-(lp15805
-S'Oral Histories'
-p15806
-aS'Interviews'
-p15807
-assg921
-(dp15808
+(lp15733
+g9439
+asg12158
+(lp15734
+S'Musical performances'
+p15735
+assg7089
+(dp15736
 g12148
-S'1986 May 13'
-p15809
+S'1959 June 08'
+p15737
 sg12150
-S'Historica Critica'
-p15810
-sg11
-g924
+S'Murphy, Irene Ellis'
+p15738
 sg12152
-S'6/05/2014'
-p15811
+S'11/01/2013'
+p15739
 sg12154
-(lp15812
-g919
+(lp15740
+g7092
 asg12156
-(lp15813
-S'Interviews'
-p15814
-assg1593
-(dp15815
+(lp15741
+g7087
+asg12158
+(lp15742
+S'Radio programs'
+p15743
+assg1605
+(dp15744
 g12148
-S'1968 January 23'
-p15816
+S'1966 January 20'
+p15745
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15817
-sg11
-g1596
+p15746
 sg12152
 S'6/24/2013'
-p15818
+p15747
 sg12154
-(lp15819
-g1591
+(lp15748
+g1608
 asg12156
-(lp15820
-S'Interviews'
-p15821
+(lp15749
+g1603
+asg12158
+(lp15750
+S'Oral Histories'
+p15751
 aS'Radio programs'
-p15822
+p15752
+aS'Documentaries'
+p15753
+assg4509
+(dp15754
+g12148
+S'1966 January 20'
+p15755
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15756
+sg12152
+S'6/24/2013'
+p15757
+sg12154
+(lp15758
+g4512
+asg12156
+(lp15759
+g4507
+asg12158
+(lp15760
+S'Oral Histories'
+p15761
+aS'Radio programs'
+p15762
+aS'Documentaries'
+p15763
+assg3297
+(dp15764
+g12148
+S'1976 March 28'
+p15765
+sg12150
+S'University of Michigan. Alumni Association.'
+p15766
+sg12152
+S'11/01/2013'
+p15767
+sg12154
+(lp15768
+g3300
+asg12156
+(lp15769
+g3295
+asg12158
+(lp15770
+S'Musical performances'
+p15771
+assg6315
+(dp15772
+g12148
+S'1976 March 28'
+p15773
+sg12150
+S'University of Michigan. Alumni Association.'
+p15774
+sg12152
+S'11/01/2013'
+p15775
+sg12154
+(lp15776
+g6318
+asg12156
+(lp15777
+g6313
+asg12158
+(lp15778
+S'Musical performances'
+p15779
+assg6687
+(dp15780
+g12148
+S'1967 March 02'
+p15781
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15782
+sg12152
+S'6/24/2013'
+p15783
+sg12154
+(lp15784
+g6690
+ag6684
+asg12156
+(lp15785
+g6685
+ag6679
+asg12158
+(lp15786
+S'Radio programs'
+p15787
 aS'Panel discussions'
-p15823
-aS'Talk shows'
-p15824
-assg1947
-(dp15825
+p15788
+aS'Radio programs'
+p15789
+aS'Panel discussions'
+p15790
+assg6735
+(dp15791
 g12148
-S'1964'
-p15826
+S'1950 April 19'
+p15792
 sg12150
-S'Gerald R. Ford School of Public Policy'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15793
+sg12152
+S'6/24/2013'
+p15794
+sg12154
+(lp15795
+g6738
+asg12156
+(lp15796
+g6733
+asg12158
+(lp15797
+S'Oral Histories'
+p15798
+aS'Interviews'
+p15799
+aS'Radio programs'
+p15800
+aS'Talk shows'
+p15801
+assg741
+(dp15802
+g12148
+S'1966 March 30'
+p15803
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p15804
+sg12152
+S'6/24/2013'
+p15805
+sg12154
+(lp15806
+g744
+asg12156
+(lp15807
+g739
+asg12158
+(lp15808
+S'Addresses'
+p15809
+aS'Radio programs'
+p15810
+aS'Dedications (ceremonies)'
+p15811
+assg4479
+(dp15812
+g12148
+S'1985 November 23'
+p15813
+sg12150
+S"University of Michigan. Men's Glee Club"
+p15814
+sg12152
+S'11/01/2013'
+p15815
+sg12154
+(lp15816
+g4482
+asg12156
+(lp15817
+g4477
+asg12158
+(lp15818
+S'Musical performances'
+p15819
+assg7143
+(dp15820
+g12148
+S'1985 November 23'
+p15821
+sg12150
+S"University of Michigan. Men's Glee Club"
+p15822
+sg12152
+S'11/01/2013'
+p15823
+sg12154
+(lp15824
+g7146
+asg12156
+(lp15825
+g7141
+asg12158
+(lp15826
+S'Musical performances'
 p15827
-sg11
-g1950
+assg10527
+(dp15828
+g12148
+S'1985 November 23'
+p15829
+sg12150
+S"University of Michigan. Men's Glee Club"
+p15830
+sg12152
+S'11/01/2013'
+p15831
+sg12154
+(lp15832
+g10530
+asg12156
+(lp15833
+g10525
+asg12158
+(lp15834
+S'Musical performances'
+p15835
+assg1425
+(dp15836
+g12148
+S'1990 March'
+p15837
+sg12150
+S'Bassett, Leslie'
+p15838
 sg12152
 S'6/05/2014'
-p15828
-sg12154
-(lp15829
-g1945
-asg12156
-(lp15830
-S'Conferences'
-p15831
-aS'Anniversary'
-p15832
-assg1035
-(dp15833
-g12148
-S'1969 March 28'
-p15834
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15835
-sg11
-g1038
-sg12152
-S'6/24/2013'
-p15836
-sg12154
-(lp15837
-g1033
-asg12156
-(lp15838
-S'Interviews'
 p15839
-aS'Radio programs'
-p15840
-aS'Talk shows'
-p15841
-assg9693
-(dp15842
-g12148
-S'1969 March 28'
+sg12154
+(lp15840
+g1428
+asg12156
+(lp15841
+g1423
+asg12158
+(lp15842
+S'Musical performances'
 p15843
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15844
-sg11
-g9696
-sg12152
-S'6/24/2013'
+assg1257
+(dp15844
+g12148
+S'1986 November 01,1988 November 18, 1988 November 19'
 p15845
+sg12150
+S'Bassett, Leslie'
+p15846
+sg12152
+S'6/05/2014'
+p15847
 sg12154
-(lp15846
-g9691
+(lp15848
+g1260
 asg12156
-(lp15847
-S'Interviews'
-p15848
-aS'Radio programs'
-p15849
-assg7377
-(dp15850
-g12148
-S'1975 April 12'
+(lp15849
+g1255
+ag1261
+asg12158
+(lp15850
+S'Musical performances'
 p15851
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15852
-sg11
-g7380
-sg12152
-S'11/01/2013'
-p15853
-sg12154
-(lp15854
-g7375
-asg12156
-(lp15855
-S'Musical performances'
-p15856
-assg3849
-(dp15857
-g12148
-S'1954 December 28'
-p15858
-sg12150
-S'Schimpke, Albert J.'
-p15859
-sg11
-g3852
-sg12152
-S'11/01/2013'
-p15860
-sg12154
-(lp15861
-g3847
-ag3853
-asg12156
-(lp15862
-S'Oral Histories'
-p15863
-aS'Oral Histories'
-p15864
-assg1059
-(dp15865
-g12148
-S'1972 March 24'
-p15866
-sg12150
-S"University of Michigan. Men's Glee Club"
-p15867
-sg11
-g1062
-sg12152
-S'11/01/2013'
-p15868
-sg12154
-(lp15869
-g1057
-ag1051
-asg12156
-(lp15870
-S'Musical performances'
-p15871
 aS'Musical performances'
+p15852
+assg10041
+(dp15853
+g12148
+S'1982 March 14, 1987 April 4, 1988 October 21'
+p15854
+sg12150
+S'Bassett, Leslie'
+p15855
+sg12152
+S'6/05/2014'
+p15856
+sg12154
+(lp15857
+g10044
+asg12156
+(lp15858
+g10039
+asg12158
+(lp15859
+S'Musical performances'
+p15860
+assg10035
+(dp15861
+g12148
+S'1958 June 28'
+p15862
+sg12150
+S'Brucker, Wilber Marion'
+p15863
+sg12152
+S'11/01/2013'
+p15864
+sg12154
+(lp15865
+g10038
+asg12156
+(lp15866
+g10033
+asg12158
+(lp15867
+S'Addresses'
+p15868
+aS'Dedications (ceremonies)'
+p15869
+assg1419
+(dp15870
+g12148
+S'1983?, 1987 November 14'
+p15871
+sg12150
+S'Bassett, Leslie'
 p15872
-assg435
-(dp15873
-g12148
-S'1955 November 07, 1956 May 06'
-p15874
-sg12150
-S'Schimpke, Albert J.'
-p15875
-sg11
-g438
 sg12152
-S'11/01/2013'
-p15876
+S'6/05/2014'
+p15873
 sg12154
-(lp15877
-g433
-ag427
+(lp15874
+g1422
 asg12156
-(lp15878
-S'Oral Histories'
-p15879
-aS'Oral Histories'
+(lp15875
+g1417
+ag1399
+asg12158
+(lp15876
+S'Musical performances'
+p15877
+aS'Musical performances'
+p15878
+assg7041
+(dp15879
+g12148
+S'1980 February 25, 1980 October 20'
 p15880
-assg11457
-(dp15881
-g12148
-S'1954 December 30'
+sg12150
+S'Bassett, Leslie'
+p15881
+sg12152
+S'6/05/2014'
 p15882
-sg12150
-S'Schimpke, Albert J.'
-p15883
-sg11
-g11460
-sg12152
-S'11/01/2013'
-p15884
 sg12154
+(lp15883
+g7044
+asg12156
+(lp15884
+g7039
+asg12158
 (lp15885
-g11455
-ag11497
-asg12156
-(lp15886
-S'Oral Histories'
-p15887
-aS'Oral Histories'
+S'Musical performances'
+p15886
+assg4425
+(dp15887
+g12148
+S'1967 February 09'
 p15888
-assg1173
-(dp15889
-g12148
-S'1955 January 18, 19'
+sg12150
+S'Detroit Urban League'
+p15889
+sg12152
+S'6/24/2013'
 p15890
-sg12150
-S'Schimpke, Albert J.'
-p15891
-sg11
-g1176
-sg12152
-S'11/01/2013'
-p15892
 sg12154
+(lp15891
+g4428
+asg12156
+(lp15892
+g4423
+asg12158
 (lp15893
-g1171
-ag1177
-asg12156
-(lp15894
-S'Oral Histories'
-p15895
-aS'Oral Histories'
+S'Radio programs'
+p15894
+assg4737
+(dp15895
+g12148
+S'1962 March 1962'
 p15896
-assg7389
-(dp15897
-g12148
-S'1957 October 24'
+sg12150
+S'Detroit Urban League'
+p15897
+sg12152
+S'6/24/2013'
 p15898
-sg12150
-S'Schimpke, Albert J.'
-p15899
-sg11
-g7392
-sg12152
-S'11/01/2013'
-p15900
 sg12154
+(lp15899
+g4740
+asg12156
+(lp15900
+g4735
+asg12158
 (lp15901
-g7387
-ag7381
-asg12156
-(lp15902
-S'Oral Histories'
+S'Addresses'
+p15902
+aS'Dinners'
 p15903
-aS'Oral Histories'
-p15904
-assg9969
-(dp15905
+assg10473
+(dp15904
 g12148
-S'1954 December 29'
+S'[Undated]'
+p15905
+sg12150
+S'Detroit Urban League'
 p15906
-sg12150
-S'Schimpke, Albert J.'
+sg12152
+S'6/24/2013'
 p15907
-sg11
-g9972
-sg12152
-S'11/01/2013'
-p15908
 sg12154
+(lp15908
+g10476
+asg12156
 (lp15909
-g9967
-asg12156
+g10471
+asg12158
 (lp15910
-S'Oral Histories'
+S'Interviews'
 p15911
-assg6927
-(dp15912
-g12148
-S'1955 October 20, 21'
+aS'Radio programs'
+p15912
+aS'Talk shows'
 p15913
-sg12150
-S'Schimpke, Albert J.'
-p15914
-sg11
-g6930
-sg12152
-S'11/01/2013'
+assg7953
+(dp15914
+g12148
+S'1968 March 18'
 p15915
+sg12150
+S'Detroit Urban League'
+p15916
+sg12152
+S'6/24/2013'
+p15917
 sg12154
-(lp15916
-g6925
-ag2509
+(lp15918
+g7956
 asg12156
-(lp15917
-S'Oral Histories'
-p15918
-aS'Oral Histories'
-p15919
-assg9669
-(dp15920
-g12148
-S'1955 January 06-07'
+(lp15919
+g7951
+asg12158
+(lp15920
+S'Addresses'
 p15921
-sg12150
-S'Schimpke, Albert J.'
+aS'Dinners'
 p15922
-sg11
-g9672
+assg4983
+(dp15923
+g12148
+S'[Undated]'
+p15924
+sg12150
+S'Cacioppo, George'
+p15925
 sg12152
-S'11/01/2013'
-p15923
-sg12154
-(lp15924
-g9667
-ag9655
-asg12156
-(lp15925
-S'Oral Histories'
+S'2/25/2015'
 p15926
-aS'Oral Histories'
-p15927
-assg6963
-(dp15928
-g12148
-S'1966 June 16'
-p15929
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12154
+(lp15927
+g4986
+asg12156
+(lp15928
+g4981
+asg12158
+(lp15929
+S'Musical performances'
 p15930
-sg11
-g6966
+assg7725
+(dp15931
+g12148
+S'[Undated]'
+p15932
+sg12150
+S'Cacioppo, George'
+p15933
 sg12152
-S'6/24/2013'
-p15931
-sg12154
-(lp15932
-g6961
-asg12156
-(lp15933
-S'Oral Histories'
+S'2/25/2015'
 p15934
-aS'Radio programs'
-p15935
-aS'Documentaries'
-p15936
-assg1155
-(dp15937
-g12148
-S'1966 June 16'
+sg12154
+(lp15935
+g7728
+asg12156
+(lp15936
+g7723
+asg12158
+(lp15937
+S'Musical performances'
 p15938
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15939
-sg11
-g1158
-sg12152
-S'6/24/2013'
-p15940
-sg12154
-(lp15941
-g1153
-asg12156
-(lp15942
-S'Oral Histories'
-p15943
-aS'Radio programs'
-p15944
-aS'Documentaries'
-p15945
-assg4371
-(dp15946
+assg11049
+(dp15939
 g12148
-S'1965 November 24'
-p15947
+S'[Undated]'
+p15940
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15948
-sg11
-g4374
+S'Cacioppo, George'
+p15941
 sg12152
-S'6/24/2013'
-p15949
+S'2/25/2015'
+p15942
 sg12154
-(lp15950
-g4369
+(lp15943
+g11052
 asg12156
+(lp15944
+g11047
+asg12158
+(lp15945
+S'Musical performances'
+p15946
+assg567
+(dp15947
+g12148
+S'[Undated]'
+p15948
+sg12150
+S'Cacioppo, George'
+p15949
+sg12152
+S'2/25/2015'
+p15950
+sg12154
 (lp15951
-S'Oral Histories'
-p15952
-aS'Radio programs'
-p15953
-aS'Documentaries'
+g570
+asg12156
+(lp15952
+g565
+asg12158
+(lp15953
+S'Musical performances'
 p15954
-assg10407
+assg3915
 (dp15955
 g12148
-S'1965 December 01'
+S'1948 March 11'
 p15956
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Cushing, George'
 p15957
-sg11
-g10410
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p15958
 sg12154
 (lp15959
-g10405
+g3918
 asg12156
 (lp15960
-S'Oral Histories'
-p15961
-aS'Radio programs'
+g3913
+asg12158
+(lp15961
+S'Radio programs'
 p15962
-aS'Documentaries'
+aS'Talk shows'
 p15963
-assg897
+assg1467
 (dp15964
 g12148
-S'1967 January 06'
+S'[Undated]'
 p15965
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Cacioppo, George'
 p15966
-sg11
-g900
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p15967
 sg12154
 (lp15968
-g895
+g1470
 asg12156
 (lp15969
-S'Oral Histories'
-p15970
-aS'Radio programs'
+g1465
+asg12158
+(lp15970
+S'Musical performances'
 p15971
-aS'Documentaries'
-p15972
-assg1095
-(dp15973
+assg2103
+(dp15972
 g12148
-S'1966 February 10'
-p15974
+S'[Undated]'
+p15973
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15975
-sg11
-g1098
+S'Cacioppo, George'
+p15974
 sg12152
-S'6/24/2013'
-p15976
+S'2/25/2015'
+p15975
 sg12154
-(lp15977
-g1093
+(lp15976
+g2106
 asg12156
+(lp15977
+g2101
+ag2095
+asg12158
 (lp15978
-S'Radio programs'
+S'Musical performances'
 p15979
-aS'Documentaries'
+aS'Musical performances'
 p15980
-assg10455
+assg2049
 (dp15981
 g12148
-S'1966 April 14'
+S'1969 May 06'
 p15982
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
 p15983
-sg11
-g10458
 sg12152
 S'6/24/2013'
 p15984
 sg12154
 (lp15985
-g10453
+g2052
 asg12156
 (lp15986
-S'Oral Histories'
-p15987
-aS'Musical performances'
-p15988
-aS'Radio programs'
-p15989
-aS'Documentaries'
-p15990
-assg969
-(dp15991
-g12148
-S'1966 March 10'
-p15992
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p15993
-sg11
-g972
-sg12152
-S'6/24/2013'
-p15994
-sg12154
-(lp15995
-g967
-asg12156
-(lp15996
-S'Oral Histories'
-p15997
-aS'Radio programs'
-p15998
-aS'Documentaries'
-p15999
-assg7449
-(dp16000
-g12148
-S'1948 June 13'
-p16001
-sg12150
-S'Cushing, George'
-p16002
-sg11
-g7452
-sg12152
-S'2/25/2015'
-p16003
-sg12154
-(lp16004
-g7447
-asg12156
-(lp16005
+g2047
+asg12158
+(lp15987
 S'Radio programs'
-p16006
-aS'Talk shows'
-p16007
-assg7797
-(dp16008
+p15988
+aS'Panel discussions'
+p15989
+assg8097
+(dp15990
 g12148
-S'1964 April 24'
-p16009
+S'1979 November 17'
+p15991
 sg12150
-S'Kramer, Arthur W.'
-p16010
-sg11
-g7800
+S"University of Michigan. Men's Glee Club"
+p15992
 sg12152
-S'6/05/2014'
-p16011
+S'11/01/2013'
+p15993
 sg12154
-(lp16012
-g7795
-ag7789
+(lp15994
+g8100
 asg12156
+(lp15995
+g8095
+asg12158
+(lp15996
+S'Musical performances'
+p15997
+assg11937
+(dp15998
+g12148
+S'1979 November 17'
+p15999
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16000
+sg12152
+S'11/01/2013'
+p16001
+sg12154
+(lp16002
+g11940
+asg12156
+(lp16003
+g11935
+ag11923
+asg12158
+(lp16004
+S'Musical performances'
+p16005
+aS'Musical performances'
+p16006
+assg8655
+(dp16007
+g12148
+S'[Undated]'
+p16008
+sg12150
+S'Williams, G. Mennen'
+p16009
+sg12152
+S'11/01/2013'
+p16010
+sg12154
+(lp16011
+g8658
+asg12156
+(lp16012
+g8653
+asg12158
 (lp16013
 S'Addresses'
 p16014
-aS'Addresses'
+aS'Anniversary'
 p16015
-assg5259
+assg2229
 (dp16016
 g12148
-S'1964 May 21'
+S'[1954?]'
 p16017
 sg12150
-S'Kramer, Arthur W.'
+S'Williams, G. Mennen'
 p16018
-sg11
-g5262
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p16019
 sg12154
 (lp16020
-g5257
-ag5251
+g2232
 asg12156
 (lp16021
+g2227
+asg12158
+(lp16022
 S'Addresses'
-p16022
-aS'Addresses'
 p16023
-assg1677
+assg9453
 (dp16024
 g12148
-S'1939-1940?'
+S'1954 May'
 p16025
 sg12150
-S'Murphy, Frank'
+S'Williams, G. Mennen'
 p16026
-sg11
-g1680
 sg12152
 S'11/01/2013'
 p16027
 sg12154
 (lp16028
-g1675
+g9456
 asg12156
 (lp16029
-S'Interviews'
-p16030
-assg10059
-(dp16031
-g12148
-S'1948 September 26'
+g9451
+asg12158
+(lp16030
+S'Addresses'
+p16031
+aS'Anniversary'
 p16032
-sg12150
-S'Cushing, George'
-p16033
-sg11
-g10062
-sg12152
-S'2/25/2015'
+assg5661
+(dp16033
+g12148
+S'1952'
 p16034
+sg12150
+S'Williams, G. Mennen'
+p16035
+sg12152
+S'11/01/2013'
+p16036
 sg12154
-(lp16035
-g10057
+(lp16037
+g5664
 asg12156
-(lp16036
-S'Radio programs'
-p16037
-aS'Talk shows'
-p16038
-assg11325
-(dp16039
-g12148
-S'1963 January 05, 1963 September 15'
+(lp16038
+g5659
+asg12158
+(lp16039
+S'Advertising'
 p16040
-sg12150
-S'Kramer, Arthur W.'
+aS'Radio programs'
 p16041
-sg11
-g11328
+assg951
+(dp16042
+g12148
+S'1953 January 15'
+p16043
+sg12150
+S'Williams, G. Mennen'
+p16044
 sg12152
-S'6/05/2014'
-p16042
-sg12154
-(lp16043
-g11323
-ag7441
-asg12156
-(lp16044
-S'Addresses'
+S'11/01/2013'
 p16045
-aS'Television'
-p16046
-aS'Addresses'
-p16047
-aS'Television'
-p16048
-assg8007
-(dp16049
-g12148
-S'1954 February 22'
-p16050
-sg12150
-S'Gerald R. Ford School of Public Policy'
-p16051
-sg11
-g8010
-sg12152
-S'6/05/2014'
-p16052
 sg12154
-(lp16053
-g8005
+(lp16046
+g954
 asg12156
-(lp16054
-S'Dedications (ceremonies)'
-p16055
-assg11211
-(dp16056
-g12148
-S'1964 March 01'
-p16057
-sg12150
-S'Kramer, Arthur W.'
-p16058
-sg11
-g11214
-sg12152
-S'6/05/2014'
-p16059
-sg12154
-(lp16060
-g11209
-ag7069
-asg12156
-(lp16061
-S'Interviews'
-p16062
-aS'Interviews'
-p16063
-assg1701
-(dp16064
-g12148
-S'1964 April 24'
-p16065
-sg12150
-S'Kramer, Arthur W.'
-p16066
-sg11
-g1704
-sg12152
-S'6/05/2014'
-p16067
-sg12154
-(lp16068
-g1699
-ag1705
-asg12156
-(lp16069
+(lp16047
+g949
+asg12158
+(lp16048
 S'Addresses'
-p16070
-aS'Addresses'
-p16071
-assg1755
-(dp16072
+p16049
+assg7269
+(dp16050
 g12148
-S'1964'
-p16073
-sg12150
-S'Gerald R. Ford School of Public Policy'
-p16074
-sg11
-g1758
-sg12152
-S'6/05/2014'
-p16075
-sg12154
-(lp16076
-g1753
-asg12156
-(lp16077
-S'Conferences'
-p16078
-aS'Anniversary'
-p16079
-assg11331
-(dp16080
-g12148
-S'1964'
-p16081
-sg12150
-S'Gerald R. Ford School of Public Policy'
-p16082
-sg11
-g11334
-sg12152
-S'6/05/2014'
-p16083
-sg12154
-(lp16084
-g11329
-asg12156
-(lp16085
-S'Conferences'
-p16086
-aS'Anniversary'
-p16087
-assg8595
-(dp16088
-g12148
-S'1962 June 14'
-p16089
+S'1965 August, September; 1966'
+p16051
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16090
-sg11
-g8598
+p16052
 sg12152
 S'6/24/2013'
-p16091
+p16053
 sg12154
-(lp16092
-g8593
+(lp16054
+g7272
 asg12156
-(lp16093
-S'Addresses'
-p16094
+(lp16055
+g7267
+ag7273
+ag6973
+asg12158
+(lp16056
+S'Oral Histories'
+p16057
+aS'Interviews'
+p16058
 aS'Radio programs'
-p16095
-aS'Dinners'
-p16096
-assg11673
-(dp16097
-g12148
-S'1986 May 20'
-p16098
-sg12150
-S'Historica Critica'
-p16099
-sg11
-g11676
-sg12152
-S'6/05/2014'
-p16100
-sg12154
-(lp16101
-g11671
-asg12156
-(lp16102
-S'Oral Histories'
-p16103
-aS'Interviews'
-p16104
-assg5721
-(dp16105
-g12148
-S'1986 May 20'
-p16106
-sg12150
-S'Historica Critica'
-p16107
-sg11
-g5724
-sg12152
-S'6/05/2014'
-p16108
-sg12154
-(lp16109
-g5719
-asg12156
-(lp16110
-S'Oral Histories'
-p16111
-aS'Interviews'
-p16112
-assg8937
-(dp16113
-g12148
-S'1977 November 19'
-p16114
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16115
-sg11
-g8940
-sg12152
-S'11/01/2013'
-p16116
-sg12154
-(lp16117
-g8935
-asg12156
-(lp16118
-S'Musical performances'
-p16119
-assg11283
-(dp16120
-g12148
-S'1977 November 19'
-p16121
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16122
-sg11
-g11286
-sg12152
-S'11/01/2013'
-p16123
-sg12154
-(lp16124
-g11281
-asg12156
-(lp16125
-S'Musical performances'
-p16126
-assg5373
-(dp16127
-g12148
-S'1977 November 19'
-p16128
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16129
-sg11
-g5376
-sg12152
-S'11/01/2013'
-p16130
-sg12154
-(lp16131
-g5371
-asg12156
-(lp16132
-S'Musical performances'
-p16133
-assg9135
-(dp16134
-g12148
-S'1974 March 30'
-p16135
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16136
-sg11
-g9138
-sg12152
-S'11/01/2013'
-p16137
-sg12154
-(lp16138
-g9133
-asg12156
-(lp16139
-S'Musical performances'
-p16140
-assg9279
-(dp16141
-g12148
-S'1974 March 30'
-p16142
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16143
-sg11
-g9282
-sg12152
-S'11/01/2013'
-p16144
-sg12154
-(lp16145
-g9277
-asg12156
-(lp16146
-S'Musical performances'
-p16147
-assg8955
-(dp16148
-g12148
-S'1974 March 30'
-p16149
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16150
-sg11
-g8958
-sg12152
-S'11/01/2013'
-p16151
-sg12154
-(lp16152
-g8953
-asg12156
-(lp16153
-S'Musical performances'
-p16154
-assg513
-(dp16155
-g12148
-S'1956 May 28'
-p16156
-sg12150
-S'Brucker, Wilber Marion'
-p16157
-sg11
-g516
-sg12152
-S'11/01/2013'
-p16158
-sg12154
-(lp16159
-g511
-asg12156
-(lp16160
-S'Addresses'
-p16161
-aS'Dinners'
-p16162
-assg7461
-(dp16163
-g12148
-S'1956 September 28'
-p16164
-sg12150
-S'Brucker, Wilber Marion'
-p16165
-sg11
-g7464
-sg12152
-S'11/01/2013'
-p16166
-sg12154
-(lp16167
-g7459
-asg12156
-(lp16168
-S'Addresses'
-p16169
-aS'Dinners'
-p16170
-assg10125
-(dp16171
-g12148
-S'1949 March 13'
-p16172
-sg12150
-S'Cushing, George'
-p16173
-sg11
-g10128
-sg12152
-S'2/25/2015'
-p16174
-sg12154
-(lp16175
-g10123
-asg12156
-(lp16176
-S'Radio programs'
-p16177
+p16059
 aS'Talk shows'
+p16060
+aS'Oral Histories'
+p16061
+aS'Interviews'
+p16062
+aS'Radio programs'
+p16063
+aS'Talk shows'
+p16064
+aS'Oral Histories'
+p16065
+aS'Interviews'
+p16066
+aS'Radio programs'
+p16067
+aS'Talk shows'
+p16068
+assg8043
+(dp16069
+g12148
+S'1965 July, August, December'
+p16070
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16071
+sg12152
+S'6/24/2013'
+p16072
+sg12154
+(lp16073
+g8046
+asg12156
+(lp16074
+g8041
+ag9523
+asg12158
+(lp16075
+S'Oral Histories'
+p16076
+aS'Interviews'
+p16077
+aS'Radio programs'
+p16078
+aS'Talk shows'
+p16079
+aS'Oral Histories'
+p16080
+aS'Interviews'
+p16081
+aS'Radio programs'
+p16082
+aS'Talk shows'
+p16083
+assg11001
+(dp16084
+g12148
+S'1965, August, September, October'
+p16085
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16086
+sg12152
+S'6/24/2013'
+p16087
+sg12154
+(lp16088
+g11004
+asg12156
+(lp16089
+g10999
+ag10993
+asg12158
+(lp16090
+S'Oral Histories'
+p16091
+aS'Interviews'
+p16092
+aS'Radio programs'
+p16093
+aS'Talk shows'
+p16094
+aS'Oral Histories'
+p16095
+aS'Interviews'
+p16096
+aS'Radio programs'
+p16097
+aS'Talk shows'
+p16098
+assg9981
+(dp16099
+g12148
+S'1965 September'
+p16100
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16101
+sg12152
+S'6/24/2013'
+p16102
+sg12154
+(lp16103
+g9984
+asg12156
+(lp16104
+g9979
+ag9985
+asg12158
+(lp16105
+S'Oral Histories'
+p16106
+aS'Interviews'
+p16107
+aS'Radio programs'
+p16108
+aS'Talk shows'
+p16109
+aS'Oral Histories'
+p16110
+aS'Interviews'
+p16111
+aS'Radio programs'
+p16112
+aS'Talk shows'
+p16113
+assg3927
+(dp16114
+g12148
+S'1965 September, December, 1966 January'
+p16115
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16116
+sg12152
+S'6/24/2013'
+p16117
+sg12154
+(lp16118
+g3930
+asg12156
+(lp16119
+g3925
+ag3931
+asg12158
+(lp16120
+S'Oral Histories'
+p16121
+aS'Interviews'
+p16122
+aS'Radio programs'
+p16123
+aS'Talk shows'
+p16124
+aS'Oral Histories'
+p16125
+aS'Interviews'
+p16126
+aS'Radio programs'
+p16127
+aS'Talk shows'
+p16128
+assg7197
+(dp16129
+g12148
+S'1965 July, September, December'
+p16130
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16131
+sg12152
+S'6/24/2013'
+p16132
+sg12154
+(lp16133
+g7200
+asg12156
+(lp16134
+g7195
+ag7189
+asg12158
+(lp16135
+S'Oral Histories'
+p16136
+aS'Interviews'
+p16137
+aS'Radio programs'
+p16138
+aS'Talk shows'
+p16139
+aS'Oral Histories'
+p16140
+aS'Interviews'
+p16141
+aS'Radio programs'
+p16142
+aS'Talk shows'
+p16143
+assg11301
+(dp16144
+g12148
+S'1963 October 21, [22?]'
+p16145
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16146
+sg12152
+S'6/24/2013'
+p16147
+sg12154
+(lp16148
+g11304
+asg12156
+(lp16149
+g11299
+asg12158
+(lp16150
+S'Addresses'
+p16151
+aS'Radio programs'
+p16152
+assg8991
+(dp16153
+g12148
+S'1978'
+p16154
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16155
+sg12152
+S'11/01/2013'
+p16156
+sg12154
+(lp16157
+g8994
+asg12156
+(lp16158
+g8989
+ag8995
+asg12158
+(lp16159
+S'Musical performances'
+p16160
+aS'Musical performances'
+p16161
+assg2697
+(dp16162
+g12148
+S'1978'
+p16163
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16164
+sg12152
+S'11/01/2013'
+p16165
+sg12154
+(lp16166
+g2700
+asg12156
+(lp16167
+g2695
+asg12158
+(lp16168
+S'Musical performances'
+p16169
+assg10359
+(dp16170
+g12148
+S'1994 April 11'
+p16171
+sg12150
+S'Engler, John'
+p16172
+sg12152
+S'6/24/2013'
+p16173
+sg12154
+(lp16174
+g10362
+asg12156
+(lp16175
+g10357
+asg12158
+(lp16176
+S'Musical performances'
+p16177
+aS'Advertising'
 p16178
-assg4713
+assg87
 (dp16179
 g12148
-S'1970 April 13'
+S'[Undated]'
 p16180
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Boyne USA Resorts'
 p16181
-sg11
-g4716
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p16182
 sg12154
 (lp16183
-g4711
+g90
 asg12156
 (lp16184
-S'Radio programs'
-p16185
-aS'Meetings'
+g85
+asg12158
+(lp16185
+S'Advertising'
 p16186
-assg561
+assg9621
 (dp16187
 g12148
-S'1980 November 15'
+S'1976 August 11'
 p16188
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Boyne USA Resorts'
 p16189
-sg11
-g564
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p16190
 sg12154
 (lp16191
-g559
+g9624
 asg12156
 (lp16192
-S'Musical performances'
-p16193
-assg2223
-(dp16194
+g9619
+asg12158
+(lp16193
+S'Advertising'
+p16194
+assg3441
+(dp16195
 g12148
-S'1980 April 15'
-p16195
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'[Undated]'
 p16196
-sg11
-g2226
-sg12152
-S'11/01/2013'
+sg12150
+S'Boyne USA Resorts'
 p16197
+sg12152
+S'2/25/2015'
+p16198
 sg12154
-(lp16198
-g2221
-ag2215
-asg12156
 (lp16199
-S'Musical performances'
-p16200
-aS'Musical performances'
-p16201
-assg6657
-(dp16202
+g3444
+asg12156
+(lp16200
+g3439
+asg12158
+(lp16201
+S'Advertising'
+p16202
+assg6105
+(dp16203
 g12148
-S'[Undated]'
-p16203
-sg12150
-S'Wallace, Mike'
+S'1976 May 05'
 p16204
-sg11
-g6660
-sg12152
-S'6/24/2013'
+sg12150
+S'Boyne USA Resorts'
 p16205
+sg12152
+S'2/25/2015'
+p16206
 sg12154
-(lp16206
-g6655
-asg12156
 (lp16207
-S'Interviews'
-p16208
-aS'News'
-p16209
-assg4035
-(dp16210
+g6108
+asg12156
+(lp16208
+g6103
+asg12158
+(lp16209
+S'Advertising'
+p16210
+assg6417
+(dp16211
 g12148
 S'[Undated]'
-p16211
-sg12150
-S'Wallace, Mike'
 p16212
-sg11
-g4038
-sg12152
-S'6/24/2013'
+sg12150
+S'Boyne USA Resorts'
 p16213
+sg12152
+S'2/25/2015'
+p16214
 sg12154
-(lp16214
-g4033
-asg12156
 (lp16215
-S'Interviews'
-p16216
-aS'News'
-p16217
-assg627
-(dp16218
+g6420
+asg12156
+(lp16216
+g6415
+asg12158
+(lp16217
+S'Advertising'
+p16218
+assg309
+(dp16219
 g12148
-S'1952 May 10'
-p16219
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'[Undated]'
 p16220
-sg11
-g630
-sg12152
-S'11/01/2013'
+sg12150
+S'Boyne USA Resorts'
 p16221
+sg12152
+S'2/25/2015'
+p16222
 sg12154
-(lp16222
-g625
-asg12156
 (lp16223
-S'Musical performances'
-p16224
-assg7257
-(dp16225
-g12148
-S'1952 May 10'
+g312
+asg12156
+(lp16224
+g307
+asg12158
+(lp16225
+S'Advertising'
 p16226
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16227
-sg11
-g7260
-sg12152
-S'11/01/2013'
+assg6171
+(dp16227
+g12148
+S'1993 September 16'
 p16228
-sg12154
-(lp16229
-g7255
-asg12156
-(lp16230
-S'Musical performances'
-p16231
-assg3495
-(dp16232
-g12148
-S'1969 September 20'
-p16233
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Boyne USA Resorts'
+p16229
+sg12152
+S'2/25/2015'
+p16230
+sg12154
+(lp16231
+g6174
+asg12156
+(lp16232
+g6169
+asg12158
+(lp16233
+S'Advertising'
 p16234
-sg11
-g3498
+assg111
+(dp16235
+g12148
+S'[Undated]'
+p16236
+sg12150
+S'Boyne USA Resorts'
+p16237
 sg12152
-S'6/24/2013'
-p16235
-sg12154
-(lp16236
-g3493
-ag3481
-ag3487
-asg12156
-(lp16237
-S'Addresses'
+S'2/25/2015'
 p16238
-aS'Radio programs'
-p16239
-aS'Panel discussions'
-p16240
-aS'Addresses'
-p16241
-aS'Radio programs'
-p16242
-aS'Panel discussions'
+sg12154
+(lp16239
+g114
+asg12156
+(lp16240
+g109
+asg12158
+(lp16241
+g12582
+assg1515
+(dp16242
+g12148
+S'[Undated]'
 p16243
-aS'Addresses'
+sg12150
+S'Shepard, Robert J.'
 p16244
-aS'Radio programs'
-p16245
-aS'Panel discussions'
-p16246
-assg807
-(dp16247
-g12148
-S'[1957]'
-p16248
-sg12150
-S'Griffiths, Martha Wright'
-p16249
-sg11
-g810
-sg12152
-S'6/05/2014'
-p16250
-sg12154
-(lp16251
-g805
-asg12156
-(lp16252
-S'Radio programs'
-p16253
-assg10257
-(dp16254
-g12148
-S'[Between 1955-1956]'
-p16255
-sg12150
-S'Griffiths, Martha Wright'
-p16256
-sg11
-g10260
-sg12152
-S'6/05/2014'
-p16257
-sg12154
-(lp16258
-g10255
-asg12156
-(lp16259
-S'Addresses'
-p16260
-assg10149
-(dp16261
-g12148
-S'1967 January 06'
-p16262
-sg12150
-S'Ferguson, Homer'
-p16263
-sg11
-g10152
 sg12152
 S'11/01/2013'
-p16264
+p16245
 sg12154
-(lp16265
-g10147
+(lp16246
+g1518
 asg12156
-(lp16266
-S'Addresses'
-p16267
-assg7611
-(dp16268
+(lp16247
+g1513
+ag9583
+asg12158
+(lp16248
+S'Correspondence'
+p16249
+aS'Correspondence'
+p16250
+assg11811
+(dp16251
 g12148
-S'1958'
-p16269
+S'1966 October 02-03'
+p16252
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16270
-sg11
-g7614
+p16253
 sg12152
 S'6/24/2013'
-p16271
+p16254
 sg12154
-(lp16272
-g7609
+(lp16255
+g11814
+ag11820
 asg12156
-(lp16273
-S'Oral Histories'
-p16274
-aS'Interviews'
-p16275
+(lp16256
+g11809
+ag11815
+asg12158
+(lp16257
+S'Radio programs'
+p16258
+aS'Poetry readings'
+p16259
 aS'Radio programs'
-p16276
-aS'Talk shows'
-p16277
-assg10707
-(dp16278
+p16260
+aS'Poetry readings'
+p16261
+assg5925
+(dp16262
 g12148
-S'1950 February 26'
-p16279
+S'1986 May 13'
+p16263
 sg12150
-S'Cushing, George'
+S'Historica Critica'
+p16264
+sg12152
+S'6/05/2014'
+p16265
+sg12154
+(lp16266
+g5928
+asg12156
+(lp16267
+g5923
+asg12158
+(lp16268
+S'Oral Histories'
+p16269
+aS'Interviews'
+p16270
+assg921
+(dp16271
+g12148
+S'1986 May 13'
+p16272
+sg12150
+S'Historica Critica'
+p16273
+sg12152
+S'6/05/2014'
+p16274
+sg12154
+(lp16275
+g924
+asg12156
+(lp16276
+g919
+asg12158
+(lp16277
+S'Interviews'
+p16278
+assg1593
+(dp16279
+g12148
+S'1968 January 23'
 p16280
-sg11
-g10710
-sg12152
-S'2/25/2015'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16281
+sg12152
+S'6/24/2013'
+p16282
 sg12154
-(lp16282
-g10705
-asg12156
 (lp16283
-S'Radio programs'
-p16284
-aS'Talk shows'
-p16285
-assg3843
-(dp16286
-g12148
-S'1979 June 20, 27, 29'
+g1596
+asg12156
+(lp16284
+g1591
+asg12158
+(lp16285
+S'Interviews'
+p16286
+aS'Radio programs'
 p16287
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Panel discussions'
 p16288
-sg11
-g3846
-sg12152
-S'11/01/2013'
-p16289
-sg12154
-(lp16290
-g3841
-asg12156
-(lp16291
-S'Musical performances'
-p16292
-assg10389
-(dp16293
-g12148
-S'1949 December 04'
-p16294
-sg12150
-S'Cushing, George'
-p16295
-sg11
-g10392
-sg12152
-S'2/25/2015'
-p16296
-sg12154
-(lp16297
-g10387
-asg12156
-(lp16298
-S'Radio programs'
-p16299
 aS'Talk shows'
-p16300
-assg885
-(dp16301
+p16289
+assg1947
+(dp16290
 g12148
-S'1949 December 11'
-p16302
+S'1964'
+p16291
 sg12150
-S'Cushing, George'
-p16303
-sg11
-g888
+S'Gerald R. Ford School of Public Policy'
+p16292
 sg12152
-S'2/25/2015'
-p16304
+S'6/05/2014'
+p16293
 sg12154
-(lp16305
-g883
+(lp16294
+g1950
 asg12156
-(lp16306
-S'Radio programs'
+(lp16295
+g1945
+asg12158
+(lp16296
+S'Conferences'
+p16297
+aS'Anniversary'
+p16298
+assg1035
+(dp16299
+g12148
+S'1969 March 28'
+p16300
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16301
+sg12152
+S'6/24/2013'
+p16302
+sg12154
+(lp16303
+g1038
+asg12156
+(lp16304
+g1033
+asg12158
+(lp16305
+S'Interviews'
+p16306
+aS'Radio programs'
 p16307
 aS'Talk shows'
 p16308
-assg10131
+assg9693
 (dp16309
 g12148
-S'1949 December 17'
+S'1969 March 28'
 p16310
 sg12150
-S'Cushing, George'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16311
-sg11
-g10134
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p16312
 sg12154
 (lp16313
-g10129
+g9696
 asg12156
 (lp16314
-S'Radio programs'
-p16315
-aS'Talk shows'
+g9691
+asg12158
+(lp16315
+S'Interviews'
 p16316
-assg8451
-(dp16317
+aS'Radio programs'
+p16317
+assg7377
+(dp16318
 g12148
-S'1949 December 25'
-p16318
-sg12150
-S'Cushing, George'
+S'1975 April 12'
 p16319
-sg11
-g8454
-sg12152
-S'2/25/2015'
-p16320
-sg12154
-(lp16321
-g8449
-asg12156
-(lp16322
-S'Radio programs'
-p16323
-aS'Talk shows'
-p16324
-assg825
-(dp16325
-g12148
-S'1950 January 01'
-p16326
-sg12150
-S'Cushing, George'
-p16327
-sg11
-g828
-sg12152
-S'2/25/2015'
-p16328
-sg12154
-(lp16329
-g823
-asg12156
-(lp16330
-S'Radio programs'
-p16331
-aS'Talk shows'
-p16332
-assg6969
-(dp16333
-g12148
-S'1950 January 08'
-p16334
-sg12150
-S'Cushing, George'
-p16335
-sg11
-g6972
-sg12152
-S'2/25/2015'
-p16336
-sg12154
-(lp16337
-g6967
-asg12156
-(lp16338
-S'Radio programs'
-p16339
-aS'Talk shows'
-p16340
-assg4317
-(dp16341
-g12148
-S'1964 October 25'
-p16342
 sg12150
 S"University of Michigan. Men's Glee Club"
-p16343
-sg11
-g4320
+p16320
 sg12152
 S'11/01/2013'
-p16344
+p16321
 sg12154
-(lp16345
-g4315
+(lp16322
+g7380
 asg12156
-(lp16346
+(lp16323
+g7375
+asg12158
+(lp16324
 S'Musical performances'
+p16325
+assg3849
+(dp16326
+g12148
+S'1954 December 28'
+p16327
+sg12150
+S'Schimpke, Albert J.'
+p16328
+sg12152
+S'11/01/2013'
+p16329
+sg12154
+(lp16330
+g3852
+asg12156
+(lp16331
+g3847
+ag3853
+asg12158
+(lp16332
+S'Oral Histories'
+p16333
+aS'Oral Histories'
+p16334
+assg1059
+(dp16335
+g12148
+S'1972 March 24'
+p16336
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16337
+sg12152
+S'11/01/2013'
+p16338
+sg12154
+(lp16339
+g1062
+asg12156
+(lp16340
+g1057
+ag1051
+asg12158
+(lp16341
+S'Musical performances'
+p16342
+aS'Musical performances'
+p16343
+assg435
+(dp16344
+g12148
+S'1955 November 07, 1956 May 06'
+p16345
+sg12150
+S'Schimpke, Albert J.'
+p16346
+sg12152
+S'11/01/2013'
 p16347
-assg1143
-(dp16348
-g12148
-S'1985 March 10'
-p16349
-sg12150
-S'Historica Critica'
-p16350
-sg11
-g1146
-sg12152
-S'6/05/2014'
+sg12154
+(lp16348
+g438
+asg12156
+(lp16349
+g433
+ag427
+asg12158
+(lp16350
+S'Oral Histories'
 p16351
-sg12154
-(lp16352
-g1141
-ag1147
-asg12156
-(lp16353
-S'Oral Histories'
+aS'Oral Histories'
+p16352
+assg11457
+(dp16353
+g12148
+S'1954 December 30'
 p16354
-aS'Interviews'
+sg12150
+S'Schimpke, Albert J.'
 p16355
-aS'Oral Histories'
+sg12152
+S'11/01/2013'
 p16356
-aS'Interviews'
-p16357
-assg10365
-(dp16358
-g12148
-S'1985 March 10'
-p16359
-sg12150
-S'Historica Critica'
-p16360
-sg11
-g10368
-sg12152
-S'6/05/2014'
-p16361
 sg12154
-(lp16362
-g10363
-ag10351
+(lp16357
+g11460
 asg12156
-(lp16363
+(lp16358
+g11455
+ag11497
+asg12158
+(lp16359
 S'Oral Histories'
-p16364
-aS'Interviews'
-p16365
+p16360
 aS'Oral Histories'
-p16366
-aS'Interviews'
-p16367
-assg2055
-(dp16368
+p16361
+assg1173
+(dp16362
 g12148
-S'1969 Fall'
-p16369
+S'1955 January 18, 19'
+p16363
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16370
-sg11
-g2058
+S'Schimpke, Albert J.'
+p16364
 sg12152
-S'6/24/2013'
-p16371
+S'11/01/2013'
+p16365
 sg12154
-(lp16372
-g2053
-ag2065
+(lp16366
+g1176
 asg12156
-(lp16373
-S'Lectures'
+(lp16367
+g1171
+ag1177
+asg12158
+(lp16368
+S'Oral Histories'
+p16369
+aS'Oral Histories'
+p16370
+assg7389
+(dp16371
+g12148
+S'1957 October 24'
+p16372
+sg12150
+S'Schimpke, Albert J.'
+p16373
+sg12152
+S'11/01/2013'
 p16374
-aS'Radio programs'
-p16375
-aS'Class'
-p16376
-aS'Lectures'
-p16377
-aS'Radio programs'
+sg12154
+(lp16375
+g7392
+asg12156
+(lp16376
+g7387
+ag7381
+asg12158
+(lp16377
+S'Oral Histories'
 p16378
-aS'Class'
+aS'Oral Histories'
 p16379
-assg11595
+assg9969
 (dp16380
 g12148
-S'1969 Fall'
+S'1954 December 29'
 p16381
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Schimpke, Albert J.'
 p16382
-sg11
-g11598
 sg12152
-S'6/24/2013'
+S'11/01/2013'
 p16383
 sg12154
 (lp16384
-g11593
-ag11599
+g9972
 asg12156
 (lp16385
-S'Lectures'
-p16386
-aS'Radio programs'
+g9967
+asg12158
+(lp16386
+S'Oral Histories'
 p16387
-aS'Class'
-p16388
-aS'Lectures'
+assg6927
+(dp16388
+g12148
+S'1955 October 20, 21'
 p16389
-aS'Radio programs'
+sg12150
+S'Schimpke, Albert J.'
 p16390
-aS'Class'
+sg12152
+S'11/01/2013'
 p16391
-assg5607
-(dp16392
-g12148
-S'1969 Fall'
-p16393
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16394
-sg11
-g5610
-sg12152
-S'6/24/2013'
+sg12154
+(lp16392
+g6930
+asg12156
+(lp16393
+g6925
+ag2509
+asg12158
+(lp16394
+S'Oral Histories'
 p16395
-sg12154
-(lp16396
-g5605
-ag5599
-asg12156
-(lp16397
-S'Lectures'
-p16398
-aS'Radio programs'
-p16399
-aS'Class'
-p16400
-aS'Lectures'
-p16401
-aS'Radio programs'
-p16402
-aS'Class'
-p16403
-assg8355
-(dp16404
+aS'Oral Histories'
+p16396
+assg9669
+(dp16397
 g12148
-S'1969 Fall'
+S'1955 January 06-07'
+p16398
+sg12150
+S'Schimpke, Albert J.'
+p16399
+sg12152
+S'11/01/2013'
+p16400
+sg12154
+(lp16401
+g9672
+asg12156
+(lp16402
+g9667
+ag9655
+asg12158
+(lp16403
+S'Oral Histories'
+p16404
+aS'Oral Histories'
 p16405
+assg6963
+(dp16406
+g12148
+S'1966 June 16'
+p16407
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16406
-sg11
-g8358
+p16408
 sg12152
 S'6/24/2013'
-p16407
+p16409
 sg12154
-(lp16408
-g8353
-ag8347
+(lp16410
+g6966
 asg12156
-(lp16409
-S'Lectures'
-p16410
-aS'Radio programs'
-p16411
-aS'Class'
-p16412
-aS'Lectures'
+(lp16411
+g6961
+asg12158
+(lp16412
+S'Oral Histories'
 p16413
 aS'Radio programs'
 p16414
-aS'Class'
+aS'Documentaries'
 p16415
-assg4773
+assg1155
 (dp16416
 g12148
-S'1969 Fall'
+S'1966 June 16'
 p16417
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16418
-sg11
-g4776
 sg12152
 S'6/24/2013'
 p16419
 sg12154
 (lp16420
-g4771
-ag4777
+g1158
 asg12156
 (lp16421
-S'Lectures'
-p16422
-aS'Radio programs'
+g1153
+asg12158
+(lp16422
+S'Oral Histories'
 p16423
-aS'Class'
+aS'Radio programs'
 p16424
-aS'Lectures'
+aS'Documentaries'
 p16425
-aS'Radio programs'
-p16426
-aS'Class'
+assg4371
+(dp16426
+g12148
+S'1965 November 24'
 p16427
-assg2283
-(dp16428
-g12148
-S'1969 Fall'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16428
+sg12152
+S'6/24/2013'
 p16429
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16430
-sg11
-g2286
-sg12152
-S'6/24/2013'
-p16431
 sg12154
+(lp16430
+g4374
+asg12156
+(lp16431
+g4369
+asg12158
 (lp16432
-g2281
-ag2287
-asg12156
-(lp16433
-S'Lectures'
+S'Oral Histories'
+p16433
+aS'Radio programs'
 p16434
-aS'Radio programs'
+aS'Documentaries'
 p16435
-aS'Class'
-p16436
-aS'Lectures'
+assg10407
+(dp16436
+g12148
+S'1965 December 01'
 p16437
-aS'Radio programs'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16438
-aS'Class'
+sg12152
+S'6/24/2013'
 p16439
-assg8529
-(dp16440
-g12148
-S'1969 Fall'
-p16441
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16442
-sg11
-g8532
-sg12152
-S'6/24/2013'
+sg12154
+(lp16440
+g10410
+asg12156
+(lp16441
+g10405
+asg12158
+(lp16442
+S'Oral Histories'
 p16443
-sg12154
-(lp16444
-g8527
-ag8521
-asg12156
-(lp16445
-S'Lectures'
-p16446
 aS'Radio programs'
+p16444
+aS'Documentaries'
+p16445
+assg897
+(dp16446
+g12148
+S'1967 January 06'
 p16447
-aS'Class'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16448
-aS'Lectures'
+sg12152
+S'6/24/2013'
 p16449
-aS'Radio programs'
-p16450
-aS'Class'
-p16451
-assg5205
-(dp16452
-g12148
-S'1969 Fall'
+sg12154
+(lp16450
+g900
+asg12156
+(lp16451
+g895
+asg12158
+(lp16452
+S'Oral Histories'
 p16453
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Radio programs'
 p16454
-sg11
-g5208
-sg12152
-S'6/24/2013'
+aS'Documentaries'
 p16455
-sg12154
-(lp16456
-g5203
-ag5197
-asg12156
-(lp16457
-S'Radio programs'
+assg1095
+(dp16456
+g12148
+S'1966 February 10'
+p16457
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16458
-aS'Class'
+sg12152
+S'6/24/2013'
 p16459
-aS'Radio programs'
-p16460
-aS'Class'
-p16461
-assg7941
-(dp16462
-g12148
-S'1969 Fall'
-p16463
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16464
-sg11
-g7944
-sg12152
-S'6/24/2013'
-p16465
 sg12154
-(lp16466
-g7939
-ag7933
+(lp16460
+g1098
 asg12156
-(lp16467
-S'Lectures'
-p16468
-aS'Radio programs'
-p16469
-aS'Class'
-p16470
-aS'Lectures'
-p16471
-aS'Radio programs'
-p16472
-aS'Class'
-p16473
-assg2157
-(dp16474
-g12148
-S'1982 February 15'
-p16475
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16476
-sg11
-g2160
-sg12152
-S'6/24/2013'
-p16477
-sg12154
-(lp16478
-g2155
-asg12156
-(lp16479
+(lp16461
+g1093
+asg12158
+(lp16462
 S'Radio programs'
-p16480
-aS'Meetings'
-p16481
-assg9165
-(dp16482
+p16463
+aS'Documentaries'
+p16464
+assg10455
+(dp16465
 g12148
-S'[Undated]'
+S'1966 April 14'
+p16466
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16467
+sg12152
+S'6/24/2013'
+p16468
+sg12154
+(lp16469
+g10458
+asg12156
+(lp16470
+g10453
+asg12158
+(lp16471
+S'Oral Histories'
+p16472
+aS'Musical performances'
+p16473
+aS'Radio programs'
+p16474
+aS'Documentaries'
+p16475
+assg969
+(dp16476
+g12148
+S'1966 March 10'
+p16477
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16478
+sg12152
+S'6/24/2013'
+p16479
+sg12154
+(lp16480
+g972
+asg12156
+(lp16481
+g967
+asg12158
+(lp16482
+S'Oral Histories'
 p16483
-sg12150
-S'Bentley, Alvin M.'
+aS'Radio programs'
 p16484
-sg11
-g9168
-sg12152
-S'6/24/2013'
+aS'Documentaries'
 p16485
-sg12154
-(lp16486
-g9163
-asg12156
-(lp16487
-S'Interviews'
+assg7449
+(dp16486
+g12148
+S'1948 June 13'
+p16487
+sg12150
+S'Cushing, George'
 p16488
-assg7365
-(dp16489
-g12148
-S'1980 February 21, 1982 May 15'
-p16490
-sg12150
-S'Bassett, Leslie'
-p16491
-sg11
-g7368
 sg12152
-S'6/05/2014'
-p16492
+S'2/25/2015'
+p16489
 sg12154
-(lp16493
-g7363
-ag8437
-ag9169
+(lp16490
+g7452
 asg12156
-(lp16494
-S'Musical performances'
-p16495
-aS'Musical performances'
+(lp16491
+g7447
+asg12158
+(lp16492
+S'Radio programs'
+p16493
+aS'Talk shows'
+p16494
+assg7797
+(dp16495
+g12148
+S'1964 April 24'
 p16496
-aS'Musical performances'
-p16497
-assg3093
-(dp16498
-g12148
-S'1984 March 21'
-p16499
 sg12150
-S'Bassett, Leslie'
-p16500
-sg11
-g3096
+S'Kramer, Arthur W.'
+p16497
 sg12152
 S'6/05/2014'
-p16501
+p16498
 sg12154
-(lp16502
-g3091
+(lp16499
+g7800
 asg12156
-(lp16503
-S'Lectures'
-p16504
-aS'Musical performances'
-p16505
-assg3099
-(dp16506
-g12148
-S'[Undated]'
-p16507
-sg12150
-S'Bentley, Alvin M.'
-p16508
-sg11
-g3102
-sg12152
-S'6/24/2013'
-p16509
-sg12154
-(lp16510
-g3097
-asg12156
-(lp16511
+(lp16500
+g7795
+ag7789
+asg12158
+(lp16501
 S'Addresses'
+p16502
+aS'Addresses'
+p16503
+assg5259
+(dp16504
+g12148
+S'1964 May 21'
+p16505
+sg12150
+S'Kramer, Arthur W.'
+p16506
+sg12152
+S'6/05/2014'
+p16507
+sg12154
+(lp16508
+g5262
+asg12156
+(lp16509
+g5257
+ag5251
+asg12158
+(lp16510
+S'Addresses'
+p16511
+aS'Addresses'
 p16512
-assg3873
+assg1677
 (dp16513
 g12148
-S'1971 January 22, 1971 November 03'
+S'1939-1940?'
 p16514
 sg12150
-S'Bassett, Leslie'
+S'Murphy, Frank'
 p16515
-sg11
-g3876
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p16516
 sg12154
 (lp16517
-g3871
-ag3919
+g1680
 asg12156
 (lp16518
-S'Musical performances'
-p16519
-aS'Musical performances'
+g1675
+asg12158
+(lp16519
+S'Interviews'
 p16520
-assg6387
+assg10059
 (dp16521
 g12148
-S'1969 May 23, 1970 November 02'
+S'1948 September 26'
 p16522
 sg12150
-S'Bassett, Leslie'
+S'Cushing, George'
 p16523
-sg11
-g6390
 sg12152
-S'6/05/2014'
+S'2/25/2015'
 p16524
 sg12154
 (lp16525
-g6385
+g10062
 asg12156
 (lp16526
-S'Musical performances'
-p16527
-assg261
-(dp16528
-g12148
-S'1972 April 27'
-p16529
-sg12150
-S'Bassett, Leslie'
-p16530
-sg11
-g264
-sg12152
-S'6/05/2014'
-p16531
-sg12154
-(lp16532
-g259
-asg12156
-(lp16533
-S'Musical performances'
-p16534
-assg2895
-(dp16535
-g12148
-S'1971 October 14, 1971 October 31'
-p16536
-sg12150
-S'Bassett, Leslie'
-p16537
-sg11
-g2898
-sg12152
-S'6/05/2014'
-p16538
-sg12154
-(lp16539
-g2893
-ag2881
-asg12156
-(lp16540
-S'Musical performances'
-p16541
-aS'Musical performances'
-p16542
-assg12141
-(dp16543
-g12148
-S'1984 April 07'
-p16544
-sg12150
-S'Bassett, Leslie'
-p16545
-sg11
-g12144
-sg12152
-S'6/05/2014'
-p16546
-sg12154
-(lp16547
-g12139
-asg12156
-(lp16548
-S'Musical performances'
-p16549
-assg2685
-(dp16550
-g12148
-S'1984 April 07'
-p16551
-sg12150
-S'Bassett, Leslie'
-p16552
-sg11
-g2688
-sg12152
-S'6/05/2014'
-p16553
-sg12154
-(lp16554
-g2683
-asg12156
-(lp16555
-S'Musical performances'
-p16556
-assg2865
-(dp16557
-g12148
-S'1964 April 18'
-p16558
-sg12150
-S"University of Michigan. Men's Glee Club"
-p16559
-sg11
-g2868
-sg12152
-S'11/01/2013'
-p16560
-sg12154
-(lp16561
-g2863
-asg12156
-(lp16562
-S'Musical performances'
-p16563
-assg6363
-(dp16564
-g12148
-S'[Undated]'
-p16565
-sg12150
-S'University of Michigan. Alumni Association.'
-p16566
-sg11
-g6366
-sg12152
-S'11/01/2013'
-p16567
-sg12154
-(lp16568
-g6361
-asg12156
-(lp16569
-S'Interviews'
-p16570
-aS'Radio programs'
-p16571
+g10057
+asg12158
+(lp16527
+S'Radio programs'
+p16528
 aS'Talk shows'
-p16572
-assg9375
-(dp16573
+p16529
+assg11325
+(dp16530
 g12148
-S'1967 September 11-29'
-p16574
+S'1963 January 05, 1963 September 15'
+p16531
 sg12150
-S'Romney, George'
-p16575
-sg11
-g9378
+S'Kramer, Arthur W.'
+p16532
 sg12152
 S'6/05/2014'
-p16576
+p16533
 sg12154
-(lp16577
-g9373
-ag9367
+(lp16534
+g11328
 asg12156
-(lp16578
-S'Press conferences'
-p16579
-aS'Dialogues'
-p16580
-aS'Press conferences'
-p16581
-aS'Dialogues'
-p16582
-assg6543
-(dp16583
-g12148
-S'1967 September 11-29'
-p16584
-sg12150
-S'Romney, George'
-p16585
-sg11
-g6546
-sg12152
-S'6/05/2014'
-p16586
-sg12154
-(lp16587
-g6541
-asg12156
-(lp16588
-S'Press conferences'
-p16589
-aS'Dictation recordings'
-p16590
-assg3573
-(dp16591
-g12148
-S'1967 September 11-29'
-p16592
-sg12150
-S'Romney, George'
-p16593
-sg11
-g3576
-sg12152
-S'6/05/2014'
-p16594
-sg12154
-(lp16595
-g3571
-ag535
-asg12156
-(lp16596
-S'Press conferences'
-p16597
-aS'Press conferences'
-p16598
-assg3255
-(dp16599
-g12148
-S'1967 July 24-25'
-p16600
-sg12150
-S'Romney, George'
-p16601
-sg11
-g3258
-sg12152
-S'6/05/2014'
-p16602
-sg12154
-(lp16603
-g3253
-asg12156
-(lp16604
-S'Conferences'
-p16605
-assg699
-(dp16606
-g12148
-S'1967 September 11-29'
-p16607
-sg12150
-S'Romney, George'
-p16608
-sg11
-g702
-sg12152
-S'6/05/2014'
-p16609
-sg12154
-(lp16610
-g697
-ag703
-asg12156
-(lp16611
-S'Press conferences'
-p16612
-aS'Dictation recordings'
-p16613
-aS'Press conferences'
-p16614
-aS'Dictation recordings'
-p16615
-assg3375
-(dp16616
-g12148
-S'1967 September 11-29'
-p16617
-sg12150
-S'Romney, George'
-p16618
-sg11
-g3378
-sg12152
-S'6/05/2014'
-p16619
-sg12154
-(lp16620
-g3373
-ag3379
-asg12156
-(lp16621
-S'Conferences'
-p16622
-aS'Dictation recordings'
-p16623
-aS'Conferences'
-p16624
-aS'Dictation recordings'
-p16625
-assg9405
-(dp16626
-g12148
-S'1967 September 11-29'
-p16627
-sg12150
-S'Romney, George'
-p16628
-sg11
-g9408
-sg12152
-S'6/05/2014'
-p16629
-sg12154
-(lp16630
-g9403
-ag9397
-asg12156
-(lp16631
-S'Press conferences'
-p16632
-aS'Dictation recordings'
-p16633
-aS'Press conferences'
-p16634
-aS'Dictation recordings'
-p16635
-assg6789
-(dp16636
-g12148
-S'1967 September 11-29'
-p16637
-sg12150
-S'Romney, George'
-p16638
-sg11
-g6792
-sg12152
-S'6/05/2014'
-p16639
-sg12154
-(lp16640
-g6787
-ag4525
-asg12156
-(lp16641
-S'Press conferences'
-p16642
-aS'Press conferences'
-p16643
-assg9999
-(dp16644
-g12148
-S'1962 October 17'
-p16645
-sg12150
-S'Romney, George'
-p16646
-sg11
-g10002
-sg12152
-S'6/05/2014'
-p16647
-sg12154
-(lp16648
-g9997
-asg12156
-(lp16649
-S'Debates'
-p16650
+(lp16535
+g11323
+ag7441
+asg12158
+(lp16536
+S'Addresses'
+p16537
 aS'Television'
-p16651
-assg747
-(dp16652
+p16538
+aS'Addresses'
+p16539
+aS'Television'
+p16540
+assg8007
+(dp16541
 g12148
-S'1963 February 26'
-p16653
+S'1954 February 22'
+p16542
+sg12150
+S'Gerald R. Ford School of Public Policy'
+p16543
+sg12152
+S'6/05/2014'
+p16544
+sg12154
+(lp16545
+g8010
+asg12156
+(lp16546
+g8005
+asg12158
+(lp16547
+S'Dedications (ceremonies)'
+p16548
+assg11211
+(dp16549
+g12148
+S'1964 March 01'
+p16550
+sg12150
+S'Kramer, Arthur W.'
+p16551
+sg12152
+S'6/05/2014'
+p16552
+sg12154
+(lp16553
+g11214
+asg12156
+(lp16554
+g11209
+ag7069
+asg12158
+(lp16555
+S'Interviews'
+p16556
+aS'Interviews'
+p16557
+assg1701
+(dp16558
+g12148
+S'1964 April 24'
+p16559
+sg12150
+S'Kramer, Arthur W.'
+p16560
+sg12152
+S'6/05/2014'
+p16561
+sg12154
+(lp16562
+g1704
+asg12156
+(lp16563
+g1699
+ag1705
+asg12158
+(lp16564
+S'Addresses'
+p16565
+aS'Addresses'
+p16566
+assg1755
+(dp16567
+g12148
+S'1964'
+p16568
+sg12150
+S'Gerald R. Ford School of Public Policy'
+p16569
+sg12152
+S'6/05/2014'
+p16570
+sg12154
+(lp16571
+g1758
+asg12156
+(lp16572
+g1753
+asg12158
+(lp16573
+S'Conferences'
+p16574
+aS'Anniversary'
+p16575
+assg11331
+(dp16576
+g12148
+S'1964'
+p16577
+sg12150
+S'Gerald R. Ford School of Public Policy'
+p16578
+sg12152
+S'6/05/2014'
+p16579
+sg12154
+(lp16580
+g11334
+asg12156
+(lp16581
+g11329
+asg12158
+(lp16582
+S'Conferences'
+p16583
+aS'Anniversary'
+p16584
+assg8595
+(dp16585
+g12148
+S'1962 June 14'
+p16586
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16654
-sg11
-g750
+p16587
 sg12152
 S'6/24/2013'
-p16655
+p16588
 sg12154
-(lp16656
-g745
+(lp16589
+g8598
 asg12156
-(lp16657
+(lp16590
+g8593
+asg12158
+(lp16591
 S'Addresses'
-p16658
+p16592
 aS'Radio programs'
-p16659
-aS'Dedications (ceremonies)'
-p16660
-assg10599
-(dp16661
+p16593
+aS'Dinners'
+p16594
+assg11673
+(dp16595
 g12148
-S'1976 December 14'
-p16662
+S'1986 May 20'
+p16596
 sg12150
-S'Bentley Historical Library'
-p16663
-sg11
-g10602
+S'Historica Critica'
+p16597
 sg12152
 S'6/05/2014'
+p16598
+sg12154
+(lp16599
+g11676
+asg12156
+(lp16600
+g11671
+asg12158
+(lp16601
+S'Oral Histories'
+p16602
+aS'Interviews'
+p16603
+assg5721
+(dp16604
+g12148
+S'1986 May 20'
+p16605
+sg12150
+S'Historica Critica'
+p16606
+sg12152
+S'6/05/2014'
+p16607
+sg12154
+(lp16608
+g5724
+asg12156
+(lp16609
+g5719
+asg12158
+(lp16610
+S'Oral Histories'
+p16611
+aS'Interviews'
+p16612
+assg8937
+(dp16613
+g12148
+S'1977 November 19'
+p16614
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16615
+sg12152
+S'11/01/2013'
+p16616
+sg12154
+(lp16617
+g8940
+asg12156
+(lp16618
+g8935
+asg12158
+(lp16619
+S'Musical performances'
+p16620
+assg11283
+(dp16621
+g12148
+S'1977 November 19'
+p16622
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16623
+sg12152
+S'11/01/2013'
+p16624
+sg12154
+(lp16625
+g11286
+asg12156
+(lp16626
+g11281
+asg12158
+(lp16627
+S'Musical performances'
+p16628
+assg5373
+(dp16629
+g12148
+S'1977 November 19'
+p16630
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16631
+sg12152
+S'11/01/2013'
+p16632
+sg12154
+(lp16633
+g5376
+asg12156
+(lp16634
+g5371
+asg12158
+(lp16635
+S'Musical performances'
+p16636
+assg9135
+(dp16637
+g12148
+S'1974 March 30'
+p16638
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16639
+sg12152
+S'11/01/2013'
+p16640
+sg12154
+(lp16641
+g9138
+asg12156
+(lp16642
+g9133
+asg12158
+(lp16643
+S'Musical performances'
+p16644
+assg9279
+(dp16645
+g12148
+S'1974 March 30'
+p16646
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16647
+sg12152
+S'11/01/2013'
+p16648
+sg12154
+(lp16649
+g9282
+asg12156
+(lp16650
+g9277
+asg12158
+(lp16651
+S'Musical performances'
+p16652
+assg8955
+(dp16653
+g12148
+S'1974 March 30'
+p16654
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16655
+sg12152
+S'11/01/2013'
+p16656
+sg12154
+(lp16657
+g8958
+asg12156
+(lp16658
+g8953
+asg12158
+(lp16659
+S'Musical performances'
+p16660
+assg513
+(dp16661
+g12148
+S'1956 May 28'
+p16662
+sg12150
+S'Brucker, Wilber Marion'
+p16663
+sg12152
+S'11/01/2013'
 p16664
 sg12154
 (lp16665
-g10597
+g516
 asg12156
 (lp16666
-S'Radio programs'
-p16667
-assg1377
-(dp16668
-g12148
-S'1979 November 13'
-p16669
-sg12150
-S'Bentley Historical Library'
-p16670
-sg11
-g1380
-sg12152
-S'6/05/2014'
-p16671
-sg12154
-(lp16672
-g1375
-asg12156
-(lp16673
+g511
+asg12158
+(lp16667
 S'Addresses'
-p16674
-aS'Lectures'
-p16675
-assg1359
-(dp16676
+p16668
+aS'Dinners'
+p16669
+assg7461
+(dp16670
 g12148
-S'1954 August 09'
+S'1956 September 28'
+p16671
+sg12150
+S'Brucker, Wilber Marion'
+p16672
+sg12152
+S'11/01/2013'
+p16673
+sg12154
+(lp16674
+g7464
+asg12156
+(lp16675
+g7459
+asg12158
+(lp16676
+S'Addresses'
 p16677
+aS'Dinners'
+p16678
+assg10125
+(dp16679
+g12148
+S'1949 March 13'
+p16680
 sg12150
 S'Cushing, George'
-p16678
-sg11
-g1362
+p16681
 sg12152
 S'2/25/2015'
-p16679
-sg12154
-(lp16680
-g1357
-asg12156
-(lp16681
-S'Radio programs'
 p16682
-aS'Talk shows'
-p16683
-assg10239
-(dp16684
-g12148
-S'[Undated]'
-p16685
-sg12150
-S'Detroit Urban League'
+sg12154
+(lp16683
+g10128
+asg12156
+(lp16684
+g10123
+asg12158
+(lp16685
+S'Radio programs'
 p16686
-sg11
-g10242
+aS'Talk shows'
+p16687
+assg4713
+(dp16688
+g12148
+S'1970 April 13'
+p16689
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16690
 sg12152
 S'6/24/2013'
-p16687
+p16691
 sg12154
-(lp16688
-g10237
+(lp16692
+g4716
 asg12156
-(lp16689
-S'Addresses'
-p16690
-assg1881
-(dp16691
+(lp16693
+g4711
+asg12158
+(lp16694
+S'Radio programs'
+p16695
+aS'Meetings'
+p16696
+assg561
+(dp16697
 g12148
-S'[Undated]'
-p16692
+S'1980 November 15'
+p16698
 sg12150
-S'Cacioppo, George'
-p16693
-sg11
-g1884
-sg12152
-S'2/25/2015'
-p16694
-sg12154
-(lp16695
-g1879
-asg12156
-(lp16696
-S'Musical performances'
-p16697
-assg3423
-(dp16698
-g12148
-S'1965 July 24'
+S"University of Michigan. Men's Glee Club"
 p16699
-sg12150
-S'Cacioppo, George'
-p16700
-sg11
-g3426
 sg12152
-S'2/25/2015'
-p16701
+S'11/01/2013'
+p16700
 sg12154
-(lp16702
-g3421
+(lp16701
+g564
 asg12156
+(lp16702
+g559
+asg12158
 (lp16703
 S'Musical performances'
 p16704
-assg5229
+assg2223
 (dp16705
 g12148
-S'1980 February 23'
+S'1980 April 15'
 p16706
 sg12150
-S'Cacioppo, George'
+S"University of Michigan. Men's Glee Club"
 p16707
-sg11
-g5232
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p16708
 sg12154
 (lp16709
-g5227
+g2226
 asg12156
 (lp16710
+g2221
+ag2215
+asg12158
+(lp16711
 S'Musical performances'
-p16711
-assg7929
-(dp16712
-g12148
-S'[Undated]'
+p16712
+aS'Musical performances'
 p16713
-sg12150
-S'Cacioppo, George'
-p16714
-sg11
-g7932
-sg12152
-S'2/25/2015'
-p16715
-sg12154
-(lp16716
-g7927
-asg12156
-(lp16717
-S'Musical performances'
-p16718
-assg10665
-(dp16719
+assg6657
+(dp16714
 g12148
 S'[Undated]'
-p16720
+p16715
 sg12150
-S'Cacioppo, George'
+S'Wallace, Mike'
+p16716
+sg12152
+S'6/24/2013'
+p16717
+sg12154
+(lp16718
+g6660
+asg12156
+(lp16719
+g6655
+asg12158
+(lp16720
+S'Interviews'
 p16721
-sg11
-g10668
-sg12152
-S'2/25/2015'
+aS'News'
 p16722
-sg12154
-(lp16723
-g10663
-asg12156
-(lp16724
-S'Musical performances'
-p16725
-assg5163
-(dp16726
+assg4035
+(dp16723
 g12148
-S'1969 May 16'
-p16727
+S'[Undated]'
+p16724
 sg12150
-S'Cacioppo, George'
-p16728
-sg11
-g5166
+S'Wallace, Mike'
+p16725
 sg12152
-S'2/25/2015'
-p16729
+S'6/24/2013'
+p16726
 sg12154
-(lp16730
-g5161
+(lp16727
+g4038
 asg12156
-(lp16731
-S'Musical performances'
-p16732
-assg11367
-(dp16733
+(lp16728
+g4033
+asg12158
+(lp16729
+S'Interviews'
+p16730
+aS'News'
+p16731
+assg627
+(dp16732
 g12148
-S'1979 March 15'
+S'1952 May 10'
+p16733
+sg12150
+S"University of Michigan. Men's Glee Club"
 p16734
+sg12152
+S'11/01/2013'
+p16735
+sg12154
+(lp16736
+g630
+asg12156
+(lp16737
+g625
+asg12158
+(lp16738
+S'Musical performances'
+p16739
+assg7257
+(dp16740
+g12148
+S'1952 May 10'
+p16741
+sg12150
+S"University of Michigan. Men's Glee Club"
+p16742
+sg12152
+S'11/01/2013'
+p16743
+sg12154
+(lp16744
+g7260
+asg12156
+(lp16745
+g7255
+asg12158
+(lp16746
+S'Musical performances'
+p16747
+assg3495
+(dp16748
+g12148
+S'1969 September 20'
+p16749
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16735
-sg11
-g11370
+p16750
 sg12152
 S'6/24/2013'
-p16736
+p16751
 sg12154
-(lp16737
-g11365
-ag11359
+(lp16752
+g3498
+ag3486
+ag3492
 asg12156
-(lp16738
-S'Radio programs'
-p16739
-aS'Poetry readings'
-p16740
+(lp16753
+g3493
+ag3481
+ag3487
+asg12158
+(lp16754
+S'Addresses'
+p16755
 aS'Radio programs'
-p16741
-aS'Poetry readings'
-p16742
-assg1665
-(dp16743
+p16756
+aS'Panel discussions'
+p16757
+aS'Addresses'
+p16758
+aS'Radio programs'
+p16759
+aS'Panel discussions'
+p16760
+aS'Addresses'
+p16761
+aS'Radio programs'
+p16762
+aS'Panel discussions'
+p16763
+assg807
+(dp16764
 g12148
-S'[Undated]'
-p16744
+S'[1957]'
+p16765
 sg12150
-S'Cacioppo, George'
-p16745
-sg11
-g1668
+S'Griffiths, Martha Wright'
+p16766
+sg12152
+S'6/05/2014'
+p16767
+sg12154
+(lp16768
+g810
+asg12156
+(lp16769
+g805
+asg12158
+(lp16770
+S'Radio programs'
+p16771
+assg10257
+(dp16772
+g12148
+S'[Between 1955-1956]'
+p16773
+sg12150
+S'Griffiths, Martha Wright'
+p16774
+sg12152
+S'6/05/2014'
+p16775
+sg12154
+(lp16776
+g10260
+asg12156
+(lp16777
+g10255
+asg12158
+(lp16778
+S'Addresses'
+p16779
+assg10149
+(dp16780
+g12148
+S'1967 January 06'
+p16781
+sg12150
+S'Ferguson, Homer'
+p16782
+sg12152
+S'11/01/2013'
+p16783
+sg12154
+(lp16784
+g10152
+asg12156
+(lp16785
+g10147
+asg12158
+(lp16786
+S'Addresses'
+p16787
+assg7611
+(dp16788
+g12148
+S'1958'
+p16789
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16790
+sg12152
+S'6/24/2013'
+p16791
+sg12154
+(lp16792
+g7614
+asg12156
+(lp16793
+g7609
+asg12158
+(lp16794
+S'Oral Histories'
+p16795
+aS'Interviews'
+p16796
+aS'Radio programs'
+p16797
+aS'Talk shows'
+p16798
+assg10707
+(dp16799
+g12148
+S'1950 February 26'
+p16800
+sg12150
+S'Cushing, George'
+p16801
 sg12152
 S'2/25/2015'
-p16746
+p16802
 sg12154
-(lp16747
-g1663
-asg12156
-(lp16748
-S'Musical performances'
-p16749
-assg8583
-(dp16750
-g12148
-S'1965 September 17'
-p16751
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16752
-sg11
-g8586
-sg12152
-S'11/01/2013'
-p16753
-sg12154
-(lp16754
-g8581
-asg12156
-(lp16755
-S'Addresses'
-p16756
-aS'Conferences'
-p16757
-assg5859
-(dp16758
-g12148
-S'1965 September 17'
-p16759
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16760
-sg11
-g5862
-sg12152
-S'11/01/2013'
-p16761
-sg12154
-(lp16762
-g5857
-asg12156
-(lp16763
-S'Addresses'
-p16764
-aS'Conferences'
-p16765
-assg5313
-(dp16766
-g12148
-S'1965 September 17'
-p16767
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16768
-sg11
-g5316
-sg12152
-S'11/01/2013'
-p16769
-sg12154
-(lp16770
-g5311
-asg12156
-(lp16771
-S'Addresses'
-p16772
-aS'Conferences'
-p16773
-assg2619
-(dp16774
-g12148
-S'1965 September 17'
-p16775
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16776
-sg11
-g2622
-sg12152
-S'11/01/2013'
-p16777
-sg12154
-(lp16778
-g2617
-asg12156
-(lp16779
-S'Addresses'
-p16780
-aS'Conferences'
-p16781
-assg8943
-(dp16782
-g12148
-S'1965 September 17'
-p16783
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16784
-sg11
-g8946
-sg12152
-S'11/01/2013'
-p16785
-sg12154
-(lp16786
-g8941
-asg12156
-(lp16787
-S'Addresses'
-p16788
-aS'Conferences'
-p16789
-assg1539
-(dp16790
-g12148
-S'1965 September 17'
-p16791
-sg12150
-S'Alternative Perspectives on Vietnam'
-p16792
-sg11
-g1542
-sg12152
-S'11/01/2013'
-p16793
-sg12154
-(lp16794
-g1537
-asg12156
-(lp16795
-S'Addresses'
-p16796
-aS'Conferences'
-p16797
-assg11463
-(dp16798
-g12148
-S'1965'
-p16799
-sg12150
-S'Welliver, Harry B.'
-p16800
-sg11
-g11466
-sg12152
-S'6/24/2013'
-p16801
-sg12154
-(lp16802
-g11461
-asg12156
 (lp16803
-S'Oral Histories'
-p16804
-aS'Musical performances'
-p16805
-aS'Poetry readings'
+g10710
+asg12156
+(lp16804
+g10705
+asg12158
+(lp16805
+S'Radio programs'
 p16806
-aS'Folklore'
+aS'Talk shows'
 p16807
-assg1683
+assg3843
 (dp16808
 g12148
-S'1965 May'
+S'1979 June 20, 27, 29'
 p16809
 sg12150
-S'Welliver, Harry B.'
+S"University of Michigan. Men's Glee Club"
 p16810
-sg11
-g1686
 sg12152
-S'6/24/2013'
+S'11/01/2013'
 p16811
 sg12154
 (lp16812
-g1681
+g3846
 asg12156
 (lp16813
-S'Oral Histories'
-p16814
-aS'Musical performances'
-p16815
-aS'Interviews'
-p16816
-aS'Poetry readings'
-p16817
-assg8163
-(dp16818
-g12148
-S'1965 May'
-p16819
-sg12150
-S'Welliver, Harry B.'
-p16820
-sg11
-g8166
-sg12152
-S'6/24/2013'
-p16821
-sg12154
-(lp16822
-g8161
-asg12156
-(lp16823
-S'Oral Histories'
-p16824
-aS'Musical performances'
-p16825
-assg9051
-(dp16826
-g12148
-S'1965 February 08'
-p16827
-sg12150
-S'Welliver, Harry B.'
-p16828
-sg11
-g9054
-sg12152
-S'6/24/2013'
-p16829
-sg12154
-(lp16830
-g9049
-asg12156
-(lp16831
+g3841
+asg12158
+(lp16814
 S'Musical performances'
-p16832
-aS'Interviews'
-p16833
-aS'Radio programs'
-p16834
+p16815
+assg10389
+(dp16816
+g12148
+S'1949 December 04'
+p16817
+sg12150
+S'Cushing, George'
+p16818
+sg12152
+S'2/25/2015'
+p16819
+sg12154
+(lp16820
+g10392
+asg12156
+(lp16821
+g10387
+asg12158
+(lp16822
+S'Radio programs'
+p16823
 aS'Talk shows'
+p16824
+assg885
+(dp16825
+g12148
+S'1949 December 11'
+p16826
+sg12150
+S'Cushing, George'
+p16827
+sg12152
+S'2/25/2015'
+p16828
+sg12154
+(lp16829
+g888
+asg12156
+(lp16830
+g883
+asg12158
+(lp16831
+S'Radio programs'
+p16832
+aS'Talk shows'
+p16833
+assg10131
+(dp16834
+g12148
+S'1949 December 17'
 p16835
-assg11217
-(dp16836
-g12148
-S'1965 May 25'
+sg12150
+S'Cushing, George'
+p16836
+sg12152
+S'2/25/2015'
 p16837
-sg12150
-S'Welliver, Harry B.'
-p16838
-sg11
-g11220
-sg12152
-S'6/24/2013'
-p16839
 sg12154
+(lp16838
+g10134
+asg12156
+(lp16839
+g10129
+asg12158
 (lp16840
-g11215
-asg12156
-(lp16841
-S'Oral Histories'
+S'Radio programs'
+p16841
+aS'Talk shows'
 p16842
-aS'Musical performances'
-p16843
-assg7983
-(dp16844
+assg8451
+(dp16843
 g12148
-S'1965 May'
-p16845
+S'1949 December 25'
+p16844
 sg12150
-S'Welliver, Harry B.'
-p16846
-sg11
-g7986
+S'Cushing, George'
+p16845
 sg12152
-S'6/24/2013'
-p16847
+S'2/25/2015'
+p16846
 sg12154
-(lp16848
-g7981
+(lp16847
+g8454
 asg12156
+(lp16848
+g8449
+asg12158
 (lp16849
-S'Oral Histories'
+S'Radio programs'
 p16850
-aS'Musical performances'
+aS'Talk shows'
 p16851
-assg5289
+assg825
 (dp16852
 g12148
-S'1965'
+S'1950 January 01'
 p16853
 sg12150
-S'Welliver, Harry B.'
+S'Cushing, George'
 p16854
-sg11
-g5292
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p16855
 sg12154
 (lp16856
-g5287
+g828
 asg12156
 (lp16857
-S'Oral Histories'
-p16858
-aS'Musical performances'
+g823
+asg12158
+(lp16858
+S'Radio programs'
 p16859
-assg5589
-(dp16860
+aS'Talk shows'
+p16860
+assg6969
+(dp16861
 g12148
-S'[Undated], 1960'
-p16861
-sg12150
-S'University of Michigan. Alumni Association.'
+S'1950 January 08'
 p16862
-sg11
-g5592
-sg12152
-S'11/01/2013'
+sg12150
+S'Cushing, George'
 p16863
+sg12152
+S'2/25/2015'
+p16864
 sg12154
-(lp16864
-g5587
-asg12156
 (lp16865
-S'Interviews'
-p16866
-aS'Radio programs'
-p16867
-aS'Documentaries'
+g6972
+asg12156
+(lp16866
+g6967
+asg12158
+(lp16867
+S'Radio programs'
 p16868
 aS'Talk shows'
 p16869
-assg11571
+assg4317
 (dp16870
 g12148
-S'1956 October 08'
+S'1964 October 25'
 p16871
 sg12150
-S'Hartwick, Edward N.'
+S"University of Michigan. Men's Glee Club"
 p16872
-sg11
-g11574
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p16873
 sg12154
 (lp16874
-g11569
+g4320
 asg12156
 (lp16875
-S'Addresses'
-p16876
-assg4521
-(dp16877
+g4315
+asg12158
+(lp16876
+S'Musical performances'
+p16877
+assg1143
+(dp16878
 g12148
-S'1956 March 10'
-p16878
-sg12150
-S'Hartwick, Edward N.'
+S'1985 March 10'
 p16879
-sg11
-g4524
-sg12152
-S'2/25/2015'
+sg12150
+S'Historica Critica'
 p16880
+sg12152
+S'6/05/2014'
+p16881
 sg12154
-(lp16881
-g4519
-ag9079
-asg12156
 (lp16882
-S'Conferences'
-p16883
-aS'Conferences'
-p16884
-assg6135
-(dp16885
-g12148
-S'1956 March 10'
+g1146
+asg12156
+(lp16883
+g1141
+ag1147
+asg12158
+(lp16884
+S'Oral Histories'
+p16885
+aS'Interviews'
 p16886
-sg12150
-S'Hartwick, Edward N.'
+aS'Oral Histories'
 p16887
-sg11
-g6138
-sg12152
-S'2/25/2015'
+aS'Interviews'
 p16888
-sg12154
-(lp16889
-g6133
-ag6127
-asg12156
-(lp16890
-S'Conferences'
-p16891
-aS'Conferences'
-p16892
-assg8961
-(dp16893
+assg10365
+(dp16889
 g12148
-S'1956 January 20'
-p16894
+S'1985 March 10'
+p16890
 sg12150
-S'Hartwick, Edward N.'
-p16895
-sg11
-g8964
+S'Historica Critica'
+p16891
 sg12152
-S'2/25/2015'
-p16896
+S'6/05/2014'
+p16892
 sg12154
-(lp16897
-g8959
+(lp16893
+g10368
 asg12156
-(lp16898
-S'Addresses'
+(lp16894
+g10363
+ag10351
+asg12158
+(lp16895
+S'Oral Histories'
+p16896
+aS'Interviews'
+p16897
+aS'Oral Histories'
+p16898
+aS'Interviews'
 p16899
-assg717
+assg2055
 (dp16900
 g12148
-S'1968 March 19'
+S'1969 Fall'
 p16901
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16902
-sg11
-g720
 sg12152
 S'6/24/2013'
 p16903
 sg12154
 (lp16904
-g715
+g2058
+ag2070
 asg12156
 (lp16905
-S'Radio programs'
-p16906
-assg4281
-(dp16907
-g12148
-S'[Undated]'
+g2053
+ag2065
+asg12158
+(lp16906
+S'Lectures'
+p16907
+aS'Radio programs'
 p16908
-sg12150
-S'Interlochen Center for the Arts.'
+aS'Class'
 p16909
-sg11
-g4284
-sg12152
-S'6/24/2013'
+aS'Lectures'
 p16910
-sg12154
-(lp16911
-g4279
-asg12156
-(lp16912
-S'Interviews'
-p16913
 aS'Radio programs'
+p16911
+aS'Class'
+p16912
+assg11595
+(dp16913
+g12148
+S'1969 Fall'
 p16914
-aS'Talk shows'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16915
-assg6915
-(dp16916
-g12148
-S'[Undated]'
-p16917
-sg12150
-S'Interlochen Center for the Arts.'
-p16918
-sg11
-g6918
 sg12152
 S'6/24/2013'
-p16919
+p16916
 sg12154
-(lp16920
-g6913
+(lp16917
+g11598
 asg12156
-(lp16921
-S'Interviews'
-p16922
+(lp16918
+g11593
+ag11599
+asg12158
+(lp16919
+S'Lectures'
+p16920
 aS'Radio programs'
+p16921
+aS'Class'
+p16922
+aS'Lectures'
 p16923
-aS'Talk shows'
+aS'Radio programs'
 p16924
-assg1281
-(dp16925
+aS'Class'
+p16925
+assg5607
+(dp16926
 g12148
-S'[Undated]'
-p16926
-sg12150
-S'Interlochen Center for the Arts.'
+S'1969 Fall'
 p16927
-sg11
-g1284
-sg12152
-S'6/24/2013'
-p16928
-sg12154
-(lp16929
-g1279
-asg12156
-(lp16930
-S'Interviews'
-p16931
-assg7479
-(dp16932
-g12148
-S'[Undated]'
-p16933
 sg12150
-S'Interlochen Center for the Arts.'
-p16934
-sg11
-g7482
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16928
 sg12152
 S'6/24/2013'
-p16935
+p16929
 sg12154
-(lp16936
-g7477
+(lp16930
+g5610
+ag5604
 asg12156
-(lp16937
-S'Interviews'
+(lp16931
+g5605
+ag5599
+asg12158
+(lp16932
+S'Lectures'
+p16933
+aS'Radio programs'
+p16934
+aS'Class'
+p16935
+aS'Lectures'
+p16936
+aS'Radio programs'
+p16937
+aS'Class'
 p16938
-assg11271
+assg8355
 (dp16939
 g12148
-S'[Undated]'
+S'1969 Fall'
 p16940
 sg12150
-S'Interlochen Center for the Arts.'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16941
-sg11
-g11274
 sg12152
 S'6/24/2013'
 p16942
 sg12154
 (lp16943
-g11269
-ag11263
+g8358
 asg12156
 (lp16944
-S'Interviews'
-p16945
-aS'Interviews'
+g8353
+ag8347
+asg12158
+(lp16945
+S'Lectures'
 p16946
-assg3447
-(dp16947
-g12148
-S'1922 March'
+aS'Radio programs'
+p16947
+aS'Class'
 p16948
-sg12150
-S'Interlochen Center for the Arts.'
+aS'Lectures'
 p16949
-sg11
-g3450
-sg12152
-S'6/24/2013'
+aS'Radio programs'
 p16950
-sg12154
-(lp16951
-g3445
-asg12156
-(lp16952
-S'Musical performances'
+aS'Class'
+p16951
+assg4773
+(dp16952
+g12148
+S'1969 Fall'
 p16953
-assg957
-(dp16954
-g12148
-S'1922'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p16954
+sg12152
+S'6/24/2013'
 p16955
-sg12150
-S'Interlochen Center for the Arts.'
-p16956
-sg11
-g960
-sg12152
-S'6/24/2013'
-p16957
 sg12154
+(lp16956
+g4776
+ag4782
+asg12156
+(lp16957
+g4771
+ag4777
+asg12158
 (lp16958
-g955
-asg12156
-(lp16959
-S'Musical performances'
+S'Lectures'
+p16959
+aS'Radio programs'
 p16960
-assg5841
-(dp16961
-g12148
-S'1970 January 30'
+aS'Class'
+p16961
+aS'Lectures'
 p16962
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Radio programs'
 p16963
-sg11
-g5844
-sg12152
-S'6/24/2013'
+aS'Class'
 p16964
-sg12154
-(lp16965
-g5839
-ag5845
-ag5851
-asg12156
-(lp16966
-S'Addresses'
-p16967
-aS'Radio programs'
-p16968
-aS'Addresses'
-p16969
-aS'Radio programs'
-p16970
-aS'Addresses'
-p16971
-aS'Radio programs'
-p16972
-assg11241
-(dp16973
+assg2283
+(dp16965
 g12148
-S'1972 October 10'
-p16974
+S'1969 Fall'
+p16966
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p16975
-sg11
-g11244
+p16967
 sg12152
 S'6/24/2013'
-p16976
+p16968
 sg12154
-(lp16977
-g11239
+(lp16969
+g2286
+ag2292
 asg12156
-(lp16978
-S'Addresses'
-p16979
+(lp16970
+g2281
+ag2287
+asg12158
+(lp16971
+S'Lectures'
+p16972
 aS'Radio programs'
+p16973
+aS'Class'
+p16974
+aS'Lectures'
+p16975
+aS'Radio programs'
+p16976
+aS'Class'
+p16977
+assg8529
+(dp16978
+g12148
+S'1969 Fall'
+p16979
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16980
-aS'Poetry readings'
+sg12152
+S'6/24/2013'
 p16981
-assg5265
-(dp16982
-g12148
-S'1959 July 20'
-p16983
-sg12150
-S'Staebler, Neil'
-p16984
-sg11
-g5268
-sg12152
-S'2/25/2015'
+sg12154
+(lp16982
+g8532
+ag8526
+asg12156
+(lp16983
+g8527
+ag8521
+asg12158
+(lp16984
+S'Lectures'
 p16985
-sg12154
-(lp16986
-g5263
-ag5269
-asg12156
-(lp16987
-S'Addresses'
+aS'Radio programs'
+p16986
+aS'Class'
+p16987
+aS'Lectures'
 p16988
-aS'Addresses'
+aS'Radio programs'
 p16989
-assg9027
-(dp16990
+aS'Class'
+p16990
+assg5205
+(dp16991
 g12148
-S'1954 August'
-p16991
-sg12150
-S'Staebler, Neil'
+S'1969 Fall'
 p16992
-sg11
-g9030
-sg12152
-S'2/25/2015'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p16993
+sg12152
+S'6/24/2013'
+p16994
 sg12154
-(lp16994
-g9025
-asg12156
 (lp16995
-S'Debates'
-p16996
-assg11253
-(dp16997
-g12148
-S'1959 July 20'
+g5208
+asg12156
+(lp16996
+g5203
+ag5197
+asg12158
+(lp16997
+S'Radio programs'
 p16998
-sg12150
-S'Staebler, Neil'
+aS'Class'
 p16999
-sg11
-g11256
-sg12152
-S'2/25/2015'
+aS'Radio programs'
 p17000
-sg12154
-(lp17001
-g11251
-ag7135
-asg12156
-(lp17002
-S'Addresses'
+aS'Class'
+p17001
+assg7941
+(dp17002
+g12148
+S'1969 Fall'
 p17003
-aS'Addresses'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17004
-assg8925
-(dp17005
-g12148
-S'1959 July 20'
-p17006
-sg12150
-S'Staebler, Neil'
-p17007
-sg11
-g8928
 sg12152
-S'2/25/2015'
-p17008
+S'6/24/2013'
+p17005
 sg12154
-(lp17009
-g8923
+(lp17006
+g7944
 asg12156
-(lp17010
-S'Addresses'
+(lp17007
+g7939
+ag7933
+asg12158
+(lp17008
+S'Lectures'
+p17009
+aS'Radio programs'
+p17010
+aS'Class'
 p17011
-assg9123
-(dp17012
-g12148
-S'1950 July 23'
+aS'Lectures'
+p17012
+aS'Radio programs'
 p17013
-sg12150
-S'Cushing, George'
+aS'Class'
 p17014
-sg11
-g9126
+assg2157
+(dp17015
+g12148
+S'1982 February 15'
+p17016
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17017
 sg12152
-S'2/25/2015'
-p17015
-sg12154
-(lp17016
-g9121
-asg12156
-(lp17017
-S'Radio programs'
+S'6/24/2013'
 p17018
-aS'Talk shows'
-p17019
-assg2835
-(dp17020
-g12148
-S'1950 October 29'
-p17021
-sg12150
-S'Cushing, George'
+sg12154
+(lp17019
+g2160
+asg12156
+(lp17020
+g2155
+asg12158
+(lp17021
+S'Radio programs'
 p17022
-sg11
-g2838
-sg12152
-S'2/25/2015'
+aS'Meetings'
 p17023
-sg12154
-(lp17024
-g2833
-asg12156
-(lp17025
-S'Radio programs'
+assg9165
+(dp17024
+g12148
+S'[Undated]'
+p17025
+sg12150
+S'Bentley, Alvin M.'
 p17026
-aS'Talk shows'
+sg12152
+S'6/24/2013'
 p17027
-assg195
-(dp17028
-g12148
-S'1950 October 22'
-p17029
-sg12150
-S'Cushing, George'
-p17030
-sg11
-g198
-sg12152
-S'2/25/2015'
+sg12154
+(lp17028
+g9168
+asg12156
+(lp17029
+g9163
+asg12158
+(lp17030
+S'Interviews'
 p17031
-sg12154
-(lp17032
-g193
-asg12156
-(lp17033
-S'Radio programs'
+assg7365
+(dp17032
+g12148
+S'1980 February 21, 1982 May 15'
+p17033
+sg12150
+S'Bassett, Leslie'
 p17034
-aS'Talk shows'
+sg12152
+S'6/05/2014'
 p17035
-assg9243
-(dp17036
-g12148
-S'1950 May 21'
-p17037
-sg12150
-S'Cushing, George'
-p17038
-sg11
-g9246
-sg12152
-S'2/25/2015'
+sg12154
+(lp17036
+g7368
+asg12156
+(lp17037
+g7363
+ag8437
+ag9169
+asg12158
+(lp17038
+S'Musical performances'
 p17039
-sg12154
-(lp17040
-g9241
-asg12156
-(lp17041
-S'Radio programs'
-p17042
-aS'Talk shows'
+aS'Musical performances'
+p17040
+aS'Musical performances'
+p17041
+assg3093
+(dp17042
+g12148
+S'1984 March 21'
 p17043
-assg2997
-(dp17044
-g12148
-S'1950 July 02'
+sg12150
+S'Bassett, Leslie'
+p17044
+sg12152
+S'6/05/2014'
 p17045
-sg12150
-S'Cushing, George'
-p17046
-sg11
-g3000
-sg12152
-S'2/25/2015'
-p17047
 sg12154
+(lp17046
+g3096
+asg12156
+(lp17047
+g3091
+asg12158
 (lp17048
-g2995
-asg12156
-(lp17049
-S'Radio programs'
+S'Lectures'
+p17049
+aS'Musical performances'
 p17050
-aS'Talk shows'
-p17051
-assg2823
-(dp17052
+assg3099
+(dp17051
 g12148
-S'1950 May 28'
+S'[Undated]'
+p17052
+sg12150
+S'Bentley, Alvin M.'
 p17053
-sg12150
-S'Cushing, George'
+sg12152
+S'6/24/2013'
 p17054
-sg11
-g2826
-sg12152
-S'2/25/2015'
-p17055
 sg12154
+(lp17055
+g3102
+asg12156
 (lp17056
-g2821
-asg12156
+g3097
+asg12158
 (lp17057
-S'Radio programs'
+S'Addresses'
 p17058
-aS'Talk shows'
-p17059
-assg11109
-(dp17060
+assg3873
+(dp17059
 g12148
-S'1951 January 21'
-p17061
+S'1971 January 22, 1971 November 03'
+p17060
 sg12150
-S'Cushing, George'
-p17062
-sg11
-g11112
+S'Bassett, Leslie'
+p17061
 sg12152
-S'2/25/2015'
-p17063
+S'6/05/2014'
+p17062
 sg12154
-(lp17064
-g11107
+(lp17063
+g3876
 asg12156
+(lp17064
+g3871
+ag3919
+asg12158
 (lp17065
-S'Radio programs'
+S'Musical performances'
 p17066
-aS'Talk shows'
+aS'Musical performances'
 p17067
-assg6525
+assg6387
 (dp17068
 g12148
-S'1983 November 16'
+S'1969 May 23, 1970 November 02'
 p17069
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Bassett, Leslie'
 p17070
-sg11
-g6528
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p17071
 sg12154
 (lp17072
-g6523
+g6390
 asg12156
 (lp17073
+g6385
+asg12158
+(lp17074
 S'Musical performances'
-p17074
-assg3567
-(dp17075
+p17075
+assg261
+(dp17076
 g12148
-S'1983 November 16'
-p17076
+S'1972 April 27'
+p17077
+sg12150
+S'Bassett, Leslie'
+p17078
+sg12152
+S'6/05/2014'
+p17079
+sg12154
+(lp17080
+g264
+asg12156
+(lp17081
+g259
+asg12158
+(lp17082
+S'Musical performances'
+p17083
+assg2895
+(dp17084
+g12148
+S'1971 October 14, 1971 October 31'
+p17085
+sg12150
+S'Bassett, Leslie'
+p17086
+sg12152
+S'6/05/2014'
+p17087
+sg12154
+(lp17088
+g2898
+asg12156
+(lp17089
+g2893
+ag2881
+asg12158
+(lp17090
+S'Musical performances'
+p17091
+aS'Musical performances'
+p17092
+assg12141
+(dp17093
+g12148
+S'1984 April 07'
+p17094
+sg12150
+S'Bassett, Leslie'
+p17095
+sg12152
+S'6/05/2014'
+p17096
+sg12154
+(lp17097
+g12144
+asg12156
+(lp17098
+g12139
+asg12158
+(lp17099
+S'Musical performances'
+p17100
+assg2685
+(dp17101
+g12148
+S'1984 April 07'
+p17102
+sg12150
+S'Bassett, Leslie'
+p17103
+sg12152
+S'6/05/2014'
+p17104
+sg12154
+(lp17105
+g2688
+asg12156
+(lp17106
+g2683
+asg12158
+(lp17107
+S'Musical performances'
+p17108
+assg2865
+(dp17109
+g12148
+S'1964 April 18'
+p17110
 sg12150
 S"University of Michigan. Men's Glee Club"
-p17077
-sg11
-g3570
+p17111
 sg12152
 S'11/01/2013'
-p17078
+p17112
 sg12154
-(lp17079
-g3565
+(lp17113
+g2868
 asg12156
-(lp17080
+(lp17114
+g2863
+asg12158
+(lp17115
 S'Musical performances'
-p17081
-assg9777
-(dp17082
-g12148
-S'1958'
-p17083
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17084
-sg11
-g9780
-sg12152
-S'6/24/2013'
-p17085
-sg12154
-(lp17086
-g9775
-asg12156
-(lp17087
-S'Lectures'
-p17088
-aS'Radio programs'
-p17089
-aS'Poetry readings'
-p17090
-assg7107
-(dp17091
-g12148
-S'1959 May 21'
-p17092
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17093
-sg11
-g7110
-sg12152
-S'6/24/2013'
-p17094
-sg12154
-(lp17095
-g7105
-asg12156
-(lp17096
-S'Lectures'
-p17097
-aS'Radio programs'
-p17098
-assg10275
-(dp17099
-g12148
-S'1957'
-p17100
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17101
-sg11
-g10278
-sg12152
-S'6/24/2013'
-p17102
-sg12154
-(lp17103
-g10273
-asg12156
-(lp17104
-S'Lectures'
-p17105
-aS'Radio programs'
-p17106
-assg255
-(dp17107
-g12148
-S'1963 May 23'
-p17108
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17109
-sg11
-g258
-sg12152
-S'6/24/2013'
-p17110
-sg12154
-(lp17111
-g253
-asg12156
-(lp17112
-S'Lectures'
-p17113
-aS'Radio programs'
-p17114
-assg9957
-(dp17115
-g12148
-S'1964 May 09'
 p17116
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17117
-sg11
-g9960
-sg12152
-S'6/24/2013'
+assg6363
+(dp17117
+g12148
+S'[Undated]'
 p17118
+sg12150
+S'University of Michigan. Alumni Association.'
+p17119
+sg12152
+S'11/01/2013'
+p17120
 sg12154
-(lp17119
-g9955
+(lp17121
+g6366
 asg12156
-(lp17120
-S'Lectures'
-p17121
-aS'Radio programs'
-p17122
-assg3663
-(dp17123
-g12148
-S'1961 June 20'
+(lp17122
+g6361
+asg12158
+(lp17123
+S'Interviews'
 p17124
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Radio programs'
 p17125
-sg11
-g3666
-sg12152
-S'6/24/2013'
+aS'Talk shows'
 p17126
-sg12154
-(lp17127
-g3661
-asg12156
-(lp17128
-S'Lectures'
+assg9375
+(dp17127
+g12148
+S'1967 September 11-29'
+p17128
+sg12150
+S'Romney, George'
 p17129
-aS'Radio programs'
+sg12152
+S'6/05/2014'
 p17130
-assg3825
-(dp17131
-g12148
-S'1962 May 23'
-p17132
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17133
-sg11
-g3828
-sg12152
-S'6/24/2013'
+sg12154
+(lp17131
+g9378
+asg12156
+(lp17132
+g9373
+ag9367
+asg12158
+(lp17133
+S'Press conferences'
 p17134
-sg12154
-(lp17135
-g3823
-asg12156
-(lp17136
-S'Lectures'
+aS'Dialogues'
+p17135
+aS'Press conferences'
+p17136
+aS'Dialogues'
 p17137
-aS'Radio programs'
-p17138
-assg3777
-(dp17139
+assg6543
+(dp17138
 g12148
-S'1965 April 15'
-p17140
+S'1967 September 11-29'
+p17139
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17141
-sg11
-g3780
+S'Romney, George'
+p17140
 sg12152
-S'6/24/2013'
-p17142
+S'6/05/2014'
+p17141
 sg12154
-(lp17143
-g3775
+(lp17142
+g6546
 asg12156
+(lp17143
+g6541
+asg12158
 (lp17144
-S'Lectures'
+S'Press conferences'
 p17145
-aS'Radio programs'
+aS'Dictation recordings'
 p17146
-assg6507
+assg3573
 (dp17147
 g12148
-S'1982 April 14'
+S'1967 September 11-29'
 p17148
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Romney, George'
 p17149
-sg11
-g6510
 sg12152
-S'6/24/2013'
+S'6/05/2014'
 p17150
 sg12154
 (lp17151
-g6505
+g3576
 asg12156
 (lp17152
-S'Lectures'
-p17153
-aS'Radio programs'
+g3571
+ag535
+asg12158
+(lp17153
+S'Press conferences'
 p17154
-assg6717
-(dp17155
+aS'Press conferences'
+p17155
+assg3255
+(dp17156
 g12148
-S'1981 November 21'
-p17156
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1967 July 24-25'
 p17157
-sg11
-g6720
-sg12152
-S'11/01/2013'
+sg12150
+S'Romney, George'
 p17158
+sg12152
+S'6/05/2014'
+p17159
 sg12154
-(lp17159
-g6715
-asg12156
 (lp17160
-S'Musical performances'
-p17161
-assg3363
-(dp17162
-g12148
-S'1981 November 21'
+g3258
+asg12156
+(lp17161
+g3253
+asg12158
+(lp17162
+S'Conferences'
 p17163
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17164
-sg11
-g3366
-sg12152
-S'11/01/2013'
+assg699
+(dp17164
+g12148
+S'1967 September 11-29'
 p17165
-sg12154
-(lp17166
-g3361
-asg12156
-(lp17167
-S'Musical performances'
-p17168
-assg633
-(dp17169
-g12148
-S'1981 November 21'
-p17170
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Romney, George'
+p17166
+sg12152
+S'6/05/2014'
+p17167
+sg12154
+(lp17168
+g702
+asg12156
+(lp17169
+g697
+ag703
+asg12158
+(lp17170
+S'Press conferences'
 p17171
-sg11
-g636
-sg12152
-S'11/01/2013'
+aS'Dictation recordings'
 p17172
-sg12154
-(lp17173
-g631
-asg12156
-(lp17174
-S'Musical performances'
-p17175
-assg7077
-(dp17176
+aS'Press conferences'
+p17173
+aS'Dictation recordings'
+p17174
+assg3375
+(dp17175
 g12148
-S'[Undated]'
+S'1967 September 11-29'
+p17176
+sg12150
+S'Romney, George'
 p17177
-sg12150
-S'Wallace, Mike'
+sg12152
+S'6/05/2014'
 p17178
-sg11
-g7080
-sg12152
-S'6/24/2013'
-p17179
 sg12154
+(lp17179
+g3378
+asg12156
 (lp17180
-g7075
-asg12156
+g3373
+ag3379
+asg12158
 (lp17181
-S'Interviews'
+S'Conferences'
 p17182
-aS'News'
+aS'Dictation recordings'
 p17183
-assg9747
-(dp17184
-g12148
-S'[Undated]'
+aS'Conferences'
+p17184
+aS'Dictation recordings'
 p17185
-sg12150
-S'Wallace, Mike'
-p17186
-sg11
-g9750
-sg12152
-S'6/24/2013'
+assg9405
+(dp17186
+g12148
+S'1967 September 11-29'
 p17187
+sg12150
+S'Romney, George'
+p17188
+sg12152
+S'6/05/2014'
+p17189
 sg12154
-(lp17188
-g9745
+(lp17190
+g9408
 asg12156
-(lp17189
-S'Interviews'
-p17190
-aS'News'
-p17191
-assg1371
-(dp17192
-g12148
-S'1983 October 25'
+(lp17191
+g9403
+ag9397
+asg12158
+(lp17192
+S'Press conferences'
 p17193
-sg12150
-S'Eclipse Jazz (University of Michigan)'
+aS'Dictation recordings'
 p17194
-sg11
-g1374
-sg12152
-S'6/05/2014'
+aS'Press conferences'
 p17195
-sg12154
-(lp17196
-g1369
-asg12156
-(lp17197
-S'Lectures'
+aS'Dictation recordings'
+p17196
+assg6789
+(dp17197
+g12148
+S'1967 September 11-29'
 p17198
-aS'Musical performances'
+sg12150
+S'Romney, George'
 p17199
-aS'Radio programs'
+sg12152
+S'6/05/2014'
 p17200
-assg3621
-(dp17201
-g12148
-S'[Undated]'
-p17202
-sg12150
-S'Wallace, Mike'
-p17203
-sg11
-g3624
-sg12152
-S'6/24/2013'
+sg12154
+(lp17201
+g6792
+asg12156
+(lp17202
+g6787
+ag4525
+asg12158
+(lp17203
+S'Press conferences'
 p17204
-sg12154
-(lp17205
-g3619
-asg12156
-(lp17206
-S'Television'
+aS'Press conferences'
+p17205
+assg9999
+(dp17206
+g12148
+S'1962 October 17'
 p17207
-assg915
-(dp17208
-g12148
-S'[Undated]'
+sg12150
+S'Romney, George'
+p17208
+sg12152
+S'6/05/2014'
 p17209
-sg12150
-S'Wallace, Mike'
-p17210
-sg11
-g918
-sg12152
-S'6/24/2013'
-p17211
 sg12154
+(lp17210
+g10002
+asg12156
+(lp17211
+g9997
+asg12158
 (lp17212
-g913
-asg12156
-(lp17213
-S'Interviews'
+S'Debates'
+p17213
+aS'Television'
 p17214
-aS'News'
-p17215
-assg10245
-(dp17216
+assg747
+(dp17215
 g12148
-S'1939 February 07'
+S'1963 February 26'
+p17216
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17217
-sg12150
-S'Wallace, Mike'
+sg12152
+S'6/24/2013'
 p17218
-sg11
-g10248
-sg12152
-S'6/24/2013'
-p17219
 sg12154
+(lp17219
+g750
+asg12156
 (lp17220
-g10243
-asg12156
+g745
+asg12158
 (lp17221
-S'Radio programs'
-p17222
-assg351
-(dp17223
-g12148
-S'1957 September 07'
-p17224
-sg12150
-S'Wallace, Mike'
-p17225
-sg11
-g354
-sg12152
-S'6/24/2013'
-p17226
-sg12154
-(lp17227
-g349
-ag787
-ag343
-asg12156
-(lp17228
-S'Dialogues'
-p17229
-aS'Dialogues'
-p17230
-aS'Dialogues'
-p17231
-assg8115
-(dp17232
-g12148
-S'1956 July 14'
-p17233
-sg12150
-S'Brucker, Wilber Marion'
-p17234
-sg11
-g8118
-sg12152
-S'11/01/2013'
-p17235
-sg12154
-(lp17236
-g8113
-asg12156
-(lp17237
 S'Addresses'
-p17238
-aS'Meetings'
-p17239
-aS'Dinners'
+p17222
+aS'Radio programs'
+p17223
+aS'Dedications (ceremonies)'
+p17224
+assg10599
+(dp17225
+g12148
+S'1976 December 14'
+p17226
+sg12150
+S'Bentley Historical Library'
+p17227
+sg12152
+S'6/05/2014'
+p17228
+sg12154
+(lp17229
+g10602
+asg12156
+(lp17230
+g10597
+asg12158
+(lp17231
+S'Radio programs'
+p17232
+assg1377
+(dp17233
+g12148
+S'1979 November 13'
+p17234
+sg12150
+S'Bentley Historical Library'
+p17235
+sg12152
+S'6/05/2014'
+p17236
+sg12154
+(lp17237
+g1380
+asg12156
+(lp17238
+g1375
+asg12158
+(lp17239
+S'Addresses'
 p17240
-assg8085
-(dp17241
+aS'Lectures'
+p17241
+assg1359
+(dp17242
 g12148
-S'1968 March 23'
-p17242
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1954 August 09'
 p17243
-sg11
-g8088
-sg12152
-S'11/01/2013'
+sg12150
+S'Cushing, George'
 p17244
-sg12154
-(lp17245
-g8083
-asg12156
-(lp17246
-S'Musical performances'
-p17247
-assg10785
-(dp17248
-g12148
-S'1976 April 13'
-p17249
-sg12150
-S'Bassett, Leslie'
-p17250
-sg11
-g10788
 sg12152
-S'6/05/2014'
-p17251
+S'2/25/2015'
+p17245
 sg12154
-(lp17252
-g10783
-ag10777
+(lp17246
+g1362
 asg12156
-(lp17253
-S'Musical performances'
-p17254
-aS'Musical performances'
-p17255
-assg1821
-(dp17256
+(lp17247
+g1357
+asg12158
+(lp17248
+S'Radio programs'
+p17249
+aS'Talk shows'
+p17250
+assg10239
+(dp17251
 g12148
-S'1968 March 23'
-p17257
+S'[Undated]'
+p17252
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Detroit Urban League'
+p17253
+sg12152
+S'6/24/2013'
+p17254
+sg12154
+(lp17255
+g10242
+asg12156
+(lp17256
+g10237
+asg12158
+(lp17257
+S'Addresses'
 p17258
-sg11
-g1824
+assg1881
+(dp17259
+g12148
+S'[Undated]'
+p17260
+sg12150
+S'Cacioppo, George'
+p17261
+sg12152
+S'2/25/2015'
+p17262
+sg12154
+(lp17263
+g1884
+asg12156
+(lp17264
+g1879
+asg12158
+(lp17265
+S'Musical performances'
+p17266
+assg3423
+(dp17267
+g12148
+S'1965 July 24'
+p17268
+sg12150
+S'Cacioppo, George'
+p17269
+sg12152
+S'2/25/2015'
+p17270
+sg12154
+(lp17271
+g3426
+asg12156
+(lp17272
+g3421
+asg12158
+(lp17273
+S'Musical performances'
+p17274
+assg5229
+(dp17275
+g12148
+S'1980 February 23'
+p17276
+sg12150
+S'Cacioppo, George'
+p17277
+sg12152
+S'2/25/2015'
+p17278
+sg12154
+(lp17279
+g5232
+asg12156
+(lp17280
+g5227
+asg12158
+(lp17281
+S'Musical performances'
+p17282
+assg7929
+(dp17283
+g12148
+S'[Undated]'
+p17284
+sg12150
+S'Cacioppo, George'
+p17285
+sg12152
+S'2/25/2015'
+p17286
+sg12154
+(lp17287
+g7932
+asg12156
+(lp17288
+g7927
+asg12158
+(lp17289
+S'Musical performances'
+p17290
+assg10665
+(dp17291
+g12148
+S'[Undated]'
+p17292
+sg12150
+S'Cacioppo, George'
+p17293
+sg12152
+S'2/25/2015'
+p17294
+sg12154
+(lp17295
+g10668
+asg12156
+(lp17296
+g10663
+asg12158
+(lp17297
+S'Musical performances'
+p17298
+assg5163
+(dp17299
+g12148
+S'1969 May 16'
+p17300
+sg12150
+S'Cacioppo, George'
+p17301
+sg12152
+S'2/25/2015'
+p17302
+sg12154
+(lp17303
+g5166
+asg12156
+(lp17304
+g5161
+asg12158
+(lp17305
+S'Musical performances'
+p17306
+assg11367
+(dp17307
+g12148
+S'1979 March 15'
+p17308
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17309
+sg12152
+S'6/24/2013'
+p17310
+sg12154
+(lp17311
+g11370
+ag11364
+asg12156
+(lp17312
+g11365
+ag11359
+asg12158
+(lp17313
+S'Radio programs'
+p17314
+aS'Poetry readings'
+p17315
+aS'Radio programs'
+p17316
+aS'Poetry readings'
+p17317
+assg1665
+(dp17318
+g12148
+S'[Undated]'
+p17319
+sg12150
+S'Cacioppo, George'
+p17320
+sg12152
+S'2/25/2015'
+p17321
+sg12154
+(lp17322
+g1668
+asg12156
+(lp17323
+g1663
+asg12158
+(lp17324
+S'Musical performances'
+p17325
+assg8583
+(dp17326
+g12148
+S'1965 September 17'
+p17327
+sg12150
+S'Alternative Perspectives on Vietnam'
+p17328
 sg12152
 S'11/01/2013'
-p17259
-sg12154
-(lp17260
-g1819
-asg12156
-(lp17261
-S'Musical performances'
-p17262
-assg4635
-(dp17263
-g12148
-S'1962 July 05, 1962 June 20'
-p17264
-sg12150
-S'Bassett, Leslie'
-p17265
-sg11
-g4638
-sg12152
-S'6/05/2014'
-p17266
-sg12154
-(lp17267
-g4633
-asg12156
-(lp17268
-S'Musical performances'
-p17269
-assg1809
-(dp17270
-g12148
-S'1949 March 05, 1968 April 16, August 01, 1972 February 09'
-p17271
-sg12150
-S'Bassett, Leslie'
-p17272
-sg11
-g1812
-sg12152
-S'6/05/2014'
-p17273
-sg12154
-(lp17274
-g1807
-ag1813
-asg12156
-(lp17275
-S'Musical performances'
-p17276
-aS'Musical performances'
-p17277
-assg8361
-(dp17278
-g12148
-S'1967 September 11-29'
-p17279
-sg12150
-S'Romney, George'
-p17280
-sg11
-g8364
-sg12152
-S'6/05/2014'
-p17281
-sg12154
-(lp17282
-g8359
-ag8377
-asg12156
-(lp17283
-S'Press conferences'
-p17284
-aS'Press conferences'
-p17285
-assg8367
-(dp17286
-g12148
-S'[Undated]'
-p17287
-sg12150
-S'Crane, Henry Hitt'
-p17288
-sg11
-g8370
-sg12152
-S'6/24/2013'
-p17289
-sg12154
-(lp17290
-g8365
-ag607
-asg12156
-(lp17291
-S'Sermons'
-p17292
-aS'Sermons'
-p17293
-assg2121
-(dp17294
-g12148
-S'[Undated]'
-p17295
-sg12150
-S'Crane, Henry Hitt'
-p17296
-sg11
-g2124
-sg12152
-S'6/24/2013'
-p17297
-sg12154
-(lp17298
-g2119
-ag2113
-asg12156
-(lp17299
-S'Sermons'
-p17300
-aS'Sermons'
-p17301
-assg4857
-(dp17302
-g12148
-S'[Undated]'
-p17303
-sg12150
-S'Crane, Henry Hitt'
-p17304
-sg11
-g4860
-sg12152
-S'6/24/2013'
-p17305
-sg12154
-(lp17306
-g4855
-ag4837
-asg12156
-(lp17307
-S'Sermons'
-p17308
-aS'Sermons'
-p17309
-assg4299
-(dp17310
-g12148
-S'1967 September 11-29'
-p17311
-sg12150
-S'Romney, George'
-p17312
-sg11
-g4302
-sg12152
-S'6/05/2014'
-p17313
-sg12154
-(lp17314
-g4297
-ag1525
-ag11437
-asg12156
-(lp17315
-S'Press conferences'
-p17316
-aS'Dictation recordings'
-p17317
-aS'Press conferences'
-p17318
-aS'Dictation recordings'
-p17319
-aS'Press conferences'
-p17320
-aS'Dictation recordings'
-p17321
-assg4305
-(dp17322
-g12148
-S'[Undated]'
-p17323
-sg12150
-S'Crane, Henry Hitt'
-p17324
-sg11
-g4308
-sg12152
-S'6/24/2013'
-p17325
-sg12154
-(lp17326
-g4303
-ag4309
-ag11431
-asg12156
-(lp17327
-S'Sermons'
-p17328
-aS'Dialogues'
 p17329
-aS'Sermons'
-p17330
-aS'Dialogues'
-p17331
-aS'Sermons'
-p17332
-aS'Dialogues'
-p17333
-assg4803
-(dp17334
-g12148
-S'1967 September 11-29'
-p17335
-sg12150
-S'Romney, George'
-p17336
-sg11
-g4806
-sg12152
-S'6/05/2014'
-p17337
 sg12154
-(lp17338
-g4801
-ag49
-ag55
-ag61
+(lp17330
+g8586
 asg12156
+(lp17331
+g8581
+asg12158
+(lp17332
+S'Addresses'
+p17333
+aS'Conferences'
+p17334
+assg5859
+(dp17335
+g12148
+S'1965 September 17'
+p17336
+sg12150
+S'Alternative Perspectives on Vietnam'
+p17337
+sg12152
+S'11/01/2013'
+p17338
+sg12154
 (lp17339
-S'Press conferences'
-p17340
-aS'Press conferences'
-p17341
-aS'Press conferences'
+g5862
+asg12156
+(lp17340
+g5857
+asg12158
+(lp17341
+S'Addresses'
 p17342
-aS'Press conferences'
+aS'Conferences'
 p17343
-assg5469
+assg5313
 (dp17344
 g12148
-S'1967 September 11-29'
+S'1965 September 17'
 p17345
 sg12150
-S'Romney, George'
+S'Alternative Perspectives on Vietnam'
 p17346
-sg11
-g5472
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p17347
 sg12154
 (lp17348
-g5467
-ag5461
+g5316
 asg12156
 (lp17349
-S'Press conferences'
-p17350
-aS'Press conferences'
-p17351
-assg8619
-(dp17352
-g12148
-S'1967 September 11-29'
-p17353
-sg12150
-S'Romney, George'
-p17354
-sg11
-g8622
-sg12152
-S'6/05/2014'
-p17355
-sg12154
-(lp17356
-g8617
-ag8623
-asg12156
-(lp17357
-S'Press conferences'
-p17358
-aS'Press conferences'
-p17359
-assg11067
-(dp17360
-g12148
-S'1967 September 11-29'
-p17361
-sg12150
-S'Romney, George'
-p17362
-sg11
-g11070
-sg12152
-S'6/05/2014'
-p17363
-sg12154
-(lp17364
-g11065
-ag11071
-asg12156
-(lp17365
-S'Press conferences'
-p17366
-aS'Press conferences'
-p17367
-assg8409
-(dp17368
-g12148
-S'1963 February 19'
-p17369
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17370
-sg11
-g8412
-sg12152
-S'6/24/2013'
-p17371
-sg12154
-(lp17372
-g8407
-asg12156
-(lp17373
-S'Radio programs'
-p17374
-aS'Poetry readings'
-p17375
-assg8499
-(dp17376
-g12148
-S'1966 January 13'
-p17377
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17378
-sg11
-g8502
-sg12152
-S'6/24/2013'
-p17379
-sg12154
-(lp17380
-g8497
-asg12156
-(lp17381
-S'Oral Histories'
-p17382
-aS'Radio programs'
-p17383
-aS'Documentaries'
-p17384
-assg2745
-(dp17385
-g12148
-S'1960 November 05'
-p17386
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17387
-sg11
-g2748
-sg12152
-S'11/01/2013'
-p17388
-sg12154
-(lp17389
-g2743
-asg12156
-(lp17390
-S'Musical performances'
-p17391
-assg5715
-(dp17392
-g12148
-S'1954 April 29'
-p17393
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17394
-sg11
-g5718
-sg12152
-S'6/24/2013'
-p17395
-sg12154
-(lp17396
-g5713
-asg12156
-(lp17397
-S'Radio programs'
-p17398
-aS'Poetry readings'
-p17399
-assg9261
-(dp17400
-g12148
-S'1958 July 16'
-p17401
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17402
-sg11
-g9264
-sg12152
-S'11/01/2013'
-p17403
-sg12154
-(lp17404
-g9259
-asg12156
-(lp17405
-S'Musical performances'
-p17406
-assg6201
-(dp17407
-g12148
-S'1958 July 16'
-p17408
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17409
-sg11
-g6204
-sg12152
-S'11/01/2013'
-p17410
-sg12154
-(lp17411
-g6199
-asg12156
-(lp17412
-S'Musical performances'
-p17413
-assg9363
-(dp17414
-g12148
-S'1983 November 22'
-p17415
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p17416
-sg11
-g9366
-sg12152
-S'6/05/2014'
-p17417
-sg12154
-(lp17418
-g9361
-asg12156
-(lp17419
-S'Lectures'
-p17420
-aS'Musical performances'
-p17421
-aS'Radio programs'
-p17422
-assg5865
-(dp17423
-g12148
-S'1984 April 14'
-p17424
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17425
-sg11
-g5868
-sg12152
-S'11/01/2013'
-p17426
-sg12154
-(lp17427
-g5863
-asg12156
-(lp17428
-S'Musical performances'
-p17429
-assg7587
-(dp17430
-g12148
-S'1969 March 29'
-p17431
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17432
-sg11
-g7590
-sg12152
-S'11/01/2013'
-p17433
-sg12154
-(lp17434
-g7585
-ag7591
-asg12156
-(lp17435
-S'Musical performances'
-p17436
-aS'Musical performances'
-p17437
-assg8403
-(dp17438
-g12148
-S'1969 March 29'
-p17439
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17440
-sg11
-g8406
-sg12152
-S'11/01/2013'
-p17441
-sg12154
-(lp17442
-g8401
-ag8395
-asg12156
-(lp17443
-S'Musical performances'
-p17444
-aS'Musical performances'
-p17445
-assg7557
-(dp17446
-g12148
-S'1956 November 10'
-p17447
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17448
-sg11
-g7560
-sg12152
-S'11/01/2013'
-p17449
-sg12154
-(lp17450
-g7555
-asg12156
-(lp17451
-S'Musical performances'
-p17452
-assg573
-(dp17453
-g12148
-S'1962'
-p17454
-sg12150
-S'Romney, George'
-p17455
-sg11
-g576
-sg12152
-S'6/05/2014'
-p17456
-sg12154
-(lp17457
-g571
-asg12156
-(lp17458
-S'Interviews'
-p17459
-aS'Radio programs'
-p17460
-assg3285
-(dp17461
-g12148
-S'1962'
-p17462
-sg12150
-S'Romney, George'
-p17463
-sg11
-g3288
-sg12152
-S'6/05/2014'
-p17464
-sg12154
-(lp17465
-g3283
-asg12156
-(lp17466
-S'Interviews'
-p17467
-aS'Radio programs'
-p17468
-assg6651
-(dp17469
-g12148
-S'1965 October 06'
-p17470
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17471
-sg11
-g6654
-sg12152
-S'11/01/2013'
-p17472
-sg12154
-(lp17473
-g6649
-asg12156
-(lp17474
-S'Musical performances'
-p17475
-assg4353
-(dp17476
-g12148
-S'1963 June 08'
-p17477
-sg12150
-S'Cacioppo, George'
-p17478
-sg11
-g4356
-sg12152
-S'2/25/2015'
-p17479
-sg12154
-(lp17480
-g4351
-asg12156
-(lp17481
-S'Musical performances'
-p17482
-assg3357
-(dp17483
-g12148
-S'1976 April 08'
-p17484
-sg12150
-S'Cacioppo, George'
-p17485
-sg11
-g3360
-sg12152
-S'2/25/2015'
-p17486
-sg12154
-(lp17487
-g3355
-asg12156
-(lp17488
-S'Musical performances'
-p17489
-assg6243
-(dp17490
-g12148
-S'1963-1964'
-p17491
-sg12150
-S'Cacioppo, George'
-p17492
-sg11
-g6246
-sg12152
-S'2/25/2015'
-p17493
-sg12154
-(lp17494
-g6241
-asg12156
-(lp17495
+g5311
+asg12158
+(lp17350
 S'Addresses'
-p17496
-assg2325
-(dp17497
+p17351
+aS'Conferences'
+p17352
+assg2619
+(dp17353
 g12148
-S'1965 February 12'
-p17498
+S'1965 September 17'
+p17354
 sg12150
-S'Cacioppo, George'
-p17499
-sg11
-g2328
+S'Alternative Perspectives on Vietnam'
+p17355
+sg12152
+S'11/01/2013'
+p17356
+sg12154
+(lp17357
+g2622
+asg12156
+(lp17358
+g2617
+asg12158
+(lp17359
+S'Addresses'
+p17360
+aS'Conferences'
+p17361
+assg8943
+(dp17362
+g12148
+S'1965 September 17'
+p17363
+sg12150
+S'Alternative Perspectives on Vietnam'
+p17364
+sg12152
+S'11/01/2013'
+p17365
+sg12154
+(lp17366
+g8946
+asg12156
+(lp17367
+g8941
+asg12158
+(lp17368
+S'Addresses'
+p17369
+aS'Conferences'
+p17370
+assg1539
+(dp17371
+g12148
+S'1965 September 17'
+p17372
+sg12150
+S'Alternative Perspectives on Vietnam'
+p17373
+sg12152
+S'11/01/2013'
+p17374
+sg12154
+(lp17375
+g1542
+asg12156
+(lp17376
+g1537
+asg12158
+(lp17377
+S'Addresses'
+p17378
+aS'Conferences'
+p17379
+assg11463
+(dp17380
+g12148
+S'1965'
+p17381
+sg12150
+S'Welliver, Harry B.'
+p17382
+sg12152
+S'6/24/2013'
+p17383
+sg12154
+(lp17384
+g11466
+asg12156
+(lp17385
+g11461
+asg12158
+(lp17386
+S'Oral Histories'
+p17387
+aS'Musical performances'
+p17388
+aS'Poetry readings'
+p17389
+aS'Folklore'
+p17390
+assg1683
+(dp17391
+g12148
+S'1965 May'
+p17392
+sg12150
+S'Welliver, Harry B.'
+p17393
+sg12152
+S'6/24/2013'
+p17394
+sg12154
+(lp17395
+g1686
+asg12156
+(lp17396
+g1681
+asg12158
+(lp17397
+S'Oral Histories'
+p17398
+aS'Musical performances'
+p17399
+aS'Interviews'
+p17400
+aS'Poetry readings'
+p17401
+assg8163
+(dp17402
+g12148
+S'1965 May'
+p17403
+sg12150
+S'Welliver, Harry B.'
+p17404
+sg12152
+S'6/24/2013'
+p17405
+sg12154
+(lp17406
+g8166
+asg12156
+(lp17407
+g8161
+asg12158
+(lp17408
+S'Oral Histories'
+p17409
+aS'Musical performances'
+p17410
+assg9051
+(dp17411
+g12148
+S'1965 February 08'
+p17412
+sg12150
+S'Welliver, Harry B.'
+p17413
+sg12152
+S'6/24/2013'
+p17414
+sg12154
+(lp17415
+g9054
+asg12156
+(lp17416
+g9049
+asg12158
+(lp17417
+S'Musical performances'
+p17418
+aS'Interviews'
+p17419
+aS'Radio programs'
+p17420
+aS'Talk shows'
+p17421
+assg11217
+(dp17422
+g12148
+S'1965 May 25'
+p17423
+sg12150
+S'Welliver, Harry B.'
+p17424
+sg12152
+S'6/24/2013'
+p17425
+sg12154
+(lp17426
+g11220
+asg12156
+(lp17427
+g11215
+asg12158
+(lp17428
+S'Oral Histories'
+p17429
+aS'Musical performances'
+p17430
+assg7983
+(dp17431
+g12148
+S'1965 May'
+p17432
+sg12150
+S'Welliver, Harry B.'
+p17433
+sg12152
+S'6/24/2013'
+p17434
+sg12154
+(lp17435
+g7986
+asg12156
+(lp17436
+g7981
+asg12158
+(lp17437
+S'Oral Histories'
+p17438
+aS'Musical performances'
+p17439
+assg5289
+(dp17440
+g12148
+S'1965'
+p17441
+sg12150
+S'Welliver, Harry B.'
+p17442
+sg12152
+S'6/24/2013'
+p17443
+sg12154
+(lp17444
+g5292
+asg12156
+(lp17445
+g5287
+asg12158
+(lp17446
+S'Oral Histories'
+p17447
+aS'Musical performances'
+p17448
+assg5589
+(dp17449
+g12148
+S'[Undated], 1960'
+p17450
+sg12150
+S'University of Michigan. Alumni Association.'
+p17451
+sg12152
+S'11/01/2013'
+p17452
+sg12154
+(lp17453
+g5592
+asg12156
+(lp17454
+g5587
+asg12158
+(lp17455
+S'Interviews'
+p17456
+aS'Radio programs'
+p17457
+aS'Documentaries'
+p17458
+aS'Talk shows'
+p17459
+assg11571
+(dp17460
+g12148
+S'1956 October 08'
+p17461
+sg12150
+S'Hartwick, Edward N.'
+p17462
 sg12152
 S'2/25/2015'
-p17500
+p17463
 sg12154
-(lp17501
-g2323
+(lp17464
+g11574
 asg12156
-(lp17502
-S'Musical performances'
-p17503
-aS'Interviews'
-p17504
-assg9513
-(dp17505
+(lp17465
+g11569
+asg12158
+(lp17466
+S'Addresses'
+p17467
+assg4521
+(dp17468
 g12148
-S'1962'
-p17506
+S'1956 March 10'
+p17469
 sg12150
-S'Romney, George'
-p17507
-sg11
-g9516
+S'Hartwick, Edward N.'
+p17470
 sg12152
-S'6/05/2014'
-p17508
+S'2/25/2015'
+p17471
 sg12154
-(lp17509
-g9511
+(lp17472
+g4524
 asg12156
-(lp17510
-S'Interviews'
-p17511
-aS'Radio programs'
-p17512
-assg6699
-(dp17513
+(lp17473
+g4519
+ag9079
+asg12158
+(lp17474
+S'Conferences'
+p17475
+aS'Conferences'
+p17476
+assg6135
+(dp17477
+g12148
+S'1956 March 10'
+p17478
+sg12150
+S'Hartwick, Edward N.'
+p17479
+sg12152
+S'2/25/2015'
+p17480
+sg12154
+(lp17481
+g6138
+asg12156
+(lp17482
+g6133
+ag6127
+asg12158
+(lp17483
+S'Conferences'
+p17484
+aS'Conferences'
+p17485
+assg8961
+(dp17486
+g12148
+S'1956 January 20'
+p17487
+sg12150
+S'Hartwick, Edward N.'
+p17488
+sg12152
+S'2/25/2015'
+p17489
+sg12154
+(lp17490
+g8964
+asg12156
+(lp17491
+g8959
+asg12158
+(lp17492
+S'Addresses'
+p17493
+assg717
+(dp17494
+g12148
+S'1968 March 19'
+p17495
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17496
+sg12152
+S'6/24/2013'
+p17497
+sg12154
+(lp17498
+g720
+asg12156
+(lp17499
+g715
+asg12158
+(lp17500
+S'Radio programs'
+p17501
+assg4281
+(dp17502
 g12148
 S'[Undated]'
-p17514
+p17503
 sg12150
-S'Romney, George'
-p17515
-sg11
-g6702
+S'Interlochen Center for the Arts.'
+p17504
 sg12152
-S'6/05/2014'
-p17516
+S'6/24/2013'
+p17505
 sg12154
-(lp17517
-g6697
+(lp17506
+g4284
 asg12156
+(lp17507
+g4279
+asg12158
+(lp17508
+S'Interviews'
+p17509
+aS'Radio programs'
+p17510
+aS'Talk shows'
+p17511
+assg6915
+(dp17512
+g12148
+S'[Undated]'
+p17513
+sg12150
+S'Interlochen Center for the Arts.'
+p17514
+sg12152
+S'6/24/2013'
+p17515
+sg12154
+(lp17516
+g6918
+asg12156
+(lp17517
+g6913
+asg12158
 (lp17518
 S'Interviews'
 p17519
 aS'Radio programs'
 p17520
-assg4203
-(dp17521
-g12148
-S'1947 October 26'
-p17522
-sg12150
-S'Cushing, George'
-p17523
-sg11
-g4206
-sg12152
-S'2/25/2015'
-p17524
-sg12154
-(lp17525
-g4201
-asg12156
-(lp17526
-S'Radio programs'
-p17527
 aS'Talk shows'
-p17528
-assg11901
-(dp17529
-g12148
-S'1975 November 22'
-p17530
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17531
-sg11
-g11904
-sg12152
-S'11/01/2013'
-p17532
-sg12154
-(lp17533
-g11899
-ag11893
-asg12156
-(lp17534
-S'Musical performances'
-p17535
-aS'Musical performances'
-p17536
-assg6867
-(dp17537
-g12148
-S'1947 November 02'
-p17538
-sg12150
-S'Cushing, George'
-p17539
-sg11
-g6870
-sg12152
-S'2/25/2015'
-p17540
-sg12154
-(lp17541
-g6865
-asg12156
-(lp17542
-S'Radio programs'
-p17543
-aS'Talk shows'
-p17544
-assg9831
-(dp17545
-g12148
-S'1947 October 12'
-p17546
-sg12150
-S'Cushing, George'
-p17547
-sg11
-g9834
-sg12152
-S'2/25/2015'
-p17548
-sg12154
-(lp17549
-g9829
-asg12156
-(lp17550
-S'Radio programs'
-p17551
-aS'Talk shows'
-p17552
-assg7017
-(dp17553
-g12148
-S'1961 November 01'
-p17554
-sg12150
-S'Hart, Philip A.'
-p17555
-sg11
-g7020
-sg12152
-S'11/01/2013'
-p17556
-sg12154
-(lp17557
-g7015
-asg12156
-(lp17558
-S'Interviews'
-p17559
-aS'Radio programs'
-p17560
-aS'Talk shows'
-p17561
-assg765
-(dp17562
-g12148
-S'1947 September 04'
-p17563
-sg12150
-S'Cushing, George'
-p17564
-sg11
-g768
-sg12152
-S'2/25/2015'
-p17565
-sg12154
-(lp17566
-g763
-asg12156
-(lp17567
-S'Radio programs'
-p17568
-aS'Talk shows'
-p17569
-assg2073
-(dp17570
-g12148
-S'1983 October 18'
-p17571
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p17572
-sg11
-g2076
-sg12152
-S'6/05/2014'
-p17573
-sg12154
-(lp17574
-g2071
-asg12156
-(lp17575
-S'Lectures'
-p17576
-aS'Musical performances'
-p17577
-aS'Radio programs'
-p17578
-assg8337
-(dp17579
-g12148
-S'1983 October 18'
-p17580
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p17581
-sg11
-g8340
-sg12152
-S'6/05/2014'
-p17582
-sg12154
-(lp17583
-g8335
-asg12156
-(lp17584
-S'Lectures'
-p17585
-aS'Musical performances'
-p17586
-aS'Radio programs'
-p17587
-assg8343
-(dp17588
-g12148
-S'1958 May 10'
-p17589
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17590
-sg11
-g8346
-sg12152
-S'11/01/2013'
-p17591
-sg12154
-(lp17592
-g8341
-asg12156
-(lp17593
-S'Musical performances'
-p17594
-assg1803
-(dp17595
+p17521
+assg1281
+(dp17522
 g12148
 S'[Undated]'
+p17523
+sg12150
+S'Interlochen Center for the Arts.'
+p17524
+sg12152
+S'6/24/2013'
+p17525
+sg12154
+(lp17526
+g1284
+asg12156
+(lp17527
+g1279
+asg12158
+(lp17528
+S'Interviews'
+p17529
+assg7479
+(dp17530
+g12148
+S'[Undated]'
+p17531
+sg12150
+S'Interlochen Center for the Arts.'
+p17532
+sg12152
+S'6/24/2013'
+p17533
+sg12154
+(lp17534
+g7482
+asg12156
+(lp17535
+g7477
+asg12158
+(lp17536
+S'Interviews'
+p17537
+assg11271
+(dp17538
+g12148
+S'[Undated]'
+p17539
+sg12150
+S'Interlochen Center for the Arts.'
+p17540
+sg12152
+S'6/24/2013'
+p17541
+sg12154
+(lp17542
+g11274
+asg12156
+(lp17543
+g11269
+ag11263
+asg12158
+(lp17544
+S'Interviews'
+p17545
+aS'Interviews'
+p17546
+assg3447
+(dp17547
+g12148
+S'1922 March'
+p17548
+sg12150
+S'Interlochen Center for the Arts.'
+p17549
+sg12152
+S'6/24/2013'
+p17550
+sg12154
+(lp17551
+g3450
+asg12156
+(lp17552
+g3445
+asg12158
+(lp17553
+S'Musical performances'
+p17554
+assg957
+(dp17555
+g12148
+S'1922'
+p17556
+sg12150
+S'Interlochen Center for the Arts.'
+p17557
+sg12152
+S'6/24/2013'
+p17558
+sg12154
+(lp17559
+g960
+asg12156
+(lp17560
+g955
+asg12158
+(lp17561
+S'Musical performances'
+p17562
+assg5841
+(dp17563
+g12148
+S'1970 January 30'
+p17564
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17565
+sg12152
+S'6/24/2013'
+p17566
+sg12154
+(lp17567
+g5844
+ag5850
+ag5856
+asg12156
+(lp17568
+g5839
+ag5845
+ag5851
+asg12158
+(lp17569
+S'Addresses'
+p17570
+aS'Radio programs'
+p17571
+aS'Addresses'
+p17572
+aS'Radio programs'
+p17573
+aS'Addresses'
+p17574
+aS'Radio programs'
+p17575
+assg11241
+(dp17576
+g12148
+S'1972 October 10'
+p17577
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17578
+sg12152
+S'6/24/2013'
+p17579
+sg12154
+(lp17580
+g11244
+asg12156
+(lp17581
+g11239
+asg12158
+(lp17582
+S'Addresses'
+p17583
+aS'Radio programs'
+p17584
+aS'Poetry readings'
+p17585
+assg5265
+(dp17586
+g12148
+S'1959 July 20'
+p17587
+sg12150
+S'Staebler, Neil'
+p17588
+sg12152
+S'2/25/2015'
+p17589
+sg12154
+(lp17590
+g5268
+asg12156
+(lp17591
+g5263
+ag5269
+asg12158
+(lp17592
+S'Addresses'
+p17593
+aS'Addresses'
+p17594
+assg9027
+(dp17595
+g12148
+S'1954 August'
 p17596
 sg12150
-S'Cacioppo, George'
+S'Staebler, Neil'
 p17597
-sg11
-g1806
 sg12152
 S'2/25/2015'
 p17598
 sg12154
 (lp17599
-g1801
+g9030
 asg12156
 (lp17600
-S'Musical performances'
-p17601
-assg11403
-(dp17602
+g9025
+asg12158
+(lp17601
+S'Debates'
+p17602
+assg11253
+(dp17603
 g12148
-S'[Undated]'
-p17603
-sg12150
-S'Cacioppo, George'
+S'1959 July 20'
 p17604
-sg11
-g11406
-sg12152
-S'2/25/2015'
+sg12150
+S'Staebler, Neil'
 p17605
+sg12152
+S'2/25/2015'
+p17606
 sg12154
-(lp17606
-g11401
-asg12156
 (lp17607
-S'Musical performances'
-p17608
-assg5439
-(dp17609
-g12148
-S'[Undated]'
+g11256
+asg12156
+(lp17608
+g11251
+ag7135
+asg12158
+(lp17609
+S'Addresses'
 p17610
-sg12150
-S'Cacioppo, George'
+aS'Addresses'
 p17611
-sg11
-g5442
+assg8925
+(dp17612
+g12148
+S'1959 July 20'
+p17613
+sg12150
+S'Staebler, Neil'
+p17614
 sg12152
 S'2/25/2015'
-p17612
-sg12154
-(lp17613
-g5437
-asg12156
-(lp17614
-S'Musical performances'
 p17615
-assg8151
-(dp17616
-g12148
-S'[Undated]'
-p17617
-sg12150
-S'Cacioppo, George'
-p17618
-sg11
-g8154
-sg12152
-S'2/25/2015'
+sg12154
+(lp17616
+g8928
+asg12156
+(lp17617
+g8923
+asg12158
+(lp17618
+S'Addresses'
 p17619
-sg12154
-(lp17620
-g8149
-asg12156
-(lp17621
-S'Musical performances'
+assg9123
+(dp17620
+g12148
+S'1950 July 23'
+p17621
+sg12150
+S'Cushing, George'
 p17622
-assg4581
-(dp17623
-g12148
-S'[Undated]'
-p17624
-sg12150
-S'Cacioppo, George'
-p17625
-sg11
-g4584
 sg12152
 S'2/25/2015'
-p17626
+p17623
 sg12154
-(lp17627
-g4579
+(lp17624
+g9126
 asg12156
-(lp17628
-S'Musical performances'
-p17629
-assg8091
-(dp17630
+(lp17625
+g9121
+asg12158
+(lp17626
+S'Radio programs'
+p17627
+aS'Talk shows'
+p17628
+assg2835
+(dp17629
 g12148
-S'[Undated]'
+S'1950 October 29'
+p17630
+sg12150
+S'Cushing, George'
 p17631
-sg12150
-S'Cacioppo, George'
+sg12152
+S'2/25/2015'
 p17632
-sg11
-g8094
-sg12152
-S'2/25/2015'
-p17633
 sg12154
+(lp17633
+g2838
+asg12156
 (lp17634
-g8089
-asg12156
+g2833
+asg12158
 (lp17635
-S'Musical performances'
+S'Radio programs'
 p17636
-assg8283
-(dp17637
+aS'Talk shows'
+p17637
+assg195
+(dp17638
 g12148
-S'[Undated]'
-p17638
-sg12150
-S'Cacioppo, George'
+S'1950 October 22'
 p17639
-sg11
-g8286
-sg12152
-S'2/25/2015'
+sg12150
+S'Cushing, George'
 p17640
+sg12152
+S'2/25/2015'
+p17641
 sg12154
-(lp17641
-g8281
-ag283
-asg12156
 (lp17642
-S'Musical performances'
-p17643
-aS'Musical performances'
-p17644
-assg1461
-(dp17645
-g12148
-S'[Undated]'
+g198
+asg12156
+(lp17643
+g193
+asg12158
+(lp17644
+S'Radio programs'
+p17645
+aS'Talk shows'
 p17646
-sg12150
-S'Cacioppo, George'
-p17647
-sg11
-g1464
-sg12152
-S'2/25/2015'
+assg9243
+(dp17647
+g12148
+S'1950 May 21'
 p17648
-sg12154
-(lp17649
-g1459
-asg12156
-(lp17650
-S'Musical performances'
-p17651
-assg10989
-(dp17652
-g12148
-S'[Undated]'
-p17653
 sg12150
-S'Cacioppo, George'
-p17654
-sg11
-g10992
+S'Cushing, George'
+p17649
 sg12152
 S'2/25/2015'
+p17650
+sg12154
+(lp17651
+g9246
+asg12156
+(lp17652
+g9241
+asg12158
+(lp17653
+S'Radio programs'
+p17654
+aS'Talk shows'
 p17655
-sg12154
-(lp17656
-g10987
-asg12156
-(lp17657
-S'Musical performances'
+assg2997
+(dp17656
+g12148
+S'1950 July 02'
+p17657
+sg12150
+S'Cushing, George'
 p17658
-assg10899
-(dp17659
-g12148
-S'1961 November 08, 1964 April 24'
-p17660
-sg12150
-S'Kramer, Arthur W.'
-p17661
-sg11
-g10902
 sg12152
-S'6/05/2014'
-p17662
+S'2/25/2015'
+p17659
 sg12154
-(lp17663
-g10897
-ag10891
+(lp17660
+g3000
 asg12156
-(lp17664
-S'Addresses'
-p17665
-aS'Addresses'
+(lp17661
+g2995
+asg12158
+(lp17662
+S'Radio programs'
+p17663
+aS'Talk shows'
+p17664
+assg2823
+(dp17665
+g12148
+S'1950 May 28'
 p17666
-assg8649
-(dp17667
-g12148
-S'1961 December, 1961 October'
+sg12150
+S'Cushing, George'
+p17667
+sg12152
+S'2/25/2015'
 p17668
-sg12150
-S'Kramer, Arthur W.'
-p17669
-sg11
-g8652
-sg12152
-S'6/05/2014'
-p17670
 sg12154
+(lp17669
+g2826
+asg12156
+(lp17670
+g2821
+asg12158
 (lp17671
-g8647
-ag8629
-asg12156
-(lp17672
-S'Addresses'
+S'Radio programs'
+p17672
+aS'Talk shows'
 p17673
-aS'Addresses'
-p17674
-assg11337
-(dp17675
+assg11109
+(dp17674
 g12148
-S'1961 September 01'
-p17676
+S'1951 January 21'
+p17675
 sg12150
-S'Kramer, Arthur W.'
-p17677
-sg11
-g11340
+S'Cushing, George'
+p17676
 sg12152
-S'6/05/2014'
-p17678
+S'2/25/2015'
+p17677
 sg12154
-(lp17679
-g11335
-ag11347
+(lp17678
+g11112
 asg12156
+(lp17679
+g11107
+asg12158
 (lp17680
-S'Addresses'
+S'Radio programs'
 p17681
-aS'Addresses'
+aS'Talk shows'
 p17682
-assg1761
+assg6525
 (dp17683
 g12148
-S'1961 August, 1961 September 01'
+S'1983 November 16'
 p17684
 sg12150
-S'Kramer, Arthur W.'
+S"University of Michigan. Men's Glee Club"
 p17685
-sg11
-g1764
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p17686
 sg12154
 (lp17687
-g1759
-ag1765
+g6528
 asg12156
 (lp17688
-S'Addresses'
-p17689
-aS'Addresses'
+g6523
+asg12158
+(lp17689
+S'Musical performances'
 p17690
-assg11043
+assg3567
 (dp17691
 g12148
-S'[Undated], 1961 September 01'
+S'1983 November 16'
 p17692
 sg12150
-S'Kramer, Arthur W.'
+S"University of Michigan. Men's Glee Club"
 p17693
-sg11
-g11046
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p17694
 sg12154
 (lp17695
-g11041
-ag11035
+g3570
 asg12156
 (lp17696
-S'Addresses'
-p17697
-aS'Addresses'
+g3565
+asg12158
+(lp17697
+S'Musical performances'
 p17698
-assg5397
+assg9777
 (dp17699
 g12148
-S'1961, 1962 January 27'
+S'1958'
 p17700
 sg12150
-S'Kramer, Arthur W.'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17701
-sg11
-g5400
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p17702
 sg12154
 (lp17703
-g5395
-ag7549
+g9780
 asg12156
 (lp17704
-S'Addresses'
-p17705
-aS'Addresses'
+g9775
+asg12158
+(lp17705
+S'Lectures'
 p17706
-assg2463
-(dp17707
-g12148
-S'1961 November 08'
+aS'Radio programs'
+p17707
+aS'Poetry readings'
 p17708
-sg12150
-S'Kramer, Arthur W.'
-p17709
-sg11
-g2466
-sg12152
-S'6/05/2014'
+assg7107
+(dp17709
+g12148
+S'1959 May 21'
 p17710
-sg12154
-(lp17711
-g2461
-ag2473
-asg12156
-(lp17712
-S'Addresses'
-p17713
-aS'Addresses'
-p17714
-assg6075
-(dp17715
-g12148
-S'1970 January 07'
-p17716
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17717
-sg11
-g6078
-sg12152
-S'11/01/2013'
-p17718
-sg12154
-(lp17719
-g6073
-asg12156
-(lp17720
-S'Musical performances'
-p17721
-assg3519
-(dp17722
-g12148
-S'1968 February 27'
-p17723
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p17724
-sg11
-g3522
+p17711
 sg12152
 S'6/24/2013'
+p17712
+sg12154
+(lp17713
+g7110
+asg12156
+(lp17714
+g7105
+asg12158
+(lp17715
+S'Lectures'
+p17716
+aS'Radio programs'
+p17717
+assg10275
+(dp17718
+g12148
+S'1957'
+p17719
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17720
+sg12152
+S'6/24/2013'
+p17721
+sg12154
+(lp17722
+g10278
+asg12156
+(lp17723
+g10273
+asg12158
+(lp17724
+S'Lectures'
 p17725
-sg12154
-(lp17726
-g3517
-asg12156
-(lp17727
-S'Radio programs'
+aS'Radio programs'
+p17726
+assg255
+(dp17727
+g12148
+S'1963 May 23'
 p17728
-aS'Dedications (ceremonies)'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17729
-assg6723
-(dp17730
-g12148
-S'1957 December 08'
-p17731
-sg12150
-S'Crane, Henry Hitt'
-p17732
-sg11
-g6726
 sg12152
 S'6/24/2013'
-p17733
+p17730
 sg12154
-(lp17734
-g6721
-ag4141
+(lp17731
+g258
 asg12156
-(lp17735
-S'Sermons'
-p17736
-aS'Sermons'
+(lp17732
+g253
+asg12158
+(lp17733
+S'Lectures'
+p17734
+aS'Radio programs'
+p17735
+assg9957
+(dp17736
+g12148
+S'1964 May 09'
 p17737
-assg3315
-(dp17738
-g12148
-S'1958 February 09'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17738
+sg12152
+S'6/24/2013'
 p17739
-sg12150
-S'Crane, Henry Hitt'
-p17740
-sg11
-g3318
-sg12152
-S'6/24/2013'
-p17741
 sg12154
+(lp17740
+g9960
+asg12156
+(lp17741
+g9955
+asg12158
 (lp17742
-g3313
-ag3307
-asg12156
-(lp17743
-S'Sermons'
+S'Lectures'
+p17743
+aS'Radio programs'
 p17744
-aS'Sermons'
-p17745
-assg387
-(dp17746
+assg3663
+(dp17745
 g12148
-S'1958 March 23'
-p17747
+S'1961 June 20'
+p17746
 sg12150
-S'Crane, Henry Hitt'
-p17748
-sg11
-g390
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17747
 sg12152
 S'6/24/2013'
-p17749
+p17748
 sg12154
-(lp17750
-g385
-ag397
+(lp17749
+g3666
 asg12156
+(lp17750
+g3661
+asg12158
 (lp17751
-S'Sermons'
+S'Lectures'
 p17752
-aS'Sermons'
+aS'Radio programs'
 p17753
-assg9861
+assg3825
 (dp17754
 g12148
-S'1958 March 09'
+S'1962 May 23'
 p17755
 sg12150
-S'Crane, Henry Hitt'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17756
-sg11
-g9864
 sg12152
 S'6/24/2013'
 p17757
 sg12154
 (lp17758
-g9859
-ag9865
+g3828
 asg12156
 (lp17759
-S'Sermons'
-p17760
-aS'Sermons'
+g3823
+asg12158
+(lp17760
+S'Lectures'
 p17761
-assg3741
-(dp17762
+aS'Radio programs'
+p17762
+assg3777
+(dp17763
 g12148
-S'1958 April 27'
-p17763
-sg12150
-S'Crane, Henry Hitt'
+S'1965 April 15'
 p17764
-sg11
-g3744
-sg12152
-S'6/24/2013'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p17765
+sg12152
+S'6/24/2013'
+p17766
 sg12154
-(lp17766
-g3739
-ag3733
-asg12156
 (lp17767
-S'Sermons'
-p17768
-aS'Sermons'
-p17769
-assg6459
-(dp17770
-g12148
-S'1958 April 13'
+g3780
+asg12156
+(lp17768
+g3775
+asg12158
+(lp17769
+S'Lectures'
+p17770
+aS'Radio programs'
 p17771
-sg12150
-S'Crane, Henry Hitt'
-p17772
-sg11
-g6462
-sg12152
-S'6/24/2013'
+assg6507
+(dp17772
+g12148
+S'1982 April 14'
 p17773
-sg12154
-(lp17774
-g6457
-ag6445
-asg12156
-(lp17775
-S'Sermons'
-p17776
-aS'Sermons'
-p17777
-assg9609
-(dp17778
-g12148
-S'1958 May 04'
-p17779
 sg12150
-S'Crane, Henry Hitt'
-p17780
-sg11
-g9612
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p17774
 sg12152
 S'6/24/2013'
-p17781
+p17775
 sg12154
-(lp17782
-g9607
-ag9613
+(lp17776
+g6510
 asg12156
-(lp17783
-S'Sermons'
+(lp17777
+g6505
+asg12158
+(lp17778
+S'Lectures'
+p17779
+aS'Radio programs'
+p17780
+assg6717
+(dp17781
+g12148
+S'1981 November 21'
+p17782
+sg12150
+S"University of Michigan. Men's Glee Club"
+p17783
+sg12152
+S'11/01/2013'
 p17784
-aS'Sermons'
-p17785
-assg855
-(dp17786
-g12148
-S'1955 July 21'
-p17787
-sg12150
-S'Brucker, Wilber Marion'
+sg12154
+(lp17785
+g6720
+asg12156
+(lp17786
+g6715
+asg12158
+(lp17787
+S'Musical performances'
 p17788
-sg11
-g858
+assg3363
+(dp17789
+g12148
+S'1981 November 21'
+p17790
+sg12150
+S"University of Michigan. Men's Glee Club"
+p17791
 sg12152
 S'11/01/2013'
-p17789
-sg12154
-(lp17790
-g853
-asg12156
-(lp17791
-S'Addresses'
 p17792
-aS'Inauguration'
-p17793
-assg441
-(dp17794
-g12148
-S'1955 August 09'
-p17795
-sg12150
-S'Brucker, Wilber Marion'
+sg12154
+(lp17793
+g3366
+asg12156
+(lp17794
+g3361
+asg12158
+(lp17795
+S'Musical performances'
 p17796
-sg11
-g444
-sg12152
-S'11/01/2013'
-p17797
-sg12154
-(lp17798
-g439
-asg12156
-(lp17799
-S'Addresses'
-p17800
-aS'Anniversary'
-p17801
-assg639
-(dp17802
+assg633
+(dp17797
 g12148
-S'1955 September 25, [Undated]'
-p17803
+S'1981 November 21'
+p17798
 sg12150
-S'Brucker, Wilber Marion'
-p17804
-sg11
-g642
+S"University of Michigan. Men's Glee Club"
+p17799
 sg12152
 S'11/01/2013'
-p17805
+p17800
 sg12154
-(lp17806
-g637
-ag643
+(lp17801
+g636
 asg12156
-(lp17807
-S'Interviews'
+(lp17802
+g631
+asg12158
+(lp17803
+S'Musical performances'
+p17804
+assg7077
+(dp17805
+g12148
+S'[Undated]'
+p17806
+sg12150
+S'Wallace, Mike'
+p17807
+sg12152
+S'6/24/2013'
 p17808
-aS'Television'
-p17809
-aS'Talk shows'
-p17810
-aS'Interviews'
-p17811
-aS'Television'
+sg12154
+(lp17809
+g7080
+asg12156
+(lp17810
+g7075
+asg12158
+(lp17811
+S'Interviews'
 p17812
-aS'Talk shows'
+aS'News'
 p17813
-assg3783
+assg9747
 (dp17814
 g12148
-S'1970 February 10'
+S'[Undated]'
 p17815
 sg12150
-S'Griffiths, Martha Wright'
+S'Wallace, Mike'
 p17816
-sg11
-g3786
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p17817
 sg12154
 (lp17818
-g3781
+g9750
 asg12156
 (lp17819
+g9745
+asg12158
+(lp17820
 S'Interviews'
-p17820
-aS'Radio programs'
 p17821
-assg1107
-(dp17822
+aS'News'
+p17822
+assg1371
+(dp17823
 g12148
-S'1970 August 10'
-p17823
-sg12150
-S'Griffiths, Martha Wright'
+S'1983 October 25'
 p17824
-sg11
-g1110
-sg12152
-S'6/05/2014'
+sg12150
+S'Eclipse Jazz (University of Michigan)'
 p17825
+sg12152
+S'6/05/2014'
+p17826
 sg12154
-(lp17826
-g1105
-asg12156
 (lp17827
-S'Interviews'
-p17828
-aS'Radio programs'
-p17829
-assg7335
-(dp17830
-g12148
-S'1969 October 21'
+g1374
+asg12156
+(lp17828
+g1369
+asg12158
+(lp17829
+S'Lectures'
+p17830
+aS'Musical performances'
 p17831
-sg12150
-S'Griffiths, Martha Wright'
+aS'Radio programs'
 p17832
-sg11
-g7338
-sg12152
-S'6/05/2014'
-p17833
-sg12154
-(lp17834
-g7333
-asg12156
-(lp17835
-S'Interviews'
-p17836
-aS'Radio programs'
-p17837
-assg9963
-(dp17838
-g12148
-S'[1970?]'
-p17839
-sg12150
-S'Griffiths, Martha Wright'
-p17840
-sg11
-g9966
-sg12152
-S'6/05/2014'
-p17841
-sg12154
-(lp17842
-g9961
-asg12156
-(lp17843
-S'Interviews'
-p17844
-aS'Radio programs'
-p17845
-assg9873
-(dp17846
-g12148
-S'1973 April 12'
-p17847
-sg12150
-S'Griffiths, Martha Wright'
-p17848
-sg11
-g9876
-sg12152
-S'6/05/2014'
-p17849
-sg12154
-(lp17850
-g9871
-asg12156
-(lp17851
-S'Interviews'
-p17852
-aS'Radio programs'
-p17853
-assg10497
-(dp17854
-g12148
-S'1961 April 22'
-p17855
-sg12150
-S'Michigan Memorial Phoenix Project'
-p17856
-sg11
-g10500
-sg12152
-S'11/01/2013'
-p17857
-sg12154
-(lp17858
-g10495
-asg12156
-(lp17859
-S'Interviews'
-p17860
-aS'Radio programs'
-p17861
-aS'Talk shows'
-p17862
-assg10695
-(dp17863
-g12148
-S'1961 January 25'
-p17864
-sg12150
-S'Michigan Memorial Phoenix Project'
-p17865
-sg11
-g10698
-sg12152
-S'11/01/2013'
-p17866
-sg12154
-(lp17867
-g10693
-asg12156
-(lp17868
-S'Lectures'
-p17869
-assg7113
-(dp17870
-g12148
-S'1962'
-p17871
-sg12150
-S'Michigan Memorial Phoenix Project'
-p17872
-sg11
-g7116
-sg12152
-S'11/01/2013'
-p17873
-sg12154
-(lp17874
-g7111
-asg12156
-(lp17875
-S'Lectures'
-p17876
-assg4695
-(dp17877
-g12148
-S'1961 April 25'
-p17878
-sg12150
-S'Michigan Memorial Phoenix Project'
-p17879
-sg11
-g4698
-sg12152
-S'11/01/2013'
-p17880
-sg12154
-(lp17881
-g4693
-asg12156
-(lp17882
-S'Interviews'
-p17883
-assg7965
-(dp17884
+assg3621
+(dp17833
 g12148
 S'[Undated]'
-p17885
+p17834
 sg12150
-S'Michigan Memorial Phoenix Project'
-p17886
-sg11
-g7968
+S'Wallace, Mike'
+p17835
 sg12152
-S'11/01/2013'
-p17887
+S'6/24/2013'
+p17836
 sg12154
-(lp17888
-g7963
+(lp17837
+g3624
 asg12156
-(lp17889
+(lp17838
+g3619
+asg12158
+(lp17839
+S'Television'
+p17840
+assg915
+(dp17841
+g12148
+S'[Undated]'
+p17842
+sg12150
+S'Wallace, Mike'
+p17843
+sg12152
+S'6/24/2013'
+p17844
+sg12154
+(lp17845
+g918
+asg12156
+(lp17846
+g913
+asg12158
+(lp17847
 S'Interviews'
-p17890
-aS'Radio programs'
-p17891
-aS'Talk shows'
-p17892
-assg6291
-(dp17893
+p17848
+aS'News'
+p17849
+assg10245
+(dp17850
 g12148
-S'1951 July 08'
-p17894
+S'1939 February 07'
+p17851
 sg12150
-S'Cushing, George'
-p17895
-sg11
-g6294
+S'Wallace, Mike'
+p17852
 sg12152
-S'2/25/2015'
-p17896
+S'6/24/2013'
+p17853
 sg12154
-(lp17897
-g6289
+(lp17854
+g10248
 asg12156
-(lp17898
+(lp17855
+g10243
+asg12158
+(lp17856
 S'Radio programs'
-p17899
-aS'Talk shows'
-p17900
-assg4473
-(dp17901
+p17857
+assg351
+(dp17858
 g12148
-S'1961 January 25'
-p17902
+S'1957 September 07'
+p17859
 sg12150
-S'Michigan Memorial Phoenix Project'
-p17903
-sg11
-g4476
+S'Wallace, Mike'
+p17860
+sg12152
+S'6/24/2013'
+p17861
+sg12154
+(lp17862
+g354
+asg12156
+(lp17863
+g349
+ag787
+ag343
+asg12158
+(lp17864
+S'Dialogues'
+p17865
+aS'Dialogues'
+p17866
+aS'Dialogues'
+p17867
+assg8115
+(dp17868
+g12148
+S'1956 July 14'
+p17869
+sg12150
+S'Brucker, Wilber Marion'
+p17870
 sg12152
 S'11/01/2013'
-p17904
+p17871
 sg12154
-(lp17905
-g4471
+(lp17872
+g8118
 asg12156
-(lp17906
-S'Lectures'
-p17907
-assg7989
-(dp17908
-g12148
-S'1957 May 07'
-p17909
-sg12150
-S'Romulo, Carlos'
-p17910
-sg11
-g7992
-sg12152
-S'11/01/2013'
-p17911
-sg12154
-(lp17912
-g7987
-asg12156
-(lp17913
+(lp17873
+g8113
+asg12158
+(lp17874
 S'Addresses'
+p17875
+aS'Meetings'
+p17876
+aS'Dinners'
+p17877
+assg8085
+(dp17878
+g12148
+S'1968 March 23'
+p17879
+sg12150
+S"University of Michigan. Men's Glee Club"
+p17880
+sg12152
+S'11/01/2013'
+p17881
+sg12154
+(lp17882
+g8088
+asg12156
+(lp17883
+g8083
+asg12158
+(lp17884
+S'Musical performances'
+p17885
+assg10785
+(dp17886
+g12148
+S'1976 April 13'
+p17887
+sg12150
+S'Bassett, Leslie'
+p17888
+sg12152
+S'6/05/2014'
+p17889
+sg12154
+(lp17890
+g10788
+asg12156
+(lp17891
+g10783
+ag10777
+asg12158
+(lp17892
+S'Musical performances'
+p17893
+aS'Musical performances'
+p17894
+assg1821
+(dp17895
+g12148
+S'1968 March 23'
+p17896
+sg12150
+S"University of Michigan. Men's Glee Club"
+p17897
+sg12152
+S'11/01/2013'
+p17898
+sg12154
+(lp17899
+g1824
+asg12156
+(lp17900
+g1819
+asg12158
+(lp17901
+S'Musical performances'
+p17902
+assg4635
+(dp17903
+g12148
+S'1962 July 05, 1962 June 20'
+p17904
+sg12150
+S'Bassett, Leslie'
+p17905
+sg12152
+S'6/05/2014'
+p17906
+sg12154
+(lp17907
+g4638
+asg12156
+(lp17908
+g4633
+asg12158
+(lp17909
+S'Musical performances'
+p17910
+assg1809
+(dp17911
+g12148
+S'1949 March 05, 1968 April 16, August 01, 1972 February 09'
+p17912
+sg12150
+S'Bassett, Leslie'
+p17913
+sg12152
+S'6/05/2014'
 p17914
-assg10659
-(dp17915
-g12148
-S'1962'
-p17916
-sg12150
-S'Michigan Memorial Phoenix Project'
-p17917
-sg11
-g10662
-sg12152
-S'11/01/2013'
+sg12154
+(lp17915
+g1812
+asg12156
+(lp17916
+g1807
+ag1813
+asg12158
+(lp17917
+S'Musical performances'
 p17918
-sg12154
-(lp17919
-g10657
-asg12156
-(lp17920
-S'Lectures'
-p17921
-assg7371
-(dp17922
+aS'Musical performances'
+p17919
+assg8361
+(dp17920
 g12148
-S'1962'
-p17923
+S'1967 September 11-29'
+p17921
 sg12150
-S'Michigan Memorial Phoenix Project'
-p17924
-sg11
-g7374
+S'Romney, George'
+p17922
 sg12152
-S'11/01/2013'
-p17925
+S'6/05/2014'
+p17923
 sg12154
-(lp17926
-g7369
+(lp17924
+g8364
 asg12156
-(lp17927
-S'Lectures'
+(lp17925
+g8359
+ag8377
+asg12158
+(lp17926
+S'Press conferences'
+p17927
+aS'Press conferences'
 p17928
-assg10197
+assg8367
 (dp17929
 g12148
-S'1951 October 28'
+S'[Undated]'
 p17930
 sg12150
-S'Cushing, George'
+S'Crane, Henry Hitt'
 p17931
-sg11
-g10200
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p17932
 sg12154
 (lp17933
-g10195
+g8370
 asg12156
 (lp17934
-S'Radio programs'
-p17935
-aS'Talk shows'
+g8365
+ag607
+asg12158
+(lp17935
+S'Sermons'
 p17936
-assg9069
-(dp17937
+aS'Sermons'
+p17937
+assg2121
+(dp17938
 g12148
-S'1951 November 18'
-p17938
-sg12150
-S'Cushing, George'
+S'[Undated]'
 p17939
-sg11
-g9072
+sg12150
+S'Crane, Henry Hitt'
+p17940
+sg12152
+S'6/24/2013'
+p17941
+sg12154
+(lp17942
+g2124
+asg12156
+(lp17943
+g2119
+ag2113
+asg12158
+(lp17944
+S'Sermons'
+p17945
+aS'Sermons'
+p17946
+assg4857
+(dp17947
+g12148
+S'[Undated]'
+p17948
+sg12150
+S'Crane, Henry Hitt'
+p17949
+sg12152
+S'6/24/2013'
+p17950
+sg12154
+(lp17951
+g4860
+asg12156
+(lp17952
+g4855
+ag4837
+asg12158
+(lp17953
+S'Sermons'
+p17954
+aS'Sermons'
+p17955
+assg4299
+(dp17956
+g12148
+S'1967 September 11-29'
+p17957
+sg12150
+S'Romney, George'
+p17958
+sg12152
+S'6/05/2014'
+p17959
+sg12154
+(lp17960
+g4302
+asg12156
+(lp17961
+g4297
+ag1525
+ag11437
+asg12158
+(lp17962
+S'Press conferences'
+p17963
+aS'Dictation recordings'
+p17964
+aS'Press conferences'
+p17965
+aS'Dictation recordings'
+p17966
+aS'Press conferences'
+p17967
+aS'Dictation recordings'
+p17968
+assg4305
+(dp17969
+g12148
+S'[Undated]'
+p17970
+sg12150
+S'Crane, Henry Hitt'
+p17971
+sg12152
+S'6/24/2013'
+p17972
+sg12154
+(lp17973
+g4308
+asg12156
+(lp17974
+g4303
+ag4309
+ag11431
+asg12158
+(lp17975
+S'Sermons'
+p17976
+aS'Dialogues'
+p17977
+aS'Sermons'
+p17978
+aS'Dialogues'
+p17979
+aS'Sermons'
+p17980
+aS'Dialogues'
+p17981
+assg4803
+(dp17982
+g12148
+S'1967 September 11-29'
+p17983
+sg12150
+S'Romney, George'
+p17984
+sg12152
+S'6/05/2014'
+p17985
+sg12154
+(lp17986
+g4806
+asg12156
+(lp17987
+g4801
+ag49
+ag55
+ag61
+asg12158
+(lp17988
+S'Press conferences'
+p17989
+aS'Press conferences'
+p17990
+aS'Press conferences'
+p17991
+aS'Press conferences'
+p17992
+assg5469
+(dp17993
+g12148
+S'1967 September 11-29'
+p17994
+sg12150
+S'Romney, George'
+p17995
+sg12152
+S'6/05/2014'
+p17996
+sg12154
+(lp17997
+g5472
+asg12156
+(lp17998
+g5467
+ag5461
+asg12158
+(lp17999
+S'Press conferences'
+p18000
+aS'Press conferences'
+p18001
+assg8619
+(dp18002
+g12148
+S'1967 September 11-29'
+p18003
+sg12150
+S'Romney, George'
+p18004
+sg12152
+S'6/05/2014'
+p18005
+sg12154
+(lp18006
+g8622
+asg12156
+(lp18007
+g8617
+ag8623
+asg12158
+(lp18008
+S'Press conferences'
+p18009
+aS'Press conferences'
+p18010
+assg11067
+(dp18011
+g12148
+S'1967 September 11-29'
+p18012
+sg12150
+S'Romney, George'
+p18013
+sg12152
+S'6/05/2014'
+p18014
+sg12154
+(lp18015
+g11070
+asg12156
+(lp18016
+g11065
+ag11071
+asg12158
+(lp18017
+S'Press conferences'
+p18018
+aS'Press conferences'
+p18019
+assg8409
+(dp18020
+g12148
+S'1963 February 19'
+p18021
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p18022
+sg12152
+S'6/24/2013'
+p18023
+sg12154
+(lp18024
+g8412
+asg12156
+(lp18025
+g8407
+asg12158
+(lp18026
+S'Radio programs'
+p18027
+aS'Poetry readings'
+p18028
+assg8499
+(dp18029
+g12148
+S'1966 January 13'
+p18030
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p18031
+sg12152
+S'6/24/2013'
+p18032
+sg12154
+(lp18033
+g8502
+asg12156
+(lp18034
+g8497
+asg12158
+(lp18035
+S'Oral Histories'
+p18036
+aS'Radio programs'
+p18037
+aS'Documentaries'
+p18038
+assg2745
+(dp18039
+g12148
+S'1960 November 05'
+p18040
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18041
+sg12152
+S'11/01/2013'
+p18042
+sg12154
+(lp18043
+g2748
+asg12156
+(lp18044
+g2743
+asg12158
+(lp18045
+S'Musical performances'
+p18046
+assg5715
+(dp18047
+g12148
+S'1954 April 29'
+p18048
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p18049
+sg12152
+S'6/24/2013'
+p18050
+sg12154
+(lp18051
+g5718
+asg12156
+(lp18052
+g5713
+asg12158
+(lp18053
+S'Radio programs'
+p18054
+aS'Poetry readings'
+p18055
+assg9261
+(dp18056
+g12148
+S'1958 July 16'
+p18057
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18058
+sg12152
+S'11/01/2013'
+p18059
+sg12154
+(lp18060
+g9264
+asg12156
+(lp18061
+g9259
+asg12158
+(lp18062
+S'Musical performances'
+p18063
+assg6201
+(dp18064
+g12148
+S'1958 July 16'
+p18065
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18066
+sg12152
+S'11/01/2013'
+p18067
+sg12154
+(lp18068
+g6204
+asg12156
+(lp18069
+g6199
+asg12158
+(lp18070
+S'Musical performances'
+p18071
+assg9363
+(dp18072
+g12148
+S'1983 November 22'
+p18073
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p18074
+sg12152
+S'6/05/2014'
+p18075
+sg12154
+(lp18076
+g9366
+asg12156
+(lp18077
+g9361
+asg12158
+(lp18078
+S'Lectures'
+p18079
+aS'Musical performances'
+p18080
+aS'Radio programs'
+p18081
+assg5865
+(dp18082
+g12148
+S'1984 April 14'
+p18083
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18084
+sg12152
+S'11/01/2013'
+p18085
+sg12154
+(lp18086
+g5868
+asg12156
+(lp18087
+g5863
+asg12158
+(lp18088
+S'Musical performances'
+p18089
+assg7587
+(dp18090
+g12148
+S'1969 March 29'
+p18091
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18092
+sg12152
+S'11/01/2013'
+p18093
+sg12154
+(lp18094
+g7590
+asg12156
+(lp18095
+g7585
+ag7591
+asg12158
+(lp18096
+S'Musical performances'
+p18097
+aS'Musical performances'
+p18098
+assg8403
+(dp18099
+g12148
+S'1969 March 29'
+p18100
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18101
+sg12152
+S'11/01/2013'
+p18102
+sg12154
+(lp18103
+g8406
+asg12156
+(lp18104
+g8401
+ag8395
+asg12158
+(lp18105
+S'Musical performances'
+p18106
+aS'Musical performances'
+p18107
+assg7557
+(dp18108
+g12148
+S'1956 November 10'
+p18109
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18110
+sg12152
+S'11/01/2013'
+p18111
+sg12154
+(lp18112
+g7560
+asg12156
+(lp18113
+g7555
+asg12158
+(lp18114
+S'Musical performances'
+p18115
+assg573
+(dp18116
+g12148
+S'1962'
+p18117
+sg12150
+S'Romney, George'
+p18118
+sg12152
+S'6/05/2014'
+p18119
+sg12154
+(lp18120
+g576
+asg12156
+(lp18121
+g571
+asg12158
+(lp18122
+S'Interviews'
+p18123
+aS'Radio programs'
+p18124
+assg3285
+(dp18125
+g12148
+S'1962'
+p18126
+sg12150
+S'Romney, George'
+p18127
+sg12152
+S'6/05/2014'
+p18128
+sg12154
+(lp18129
+g3288
+asg12156
+(lp18130
+g3283
+asg12158
+(lp18131
+S'Interviews'
+p18132
+aS'Radio programs'
+p18133
+assg6651
+(dp18134
+g12148
+S'1965 October 06'
+p18135
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18136
+sg12152
+S'11/01/2013'
+p18137
+sg12154
+(lp18138
+g6654
+asg12156
+(lp18139
+g6649
+asg12158
+(lp18140
+S'Musical performances'
+p18141
+assg4353
+(dp18142
+g12148
+S'1963 June 08'
+p18143
+sg12150
+S'Cacioppo, George'
+p18144
 sg12152
 S'2/25/2015'
-p17940
+p18145
 sg12154
-(lp17941
-g9067
+(lp18146
+g4356
 asg12156
-(lp17942
-S'Radio programs'
-p17943
-aS'Talk shows'
-p17944
-assg7653
-(dp17945
-g12148
-S'1966 November 12'
-p17946
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17947
-sg11
-g7656
-sg12152
-S'11/01/2013'
-p17948
-sg12154
-(lp17949
-g7651
-asg12156
-(lp17950
+(lp18147
+g4351
+asg12158
+(lp18148
 S'Musical performances'
-p17951
-assg1269
-(dp17952
-g12148
-S'1966 November 12'
-p17953
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17954
-sg11
-g1272
-sg12152
-S'11/01/2013'
-p17955
-sg12154
-(lp17956
-g1267
-asg12156
-(lp17957
-S'Musical performances'
-p17958
-assg10809
-(dp17959
-g12148
-S'1952 May 10'
-p17960
-sg12150
-S"University of Michigan. Men's Glee Club"
-p17961
-sg11
-g10812
-sg12152
-S'11/01/2013'
-p17962
-sg12154
-(lp17963
-g10807
-asg12156
-(lp17964
-S'Musical performances'
-p17965
-assg8967
-(dp17966
-g12148
-S'1968 January 19, 20'
-p17967
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p17968
-sg11
-g8970
-sg12152
-S'6/05/2014'
-p17969
-sg12154
-(lp17970
-g8965
-ag8977
-asg12156
-(lp17971
-S'Seminars'
-p17972
-aS'Seminars'
-p17973
-assg8175
-(dp17974
-g12148
-S'1968 January 19, 20'
-p17975
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p17976
-sg11
-g8178
-sg12152
-S'6/05/2014'
-p17977
-sg12154
-(lp17978
-g8173
-ag8179
-ag2365
-asg12156
-(lp17979
-S'Interviews'
-p17980
-aS'Radio programs'
-p17981
-aS'Seminars'
-p17982
-aS'Interviews'
-p17983
-aS'Radio programs'
-p17984
-aS'Seminars'
-p17985
-aS'Interviews'
-p17986
-aS'Radio programs'
-p17987
-aS'Seminars'
-p17988
-assg5379
-(dp17989
-g12148
-S'1965 September 14'
-p17990
-sg12150
-S'Alternative Perspectives on Vietnam'
-p17991
-sg11
-g5382
-sg12152
-S'11/01/2013'
-p17992
-sg12154
-(lp17993
-g5377
-ag5365
-asg12156
-(lp17994
-S'Addresses'
-p17995
-aS'Conferences'
-p17996
-aS'Addresses'
-p17997
-aS'Conferences'
-p17998
-assg2181
-(dp17999
-g12148
-S'1965 September 17'
-p18000
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18001
-sg11
-g2184
-sg12152
-S'11/01/2013'
-p18002
-sg12154
-(lp18003
-g2179
-asg12156
-(lp18004
-S'Addresses'
-p18005
-aS'Conferences'
-p18006
-assg11865
-(dp18007
-g12148
-S'1965 September 17'
-p18008
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18009
-sg11
-g11868
-sg12152
-S'11/01/2013'
-p18010
-sg12154
-(lp18011
-g11863
-asg12156
-(lp18012
-S'Addresses'
-p18013
-aS'Conferences'
-p18014
-assg2193
-(dp18015
-g12148
-S'1965 September 15'
-p18016
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18017
-sg11
-g2196
-sg12152
-S'11/01/2013'
-p18018
-sg12154
-(lp18019
-g2191
-ag2185
-asg12156
-(lp18020
-S'Addresses'
-p18021
-aS'Conferences'
-p18022
-aS'Addresses'
-p18023
-aS'Conferences'
-p18024
-assg8517
-(dp18025
-g12148
-S'1965 September 16'
-p18026
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18027
-sg11
-g8520
-sg12152
-S'11/01/2013'
-p18028
-sg12154
-(lp18029
-g8515
-ag8509
-asg12156
-(lp18030
-S'Addresses'
-p18031
-aS'Conferences'
-p18032
-aS'Addresses'
-p18033
-aS'Conferences'
-p18034
-assg2025
-(dp18035
-g12148
-S'1972 January 24'
-p18036
-sg12150
-S'Sinclair, John and Leni'
-p18037
-sg11
-g2028
-sg12152
-S'6/24/2013'
-p18038
-sg12154
-(lp18039
-g2023
-asg12156
-(lp18040
-S'Interviews'
-p18041
-aS'Radio programs'
-p18042
-aS'Talk shows'
-p18043
-assg10515
-(dp18044
-g12148
-S'1973 July 14'
-p18045
-sg12150
-S'Sinclair, John and Leni'
-p18046
-sg11
-g10518
-sg12152
-S'6/24/2013'
-p18047
-sg12154
-(lp18048
-g10513
-ag10519
-ag11905
-asg12156
-(lp18049
-S'Interviews'
-p18050
-aS'Interviews'
-p18051
-aS'Interviews'
-p18052
-assg5913
-(dp18053
-g12148
-S'1965 September 17'
-p18054
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18055
-sg11
-g5916
-sg12152
-S'11/01/2013'
-p18056
-sg12154
-(lp18057
-g5911
-asg12156
-(lp18058
-S'Addresses'
-p18059
-aS'Conferences'
-p18060
-assg8691
-(dp18061
-g12148
-S'1965 September 17'
-p18062
-sg12150
-S'Alternative Perspectives on Vietnam'
-p18063
-sg11
-g8694
-sg12152
-S'11/01/2013'
-p18064
-sg12154
-(lp18065
-g8689
-asg12156
-(lp18066
-S'Addresses'
-p18067
-aS'Conferences'
-p18068
-assg11307
-(dp18069
-g12148
-S'1974 June 07'
-p18070
-sg12150
-S'Sinclair, John and Leni'
-p18071
-sg11
-g11310
-sg12152
-S'6/24/2013'
-p18072
-sg12154
-(lp18073
-g11305
-ag11317
-asg12156
-(lp18074
-S'Musical performances'
-p18075
-aS'Interviews'
-p18076
-aS'Musical performances'
-p18077
-aS'Interviews'
-p18078
-assg11313
-(dp18079
-g12148
-S'1966 August 27'
-p18080
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p18081
-sg11
-g11316
-sg12152
-S'6/05/2014'
-p18082
-sg12154
-(lp18083
-g11311
-asg12156
-(lp18084
-S'Conferences'
-p18085
-assg8775
-(dp18086
-g12148
-S'1968 January 19, 20'
-p18087
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p18088
-sg11
-g8778
-sg12152
-S'6/05/2014'
-p18089
-sg12154
-(lp18090
-g8773
-ag8767
-asg12156
-(lp18091
-S'Musical performances'
-p18092
-aS'Musical performances'
-p18093
-assg5967
-(dp18094
-g12148
-S'1967 November 18'
-p18095
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p18096
-sg11
-g5970
-sg12152
-S'6/05/2014'
-p18097
-sg12154
-(lp18098
-g5965
-asg12156
-(lp18099
-S'Addresses'
-p18100
-assg5619
-(dp18101
-g12148
-S'1983 November 01'
-p18102
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p18103
-sg11
-g5622
-sg12152
-S'6/05/2014'
-p18104
-sg12154
-(lp18105
-g5617
-asg12156
-(lp18106
-S'Lectures'
-p18107
-aS'Musical performances'
-p18108
-aS'Radio programs'
-p18109
-assg11655
-(dp18110
-g12148
-S'1983 November 01'
-p18111
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p18112
-sg11
-g11658
-sg12152
-S'6/05/2014'
-p18113
-sg12154
-(lp18114
-g11653
-asg12156
-(lp18115
-S'Lectures'
-p18116
-aS'Musical performances'
-p18117
-aS'Radio programs'
-p18118
-assg2901
-(dp18119
-g12148
-S'1966 November 29, 1972 November 20'
-p18120
-sg12150
-S'Bassett, Leslie'
-p18121
-sg11
-g2904
-sg12152
-S'6/05/2014'
-p18122
-sg12154
-(lp18123
-g2899
-asg12156
-(lp18124
-S'Musical performances'
-p18125
-assg9411
-(dp18126
-g12148
-S'1960 February 15'
-p18127
-sg12150
-S'Bassett, Leslie'
-p18128
-sg11
-g9414
-sg12152
-S'6/05/2014'
-p18129
-sg12154
-(lp18130
-g9409
-asg12156
-(lp18131
-S'Musical performances'
-p18132
-assg3219
-(dp18133
-g12148
-S'1963 July 07'
-p18134
-sg12150
-S'Democratic Party (Mich.)'
-p18135
-sg11
-g3222
-sg12152
-S'6/05/2014'
-p18136
-sg12154
-(lp18137
-g3217
-asg12156
-(lp18138
-S'Radio programs'
-p18139
-assg8811
-(dp18140
-g12148
-S'1963 August 11'
-p18141
-sg12150
-S'Democratic Party (Mich.)'
-p18142
-sg11
-g8814
-sg12152
-S'6/05/2014'
-p18143
-sg12154
-(lp18144
-g8809
-asg12156
-(lp18145
-S'Radio programs'
-p18146
-assg10851
-(dp18147
-g12148
-S'1967 September 11-29'
-p18148
-sg12150
-S'Romney, George'
 p18149
-sg11
-g10854
+assg3357
+(dp18150
+g12148
+S'1976 April 08'
+p18151
+sg12150
+S'Cacioppo, George'
+p18152
 sg12152
-S'6/05/2014'
-p18150
-sg12154
-(lp18151
-g10849
-ag4513
-asg12156
-(lp18152
-S'Press conferences'
+S'2/25/2015'
 p18153
-aS'Press conferences'
-p18154
-assg3747
-(dp18155
-g12148
-S'1966 October 03'
-p18156
-sg12150
-S'Romney, George'
+sg12154
+(lp18154
+g3360
+asg12156
+(lp18155
+g3355
+asg12158
+(lp18156
+S'Musical performances'
 p18157
-sg11
-g3750
+assg6243
+(dp18158
+g12148
+S'1963-1964'
+p18159
+sg12150
+S'Cacioppo, George'
+p18160
 sg12152
-S'6/05/2014'
-p18158
-sg12154
-(lp18159
-g3745
-asg12156
-(lp18160
-S'Debates'
+S'2/25/2015'
 p18161
-assg2571
-(dp18162
-g12148
-S'1966 September 27'
-p18163
-sg12150
-S'Romney, George'
-p18164
-sg11
-g2574
-sg12152
-S'6/05/2014'
+sg12154
+(lp18162
+g6246
+asg12156
+(lp18163
+g6241
+asg12158
+(lp18164
+S'Addresses'
 p18165
-sg12154
-(lp18166
-g2569
-ag2581
-asg12156
-(lp18167
-S'Conferences'
+assg2325
+(dp18166
+g12148
+S'1965 February 12'
+p18167
+sg12150
+S'Cacioppo, George'
 p18168
-aS'Debates'
+sg12152
+S'2/25/2015'
 p18169
-aS'Conferences'
-p18170
-aS'Debates'
-p18171
-assg4851
-(dp18172
-g12148
-S'1967 September 11-29'
+sg12154
+(lp18170
+g2328
+asg12156
+(lp18171
+g2323
+asg12158
+(lp18172
+S'Musical performances'
 p18173
-sg12150
-S'Romney, George'
+aS'Interviews'
 p18174
-sg11
-g4854
-sg12152
-S'6/05/2014'
-p18175
-sg12154
-(lp18176
-g4849
-ag4843
-asg12156
-(lp18177
-S'Panel discussions'
-p18178
-aS'Press conferences'
-p18179
-aS'Panel discussions'
-p18180
-aS'Press conferences'
-p18181
-assg1713
-(dp18182
+assg9513
+(dp18175
 g12148
-S'1968 November 11'
-p18183
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18184
-sg11
-g1716
-sg12152
-S'6/24/2013'
-p18185
-sg12154
-(lp18186
-g1711
-asg12156
-(lp18187
-S'Addresses'
-p18188
-aS'Radio programs'
-p18189
-aS'Conferences'
-p18190
-assg3123
-(dp18191
-g12148
-S'1960 January 30'
-p18192
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18193
-sg11
-g3126
-sg12152
-S'6/24/2013'
-p18194
-sg12154
-(lp18195
-g3121
-ag3115
-asg12156
-(lp18196
-S'Addresses'
-p18197
-aS'Radio programs'
-p18198
-aS'Dedications (ceremonies)'
-p18199
-aS'Addresses'
-p18200
-aS'Radio programs'
-p18201
-aS'Dedications (ceremonies)'
-p18202
-assg2127
-(dp18203
-g12148
-S'1967 September 11-29'
-p18204
+S'1962'
+p18176
 sg12150
 S'Romney, George'
-p18205
-sg11
-g2130
+p18177
 sg12152
 S'6/05/2014'
-p18206
+p18178
 sg12154
-(lp18207
-g2125
-ag2107
+(lp18179
+g9516
 asg12156
+(lp18180
+g9511
+asg12158
+(lp18181
+S'Interviews'
+p18182
+aS'Radio programs'
+p18183
+assg6699
+(dp18184
+g12148
+S'[Undated]'
+p18185
+sg12150
+S'Romney, George'
+p18186
+sg12152
+S'6/05/2014'
+p18187
+sg12154
+(lp18188
+g6702
+asg12156
+(lp18189
+g6697
+asg12158
+(lp18190
+S'Interviews'
+p18191
+aS'Radio programs'
+p18192
+assg4203
+(dp18193
+g12148
+S'1947 October 26'
+p18194
+sg12150
+S'Cushing, George'
+p18195
+sg12152
+S'2/25/2015'
+p18196
+sg12154
+(lp18197
+g4206
+asg12156
+(lp18198
+g4201
+asg12158
+(lp18199
+S'Radio programs'
+p18200
+aS'Talk shows'
+p18201
+assg11901
+(dp18202
+g12148
+S'1975 November 22'
+p18203
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18204
+sg12152
+S'11/01/2013'
+p18205
+sg12154
+(lp18206
+g11904
+asg12156
+(lp18207
+g11899
+ag11893
+asg12158
 (lp18208
-S'Press conferences'
+S'Musical performances'
 p18209
-aS'Press conferences'
+aS'Musical performances'
 p18210
-assg8697
+assg6867
 (dp18211
 g12148
-S'1967 October 02'
+S'1947 November 02'
 p18212
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Cushing, George'
 p18213
-sg11
-g8700
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p18214
 sg12154
 (lp18215
-g8695
-ag8701
-ag8707
+g6870
 asg12156
 (lp18216
-S'Lectures'
-p18217
-aS'Radio programs'
+g6865
+asg12158
+(lp18217
+S'Radio programs'
 p18218
-aS'Lectures'
+aS'Talk shows'
 p18219
-aS'Radio programs'
-p18220
-aS'Lectures'
-p18221
-aS'Radio programs'
-p18222
-assg1875
-(dp18223
+assg9831
+(dp18220
 g12148
-S'1967 September 11-29'
-p18224
+S'1947 October 12'
+p18221
 sg12150
-S'Romney, George'
-p18225
-sg11
-g1878
+S'Cushing, George'
+p18222
+sg12152
+S'2/25/2015'
+p18223
+sg12154
+(lp18224
+g9834
+asg12156
+(lp18225
+g9829
+asg12158
+(lp18226
+S'Radio programs'
+p18227
+aS'Talk shows'
+p18228
+assg7017
+(dp18229
+g12148
+S'1961 November 01'
+p18230
+sg12150
+S'Hart, Philip A.'
+p18231
+sg12152
+S'11/01/2013'
+p18232
+sg12154
+(lp18233
+g7020
+asg12156
+(lp18234
+g7015
+asg12158
+(lp18235
+S'Interviews'
+p18236
+aS'Radio programs'
+p18237
+aS'Talk shows'
+p18238
+assg765
+(dp18239
+g12148
+S'1947 September 04'
+p18240
+sg12150
+S'Cushing, George'
+p18241
+sg12152
+S'2/25/2015'
+p18242
+sg12154
+(lp18243
+g768
+asg12156
+(lp18244
+g763
+asg12158
+(lp18245
+S'Radio programs'
+p18246
+aS'Talk shows'
+p18247
+assg2073
+(dp18248
+g12148
+S'1983 October 18'
+p18249
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p18250
 sg12152
 S'6/05/2014'
-p18226
+p18251
 sg12154
-(lp18227
-g1873
+(lp18252
+g2076
 asg12156
-(lp18228
-S'Press conferences'
-p18229
-assg4809
-(dp18230
-g12148
-S'1958 October 27'
-p18231
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18232
-sg11
-g4812
-sg12152
-S'6/24/2013'
-p18233
-sg12154
-(lp18234
-g4807
-asg12156
-(lp18235
-S'Radio programs'
-p18236
-aS'Poetry readings'
-p18237
-assg7665
-(dp18238
-g12148
-S'1964 May 22'
-p18239
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18240
-sg11
-g7668
-sg12152
-S'6/24/2013'
-p18241
-sg12154
-(lp18242
-g7663
-asg12156
-(lp18243
-S'Addresses'
-p18244
-aS'Radio programs'
-p18245
-assg7671
-(dp18246
-g12148
-S'1936'
-p18247
-sg12150
-S'Vandenberg, Arthur Hendrick'
-p18248
-sg11
-g7674
-sg12152
-S'6/24/2013'
-p18249
-sg12154
-(lp18250
-g7669
-asg12156
-(lp18251
-S'Addresses'
-p18252
-aS'Debates'
-p18253
-assg8601
-(dp18254
-g12148
-S'[Undated]'
+(lp18253
+g2071
+asg12158
+(lp18254
+S'Lectures'
 p18255
-sg12150
-S'Cacioppo, George'
+aS'Musical performances'
 p18256
-sg11
-g8604
-sg12152
-S'2/25/2015'
+aS'Radio programs'
 p18257
-sg12154
-(lp18258
-g8599
-asg12156
-(lp18259
-S'Musical performances'
-p18260
-assg11061
-(dp18261
+assg8337
+(dp18258
 g12148
-S'[Undated]'
-p18262
+S'1983 October 18'
+p18259
 sg12150
-S'Cacioppo, George'
-p18263
-sg11
-g11064
+S'Eclipse Jazz (University of Michigan)'
+p18260
 sg12152
-S'2/25/2015'
-p18264
+S'6/05/2014'
+p18261
 sg12154
-(lp18265
-g11059
+(lp18262
+g8340
 asg12156
-(lp18266
-S'Musical performances'
+(lp18263
+g8335
+asg12158
+(lp18264
+S'Lectures'
+p18265
+aS'Musical performances'
+p18266
+aS'Radio programs'
 p18267
-assg1671
+assg8343
 (dp18268
 g12148
-S'[Undated]'
+S'1958 May 10'
 p18269
 sg12150
-S'Cacioppo, George'
+S"University of Michigan. Men's Glee Club"
 p18270
-sg11
-g1674
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p18271
 sg12154
 (lp18272
-g1669
+g8346
 asg12156
 (lp18273
+g8341
+asg12158
+(lp18274
 S'Musical performances'
-p18274
-assg6561
-(dp18275
+p18275
+assg1803
+(dp18276
 g12148
 S'[Undated]'
-p18276
-sg12150
-S'Cacioppo, George'
 p18277
-sg11
-g6564
-sg12152
-S'2/25/2015'
+sg12150
+S'Cacioppo, George'
 p18278
+sg12152
+S'2/25/2015'
+p18279
 sg12154
-(lp18279
-g6559
-asg12156
 (lp18280
+g1806
+asg12156
+(lp18281
+g1801
+asg12158
+(lp18282
 S'Musical performances'
-p18281
-assg10287
-(dp18282
-g12148
-S'1967 December 09'
 p18283
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18284
-sg11
-g10290
-sg12152
-S'6/24/2013'
+assg11403
+(dp18284
+g12148
+S'[Undated]'
 p18285
-sg12154
-(lp18286
-g10285
-ag10303
-asg12156
-(lp18287
-S'Addresses'
-p18288
-aS'Musical performances'
-p18289
-aS'Radio programs'
-p18290
-aS'Addresses'
-p18291
-aS'Musical performances'
-p18292
-aS'Radio programs'
-p18293
-assg4989
-(dp18294
-g12148
-S'[Undated]'
-p18295
 sg12150
 S'Cacioppo, George'
-p18296
-sg11
-g4992
+p18286
 sg12152
 S'2/25/2015'
-p18297
+p18287
 sg12154
-(lp18298
-g4987
+(lp18288
+g11406
 asg12156
-(lp18299
+(lp18289
+g11401
+asg12158
+(lp18290
 S'Musical performances'
-p18300
-assg2337
-(dp18301
+p18291
+assg5439
+(dp18292
 g12148
 S'[Undated]'
-p18302
+p18293
 sg12150
 S'Cacioppo, George'
-p18303
-sg11
-g2340
+p18294
 sg12152
 S'2/25/2015'
-p18304
+p18295
 sg12154
-(lp18305
-g2335
+(lp18296
+g5442
 asg12156
+(lp18297
+g5437
+asg12158
+(lp18298
+S'Musical performances'
+p18299
+assg8151
+(dp18300
+g12148
+S'[Undated]'
+p18301
+sg12150
+S'Cacioppo, George'
+p18302
+sg12152
+S'2/25/2015'
+p18303
+sg12154
+(lp18304
+g8154
+asg12156
+(lp18305
+g8149
+asg12158
 (lp18306
 S'Musical performances'
 p18307
-assg3087
+assg4581
 (dp18308
 g12148
-S'1962 April 03'
+S'[Undated]'
 p18309
 sg12150
-S'Williams, G. Mennen'
+S'Cacioppo, George'
 p18310
-sg11
-g3090
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p18311
 sg12154
 (lp18312
-g3085
+g4584
 asg12156
 (lp18313
-S'Addresses'
-p18314
-assg5703
-(dp18315
+g4579
+asg12158
+(lp18314
+S'Musical performances'
+p18315
+assg8091
+(dp18316
 g12148
-S'1962 April 03'
-p18316
-sg12150
-S'Williams, G. Mennen'
+S'[Undated]'
 p18317
-sg11
-g5706
-sg12152
-S'11/01/2013'
+sg12150
+S'Cacioppo, George'
 p18318
+sg12152
+S'2/25/2015'
+p18319
 sg12154
-(lp18319
-g5701
-asg12156
 (lp18320
-S'Addresses'
-p18321
-assg11883
-(dp18322
-g12148
-S'1962 April 03'
+g8094
+asg12156
+(lp18321
+g8089
+asg12158
+(lp18322
+S'Musical performances'
 p18323
-sg12150
-S'Williams, G. Mennen'
-p18324
-sg11
-g11886
-sg12152
-S'11/01/2013'
+assg8283
+(dp18324
+g12148
+S'[Undated]'
 p18325
-sg12154
-(lp18326
-g11881
-asg12156
-(lp18327
-S'Addresses'
-p18328
-assg9315
-(dp18329
-g12148
-S'1962 March 30'
-p18330
 sg12150
-S'Williams, G. Mennen'
+S'Cacioppo, George'
+p18326
+sg12152
+S'2/25/2015'
+p18327
+sg12154
+(lp18328
+g8286
+asg12156
+(lp18329
+g8281
+ag283
+asg12158
+(lp18330
+S'Musical performances'
 p18331
-sg11
-g9318
-sg12152
-S'11/01/2013'
+aS'Musical performances'
 p18332
-sg12154
-(lp18333
-g9313
-asg12156
-(lp18334
-S'Addresses'
+assg1461
+(dp18333
+g12148
+S'[Undated]'
+p18334
+sg12150
+S'Cacioppo, George'
 p18335
-assg3207
-(dp18336
-g12148
-S'1967 March 03'
-p18337
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18338
-sg11
-g3210
 sg12152
-S'6/24/2013'
-p18339
+S'2/25/2015'
+p18336
 sg12154
-(lp18340
-g3205
+(lp18337
+g1464
 asg12156
-(lp18341
-S'Addresses'
+(lp18338
+g1459
+asg12158
+(lp18339
+S'Musical performances'
+p18340
+assg10989
+(dp18341
+g12148
+S'[Undated]'
 p18342
-aS'Radio programs'
+sg12150
+S'Cacioppo, George'
 p18343
-assg3453
-(dp18344
-g12148
-S'1954 January 24'
-p18345
-sg12150
-S'Moody, Blair'
-p18346
-sg11
-g3456
 sg12152
 S'2/25/2015'
-p18347
+p18344
 sg12154
-(lp18348
-g3451
+(lp18345
+g10992
 asg12156
-(lp18349
-S'Radio programs'
+(lp18346
+g10987
+asg12158
+(lp18347
+S'Musical performances'
+p18348
+assg10899
+(dp18349
+g12148
+S'1961 November 08, 1964 April 24'
 p18350
-assg3651
-(dp18351
-g12148
-S'1954 January 17'
-p18352
 sg12150
-S'Moody, Blair'
-p18353
-sg11
-g3654
+S'Kramer, Arthur W.'
+p18351
 sg12152
-S'2/25/2015'
-p18354
+S'6/05/2014'
+p18352
 sg12154
-(lp18355
-g3649
+(lp18353
+g10902
 asg12156
-(lp18356
-S'Radio programs'
+(lp18354
+g10897
+ag10891
+asg12158
+(lp18355
+S'Addresses'
+p18356
+aS'Addresses'
 p18357
-assg105
+assg8649
 (dp18358
 g12148
-S'1954 February 07'
+S'1961 December, 1961 October'
 p18359
 sg12150
-S'Moody, Blair'
+S'Kramer, Arthur W.'
 p18360
-sg11
-g108
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p18361
 sg12154
 (lp18362
-g103
+g8652
 asg12156
 (lp18363
-S'Radio programs'
-p18364
-assg9771
-(dp18365
-g12148
-S'1954 January 31'
+g8647
+ag8629
+asg12158
+(lp18364
+S'Addresses'
+p18365
+aS'Addresses'
 p18366
-sg12150
-S'Moody, Blair'
-p18367
-sg11
-g9774
-sg12152
-S'2/25/2015'
+assg11337
+(dp18367
+g12148
+S'1961 September 01'
 p18368
-sg12154
-(lp18369
-g9769
-asg12156
-(lp18370
-S'Radio programs'
-p18371
-assg1785
-(dp18372
-g12148
-S'1968 March 18'
-p18373
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Kramer, Arthur W.'
+p18369
+sg12152
+S'6/05/2014'
+p18370
+sg12154
+(lp18371
+g11340
+asg12156
+(lp18372
+g11335
+ag11347
+asg12158
+(lp18373
+S'Addresses'
 p18374
-sg11
-g1788
-sg12152
-S'6/24/2013'
+aS'Addresses'
 p18375
-sg12154
-(lp18376
-g1783
-ag1789
-asg12156
-(lp18377
-S'Radio programs'
+assg1761
+(dp18376
+g12148
+S'1961 August, 1961 September 01'
+p18377
+sg12150
+S'Kramer, Arthur W.'
 p18378
-aS'Panel discussions'
+sg12152
+S'6/05/2014'
 p18379
-aS'Forum'
-p18380
-aS'Radio programs'
-p18381
-aS'Panel discussions'
-p18382
-aS'Forum'
+sg12154
+(lp18380
+g1764
+ag1770
+asg12156
+(lp18381
+g1759
+ag1765
+asg12158
+(lp18382
+S'Addresses'
 p18383
-assg9285
-(dp18384
+aS'Addresses'
+p18384
+assg11043
+(dp18385
 g12148
-S'1953 November 15'
-p18385
-sg12150
-S'Moody, Blair'
+S'[Undated], 1961 September 01'
 p18386
-sg11
-g9288
-sg12152
-S'2/25/2015'
+sg12150
+S'Kramer, Arthur W.'
 p18387
+sg12152
+S'6/05/2014'
+p18388
 sg12154
-(lp18388
-g9283
-asg12156
 (lp18389
-S'Radio programs'
-p18390
-assg9633
-(dp18391
-g12148
-S'1954 January 10'
+g11046
+asg12156
+(lp18390
+g11041
+ag11035
+asg12158
+(lp18391
+S'Addresses'
 p18392
-sg12150
-S'Moody, Blair'
+aS'Addresses'
 p18393
-sg11
-g9636
+assg5397
+(dp18394
+g12148
+S'1961, 1962 January 27'
+p18395
+sg12150
+S'Kramer, Arthur W.'
+p18396
 sg12152
-S'2/25/2015'
-p18394
-sg12154
-(lp18395
-g9631
-asg12156
-(lp18396
-S'Radio programs'
+S'6/05/2014'
 p18397
-assg3459
-(dp18398
-g12148
-S'1971 November 06'
-p18399
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18400
-sg11
-g3462
-sg12152
-S'11/01/2013'
+sg12154
+(lp18398
+g5400
+asg12156
+(lp18399
+g5395
+ag7549
+asg12158
+(lp18400
+S'Addresses'
 p18401
-sg12154
-(lp18402
-g3457
-asg12156
-(lp18403
-S'Musical performances'
-p18404
-assg3603
-(dp18405
+aS'Addresses'
+p18402
+assg2463
+(dp18403
 g12148
-S'1954 February 21'
-p18406
+S'1961 November 08'
+p18404
 sg12150
-S'Moody, Blair'
-p18407
-sg11
-g3606
+S'Kramer, Arthur W.'
+p18405
 sg12152
-S'2/25/2015'
-p18408
+S'6/05/2014'
+p18406
 sg12154
-(lp18409
-g3601
+(lp18407
+g2466
 asg12156
-(lp18410
-S'Radio programs'
+(lp18408
+g2461
+ag2473
+asg12158
+(lp18409
+S'Addresses'
+p18410
+aS'Addresses'
 p18411
-assg6357
+assg6075
 (dp18412
 g12148
-S'1954 February 14'
+S'1970 January 07'
 p18413
 sg12150
-S'Moody, Blair'
+S"University of Michigan. Men's Glee Club"
 p18414
-sg11
-g6360
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p18415
 sg12154
 (lp18416
-g6355
+g6078
 asg12156
 (lp18417
-S'Radio programs'
-p18418
-assg3981
-(dp18419
+g6073
+asg12158
+(lp18418
+S'Musical performances'
+p18419
+assg3519
+(dp18420
 g12148
-S'1958 March 25'
-p18420
-sg12150
-S'Potter, Charles E.'
+S'1968 February 27'
 p18421
-sg11
-g3984
-sg12152
-S'11/01/2013'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p18422
+sg12152
+S'6/24/2013'
+p18423
 sg12154
-(lp18423
-g3979
-asg12156
 (lp18424
-S'Musical performances'
-p18425
-assg6603
-(dp18426
-g12148
-S'[Undated]'
-p18427
-sg12150
-S'Potter, Charles E.'
-p18428
-sg11
-g6606
-sg12152
-S'11/01/2013'
-p18429
-sg12154
-(lp18430
-g6601
+g3522
 asg12156
-(lp18431
-S'Dialogues'
-p18432
-aS'Receptions'
-p18433
-assg10047
-(dp18434
-g12148
-S'1958 June 15'
-p18435
-sg12150
-S'Potter, Charles E.'
-p18436
-sg11
-g10050
-sg12152
-S'11/01/2013'
-p18437
-sg12154
-(lp18438
-g10045
-asg12156
-(lp18439
+(lp18425
+g3517
+asg12158
+(lp18426
 S'Radio programs'
+p18427
+aS'Dedications (ceremonies)'
+p18428
+assg6723
+(dp18429
+g12148
+S'1957 December 08'
+p18430
+sg12150
+S'Crane, Henry Hitt'
+p18431
+sg12152
+S'6/24/2013'
+p18432
+sg12154
+(lp18433
+g6726
+asg12156
+(lp18434
+g6721
+ag4141
+asg12158
+(lp18435
+S'Sermons'
+p18436
+aS'Sermons'
+p18437
+assg3315
+(dp18438
+g12148
+S'1958 February 09'
+p18439
+sg12150
+S'Crane, Henry Hitt'
 p18440
-aS'Conferences'
+sg12152
+S'6/24/2013'
 p18441
-assg615
-(dp18442
-g12148
-S'1961'
-p18443
-sg12150
-S'University of Michigan. Alumni Association.'
-p18444
-sg11
-g618
-sg12152
-S'11/01/2013'
+sg12154
+(lp18442
+g3318
+asg12156
+(lp18443
+g3313
+ag3307
+asg12158
+(lp18444
+S'Sermons'
 p18445
-sg12154
-(lp18446
-g613
-asg12156
-(lp18447
-S'Musical performances'
+aS'Sermons'
+p18446
+assg387
+(dp18447
+g12148
+S'1958 March 23'
 p18448
-assg10377
-(dp18449
-g12148
-S'1960 October 13, 14'
+sg12150
+S'Crane, Henry Hitt'
+p18449
+sg12152
+S'6/24/2013'
 p18450
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18451
-sg11
-g10380
-sg12152
-S'6/24/2013'
-p18452
 sg12154
+(lp18451
+g390
+asg12156
+(lp18452
+g385
+ag397
+asg12158
 (lp18453
-g10375
-asg12156
-(lp18454
-S'Addresses'
+S'Sermons'
+p18454
+aS'Sermons'
 p18455
-aS'Radio programs'
-p18456
-assg7839
-(dp18457
+assg9861
+(dp18456
 g12148
-S'1960 October 14'
-p18458
+S'1958 March 09'
+p18457
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18459
-sg11
-g7842
+S'Crane, Henry Hitt'
+p18458
 sg12152
 S'6/24/2013'
-p18460
+p18459
 sg12154
-(lp18461
-g7837
+(lp18460
+g9864
 asg12156
+(lp18461
+g9859
+ag9865
+asg12158
 (lp18462
-S'Addresses'
+S'Sermons'
 p18463
-aS'Radio programs'
+aS'Sermons'
 p18464
-assg7503
+assg3741
 (dp18465
 g12148
-S'1960 October 13'
+S'1958 April 27'
 p18466
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Crane, Henry Hitt'
 p18467
-sg11
-g7506
 sg12152
 S'6/24/2013'
 p18468
 sg12154
 (lp18469
-g7501
+g3744
 asg12156
 (lp18470
-S'Addresses'
-p18471
-aS'Radio programs'
+g3739
+ag3733
+asg12158
+(lp18471
+S'Sermons'
 p18472
-assg2343
-(dp18473
-g12148
-S'1956 May 22'
-p18474
-sg12150
-S'Crane, Henry Hitt'
-p18475
-sg11
-g2346
-sg12152
-S'6/24/2013'
-p18476
-sg12154
-(lp18477
-g2341
-asg12156
-(lp18478
-S'Sermons'
-p18479
-assg1557
-(dp18480
-g12148
-S'1956 March 15'
-p18481
-sg12150
-S'Crane, Henry Hitt'
-p18482
-sg11
-g1560
-sg12152
-S'6/24/2013'
-p18483
-sg12154
-(lp18484
-g1555
-ag1549
-asg12156
-(lp18485
-S'Sermons'
-p18486
 aS'Sermons'
-p18487
-assg8253
-(dp18488
+p18473
+assg6459
+(dp18474
 g12148
-S'1966 April 30'
-p18489
+S'1958 April 13'
+p18475
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18490
-sg11
-g8256
+S'Crane, Henry Hitt'
+p18476
 sg12152
 S'6/24/2013'
+p18477
+sg12154
+(lp18478
+g6462
+asg12156
+(lp18479
+g6457
+ag6445
+asg12158
+(lp18480
+S'Sermons'
+p18481
+aS'Sermons'
+p18482
+assg9609
+(dp18483
+g12148
+S'1958 May 04'
+p18484
+sg12150
+S'Crane, Henry Hitt'
+p18485
+sg12152
+S'6/24/2013'
+p18486
+sg12154
+(lp18487
+g9612
+asg12156
+(lp18488
+g9607
+ag9613
+asg12158
+(lp18489
+S'Sermons'
+p18490
+aS'Sermons'
 p18491
-sg12154
-(lp18492
-g8251
-asg12156
-(lp18493
-S'Addresses'
+assg855
+(dp18492
+g12148
+S'1955 July 21'
+p18493
+sg12150
+S'Brucker, Wilber Marion'
 p18494
-aS'Radio programs'
+sg12152
+S'11/01/2013'
 p18495
-assg11493
-(dp18496
-g12148
-S'[1963, 1964?]'
-p18497
-sg12150
-S'University of Michigan. Center for the Education of Women.'
-p18498
-sg11
-g11496
-sg12152
-S'6/05/2014'
+sg12154
+(lp18496
+g858
+asg12156
+(lp18497
+g853
+asg12158
+(lp18498
+S'Addresses'
 p18499
-sg12154
-(lp18500
-g11491
-asg12156
-(lp18501
-S'Interviews'
+aS'Inauguration'
+p18500
+assg441
+(dp18501
+g12148
+S'1955 August 09'
 p18502
-aS'Radio programs'
+sg12150
+S'Brucker, Wilber Marion'
 p18503
-assg7053
-(dp18504
-g12148
-S'1952 December 28'
-p18505
-sg12150
-S'Cushing, George'
-p18506
-sg11
-g7056
 sg12152
-S'2/25/2015'
-p18507
+S'11/01/2013'
+p18504
 sg12154
-(lp18508
-g7051
+(lp18505
+g444
 asg12156
-(lp18509
-S'Radio programs'
-p18510
-aS'Talk shows'
+(lp18506
+g439
+asg12158
+(lp18507
+S'Addresses'
+p18508
+aS'Anniversary'
+p18509
+assg639
+(dp18510
+g12148
+S'1955 September 25, [Undated]'
 p18511
-assg5331
-(dp18512
-g12148
-S'1953 March 29'
-p18513
 sg12150
-S'Cushing, George'
-p18514
-sg11
-g5334
+S'Brucker, Wilber Marion'
+p18512
 sg12152
-S'2/25/2015'
-p18515
+S'11/01/2013'
+p18513
 sg12154
-(lp18516
-g5329
+(lp18514
+g642
 asg12156
-(lp18517
-S'Radio programs'
+(lp18515
+g637
+ag643
+asg12158
+(lp18516
+S'Interviews'
+p18517
+aS'Television'
 p18518
 aS'Talk shows'
 p18519
-assg2613
-(dp18520
-g12148
-S'1953 March 08'
+aS'Interviews'
+p18520
+aS'Television'
 p18521
-sg12150
-S'Cushing, George'
+aS'Talk shows'
 p18522
-sg11
-g2616
-sg12152
-S'2/25/2015'
-p18523
-sg12154
-(lp18524
-g2611
-asg12156
-(lp18525
-S'Radio programs'
-p18526
-aS'Talk shows'
-p18527
-assg11505
-(dp18528
+assg3783
+(dp18523
 g12148
-S'1952 November 09'
-p18529
+S'1970 February 10'
+p18524
 sg12150
-S'Cushing, George'
-p18530
-sg11
-g11508
-sg12152
-S'2/25/2015'
-p18531
-sg12154
-(lp18532
-g11503
-asg12156
-(lp18533
-S'Radio programs'
-p18534
-aS'Talk shows'
-p18535
-assg10797
-(dp18536
-g12148
-S'1952 November 02'
-p18537
-sg12150
-S'Cushing, George'
-p18538
-sg11
-g10800
-sg12152
-S'2/25/2015'
-p18539
-sg12154
-(lp18540
-g10795
-asg12156
-(lp18541
-S'Radio programs'
-p18542
-aS'Talk shows'
-p18543
-assg5277
-(dp18544
-g12148
-S'1986 October 29'
-p18545
-sg12150
-S'Historica Critica'
-p18546
-sg11
-g5280
+S'Griffiths, Martha Wright'
+p18525
 sg12152
 S'6/05/2014'
-p18547
+p18526
 sg12154
-(lp18548
-g5275
+(lp18527
+g3786
 asg12156
-(lp18549
-S'Oral Histories'
-p18550
-aS'Interviews'
+(lp18528
+g3781
+asg12158
+(lp18529
+S'Interviews'
+p18530
+aS'Radio programs'
+p18531
+assg1107
+(dp18532
+g12148
+S'1970 August 10'
+p18533
+sg12150
+S'Griffiths, Martha Wright'
+p18534
+sg12152
+S'6/05/2014'
+p18535
+sg12154
+(lp18536
+g1110
+asg12156
+(lp18537
+g1105
+asg12158
+(lp18538
+S'Interviews'
+p18539
+aS'Radio programs'
+p18540
+assg7335
+(dp18541
+g12148
+S'1969 October 21'
+p18542
+sg12150
+S'Griffiths, Martha Wright'
+p18543
+sg12152
+S'6/05/2014'
+p18544
+sg12154
+(lp18545
+g7338
+asg12156
+(lp18546
+g7333
+asg12158
+(lp18547
+S'Interviews'
+p18548
+aS'Radio programs'
+p18549
+assg9963
+(dp18550
+g12148
+S'[1970?]'
 p18551
-assg5283
-(dp18552
-g12148
-S'1951 November 23'
+sg12150
+S'Griffiths, Martha Wright'
+p18552
+sg12152
+S'6/05/2014'
 p18553
-sg12150
-S'Cushing, George'
-p18554
-sg11
-g5286
-sg12152
-S'2/25/2015'
-p18555
 sg12154
+(lp18554
+g9966
+asg12156
+(lp18555
+g9961
+asg12158
 (lp18556
-g5281
-asg12156
-(lp18557
-S'Radio programs'
+S'Interviews'
+p18557
+aS'Radio programs'
 p18558
-aS'Talk shows'
-p18559
-assg8457
-(dp18560
+assg9873
+(dp18559
 g12148
-S'1953 March 17'
-p18561
+S'1973 April 12'
+p18560
 sg12150
-S'Cushing, George'
-p18562
-sg11
-g8460
+S'Griffiths, Martha Wright'
+p18561
 sg12152
-S'2/25/2015'
-p18563
+S'6/05/2014'
+p18562
 sg12154
-(lp18564
-g8455
+(lp18563
+g9876
 asg12156
+(lp18564
+g9871
+asg12158
 (lp18565
-S'Radio programs'
+S'Interviews'
 p18566
-aS'Talk shows'
+aS'Radio programs'
 p18567
-assg10929
+assg10497
 (dp18568
 g12148
-S'1953 April 05'
+S'1961 April 22'
 p18569
 sg12150
-S'Cushing, George'
+S'Michigan Memorial Phoenix Project'
 p18570
-sg11
-g10932
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p18571
 sg12154
 (lp18572
-g10927
+g10500
 asg12156
 (lp18573
-S'Radio programs'
-p18574
-aS'Talk shows'
-p18575
-assg11757
-(dp18576
-g12148
-S'1978 March 18'
-p18577
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18578
-sg11
-g11760
-sg12152
-S'11/01/2013'
-p18579
-sg12154
-(lp18580
-g11755
-asg12156
-(lp18581
-S'Musical performances'
-p18582
-assg5811
-(dp18583
-g12148
-S'1978 March 18'
-p18584
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18585
-sg11
-g5814
-sg12152
-S'11/01/2013'
-p18586
-sg12154
-(lp18587
-g5809
-asg12156
-(lp18588
-S'Musical performances'
-p18589
-assg11853
-(dp18590
-g12148
-S'1973 November 09'
-p18591
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18592
-sg11
-g11856
-sg12152
-S'11/01/2013'
-p18593
-sg12154
-(lp18594
-g11851
-asg12156
-(lp18595
-S'Musical performances'
-p18596
-assg2523
-(dp18597
-g12148
-S'1973 November 09'
-p18598
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18599
-sg11
-g2526
-sg12152
-S'11/01/2013'
-p18600
-sg12154
-(lp18601
-g2521
-asg12156
-(lp18602
-S'Musical performances'
-p18603
-assg11787
-(dp18604
-g12148
-S'1968 March 15'
-p18605
-sg12150
-S'Hart, Jane Briggs'
-p18606
-sg11
-g11790
-sg12152
-S'2/25/2015'
-p18607
-sg12154
-(lp18608
-g11785
-ag11791
-asg12156
-(lp18609
+g10495
+asg12158
+(lp18574
 S'Interviews'
-p18610
+p18575
 aS'Radio programs'
-p18611
-aS'Interviews'
-p18612
-aS'Radio programs'
-p18613
-assg4449
-(dp18614
+p18576
+aS'Talk shows'
+p18577
+assg10695
+(dp18578
 g12148
-S'1954 February 21'
-p18615
+S'1961 January 25'
+p18579
+sg12150
+S'Michigan Memorial Phoenix Project'
+p18580
+sg12152
+S'11/01/2013'
+p18581
+sg12154
+(lp18582
+g10698
+asg12156
+(lp18583
+g10693
+asg12158
+(lp18584
+S'Lectures'
+p18585
+assg7113
+(dp18586
+g12148
+S'1962'
+p18587
+sg12150
+S'Michigan Memorial Phoenix Project'
+p18588
+sg12152
+S'11/01/2013'
+p18589
+sg12154
+(lp18590
+g7116
+asg12156
+(lp18591
+g7111
+asg12158
+(lp18592
+S'Lectures'
+p18593
+assg4695
+(dp18594
+g12148
+S'1961 April 25'
+p18595
+sg12150
+S'Michigan Memorial Phoenix Project'
+p18596
+sg12152
+S'11/01/2013'
+p18597
+sg12154
+(lp18598
+g4698
+asg12156
+(lp18599
+g4693
+asg12158
+(lp18600
+S'Interviews'
+p18601
+assg7965
+(dp18602
+g12148
+S'[Undated]'
+p18603
+sg12150
+S'Michigan Memorial Phoenix Project'
+p18604
+sg12152
+S'11/01/2013'
+p18605
+sg12154
+(lp18606
+g7968
+asg12156
+(lp18607
+g7963
+asg12158
+(lp18608
+S'Interviews'
+p18609
+aS'Radio programs'
+p18610
+aS'Talk shows'
+p18611
+assg6291
+(dp18612
+g12148
+S'1951 July 08'
+p18613
 sg12150
 S'Cushing, George'
-p18616
-sg11
-g4452
+p18614
 sg12152
 S'2/25/2015'
-p18617
+p18615
 sg12154
-(lp18618
-g4447
+(lp18616
+g6294
 asg12156
-(lp18619
+(lp18617
+g6289
+asg12158
+(lp18618
 S'Radio programs'
-p18620
+p18619
 aS'Talk shows'
-p18621
-assg8667
-(dp18622
+p18620
+assg4473
+(dp18621
 g12148
-S'1962 October 06'
-p18623
+S'1961 January 25'
+p18622
 sg12150
-S'Hart, Philip A.'
-p18624
-sg11
-g8670
+S'Michigan Memorial Phoenix Project'
+p18623
 sg12152
 S'11/01/2013'
-p18625
+p18624
 sg12154
-(lp18626
-g8665
+(lp18625
+g4476
 asg12156
+(lp18626
+g4471
+asg12158
 (lp18627
-S'Addresses'
+S'Lectures'
 p18628
-assg12039
+assg7989
 (dp18629
 g12148
-S'1987 February 10'
+S'1957 May 07'
 p18630
 sg12150
-S'Historica Critica'
+S'Romulo, Carlos'
 p18631
-sg11
-g12042
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p18632
 sg12154
 (lp18633
-g12037
-ag12043
+g7992
 asg12156
 (lp18634
-S'Oral Histories'
-p18635
-aS'Interviews'
+g7987
+asg12158
+(lp18635
+S'Addresses'
 p18636
-aS'Oral Histories'
-p18637
-aS'Interviews'
+assg10659
+(dp18637
+g12148
+S'1962'
 p18638
-assg6063
-(dp18639
-g12148
-S'1987 February 10'
+sg12150
+S'Michigan Memorial Phoenix Project'
+p18639
+sg12152
+S'11/01/2013'
 p18640
-sg12150
-S'Historica Critica'
-p18641
-sg11
-g6066
-sg12152
-S'6/05/2014'
-p18642
 sg12154
+(lp18641
+g10662
+asg12156
+(lp18642
+g10657
+asg12158
 (lp18643
-g6061
-ag6055
-asg12156
-(lp18644
-S'Oral Histories'
-p18645
-aS'Interviews'
+S'Lectures'
+p18644
+assg7371
+(dp18645
+g12148
+S'1962'
 p18646
-aS'Oral Histories'
+sg12150
+S'Michigan Memorial Phoenix Project'
 p18647
-aS'Interviews'
+sg12152
+S'11/01/2013'
 p18648
-assg3417
-(dp18649
-g12148
-S'1953 May 16'
-p18650
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18651
-sg11
-g3420
-sg12152
-S'11/01/2013'
+sg12154
+(lp18649
+g7374
+asg12156
+(lp18650
+g7369
+asg12158
+(lp18651
+S'Lectures'
 p18652
-sg12154
-(lp18653
-g3415
-asg12156
-(lp18654
-S'Musical performances'
+assg10197
+(dp18653
+g12148
+S'1951 October 28'
+p18654
+sg12150
+S'Cushing, George'
 p18655
-assg81
-(dp18656
-g12148
-S'[Undated]'
-p18657
-sg12150
-S'Crane, Henry Hitt'
-p18658
-sg11
-g84
 sg12152
-S'6/24/2013'
-p18659
+S'2/25/2015'
+p18656
 sg12154
-(lp18660
-g79
+(lp18657
+g10200
 asg12156
-(lp18661
-S'Sermons'
-p18662
-assg6327
-(dp18663
-g12148
-S'1953 May 16'
-p18664
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18665
-sg11
-g6330
-sg12152
-S'11/01/2013'
-p18666
-sg12154
-(lp18667
-g6325
-asg12156
-(lp18668
-S'Musical performances'
-p18669
-assg9255
-(dp18670
-g12148
-S'[Undated]'
-p18671
-sg12150
-S'Crane, Henry Hitt'
-p18672
-sg11
-g9258
-sg12152
-S'6/24/2013'
-p18673
-sg12154
-(lp18674
-g9253
-ag2737
-asg12156
-(lp18675
-S'Sermons'
-p18676
-aS'Sermons'
-p18677
-assg3831
-(dp18678
-g12148
-S'1962 April 02'
-p18679
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18680
-sg11
-g3834
-sg12152
-S'6/24/2013'
-p18681
-sg12154
-(lp18682
-g3829
-asg12156
-(lp18683
-S'Interviews'
-p18684
-aS'Radio programs'
-p18685
-aS'Press conferences'
-p18686
+(lp18658
+g10195
+asg12158
+(lp18659
+S'Radio programs'
+p18660
 aS'Talk shows'
-p18687
-assg9789
-(dp18688
+p18661
+assg9069
+(dp18662
 g12148
-S'[1970?]'
+S'1951 November 18'
+p18663
+sg12150
+S'Cushing, George'
+p18664
+sg12152
+S'2/25/2015'
+p18665
+sg12154
+(lp18666
+g9072
+asg12156
+(lp18667
+g9067
+asg12158
+(lp18668
+S'Radio programs'
+p18669
+aS'Talk shows'
+p18670
+assg7653
+(dp18671
+g12148
+S'1966 November 12'
+p18672
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18673
+sg12152
+S'11/01/2013'
+p18674
+sg12154
+(lp18675
+g7656
+asg12156
+(lp18676
+g7651
+asg12158
+(lp18677
+S'Musical performances'
+p18678
+assg1269
+(dp18679
+g12148
+S'1966 November 12'
+p18680
+sg12150
+S"University of Michigan. Men's Glee Club"
+p18681
+sg12152
+S'11/01/2013'
+p18682
+sg12154
+(lp18683
+g1272
+asg12156
+(lp18684
+g1267
+asg12158
+(lp18685
+S'Musical performances'
+p18686
+assg10809
+(dp18687
+g12148
+S'1952 May 10'
+p18688
+sg12150
+S"University of Michigan. Men's Glee Club"
 p18689
-sg12150
-S'Watson, Andrew S.'
+sg12152
+S'11/01/2013'
 p18690
-sg11
-g9792
-sg12152
-S'6/05/2014'
-p18691
 sg12154
+(lp18691
+g10812
+asg12156
 (lp18692
-g9787
-ag9793
-asg12156
+g10807
+asg12158
 (lp18693
-S'Lectures'
+S'Musical performances'
 p18694
-aS'Lectures'
-p18695
-assg3531
-(dp18696
+assg8967
+(dp18695
 g12148
-S'[Undated]'
+S'1968 January 19, 20'
+p18696
+sg12150
+S'Republican Party (Mich.). State Central Committee'
 p18697
-sg12150
-S'Watson, Andrew S.'
+sg12152
+S'6/05/2014'
 p18698
-sg11
-g3534
-sg12152
-S'6/05/2014'
-p18699
 sg12154
+(lp18699
+g8970
+asg12156
 (lp18700
-g3529
-asg12156
+g8965
+ag8977
+asg12158
 (lp18701
-S'Lectures'
+S'Seminars'
 p18702
-assg9357
-(dp18703
+aS'Seminars'
+p18703
+assg8175
+(dp18704
 g12148
-S'[Undated]'
-p18704
-sg12150
-S'Watson, Andrew S.'
+S'1968 January 19, 20'
 p18705
-sg11
-g9360
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p18706
 sg12152
 S'6/05/2014'
-p18706
+p18707
 sg12154
-(lp18707
-g9355
-ag6811
-ag11887
-asg12156
 (lp18708
-S'Lectures'
-p18709
-aS'Lectures'
-p18710
-aS'Lectures'
+g8178
+asg12156
+(lp18709
+g8173
+ag8179
+ag2365
+asg12158
+(lp18710
+S'Interviews'
 p18711
-assg10065
-(dp18712
-g12148
-S'1981 May 14'
+aS'Radio programs'
+p18712
+aS'Seminars'
 p18713
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Interviews'
 p18714
-sg11
-g10068
-sg12152
-S'11/01/2013'
+aS'Radio programs'
 p18715
-sg12154
-(lp18716
-g10063
-asg12156
-(lp18717
-S'Musical performances'
+aS'Seminars'
+p18716
+aS'Interviews'
+p18717
+aS'Radio programs'
 p18718
-assg3213
-(dp18719
+aS'Seminars'
+p18719
+assg5379
+(dp18720
 g12148
-S'1967 June 01'
-p18720
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1965 September 14'
 p18721
-sg11
-g3216
-sg12152
-S'11/01/2013'
+sg12150
+S'Alternative Perspectives on Vietnam'
 p18722
+sg12152
+S'11/01/2013'
+p18723
 sg12154
-(lp18723
-g3211
-asg12156
 (lp18724
-S'Musical performances'
-p18725
-assg651
-(dp18726
-g12148
-S'1967 June 01'
+g5382
+asg12156
+(lp18725
+g5377
+ag5365
+asg12158
+(lp18726
+S'Addresses'
 p18727
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Conferences'
 p18728
-sg11
-g654
-sg12152
-S'11/01/2013'
+aS'Addresses'
 p18729
-sg12154
-(lp18730
-g649
-asg12156
-(lp18731
-S'Musical performances'
-p18732
-assg6759
-(dp18733
+aS'Conferences'
+p18730
+assg2181
+(dp18731
 g12148
-S'1967 June 01'
-p18734
+S'1965 September 17'
+p18732
 sg12150
-S"University of Michigan. Men's Glee Club"
-p18735
-sg11
-g6762
+S'Alternative Perspectives on Vietnam'
+p18733
 sg12152
 S'11/01/2013'
-p18736
+p18734
 sg12154
-(lp18737
-g6757
+(lp18735
+g2184
 asg12156
-(lp18738
-S'Musical performances'
+(lp18736
+g2179
+asg12158
+(lp18737
+S'Addresses'
+p18738
+aS'Conferences'
 p18739
-assg9381
+assg11865
 (dp18740
 g12148
-S'1967 June 01'
+S'1965 September 17'
 p18741
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Alternative Perspectives on Vietnam'
 p18742
-sg11
-g9384
 sg12152
 S'11/01/2013'
 p18743
 sg12154
 (lp18744
-g9379
+g11868
 asg12156
 (lp18745
-S'Musical performances'
-p18746
-assg579
-(dp18747
-g12148
-S'1963 March 19'
+g11863
+asg12158
+(lp18746
+S'Addresses'
+p18747
+aS'Conferences'
 p18748
+assg2193
+(dp18749
+g12148
+S'1965 September 15'
+p18750
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18749
-sg11
-g582
+S'Alternative Perspectives on Vietnam'
+p18751
+sg12152
+S'11/01/2013'
+p18752
+sg12154
+(lp18753
+g2196
+asg12156
+(lp18754
+g2191
+ag2185
+asg12158
+(lp18755
+S'Addresses'
+p18756
+aS'Conferences'
+p18757
+aS'Addresses'
+p18758
+aS'Conferences'
+p18759
+assg8517
+(dp18760
+g12148
+S'1965 September 16'
+p18761
+sg12150
+S'Alternative Perspectives on Vietnam'
+p18762
+sg12152
+S'11/01/2013'
+p18763
+sg12154
+(lp18764
+g8520
+asg12156
+(lp18765
+g8515
+ag8509
+asg12158
+(lp18766
+S'Addresses'
+p18767
+aS'Conferences'
+p18768
+aS'Addresses'
+p18769
+aS'Conferences'
+p18770
+assg2025
+(dp18771
+g12148
+S'1972 January 24'
+p18772
+sg12150
+S'Sinclair, John and Leni'
+p18773
 sg12152
 S'6/24/2013'
-p18750
-sg12154
-(lp18751
-g577
-ag583
-asg12156
-(lp18752
-S'Radio programs'
-p18753
-aS'Hearings'
-p18754
-aS'Radio programs'
-p18755
-aS'Hearings'
-p18756
-assg7065
-(dp18757
-g12148
-S'1959 October 21'
-p18758
-sg12150
-S'Kramer, Arthur W.'
-p18759
-sg11
-g7068
-sg12152
-S'6/05/2014'
-p18760
-sg12154
-(lp18761
-g7063
-ag7057
-asg12156
-(lp18762
-S'Addresses'
-p18763
-aS'Addresses'
-p18764
-assg9765
-(dp18765
-g12148
-S'1960 November 16'
-p18766
-sg12150
-S'Kramer, Arthur W.'
-p18767
-sg11
-g9768
-sg12152
-S'6/05/2014'
-p18768
-sg12154
-(lp18769
-g9763
-ag9751
-asg12156
-(lp18770
-S'Addresses'
-p18771
-aS'Addresses'
-p18772
-assg7209
-(dp18773
-g12148
-S'1985 April 19'
 p18774
-sg12150
-S'Historica Critica'
-p18775
-sg11
-g7212
-sg12152
-S'6/05/2014'
-p18776
 sg12154
-(lp18777
-g7207
+(lp18775
+g2028
 asg12156
-(lp18778
-S'Oral Histories'
+(lp18776
+g2023
+asg12158
+(lp18777
+S'Interviews'
+p18778
+aS'Radio programs'
 p18779
-aS'Interviews'
+aS'Talk shows'
 p18780
-assg4155
+assg10515
 (dp18781
 g12148
-S'1985 April 19'
+S'1973 July 14'
 p18782
 sg12150
-S'Historica Critica'
+S'Sinclair, John and Leni'
 p18783
-sg11
-g4158
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p18784
 sg12154
 (lp18785
-g4153
+g10518
 asg12156
 (lp18786
-S'Oral Histories'
-p18787
-aS'Interviews'
+g10513
+ag10519
+ag11905
+asg12158
+(lp18787
+S'Interviews'
 p18788
-assg8139
-(dp18789
-g12148
-S'1966 June 11?'
+aS'Interviews'
+p18789
+aS'Interviews'
 p18790
-sg12150
-S'Romney, George'
-p18791
-sg11
-g8142
-sg12152
-S'6/05/2014'
+assg5913
+(dp18791
+g12148
+S'1965 September 17'
 p18792
+sg12150
+S'Alternative Perspectives on Vietnam'
+p18793
+sg12152
+S'11/01/2013'
+p18794
 sg12154
-(lp18793
-g8137
+(lp18795
+g5916
 asg12156
-(lp18794
+(lp18796
+g5911
+asg12158
+(lp18797
 S'Addresses'
-p18795
-assg4443
-(dp18796
-g12148
-S'1976 February 27,1976 February 28, 1976 March 2, 1976 April 22'
-p18797
-sg12150
-S'Bassett, Leslie'
 p18798
-sg11
-g4446
-sg12152
-S'6/05/2014'
+aS'Conferences'
 p18799
-sg12154
-(lp18800
-g4441
-ag4435
-asg12156
-(lp18801
-S'Musical performances'
-p18802
-aS'Interviews'
-p18803
-aS'Musical performances'
-p18804
-aS'Interviews'
-p18805
-assg5871
-(dp18806
+assg8691
+(dp18800
 g12148
-S'1989 March 27, 1989 May 13'
-p18807
+S'1965 September 17'
+p18801
 sg12150
-S'Bassett, Leslie'
+S'Alternative Perspectives on Vietnam'
+p18802
+sg12152
+S'11/01/2013'
+p18803
+sg12154
+(lp18804
+g8694
+asg12156
+(lp18805
+g8689
+asg12158
+(lp18806
+S'Addresses'
+p18807
+aS'Conferences'
 p18808
-sg11
-g5874
+assg11307
+(dp18809
+g12148
+S'1974 June 07'
+p18810
+sg12150
+S'Sinclair, John and Leni'
+p18811
+sg12152
+S'6/24/2013'
+p18812
+sg12154
+(lp18813
+g11310
+asg12156
+(lp18814
+g11305
+ag11317
+asg12158
+(lp18815
+S'Musical performances'
+p18816
+aS'Interviews'
+p18817
+aS'Musical performances'
+p18818
+aS'Interviews'
+p18819
+assg11313
+(dp18820
+g12148
+S'1966 August 27'
+p18821
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p18822
 sg12152
 S'6/05/2014'
-p18809
-sg12154
-(lp18810
-g5869
-ag5875
-asg12156
-(lp18811
-S'Musical performances'
-p18812
-aS'Musical performances'
-p18813
-assg4107
-(dp18814
-g12148
-S'1986 November 15'
-p18815
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18816
-sg11
-g4110
-sg12152
-S'11/01/2013'
-p18817
-sg12154
-(lp18818
-g4105
-asg12156
-(lp18819
-S'Musical performances'
-p18820
-assg7569
-(dp18821
-g12148
-S'1986 November 15'
-p18822
-sg12150
-S"University of Michigan. Men's Glee Club"
 p18823
-sg11
-g7572
-sg12152
-S'11/01/2013'
-p18824
 sg12154
-(lp18825
-g7567
+(lp18824
+g11316
 asg12156
+(lp18825
+g11311
+asg12158
 (lp18826
-S'Musical performances'
+S'Conferences'
 p18827
-assg7563
+assg8775
 (dp18828
 g12148
-S'1988 November 07, 1989 January 25, 1989 February 15'
+S'1968 January 19, 20'
 p18829
 sg12150
-S'Bassett, Leslie'
+S'Republican Party (Mich.). State Central Committee'
 p18830
-sg11
-g7566
 sg12152
 S'6/05/2014'
 p18831
 sg12154
 (lp18832
-g7561
-ag8857
+g8778
 asg12156
 (lp18833
+g8773
+ag8767
+asg12158
+(lp18834
 S'Musical performances'
-p18834
-aS'Musical performances'
 p18835
-assg5007
-(dp18836
+aS'Musical performances'
+p18836
+assg5967
+(dp18837
 g12148
-S'1980 March 26'
-p18837
-sg12150
-S'Bassett, Leslie'
+S'1967 November 18'
 p18838
-sg11
-g5010
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p18839
 sg12152
 S'6/05/2014'
-p18839
+p18840
 sg12154
-(lp18840
-g5005
-asg12156
 (lp18841
-S'Musical performances'
-p18842
-assg8013
-(dp18843
-g12148
-S'1961 April 22'
+g5970
+asg12156
+(lp18842
+g5965
+asg12158
+(lp18843
+S'Addresses'
 p18844
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18845
-sg11
-g8016
-sg12152
-S'6/24/2013'
+assg5619
+(dp18845
+g12148
+S'1983 November 01'
 p18846
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p18847
+sg12152
+S'6/05/2014'
+p18848
 sg12154
-(lp18847
-g8011
+(lp18849
+g5622
 asg12156
-(lp18848
-S'Radio programs'
-p18849
-aS'Poetry readings'
-p18850
-assg2247
-(dp18851
-g12148
-S'1952 November 07'
+(lp18850
+g5617
+asg12158
+(lp18851
+S'Lectures'
 p18852
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Musical performances'
 p18853
-sg11
-g2250
-sg12152
-S'11/01/2013'
+aS'Radio programs'
 p18854
-sg12154
-(lp18855
-g2245
-asg12156
-(lp18856
-S'Musical performances'
-p18857
-assg5073
-(dp18858
+assg11655
+(dp18855
 g12148
-S'1952 November 07'
-p18859
+S'1983 November 01'
+p18856
 sg12150
-S"University of Michigan. Men's Glee Club"
-p18860
-sg11
-g5076
+S'Eclipse Jazz (University of Michigan)'
+p18857
 sg12152
-S'11/01/2013'
-p18861
+S'6/05/2014'
+p18858
 sg12154
-(lp18862
-g5071
+(lp18859
+g11658
 asg12156
-(lp18863
-S'Musical performances'
+(lp18860
+g11653
+asg12158
+(lp18861
+S'Lectures'
+p18862
+aS'Musical performances'
+p18863
+aS'Radio programs'
 p18864
-assg7833
+assg2901
 (dp18865
 g12148
-S'1952 November 07'
+S'1966 November 29, 1972 November 20'
 p18866
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Bassett, Leslie'
 p18867
-sg11
-g7836
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p18868
 sg12154
 (lp18869
-g7831
+g2904
 asg12156
 (lp18870
+g2899
+asg12158
+(lp18871
 S'Musical performances'
-p18871
-assg8193
-(dp18872
+p18872
+assg9411
+(dp18873
 g12148
-S'1966 October 18'
-p18873
+S'1960 February 15'
+p18874
+sg12150
+S'Bassett, Leslie'
+p18875
+sg12152
+S'6/05/2014'
+p18876
+sg12154
+(lp18877
+g9414
+asg12156
+(lp18878
+g9409
+asg12158
+(lp18879
+S'Musical performances'
+p18880
+assg3219
+(dp18881
+g12148
+S'1963 July 07'
+p18882
+sg12150
+S'Democratic Party (Mich.)'
+p18883
+sg12152
+S'6/05/2014'
+p18884
+sg12154
+(lp18885
+g3222
+asg12156
+(lp18886
+g3217
+asg12158
+(lp18887
+S'Radio programs'
+p18888
+assg8811
+(dp18889
+g12148
+S'1963 August 11'
+p18890
+sg12150
+S'Democratic Party (Mich.)'
+p18891
+sg12152
+S'6/05/2014'
+p18892
+sg12154
+(lp18893
+g8814
+asg12156
+(lp18894
+g8809
+asg12158
+(lp18895
+S'Radio programs'
+p18896
+assg10851
+(dp18897
+g12148
+S'1967 September 11-29'
+p18898
 sg12150
 S'Romney, George'
-p18874
-sg11
-g8196
+p18899
 sg12152
 S'6/05/2014'
-p18875
-sg12154
-(lp18876
-g8191
-asg12156
-(lp18877
-S'Addresses'
-p18878
-assg10143
-(dp18879
-g12148
-S'1954 December 27'
-p18880
-sg12150
-S'Schimpke, Albert J.'
-p18881
-sg11
-g10146
-sg12152
-S'11/01/2013'
-p18882
-sg12154
-(lp18883
-g10141
-ag10135
-asg12156
-(lp18884
-S'Oral Histories'
-p18885
-aS'Oral Histories'
-p18886
-assg5973
-(dp18887
-g12148
-S'1965'
-p18888
-sg12150
-S'Good, Tommy'
-p18889
-sg11
-g5976
-sg12152
-S'6/24/2013'
-p18890
-sg12154
-(lp18891
-g5971
-asg12156
-(lp18892
-S'Musical performances'
-p18893
-assg10977
-(dp18894
-g12148
-S'1971'
-p18895
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18896
-sg11
-g10980
-sg12152
-S'11/01/2013'
-p18897
-sg12154
-(lp18898
-g10975
-asg12156
-(lp18899
-S'Musical performances'
 p18900
-assg7437
-(dp18901
-g12148
-S'1979 April 07'
-p18902
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18903
-sg11
-g7440
-sg12152
-S'11/01/2013'
+sg12154
+(lp18901
+g10854
+asg12156
+(lp18902
+g10849
+ag4513
+asg12158
+(lp18903
+S'Press conferences'
 p18904
-sg12154
-(lp18905
-g7435
-ag7429
-asg12156
-(lp18906
-S'Musical performances'
+aS'Press conferences'
+p18905
+assg3747
+(dp18906
+g12148
+S'1966 October 03'
 p18907
-aS'Musical performances'
+sg12150
+S'Romney, George'
 p18908
-assg9237
-(dp18909
-g12148
-S'[Undated]'
-p18910
-sg12150
-S'Weil, Louis'
-p18911
-sg11
-g9240
 sg12152
-S'11/01/2013'
-p18912
+S'6/05/2014'
+p18909
 sg12154
-(lp18913
-g9235
+(lp18910
+g3750
 asg12156
-(lp18914
-S'Lectures'
+(lp18911
+g3745
+asg12158
+(lp18912
+S'Debates'
+p18913
+assg2571
+(dp18914
+g12148
+S'1966 September 27'
 p18915
-assg2973
-(dp18916
-g12148
-S'[Undated]'
-p18917
 sg12150
-S'Weil, Louis'
-p18918
-sg11
-g2976
+S'Romney, George'
+p18916
 sg12152
-S'11/01/2013'
-p18919
+S'6/05/2014'
+p18917
 sg12154
-(lp18920
-g2971
+(lp18918
+g2574
 asg12156
-(lp18921
-S'Lectures'
+(lp18919
+g2569
+ag2581
+asg12158
+(lp18920
+S'Conferences'
+p18921
+aS'Debates'
 p18922
-assg9225
-(dp18923
-g12148
-S'1960 May 09'
+aS'Conferences'
+p18923
+aS'Debates'
 p18924
+assg4851
+(dp18925
+g12148
+S'1967 September 11-29'
+p18926
+sg12150
+S'Romney, George'
+p18927
+sg12152
+S'6/05/2014'
+p18928
+sg12154
+(lp18929
+g4854
+asg12156
+(lp18930
+g4849
+ag4843
+asg12158
+(lp18931
+S'Panel discussions'
+p18932
+aS'Press conferences'
+p18933
+aS'Panel discussions'
+p18934
+aS'Press conferences'
+p18935
+assg1713
+(dp18936
+g12148
+S'1968 November 11'
+p18937
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p18925
-sg11
-g9228
+p18938
 sg12152
 S'6/24/2013'
-p18926
-sg12154
-(lp18927
-g9223
-asg12156
-(lp18928
-S'Radio programs'
-p18929
-aS'Poetry readings'
-p18930
-assg9129
-(dp18931
-g12148
-S'1971 October 29'
-p18932
-sg12150
-S'University of Michigan. Museum of Art.'
-p18933
-sg11
-g9132
-sg12152
-S'11/01/2013'
-p18934
-sg12154
-(lp18935
-g9127
-asg12156
-(lp18936
-S'Lectures'
-p18937
-assg375
-(dp18938
-g12148
-S'1966 February 19'
 p18939
-sg12150
-S'Post family'
-p18940
-sg11
-g378
-sg12152
-S'6/05/2014'
-p18941
 sg12154
+(lp18940
+g1716
+asg12156
+(lp18941
+g1711
+asg12158
 (lp18942
-g373
-asg12156
-(lp18943
-S'Interviews'
+S'Addresses'
+p18943
+aS'Radio programs'
 p18944
-assg6777
-(dp18945
+aS'Conferences'
+p18945
+assg3123
+(dp18946
 g12148
-S'1966 February 19'
-p18946
-sg12150
-S'Post family'
+S'1960 January 30'
 p18947
-sg11
-g6780
-sg12152
-S'6/05/2014'
-p18948
-sg12154
-(lp18949
-g6775
-asg12156
-(lp18950
-S'Interviews'
-p18951
-assg693
-(dp18952
-g12148
-S'[Undated]'
-p18953
 sg12150
-S'Post family'
-p18954
-sg11
-g696
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p18948
 sg12152
-S'6/05/2014'
-p18955
+S'6/24/2013'
+p18949
 sg12154
-(lp18956
-g691
+(lp18950
+g3126
+ag3120
 asg12156
-(lp18957
-S'Interviews'
+(lp18951
+g3121
+ag3115
+asg12158
+(lp18952
+S'Addresses'
+p18953
+aS'Radio programs'
+p18954
+aS'Dedications (ceremonies)'
+p18955
+aS'Addresses'
+p18956
+aS'Radio programs'
+p18957
+aS'Dedications (ceremonies)'
 p18958
-assg3369
+assg2127
 (dp18959
 g12148
-S'[Undated]'
+S'1967 September 11-29'
 p18960
 sg12150
-S'Post family'
+S'Romney, George'
 p18961
-sg11
-g3372
 sg12152
 S'6/05/2014'
 p18962
 sg12154
 (lp18963
-g3367
+g2130
 asg12156
 (lp18964
-S'Interviews'
-p18965
-assg4185
-(dp18966
-g12148
-S'1974 November 16'
+g2125
+ag2107
+asg12158
+(lp18965
+S'Press conferences'
+p18966
+aS'Press conferences'
 p18967
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18968
-sg11
-g4188
-sg12152
-S'11/01/2013'
+assg8697
+(dp18968
+g12148
+S'1967 October 02'
 p18969
-sg12154
-(lp18970
-g4183
-asg12156
-(lp18971
-S'Musical performances'
-p18972
-assg6843
-(dp18973
-g12148
-S'1974 November 16'
-p18974
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18975
-sg11
-g6846
-sg12152
-S'11/01/2013'
-p18976
-sg12154
-(lp18977
-g6841
-asg12156
-(lp18978
-S'Musical performances'
-p18979
-assg9717
-(dp18980
-g12148
-S'1974 November 16'
-p18981
-sg12150
-S"University of Michigan. Men's Glee Club"
-p18982
-sg11
-g9720
-sg12152
-S'11/01/2013'
-p18983
-sg12154
-(lp18984
-g9715
-asg12156
-(lp18985
-S'Musical performances'
-p18986
-assg8121
-(dp18987
-g12148
-S'1953 September 10'
-p18988
-sg12150
-S'Moody, Blair'
-p18989
-sg11
-g8124
-sg12152
-S'2/25/2015'
-p18990
-sg12154
-(lp18991
-g8119
-ag5323
-ag3997
-asg12156
-(lp18992
-S'Radio programs'
-p18993
-aS'Radio programs'
-p18994
-aS'Radio programs'
-p18995
-assg3975
-(dp18996
-g12148
-S'[Undated]'
-p18997
-sg12150
-S'Cacioppo, George'
-p18998
-sg11
-g3978
-sg12152
-S'2/25/2015'
-p18999
-sg12154
-(lp19000
-g3973
-asg12156
-(lp19001
-S'Musical performances'
-p19002
-assg6747
-(dp19003
-g12148
-S'[between 1950 and 1959]'
-p19004
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19005
-sg11
-g6750
+p18970
 sg12152
 S'6/24/2013'
-p19006
+p18971
 sg12154
-(lp19007
-g6745
+(lp18972
+g8700
+ag8706
+ag8712
 asg12156
-(lp19008
-S'Interviews'
-p19009
+(lp18973
+g8695
+ag8701
+ag8707
+asg12158
+(lp18974
+S'Lectures'
+p18975
 aS'Radio programs'
-p19010
-aS'Talk shows'
-p19011
-assg6891
-(dp19012
+p18976
+aS'Lectures'
+p18977
+aS'Radio programs'
+p18978
+aS'Lectures'
+p18979
+aS'Radio programs'
+p18980
+assg1875
+(dp18981
 g12148
-S'1982 March 11'
-p19013
+S'1967 September 11-29'
+p18982
 sg12150
-S'Michigan Organization for Human Rights'
-p19014
-sg11
-g6894
+S'Romney, George'
+p18983
 sg12152
 S'6/05/2014'
-p19015
+p18984
 sg12154
-(lp19016
-g6889
+(lp18985
+g1878
 asg12156
-(lp19017
+(lp18986
+g1873
+asg12158
+(lp18987
+S'Press conferences'
+p18988
+assg4809
+(dp18989
+g12148
+S'1958 October 27'
+p18990
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p18991
+sg12152
+S'6/24/2013'
+p18992
+sg12154
+(lp18993
+g4812
+asg12156
+(lp18994
+g4807
+asg12158
+(lp18995
 S'Radio programs'
-p19018
-assg4455
-(dp19019
+p18996
+aS'Poetry readings'
+p18997
+assg7665
+(dp18998
+g12148
+S'1964 May 22'
+p18999
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19000
+sg12152
+S'6/24/2013'
+p19001
+sg12154
+(lp19002
+g7668
+asg12156
+(lp19003
+g7663
+asg12158
+(lp19004
+S'Addresses'
+p19005
+aS'Radio programs'
+p19006
+assg7671
+(dp19007
+g12148
+S'1936'
+p19008
+sg12150
+S'Vandenberg, Arthur Hendrick'
+p19009
+sg12152
+S'6/24/2013'
+p19010
+sg12154
+(lp19011
+g7674
+asg12156
+(lp19012
+g7669
+asg12158
+(lp19013
+S'Addresses'
+p19014
+aS'Debates'
+p19015
+assg8601
+(dp19016
 g12148
 S'[Undated]'
-p19020
+p19017
 sg12150
-S'Michigan Organization for Human Rights'
-p19021
-sg11
-g4458
+S'Cacioppo, George'
+p19018
 sg12152
-S'6/05/2014'
-p19022
+S'2/25/2015'
+p19019
 sg12154
-(lp19023
-g4453
+(lp19020
+g8604
 asg12156
-(lp19024
-S'Radio programs'
+(lp19021
+g8599
+asg12158
+(lp19022
+S'Musical performances'
+p19023
+assg11061
+(dp19024
+g12148
+S'[Undated]'
 p19025
-assg1305
-(dp19026
-g12148
-S'1980 December 18'
+sg12150
+S'Cacioppo, George'
+p19026
+sg12152
+S'2/25/2015'
 p19027
-sg12150
-S'Michigan Organization for Human Rights'
-p19028
-sg11
-g1308
-sg12152
-S'6/05/2014'
-p19029
 sg12154
+(lp19028
+g11064
+asg12156
+(lp19029
+g11059
+asg12158
 (lp19030
-g1303
-asg12156
-(lp19031
-S'Radio programs'
-p19032
-assg10479
-(dp19033
+S'Musical performances'
+p19031
+assg1671
+(dp19032
 g12148
-S'1980 December 25'
-p19034
+S'[Undated]'
+p19033
 sg12150
-S'Michigan Organization for Human Rights'
-p19035
-sg11
-g10482
+S'Cacioppo, George'
+p19034
 sg12152
-S'6/05/2014'
-p19036
+S'2/25/2015'
+p19035
 sg12154
-(lp19037
-g10477
+(lp19036
+g1674
 asg12156
+(lp19037
+g1669
+asg12158
 (lp19038
-S'Radio programs'
+S'Musical performances'
 p19039
-assg1227
+assg6561
 (dp19040
 g12148
-S'1976 April 10'
+S'[Undated]'
 p19041
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Cacioppo, George'
 p19042
-sg11
-g1230
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p19043
 sg12154
 (lp19044
-g1225
+g6564
 asg12156
 (lp19045
+g6559
+asg12158
+(lp19046
 S'Musical performances'
-p19046
-assg3957
-(dp19047
+p19047
+assg10287
+(dp19048
 g12148
-S'1976 April 10'
-p19048
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'1967 December 09'
 p19049
-sg11
-g3960
-sg12152
-S'11/01/2013'
-p19050
-sg12154
-(lp19051
-g3955
-asg12156
-(lp19052
-S'Musical performances'
-p19053
-assg975
-(dp19054
-g12148
-S'1976 April 10'
-p19055
 sg12150
-S"University of Michigan. Men's Glee Club"
-p19056
-sg11
-g978
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19050
 sg12152
-S'11/01/2013'
-p19057
+S'6/24/2013'
+p19051
 sg12154
-(lp19058
-g973
+(lp19052
+g10290
+ag10308
 asg12156
-(lp19059
-S'Musical performances'
+(lp19053
+g10285
+ag10303
+asg12158
+(lp19054
+S'Addresses'
+p19055
+aS'Musical performances'
+p19056
+aS'Radio programs'
+p19057
+aS'Addresses'
+p19058
+aS'Musical performances'
+p19059
+aS'Radio programs'
 p19060
-assg7827
+assg4989
 (dp19061
 g12148
-S'1976 September 23'
+S'[Undated]'
 p19062
 sg12150
-S'Michigan Organization for Human Rights'
+S'Cacioppo, George'
 p19063
-sg11
-g7830
 sg12152
-S'6/05/2014'
+S'2/25/2015'
 p19064
 sg12154
 (lp19065
-g7825
+g4992
 asg12156
 (lp19066
-S'Radio programs'
-p19067
-assg5091
-(dp19068
+g4987
+asg12158
+(lp19067
+S'Musical performances'
+p19068
+assg2337
+(dp19069
 g12148
 S'[Undated]'
-p19069
-sg12150
-S'Michigan Organization for Human Rights'
 p19070
-sg11
-g5094
-sg12152
-S'6/05/2014'
+sg12150
+S'Cacioppo, George'
 p19071
+sg12152
+S'2/25/2015'
+p19072
 sg12154
-(lp19072
-g5089
-asg12156
 (lp19073
-S'Radio programs'
-p19074
-assg3279
-(dp19075
-g12148
-S'1976 June 17'
+g2340
+asg12156
+(lp19074
+g2335
+asg12158
+(lp19075
+S'Musical performances'
 p19076
-sg12150
-S'Michigan Organization for Human Rights'
-p19077
-sg11
-g3282
-sg12152
-S'6/05/2014'
+assg3087
+(dp19077
+g12148
+S'1962 April 03'
 p19078
+sg12150
+S'Williams, G. Mennen'
+p19079
+sg12152
+S'11/01/2013'
+p19080
 sg12154
-(lp19079
-g3277
-ag4639
+(lp19081
+g3090
 asg12156
-(lp19080
-S'Radio programs'
-p19081
-aS'Radio programs'
-p19082
-assg1851
-(dp19083
-g12148
-S'1976 August 12'
+(lp19082
+g3085
+asg12158
+(lp19083
+S'Addresses'
 p19084
-sg12150
-S'Michigan Organization for Human Rights'
-p19085
-sg11
-g1854
-sg12152
-S'6/05/2014'
+assg5703
+(dp19085
+g12148
+S'1962 April 03'
 p19086
-sg12154
-(lp19087
-g1849
-asg12156
-(lp19088
-S'Radio programs'
-p19089
-assg11091
-(dp19090
-g12148
-S'[Undated]'
-p19091
 sg12150
-S'Michigan Organization for Human Rights'
+S'Williams, G. Mennen'
+p19087
+sg12152
+S'11/01/2013'
+p19088
+sg12154
+(lp19089
+g5706
+asg12156
+(lp19090
+g5701
+asg12158
+(lp19091
+S'Addresses'
 p19092
-sg11
-g11094
+assg11883
+(dp19093
+g12148
+S'1962 April 03'
+p19094
+sg12150
+S'Williams, G. Mennen'
+p19095
 sg12152
-S'6/05/2014'
-p19093
-sg12154
-(lp19094
-g11089
-asg12156
-(lp19095
-S'Radio programs'
+S'11/01/2013'
 p19096
-aS'Dramatic readings'
-p19097
-assg1563
-(dp19098
-g12148
-S'1976 September 01'
-p19099
-sg12150
-S'Michigan Organization for Human Rights'
+sg12154
+(lp19097
+g11886
+asg12156
+(lp19098
+g11881
+asg12158
+(lp19099
+S'Addresses'
 p19100
-sg11
-g1566
+assg9315
+(dp19101
+g12148
+S'1962 March 30'
+p19102
+sg12150
+S'Williams, G. Mennen'
+p19103
 sg12152
-S'6/05/2014'
-p19101
-sg12154
-(lp19102
-g1561
-asg12156
-(lp19103
-S'Radio programs'
+S'11/01/2013'
 p19104
-assg4755
-(dp19105
-g12148
-S'1976 March 25'
-p19106
-sg12150
-S'Michigan Organization for Human Rights'
-p19107
-sg11
-g4758
-sg12152
-S'6/05/2014'
+sg12154
+(lp19105
+g9318
+asg12156
+(lp19106
+g9313
+asg12158
+(lp19107
+S'Addresses'
 p19108
-sg12154
-(lp19109
-g4753
-asg12156
-(lp19110
-S'Radio programs'
+assg3207
+(dp19109
+g12148
+S'1967 March 03'
+p19110
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p19111
-assg2013
-(dp19112
-g12148
-S'1976 April 08'
-p19113
-sg12150
-S'Michigan Organization for Human Rights'
-p19114
-sg11
-g2016
 sg12152
-S'6/05/2014'
-p19115
+S'6/24/2013'
+p19112
 sg12154
-(lp19116
-g2011
+(lp19113
+g3210
 asg12156
-(lp19117
-S'Radio programs'
-p19118
-assg8295
-(dp19119
+(lp19114
+g3205
+asg12158
+(lp19115
+S'Addresses'
+p19116
+aS'Radio programs'
+p19117
+assg3453
+(dp19118
 g12148
-S'1976 April 22'
+S'1954 January 24'
+p19119
+sg12150
+S'Moody, Blair'
 p19120
-sg12150
-S'Michigan Organization for Human Rights'
-p19121
-sg11
-g8298
 sg12152
-S'6/05/2014'
-p19122
+S'2/25/2015'
+p19121
 sg12154
-(lp19123
-g8293
+(lp19122
+g3456
 asg12156
+(lp19123
+g3451
+asg12158
 (lp19124
 S'Radio programs'
 p19125
-assg10635
+assg3651
 (dp19126
 g12148
-S'1976 May 20'
+S'1954 January 17'
 p19127
 sg12150
-S'Michigan Organization for Human Rights'
+S'Moody, Blair'
 p19128
-sg11
-g10638
 sg12152
-S'6/05/2014'
+S'2/25/2015'
 p19129
 sg12154
 (lp19130
-g10633
+g3654
 asg12156
 (lp19131
+g3649
+asg12158
+(lp19132
 S'Radio programs'
-p19132
-assg11619
-(dp19133
+p19133
+assg105
+(dp19134
 g12148
-S'1954 May 09'
-p19134
-sg12150
-S'Moody, Blair'
+S'1954 February 07'
 p19135
-sg11
-g11622
-sg12152
-S'2/25/2015'
+sg12150
+S'Moody, Blair'
 p19136
+sg12152
+S'2/25/2015'
+p19137
 sg12154
-(lp19137
-g11617
-asg12156
 (lp19138
+g108
+asg12156
+(lp19139
+g103
+asg12158
+(lp19140
 S'Radio programs'
-p19139
-assg11487
-(dp19140
-g12148
-S'1954 May 16'
 p19141
-sg12150
-S'Moody, Blair'
-p19142
-sg11
-g11490
-sg12152
-S'2/25/2015'
+assg9771
+(dp19142
+g12148
+S'1954 January 31'
 p19143
-sg12154
-(lp19144
-g11485
-asg12156
-(lp19145
-S'Radio programs'
-p19146
-assg11055
-(dp19147
-g12148
-S'1954 February 28'
-p19148
 sg12150
 S'Moody, Blair'
+p19144
+sg12152
+S'2/25/2015'
+p19145
+sg12154
+(lp19146
+g9774
+asg12156
+(lp19147
+g9769
+asg12158
+(lp19148
+S'Radio programs'
 p19149
-sg11
-g11058
+assg1785
+(dp19150
+g12148
+S'1968 March 18'
+p19151
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19152
 sg12152
-S'2/25/2015'
-p19150
-sg12154
-(lp19151
-g11053
-asg12156
-(lp19152
-S'Radio programs'
+S'6/24/2013'
 p19153
-assg1353
-(dp19154
-g12148
-S'1954 March 07'
-p19155
-sg12150
-S'Moody, Blair'
-p19156
-sg11
-g1356
-sg12152
-S'2/25/2015'
+sg12154
+(lp19154
+g1788
+ag1794
+asg12156
+(lp19155
+g1783
+ag1789
+asg12158
+(lp19156
+S'Radio programs'
 p19157
-sg12154
-(lp19158
-g1351
-asg12156
-(lp19159
-S'Radio programs'
+aS'Panel discussions'
+p19158
+aS'Forum'
+p19159
+aS'Radio programs'
 p19160
-assg7737
-(dp19161
-g12148
-S'1954 March 14'
+aS'Panel discussions'
+p19161
+aS'Forum'
 p19162
-sg12150
-S'Moody, Blair'
-p19163
-sg11
-g7740
-sg12152
-S'2/25/2015'
+assg9285
+(dp19163
+g12148
+S'1953 November 15'
 p19164
-sg12154
-(lp19165
-g7735
-asg12156
-(lp19166
-S'Radio programs'
-p19167
-assg4995
-(dp19168
-g12148
-S'1954 March 21'
-p19169
 sg12150
 S'Moody, Blair'
+p19165
+sg12152
+S'2/25/2015'
+p19166
+sg12154
+(lp19167
+g9288
+asg12156
+(lp19168
+g9283
+asg12158
+(lp19169
+S'Radio programs'
 p19170
-sg11
-g4998
+assg9633
+(dp19171
+g12148
+S'1954 January 10'
+p19172
+sg12150
+S'Moody, Blair'
+p19173
 sg12152
 S'2/25/2015'
-p19171
-sg12154
-(lp19172
-g4993
-asg12156
-(lp19173
-S'Radio programs'
 p19174
-assg8613
-(dp19175
-g12148
-S'1954 March 28'
-p19176
-sg12150
-S'Moody, Blair'
-p19177
-sg11
-g8616
-sg12152
-S'2/25/2015'
+sg12154
+(lp19175
+g9636
+asg12156
+(lp19176
+g9631
+asg12158
+(lp19177
+S'Radio programs'
 p19178
-sg12154
-(lp19179
-g8611
-asg12156
-(lp19180
-S'Radio programs'
+assg3459
+(dp19179
+g12148
+S'1971 November 06'
+p19180
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19181
-assg10887
-(dp19182
-g12148
-S'1954 April 04'
-p19183
-sg12150
-S'Moody, Blair'
-p19184
-sg11
-g10890
 sg12152
-S'2/25/2015'
-p19185
+S'11/01/2013'
+p19182
 sg12154
-(lp19186
-g10885
+(lp19183
+g3462
 asg12156
-(lp19187
-S'Radio programs'
+(lp19184
+g3457
+asg12158
+(lp19185
+S'Musical performances'
+p19186
+assg3603
+(dp19187
+g12148
+S'1954 February 21'
 p19188
-assg7581
-(dp19189
-g12148
-S'1954 April 11'
+sg12150
+S'Moody, Blair'
+p19189
+sg12152
+S'2/25/2015'
 p19190
-sg12150
-S'Moody, Blair'
-p19191
-sg11
-g7584
-sg12152
-S'2/25/2015'
-p19192
 sg12154
+(lp19191
+g3606
+asg12156
+(lp19192
+g3601
+asg12158
 (lp19193
-g7579
-asg12156
-(lp19194
 S'Radio programs'
-p19195
-assg4869
-(dp19196
+p19194
+assg6357
+(dp19195
 g12148
-S'1954 April 18'
-p19197
+S'1954 February 14'
+p19196
 sg12150
 S'Moody, Blair'
-p19198
-sg11
-g4872
+p19197
 sg12152
 S'2/25/2015'
-p19199
+p19198
 sg12154
-(lp19200
-g4867
+(lp19199
+g6360
 asg12156
+(lp19200
+g6355
+asg12158
 (lp19201
 S'Radio programs'
 p19202
-assg9033
+assg3981
 (dp19203
 g12148
-S'1954 January 28'
+S'1958 March 25'
 p19204
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Potter, Charles E.'
 p19205
-sg11
-g9036
 sg12152
-S'6/24/2013'
+S'11/01/2013'
 p19206
 sg12154
 (lp19207
-g9031
+g3984
 asg12156
 (lp19208
-S'Interviews'
-p19209
-aS'Radio programs'
+g3979
+asg12158
+(lp19209
+S'Musical performances'
 p19210
-aS'Talk shows'
-p19211
-assg11523
-(dp19212
+assg6603
+(dp19211
 g12148
-S'1954 January 29'
+S'[Undated]'
+p19212
+sg12150
+S'Potter, Charles E.'
 p19213
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12152
+S'11/01/2013'
 p19214
-sg11
-g11526
-sg12152
-S'6/24/2013'
-p19215
 sg12154
+(lp19215
+g6606
+asg12156
 (lp19216
-g11521
-asg12156
+g6601
+asg12158
 (lp19217
-S'Interviews'
+S'Dialogues'
 p19218
-aS'Radio programs'
+aS'Receptions'
 p19219
-aS'Talk shows'
-p19220
-assg2781
-(dp19221
+assg10047
+(dp19220
 g12148
-S'1954 January 14'
+S'1958 June 15'
+p19221
+sg12150
+S'Potter, Charles E.'
 p19222
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12152
+S'11/01/2013'
 p19223
-sg11
-g2784
-sg12152
-S'6/24/2013'
-p19224
 sg12154
+(lp19224
+g10050
+asg12156
 (lp19225
-g2779
-asg12156
+g10045
+asg12158
 (lp19226
-S'Interviews'
+S'Radio programs'
 p19227
-aS'Radio programs'
+aS'Conferences'
 p19228
-aS'Talk shows'
-p19229
-assg2529
-(dp19230
+assg615
+(dp19229
 g12148
-S'1951 January 15'
+S'1961'
+p19230
+sg12150
+S'University of Michigan. Alumni Association.'
 p19231
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12152
+S'11/01/2013'
 p19232
-sg11
-g2532
-sg12152
-S'6/24/2013'
-p19233
 sg12154
+(lp19233
+g618
+asg12156
 (lp19234
-g2527
-asg12156
+g613
+asg12158
 (lp19235
-S'Interviews'
+S'Musical performances'
 p19236
-aS'Radio programs'
-p19237
-aS'Talk shows'
+assg10377
+(dp19237
+g12148
+S'1960 October 13, 14'
 p19238
-assg5655
-(dp19239
-g12148
-S'1954 January 25'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19239
+sg12152
+S'6/24/2013'
 p19240
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19241
-sg11
-g5658
-sg12152
-S'6/24/2013'
-p19242
 sg12154
+(lp19241
+g10380
+asg12156
+(lp19242
+g10375
+asg12158
 (lp19243
-g5653
-asg12156
-(lp19244
-S'Interviews'
+S'Addresses'
+p19244
+aS'Radio programs'
 p19245
-aS'Radio programs'
-p19246
-aS'Talk shows'
+assg7839
+(dp19246
+g12148
+S'1960 October 14'
 p19247
-assg2871
-(dp19248
-g12148
-S'1954 January 26'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19248
+sg12152
+S'6/24/2013'
 p19249
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19250
-sg11
-g2874
-sg12152
-S'6/24/2013'
-p19251
 sg12154
+(lp19250
+g7842
+asg12156
+(lp19251
+g7837
+asg12158
 (lp19252
-g2869
-asg12156
-(lp19253
-S'Interviews'
+S'Addresses'
+p19253
+aS'Radio programs'
 p19254
-aS'Radio programs'
-p19255
-aS'Talk shows'
+assg7503
+(dp19255
+g12148
+S'1960 October 13'
 p19256
-assg9159
-(dp19257
-g12148
-S'1954 January 19'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19257
+sg12152
+S'6/24/2013'
 p19258
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19259
-sg11
-g9162
-sg12152
-S'6/24/2013'
-p19260
 sg12154
+(lp19259
+g7506
+asg12156
+(lp19260
+g7501
+asg12158
 (lp19261
-g9157
-ag9151
-asg12156
-(lp19262
-S'Interviews'
+S'Addresses'
+p19262
+aS'Radio programs'
 p19263
-aS'Radio programs'
-p19264
-aS'Talk shows'
+assg2343
+(dp19264
+g12148
+S'1956 May 22'
 p19265
-aS'Interviews'
+sg12150
+S'Crane, Henry Hitt'
 p19266
-aS'Radio programs'
+sg12152
+S'6/24/2013'
 p19267
-aS'Talk shows'
-p19268
-assg11541
-(dp19269
-g12148
-S'1954 February 05'
-p19270
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12154
+(lp19268
+g2346
+asg12156
+(lp19269
+g2341
+asg12158
+(lp19270
+S'Sermons'
 p19271
-sg11
-g11544
+assg1557
+(dp19272
+g12148
+S'1956 March 15'
+p19273
+sg12150
+S'Crane, Henry Hitt'
+p19274
 sg12152
 S'6/24/2013'
-p19272
-sg12154
-(lp19273
-g11539
-asg12156
-(lp19274
-S'Interviews'
 p19275
-aS'Radio programs'
-p19276
-aS'Talk shows'
-p19277
-assg9087
-(dp19278
-g12148
-S'1974 March 19'
+sg12154
+(lp19276
+g1560
+asg12156
+(lp19277
+g1555
+ag1549
+asg12158
+(lp19278
+S'Sermons'
 p19279
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Sermons'
 p19280
-sg11
-g9090
+assg8253
+(dp19281
+g12148
+S'1966 April 30'
+p19282
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19283
 sg12152
 S'6/24/2013'
-p19281
-sg12154
-(lp19282
-g9085
-asg12156
-(lp19283
-S'Radio programs'
 p19284
-aS'Panel discussions'
-p19285
-assg6219
-(dp19286
-g12148
-S'1975 January 21'
-p19287
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12154
+(lp19285
+g8256
+asg12156
+(lp19286
+g8251
+asg12158
+(lp19287
+S'Addresses'
 p19288
-sg11
-g6222
-sg12152
-S'6/24/2013'
+aS'Radio programs'
 p19289
-sg12154
-(lp19290
-g6217
-asg12156
-(lp19291
-S'Radio programs'
+assg11493
+(dp19290
+g12148
+S'[1963, 1964?]'
+p19291
+sg12150
+S'University of Michigan. Center for the Education of Women.'
 p19292
-assg5835
-(dp19293
-g12148
-S'1973 September 24'
-p19294
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19295
-sg11
-g5838
 sg12152
-S'6/24/2013'
-p19296
+S'6/05/2014'
+p19293
 sg12154
-(lp19297
-g5833
+(lp19294
+g11496
 asg12156
-(lp19298
-S'Radio programs'
-p19299
-aS'Panel discussions'
+(lp19295
+g11491
+asg12158
+(lp19296
+S'Interviews'
+p19297
+aS'Radio programs'
+p19298
+assg7053
+(dp19299
+g12148
+S'1952 December 28'
 p19300
-assg9351
-(dp19301
-g12148
-S'1973 October 22'
+sg12150
+S'Cushing, George'
+p19301
+sg12152
+S'2/25/2015'
 p19302
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19303
-sg11
-g9354
-sg12152
-S'6/24/2013'
-p19304
 sg12154
+(lp19303
+g7056
+asg12156
+(lp19304
+g7051
+asg12158
 (lp19305
-g9349
-asg12156
-(lp19306
 S'Radio programs'
+p19306
+aS'Talk shows'
 p19307
-aS'Panel discussions'
-p19308
-assg11805
-(dp19309
+assg5331
+(dp19308
 g12148
-S'1973 November 19'
-p19310
+S'1953 March 29'
+p19309
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19311
-sg11
-g11808
+S'Cushing, George'
+p19310
 sg12152
-S'6/24/2013'
-p19312
+S'2/25/2015'
+p19311
 sg12154
-(lp19313
-g11803
+(lp19312
+g5334
 asg12156
+(lp19313
+g5329
+asg12158
 (lp19314
 S'Radio programs'
 p19315
-assg8751
-(dp19316
+aS'Talk shows'
+p19316
+assg2613
+(dp19317
 g12148
-S'1973 December 21'
-p19317
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1953 March 08'
 p19318
-sg11
-g8754
-sg12152
-S'6/24/2013'
+sg12150
+S'Cushing, George'
 p19319
+sg12152
+S'2/25/2015'
+p19320
 sg12154
-(lp19320
-g8749
-asg12156
 (lp19321
+g2616
+asg12156
+(lp19322
+g2611
+asg12158
+(lp19323
 S'Radio programs'
-p19322
-assg5961
-(dp19323
-g12148
-S'1974 January 22'
 p19324
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Talk shows'
 p19325
-sg11
-g5964
+assg11505
+(dp19326
+g12148
+S'1952 November 09'
+p19327
+sg12150
+S'Cushing, George'
+p19328
 sg12152
-S'6/24/2013'
-p19326
-sg12154
-(lp19327
-g5959
-asg12156
-(lp19328
-S'Interviews'
+S'2/25/2015'
 p19329
-aS'Radio programs'
-p19330
-aS'Talk shows'
-p19331
-assg11949
-(dp19332
-g12148
-S'1974 February 19'
+sg12154
+(lp19330
+g11508
+asg12156
+(lp19331
+g11503
+asg12158
+(lp19332
+S'Radio programs'
 p19333
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Talk shows'
 p19334
-sg11
-g11952
+assg10797
+(dp19335
+g12148
+S'1952 November 02'
+p19336
+sg12150
+S'Cushing, George'
+p19337
 sg12152
-S'6/24/2013'
-p19335
-sg12154
-(lp19336
-g11947
-asg12156
-(lp19337
-S'Interviews'
+S'2/25/2015'
 p19338
-aS'Radio programs'
-p19339
-aS'Talk shows'
-p19340
-assg2313
-(dp19341
-g12148
-S'1974 March 19'
+sg12154
+(lp19339
+g10800
+asg12156
+(lp19340
+g10795
+asg12158
+(lp19341
+S'Radio programs'
 p19342
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+aS'Talk shows'
 p19343
-sg11
-g2316
+assg5277
+(dp19344
+g12148
+S'1986 October 29'
+p19345
+sg12150
+S'Historica Critica'
+p19346
 sg12152
-S'6/24/2013'
-p19344
-sg12154
-(lp19345
-g2311
-asg12156
-(lp19346
-S'Radio programs'
+S'6/05/2014'
 p19347
-assg723
-(dp19348
-g12148
-S'1952 February 17'
-p19349
-sg12150
-S'Cushing, George'
-p19350
-sg11
-g726
-sg12152
-S'2/25/2015'
+sg12154
+(lp19348
+g5280
+asg12156
+(lp19349
+g5275
+asg12158
+(lp19350
+S'Oral Histories'
 p19351
-sg12154
-(lp19352
-g721
-asg12156
-(lp19353
-S'Radio programs'
+aS'Interviews'
+p19352
+assg5283
+(dp19353
+g12148
+S'1951 November 23'
 p19354
-aS'Talk shows'
+sg12150
+S'Cushing, George'
 p19355
-assg3525
-(dp19356
-g12148
-S'1956 November 19'
-p19357
-sg12150
-S'Brucker, Wilber Marion'
-p19358
-sg11
-g3528
 sg12152
-S'11/01/2013'
-p19359
+S'2/25/2015'
+p19356
 sg12154
-(lp19360
-g3523
+(lp19357
+g5286
 asg12156
-(lp19361
-S'Addresses'
-p19362
-assg6423
-(dp19363
+(lp19358
+g5281
+asg12158
+(lp19359
+S'Radio programs'
+p19360
+aS'Talk shows'
+p19361
+assg8457
+(dp19362
 g12148
-S'1956 November 11'
+S'1953 March 17'
+p19363
+sg12150
+S'Cushing, George'
 p19364
-sg12150
-S'Brucker, Wilber Marion'
+sg12152
+S'2/25/2015'
 p19365
-sg11
-g6426
+sg12154
+(lp19366
+g8460
+asg12156
+(lp19367
+g8455
+asg12158
+(lp19368
+S'Radio programs'
+p19369
+aS'Talk shows'
+p19370
+assg10929
+(dp19371
+g12148
+S'1953 April 05'
+p19372
+sg12150
+S'Cushing, George'
+p19373
+sg12152
+S'2/25/2015'
+p19374
+sg12154
+(lp19375
+g10932
+asg12156
+(lp19376
+g10927
+asg12158
+(lp19377
+S'Radio programs'
+p19378
+aS'Talk shows'
+p19379
+assg11757
+(dp19380
+g12148
+S'1978 March 18'
+p19381
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19382
 sg12152
 S'11/01/2013'
-p19366
+p19383
 sg12154
-(lp19367
-g6421
+(lp19384
+g11760
 asg12156
-(lp19368
-S'Dedications (ceremonies)'
-p19369
-assg9879
-(dp19370
-g12148
-S'1952 October 19'
-p19371
-sg12150
-S'Cushing, George'
-p19372
-sg11
-g9882
-sg12152
-S'2/25/2015'
-p19373
-sg12154
-(lp19374
-g9877
-asg12156
-(lp19375
-S'Radio programs'
-p19376
-aS'Talk shows'
-p19377
-assg4131
-(dp19378
-g12148
-S'1952 July 20'
-p19379
-sg12150
-S'Cushing, George'
-p19380
-sg11
-g4134
-sg12152
-S'2/25/2015'
-p19381
-sg12154
-(lp19382
-g4129
-asg12156
-(lp19383
-S'Radio programs'
-p19384
-aS'Talk shows'
-p19385
-assg6807
-(dp19386
-g12148
-S'1952 August 24'
-p19387
-sg12150
-S'Cushing, George'
-p19388
-sg11
-g6810
-sg12152
-S'2/25/2015'
-p19389
-sg12154
-(lp19390
-g6805
-asg12156
-(lp19391
-S'Radio programs'
-p19392
-aS'Talk shows'
-p19393
-assg753
-(dp19394
-g12148
-S'1952 June 22'
-p19395
-sg12150
-S'Cushing, George'
-p19396
-sg11
-g756
-sg12152
-S'2/25/2015'
-p19397
-sg12154
-(lp19398
-g751
-asg12156
-(lp19399
-S'Radio programs'
-p19400
-aS'Talk shows'
-p19401
-assg10209
-(dp19402
-g12148
-S'1952 July 06'
-p19403
-sg12150
-S'Cushing, George'
-p19404
-sg11
-g10212
-sg12152
-S'2/25/2015'
-p19405
-sg12154
-(lp19406
-g10207
-asg12156
-(lp19407
-S'Radio programs'
-p19408
-aS'Talk shows'
-p19409
-assg6981
-(dp19410
-g12148
-S'1952 March 16'
-p19411
-sg12150
-S'Cushing, George'
-p19412
-sg11
-g6984
-sg12152
-S'2/25/2015'
-p19413
-sg12154
-(lp19414
-g6979
-asg12156
-(lp19415
-S'Radio programs'
-p19416
-aS'Talk shows'
-p19417
-assg9567
-(dp19418
-g12148
-S'1952 April 06'
-p19419
-sg12150
-S'Cushing, George'
-p19420
-sg11
-g9570
-sg12152
-S'2/25/2015'
-p19421
-sg12154
-(lp19422
-g9565
-asg12156
-(lp19423
-S'Radio programs'
-p19424
-aS'Talk shows'
-p19425
-assg873
-(dp19426
-g12148
-S'1951 December 02'
-p19427
-sg12150
-S'Cushing, George'
-p19428
-sg11
-g876
-sg12152
-S'2/25/2015'
-p19429
-sg12154
-(lp19430
-g871
-asg12156
-(lp19431
-S'Radio programs'
-p19432
-aS'Talk shows'
-p19433
-assg879
-(dp19434
-g12148
-S'1963 June 08'
-p19435
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19436
-sg11
-g882
-sg12152
-S'6/24/2013'
-p19437
-sg12154
-(lp19438
-g877
-asg12156
-(lp19439
-S'Addresses'
-p19440
-aS'Radio programs'
-p19441
-assg405
-(dp19442
-g12148
-S'1952 August 26'
-p19443
-sg12150
-S'Cushing, George'
-p19444
-sg11
-g408
-sg12152
-S'2/25/2015'
-p19445
-sg12154
-(lp19446
-g403
-asg12156
-(lp19447
+(lp19385
+g11755
+asg12158
+(lp19386
 S'Musical performances'
-p19448
+p19387
+assg5811
+(dp19388
+g12148
+S'1978 March 18'
+p19389
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19390
+sg12152
+S'11/01/2013'
+p19391
+sg12154
+(lp19392
+g5814
+asg12156
+(lp19393
+g5809
+asg12158
+(lp19394
+S'Musical performances'
+p19395
+assg11853
+(dp19396
+g12148
+S'1973 November 09'
+p19397
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19398
+sg12152
+S'11/01/2013'
+p19399
+sg12154
+(lp19400
+g11856
+asg12156
+(lp19401
+g11851
+asg12158
+(lp19402
+S'Musical performances'
+p19403
+assg2523
+(dp19404
+g12148
+S'1973 November 09'
+p19405
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19406
+sg12152
+S'11/01/2013'
+p19407
+sg12154
+(lp19408
+g2526
+asg12156
+(lp19409
+g2521
+asg12158
+(lp19410
+S'Musical performances'
+p19411
+assg11787
+(dp19412
+g12148
+S'1968 March 15'
+p19413
+sg12150
+S'Hart, Jane Briggs'
+p19414
+sg12152
+S'2/25/2015'
+p19415
+sg12154
+(lp19416
+g11790
+asg12156
+(lp19417
+g11785
+ag11791
+asg12158
+(lp19418
+S'Interviews'
+p19419
 aS'Radio programs'
-p19449
+p19420
+aS'Interviews'
+p19421
+aS'Radio programs'
+p19422
+assg4449
+(dp19423
+g12148
+S'1954 February 21'
+p19424
+sg12150
+S'Cushing, George'
+p19425
+sg12152
+S'2/25/2015'
+p19426
+sg12154
+(lp19427
+g4452
+asg12156
+(lp19428
+g4447
+asg12158
+(lp19429
+S'Radio programs'
+p19430
 aS'Talk shows'
+p19431
+assg8667
+(dp19432
+g12148
+S'1962 October 06'
+p19433
+sg12150
+S'Hart, Philip A.'
+p19434
+sg12152
+S'11/01/2013'
+p19435
+sg12154
+(lp19436
+g8670
+asg12156
+(lp19437
+g8665
+asg12158
+(lp19438
+S'Addresses'
+p19439
+assg12039
+(dp19440
+g12148
+S'1987 February 10'
+p19441
+sg12150
+S'Historica Critica'
+p19442
+sg12152
+S'6/05/2014'
+p19443
+sg12154
+(lp19444
+g12042
+asg12156
+(lp19445
+g12037
+ag12043
+asg12158
+(lp19446
+S'Oral Histories'
+p19447
+aS'Interviews'
+p19448
+aS'Oral Histories'
+p19449
+aS'Interviews'
 p19450
-assg4113
+assg6063
 (dp19451
 g12148
-S'1980 March 14'
+S'1987 February 10'
 p19452
 sg12150
-S'Bassett, Leslie'
+S'Historica Critica'
 p19453
-sg11
-g4116
 sg12152
 S'6/05/2014'
 p19454
 sg12154
 (lp19455
-g4111
-ag4759
+g6066
 asg12156
 (lp19456
-S'Musical performances'
-p19457
-aS'Musical performances'
-p19458
-assg9945
-(dp19459
-g12148
-S'1966 May 21'
-p19460
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19461
-sg11
-g9948
-sg12152
-S'6/24/2013'
-p19462
-sg12154
-(lp19463
-g9943
-asg12156
-(lp19464
+g6061
+ag6055
+asg12158
+(lp19457
 S'Oral Histories'
-p19465
+p19458
 aS'Interviews'
-p19466
-aS'Radio programs'
-p19467
-aS'Talk shows'
-p19468
-assg10017
-(dp19469
+p19459
+aS'Oral Histories'
+p19460
+aS'Interviews'
+p19461
+assg3417
+(dp19462
 g12148
-S'1966 May 08'
-p19470
+S'1953 May 16'
+p19463
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S"University of Michigan. Men's Glee Club"
+p19464
+sg12152
+S'11/01/2013'
+p19465
+sg12154
+(lp19466
+g3420
+asg12156
+(lp19467
+g3415
+asg12158
+(lp19468
+S'Musical performances'
+p19469
+assg81
+(dp19470
+g12148
+S'[Undated]'
 p19471
-sg11
-g10020
+sg12150
+S'Crane, Henry Hitt'
+p19472
 sg12152
 S'6/24/2013'
-p19472
+p19473
 sg12154
-(lp19473
-g10015
-asg12156
 (lp19474
-S'Interviews'
-p19475
-aS'Radio programs'
-p19476
-aS'Talk shows'
+g84
+asg12156
+(lp19475
+g79
+asg12158
+(lp19476
+S'Sermons'
 p19477
-assg7413
+assg6327
 (dp19478
 g12148
-S'1964 May 11'
+S'1953 May 16'
 p19479
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S"University of Michigan. Men's Glee Club"
 p19480
-sg11
-g7416
 sg12152
-S'6/24/2013'
+S'11/01/2013'
 p19481
 sg12154
 (lp19482
-g7411
+g6330
 asg12156
 (lp19483
-S'Interviews'
-p19484
-aS'Radio programs'
+g6325
+asg12158
+(lp19484
+S'Musical performances'
 p19485
-aS'Talk shows'
-p19486
-assg10161
-(dp19487
+assg9255
+(dp19486
 g12148
-S'1965 May 12'
+S'[Undated]'
+p19487
+sg12150
+S'Crane, Henry Hitt'
 p19488
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+sg12152
+S'6/24/2013'
 p19489
-sg11
-g10164
-sg12152
-S'6/24/2013'
-p19490
 sg12154
+(lp19490
+g9258
+asg12156
 (lp19491
-g10159
-asg12156
+g9253
+ag2737
+asg12158
 (lp19492
-S'Radio programs'
+S'Sermons'
 p19493
-assg663
-(dp19494
+aS'Sermons'
+p19494
+assg3831
+(dp19495
 g12148
-S'1965 May 12'
-p19495
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1962 April 02'
 p19496
-sg11
-g666
-sg12152
-S'6/24/2013'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p19497
+sg12152
+S'6/24/2013'
+p19498
 sg12154
-(lp19498
-g661
-asg12156
 (lp19499
-S'Radio programs'
-p19500
-assg9975
-(dp19501
-g12148
-S'1966 May 03'
+g3834
+asg12156
+(lp19500
+g3829
+asg12158
+(lp19501
+S'Interviews'
 p19502
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19503
-sg11
-g9978
-sg12152
-S'6/24/2013'
-p19504
-sg12154
-(lp19505
-g9973
-asg12156
-(lp19506
-S'Musical performances'
-p19507
 aS'Radio programs'
+p19503
+aS'Press conferences'
+p19504
+aS'Talk shows'
+p19505
+assg9789
+(dp19506
+g12148
+S'[1970?]'
+p19507
+sg12150
+S'Watson, Andrew S.'
 p19508
-assg7599
-(dp19509
-g12148
-S'1966 May 17, 19'
-p19510
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19511
-sg11
-g7602
 sg12152
-S'6/24/2013'
-p19512
+S'6/05/2014'
+p19509
 sg12154
-(lp19513
-g7597
+(lp19510
+g9792
 asg12156
-(lp19514
-S'Radio programs'
-p19515
-assg10023
-(dp19516
+(lp19511
+g9787
+ag9793
+asg12158
+(lp19512
+S'Lectures'
+p19513
+aS'Lectures'
+p19514
+assg3531
+(dp19515
 g12148
-S'1962 June 20'
+S'[Undated]'
+p19516
+sg12150
+S'Watson, Andrew S.'
 p19517
-sg12150
-S"University of Michigan. Men's Glee Club"
-p19518
-sg11
-g10026
 sg12152
-S'11/01/2013'
-p19519
+S'6/05/2014'
+p19518
 sg12154
-(lp19520
-g10021
+(lp19519
+g3534
 asg12156
+(lp19520
+g3529
+asg12158
 (lp19521
-S'Musical performances'
+S'Lectures'
 p19522
-assg657
+assg9357
 (dp19523
 g12148
-S'1962 June 20'
+S'[Undated]'
 p19524
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Watson, Andrew S.'
 p19525
-sg11
-g660
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p19526
 sg12154
 (lp19527
-g655
+g9360
 asg12156
 (lp19528
-S'Musical performances'
-p19529
-assg1581
-(dp19530
-g12148
-S'1954 May'
+g9355
+ag6811
+ag11887
+asg12158
+(lp19529
+S'Lectures'
+p19530
+aS'Lectures'
 p19531
-sg12150
-S'Bennett, John B.'
+aS'Lectures'
 p19532
-sg11
-g1584
+assg10065
+(dp19533
+g12148
+S'1981 May 14'
+p19534
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19535
 sg12152
 S'11/01/2013'
-p19533
-sg12154
-(lp19534
-g1579
-asg12156
-(lp19535
-S'Radio programs'
 p19536
-assg7773
-(dp19537
+sg12154
+(lp19537
+g10068
+asg12156
+(lp19538
+g10063
+asg12158
+(lp19539
+S'Musical performances'
+p19540
+assg3213
+(dp19541
 g12148
-S'1954'
-p19538
+S'1967 June 01'
+p19542
 sg12150
-S'Bennett, John B.'
-p19539
-sg11
-g7776
+S"University of Michigan. Men's Glee Club"
+p19543
 sg12152
 S'11/01/2013'
-p19540
+p19544
 sg12154
-(lp19541
-g7771
+(lp19545
+g3216
 asg12156
-(lp19542
-S'Radio programs'
-p19543
-assg10251
-(dp19544
+(lp19546
+g3211
+asg12158
+(lp19547
+S'Musical performances'
+p19548
+assg651
+(dp19549
 g12148
-S'1953 April'
-p19545
-sg12150
-S'Hoffman, Clare E.'
-p19546
-sg11
-g10254
-sg12152
-S'6/05/2014'
-p19547
-sg12154
-(lp19548
-g10249
-asg12156
-(lp19549
-S'Interviews'
+S'1967 June 01'
 p19550
-assg8727
-(dp19551
-g12148
-S'1944 September 03'
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19551
+sg12152
+S'11/01/2013'
 p19552
-sg12150
-S'Cushing, George'
-p19553
-sg11
-g8730
-sg12152
-S'2/25/2015'
-p19554
 sg12154
+(lp19553
+g654
+asg12156
+(lp19554
+g649
+asg12158
 (lp19555
-g8725
-asg12156
-(lp19556
-S'Radio programs'
-p19557
-aS'Talk shows'
+S'Musical performances'
+p19556
+assg6759
+(dp19557
+g12148
+S'1967 June 01'
 p19558
-assg8145
-(dp19559
-g12148
-S'1943 December 05'
-p19560
 sg12150
-S'Cushing, George'
-p19561
-sg11
-g8148
+S"University of Michigan. Men's Glee Club"
+p19559
 sg12152
-S'2/25/2015'
-p19562
+S'11/01/2013'
+p19560
 sg12154
-(lp19563
-g8143
+(lp19561
+g6762
 asg12156
-(lp19564
-S'Radio programs'
-p19565
-aS'Talk shows'
-p19566
-assg7887
-(dp19567
+(lp19562
+g6757
+asg12158
+(lp19563
+S'Musical performances'
+p19564
+assg9381
+(dp19565
 g12148
-S'1966 March 20'
+S'1967 June 01'
+p19566
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19567
+sg12152
+S'11/01/2013'
 p19568
+sg12154
+(lp19569
+g9384
+asg12156
+(lp19570
+g9379
+asg12158
+(lp19571
+S'Musical performances'
+p19572
+assg579
+(dp19573
+g12148
+S'1963 March 19'
+p19574
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19569
-sg11
-g7890
+p19575
 sg12152
 S'6/24/2013'
-p19570
+p19576
 sg12154
-(lp19571
-g7885
+(lp19577
+g582
+ag588
 asg12156
-(lp19572
-S'Lectures'
-p19573
-aS'Radio programs'
-p19574
-aS'Poetry readings'
-p19575
-assg5079
-(dp19576
-g12148
-S'1944 August 13'
-p19577
-sg12150
-S'Cushing, George'
-p19578
-sg11
-g5082
-sg12152
-S'2/25/2015'
-p19579
-sg12154
-(lp19580
-g5077
-asg12156
-(lp19581
+(lp19578
+g577
+ag583
+asg12158
+(lp19579
 S'Radio programs'
+p19580
+aS'Hearings'
+p19581
+aS'Radio programs'
 p19582
-aS'Talk shows'
+aS'Hearings'
 p19583
-assg8277
+assg7065
 (dp19584
 g12148
-S'1943 July 18'
+S'1959 October 21'
 p19585
 sg12150
-S'Cushing, George'
+S'Kramer, Arthur W.'
 p19586
-sg11
-g8280
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p19587
 sg12154
 (lp19588
-g8275
+g7068
 asg12156
 (lp19589
-S'Radio programs'
-p19590
-aS'Talk shows'
+g7063
+ag7057
+asg12158
+(lp19590
+S'Addresses'
 p19591
-assg5595
-(dp19592
-g12148
-S'1943 September 05'
-p19593
-sg12150
-S'Cushing, George'
-p19594
-sg11
-g5598
-sg12152
-S'2/25/2015'
-p19595
-sg12154
-(lp19596
-g5593
-asg12156
-(lp19597
-S'Radio programs'
-p19598
-aS'Talk shows'
-p19599
-assg11589
-(dp19600
-g12148
-S'1943 September 05'
-p19601
-sg12150
-S'Cushing, George'
-p19602
-sg11
-g11592
-sg12152
-S'2/25/2015'
-p19603
-sg12154
-(lp19604
-g11587
-asg12156
-(lp19605
-S'Radio programs'
-p19606
-aS'Talk shows'
-p19607
-assg1839
-(dp19608
-g12148
-S'1943 September 12'
-p19609
-sg12150
-S'Cushing, George'
-p19610
-sg11
-g1842
-sg12152
-S'2/25/2015'
-p19611
-sg12154
-(lp19612
-g1837
-asg12156
-(lp19613
-S'Radio programs'
-p19614
-aS'Talk shows'
-p19615
-assg5613
-(dp19616
-g12148
-S'1961 May 14'
-p19617
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19618
-sg11
-g5616
-sg12152
-S'6/24/2013'
-p19619
-sg12154
-(lp19620
-g5611
-asg12156
-(lp19621
-S'Addresses'
-p19622
-aS'Lectures'
-p19623
-aS'Radio programs'
-p19624
-assg837
-(dp19625
-g12148
-S'1969 October 15'
-p19626
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19627
-sg11
-g840
-sg12152
-S'6/24/2013'
-p19628
-sg12154
-(lp19629
-g835
-ag841
-asg12156
-(lp19630
-S'Addresses'
-p19631
-aS'Radio programs'
-p19632
-aS'Panel discussions'
-p19633
 aS'Addresses'
-p19634
-aS'Radio programs'
-p19635
-aS'Panel discussions'
-p19636
-assg3159
-(dp19637
+p19592
+assg9765
+(dp19593
 g12148
-S'1950 January 10'
-p19638
+S'1960 November 16'
+p19594
 sg12150
-S'Pollock, James Kerr'
-p19639
-sg11
-g3162
+S'Kramer, Arthur W.'
+p19595
 sg12152
-S'11/01/2013'
-p19640
+S'6/05/2014'
+p19596
 sg12154
-(lp19641
-g3157
+(lp19597
+g9768
 asg12156
-(lp19642
-S'Lectures'
-p19643
+(lp19598
+g9763
+ag9751
+asg12158
+(lp19599
+S'Addresses'
+p19600
+aS'Addresses'
+p19601
+assg7209
+(dp19602
+g12148
+S'1985 April 19'
+p19603
+sg12150
+S'Historica Critica'
+p19604
+sg12152
+S'6/05/2014'
+p19605
+sg12154
+(lp19606
+g7212
+asg12156
+(lp19607
+g7207
+asg12158
+(lp19608
+S'Oral Histories'
+p19609
 aS'Interviews'
-p19644
-aS'Class'
-p19645
-aS'Debates'
-p19646
-assg5817
-(dp19647
+p19610
+assg4155
+(dp19611
 g12148
-S'1950 January 17'
-p19648
+S'1985 April 19'
+p19612
 sg12150
-S'Pollock, James Kerr'
+S'Historica Critica'
+p19613
+sg12152
+S'6/05/2014'
+p19614
+sg12154
+(lp19615
+g4158
+asg12156
+(lp19616
+g4153
+asg12158
+(lp19617
+S'Oral Histories'
+p19618
+aS'Interviews'
+p19619
+assg8139
+(dp19620
+g12148
+S'1966 June 11?'
+p19621
+sg12150
+S'Romney, George'
+p19622
+sg12152
+S'6/05/2014'
+p19623
+sg12154
+(lp19624
+g8142
+asg12156
+(lp19625
+g8137
+asg12158
+(lp19626
+S'Addresses'
+p19627
+assg4443
+(dp19628
+g12148
+S'1976 February 27,1976 February 28, 1976 March 2, 1976 April 22'
+p19629
+sg12150
+S'Bassett, Leslie'
+p19630
+sg12152
+S'6/05/2014'
+p19631
+sg12154
+(lp19632
+g4446
+asg12156
+(lp19633
+g4441
+ag4435
+asg12158
+(lp19634
+S'Musical performances'
+p19635
+aS'Interviews'
+p19636
+aS'Musical performances'
+p19637
+aS'Interviews'
+p19638
+assg5871
+(dp19639
+g12148
+S'1989 March 27, 1989 May 13'
+p19640
+sg12150
+S'Bassett, Leslie'
+p19641
+sg12152
+S'6/05/2014'
+p19642
+sg12154
+(lp19643
+g5874
+asg12156
+(lp19644
+g5869
+ag5875
+asg12158
+(lp19645
+S'Musical performances'
+p19646
+aS'Musical performances'
+p19647
+assg4107
+(dp19648
+g12148
+S'1986 November 15'
 p19649
-sg11
-g5820
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19650
 sg12152
 S'11/01/2013'
-p19650
+p19651
 sg12154
-(lp19651
-g5815
-asg12156
 (lp19652
-S'Lectures'
-p19653
-aS'Class'
-p19654
-aS'Debates'
+g4110
+asg12156
+(lp19653
+g4105
+asg12158
+(lp19654
+S'Musical performances'
 p19655
-assg11931
+assg7569
 (dp19656
 g12148
-S'1950 January 17'
+S'1986 November 15'
 p19657
 sg12150
-S'Pollock, James Kerr'
+S"University of Michigan. Men's Glee Club"
 p19658
-sg11
-g11934
 sg12152
 S'11/01/2013'
 p19659
 sg12154
 (lp19660
-g11929
+g7572
 asg12156
 (lp19661
-S'Class'
-p19662
-assg9339
-(dp19663
+g7567
+asg12158
+(lp19662
+S'Musical performances'
+p19663
+assg7563
+(dp19664
 g12148
-S'1953 August 29'
-p19664
-sg12150
-S'Pollock, James Kerr'
+S'1988 November 07, 1989 January 25, 1989 February 15'
 p19665
-sg11
-g9342
-sg12152
-S'11/01/2013'
+sg12150
+S'Bassett, Leslie'
 p19666
+sg12152
+S'6/05/2014'
+p19667
 sg12154
-(lp19667
-g9337
-asg12156
 (lp19668
-S'Lectures'
-p19669
-assg477
-(dp19670
-g12148
-S'1959 December 09'
+g7566
+asg12156
+(lp19669
+g7561
+ag8857
+asg12158
+(lp19670
+S'Musical performances'
 p19671
-sg12150
-S'Pollock, James Kerr'
+aS'Musical performances'
 p19672
-sg11
-g480
+assg5007
+(dp19673
+g12148
+S'1980 March 26'
+p19674
+sg12150
+S'Bassett, Leslie'
+p19675
 sg12152
-S'11/01/2013'
-p19673
-sg12154
-(lp19674
-g475
-asg12156
-(lp19675
-S'Addresses'
+S'6/05/2014'
 p19676
-assg3015
-(dp19677
-g12148
-S'1963 January 04'
-p19678
-sg12150
-S'Pollock, James Kerr'
-p19679
-sg11
-g3018
-sg12152
-S'11/01/2013'
+sg12154
+(lp19677
+g5010
+asg12156
+(lp19678
+g5005
+asg12158
+(lp19679
+S'Musical performances'
 p19680
-sg12154
-(lp19681
-g3013
-asg12156
-(lp19682
-S'Debates'
+assg8013
+(dp19681
+g12148
+S'1961 April 22'
+p19682
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p19683
-assg3291
-(dp19684
-g12148
-S'1968 January 19'
-p19685
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19686
-sg11
-g3294
 sg12152
 S'6/24/2013'
-p19687
+p19684
 sg12154
-(lp19688
-g3289
+(lp19685
+g8016
 asg12156
-(lp19689
+(lp19686
+g8011
+asg12158
+(lp19687
 S'Radio programs'
-p19690
-aS'Conferences'
+p19688
+aS'Poetry readings'
+p19689
+assg2247
+(dp19690
+g12148
+S'1952 November 07'
 p19691
-aS'Panel discussions'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19692
-assg2691
-(dp19693
-g12148
-S'1961'
-p19694
-sg12150
-S'University of Michigan. Alumni Association.'
-p19695
-sg11
-g2694
 sg12152
 S'11/01/2013'
-p19696
+p19693
 sg12154
-(lp19697
-g2689
+(lp19694
+g2250
 asg12156
-(lp19698
-S'Interviews'
+(lp19695
+g2245
+asg12158
+(lp19696
+S'Musical performances'
+p19697
+assg5073
+(dp19698
+g12148
+S'1952 November 07'
 p19699
-aS'Radio programs'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19700
-aS'Talk shows'
+sg12152
+S'11/01/2013'
 p19701
-assg4677
-(dp19702
-g12148
-S'1968'
-p19703
-sg12150
-S'Democratic Party (Mich.)'
-p19704
-sg11
-g4680
-sg12152
-S'6/05/2014'
+sg12154
+(lp19702
+g5076
+asg12156
+(lp19703
+g5071
+asg12158
+(lp19704
+S'Musical performances'
 p19705
-sg12154
-(lp19706
-g4675
-asg12156
-(lp19707
-S'Interviews'
+assg7833
+(dp19706
+g12148
+S'1952 November 07'
+p19707
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19708
-assg10443
-(dp19709
-g12148
-S'1964 November 05'
-p19710
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19711
-sg11
-g10446
 sg12152
-S'6/24/2013'
-p19712
+S'11/01/2013'
+p19709
 sg12154
-(lp19713
-g10441
+(lp19710
+g7836
 asg12156
-(lp19714
-S'Radio programs'
+(lp19711
+g7831
+asg12158
+(lp19712
+S'Musical performances'
+p19713
+assg8193
+(dp19714
+g12148
+S'1966 October 18'
 p19715
-aS'Documentaries'
+sg12150
+S'Romney, George'
 p19716
-assg4929
-(dp19717
-g12148
-S'1962 April 30'
-p19718
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19719
-sg11
-g4932
 sg12152
-S'6/24/2013'
-p19720
+S'6/05/2014'
+p19717
 sg12154
-(lp19721
-g4927
+(lp19718
+g8196
 asg12156
-(lp19722
-S'Lectures'
-p19723
-aS'Radio programs'
-p19724
-aS'Poetry readings'
-p19725
-assg10767
-(dp19726
-g12148
-S'1969 October 15'
-p19727
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19728
-sg11
-g10770
-sg12152
-S'6/24/2013'
-p19729
-sg12154
-(lp19730
-g10765
-asg12156
-(lp19731
+(lp19719
+g8191
+asg12158
+(lp19720
 S'Addresses'
+p19721
+assg10143
+(dp19722
+g12148
+S'1954 December 27'
+p19723
+sg12150
+S'Schimpke, Albert J.'
+p19724
+sg12152
+S'11/01/2013'
+p19725
+sg12154
+(lp19726
+g10146
+asg12156
+(lp19727
+g10141
+ag10135
+asg12158
+(lp19728
+S'Oral Histories'
+p19729
+aS'Oral Histories'
+p19730
+assg5973
+(dp19731
+g12148
+S'1965'
 p19732
-aS'Radio programs'
+sg12150
+S'Good, Tommy'
 p19733
-assg4491
-(dp19734
-g12148
-S'1965 March 18'
-p19735
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19736
-sg11
-g4494
 sg12152
 S'6/24/2013'
-p19737
+p19734
 sg12154
-(lp19738
-g4489
+(lp19735
+g5976
 asg12156
-(lp19739
-S'Lectures'
+(lp19736
+g5971
+asg12158
+(lp19737
+S'Musical performances'
+p19738
+assg10977
+(dp19739
+g12148
+S'1971'
 p19740
-aS'Radio programs'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19741
-aS'Poetry readings'
+sg12152
+S'11/01/2013'
 p19742
-assg1533
-(dp19743
-g12148
-S'1954 October 28'
-p19744
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19745
-sg11
-g1536
-sg12152
-S'6/24/2013'
+sg12154
+(lp19743
+g10980
+asg12156
+(lp19744
+g10975
+asg12158
+(lp19745
+S'Musical performances'
 p19746
-sg12154
-(lp19747
-g1531
-asg12156
-(lp19748
-S'Interviews'
+assg7437
+(dp19747
+g12148
+S'1979 April 07'
+p19748
+sg12150
+S"University of Michigan. Men's Glee Club"
 p19749
-aS'Radio programs'
+sg12152
+S'11/01/2013'
 p19750
-aS'Historical dramas'
-p19751
-aS'Talk shows'
-p19752
-assg4797
-(dp19753
-g12148
-S'1958 May 10'
+sg12154
+(lp19751
+g7440
+asg12156
+(lp19752
+g7435
+ag7429
+asg12158
+(lp19753
+S'Musical performances'
 p19754
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Musical performances'
 p19755
-sg11
-g4800
-sg12152
-S'11/01/2013'
-p19756
-sg12154
-(lp19757
-g4795
-asg12156
-(lp19758
-S'Musical performances'
-p19759
-assg10869
-(dp19760
+assg9237
+(dp19756
 g12148
-S'1958 May 10'
-p19761
+S'[Undated]'
+p19757
 sg12150
-S"University of Michigan. Men's Glee Club"
-p19762
-sg11
-g10872
+S'Weil, Louis'
+p19758
 sg12152
 S'11/01/2013'
-p19763
+p19759
 sg12154
-(lp19764
-g10867
+(lp19760
+g9240
 asg12156
-(lp19765
-S'Musical performances'
-p19766
-assg1965
-(dp19767
+(lp19761
+g9235
+asg12158
+(lp19762
+S'Lectures'
+p19763
+assg2973
+(dp19764
 g12148
-S'1963 November 12'
-p19768
+S'[Undated]'
+p19765
+sg12150
+S'Weil, Louis'
+p19766
+sg12152
+S'11/01/2013'
+p19767
+sg12154
+(lp19768
+g2976
+asg12156
+(lp19769
+g2971
+asg12158
+(lp19770
+S'Lectures'
+p19771
+assg9225
+(dp19772
+g12148
+S'1960 May 09'
+p19773
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19769
-sg11
-g1968
+p19774
 sg12152
 S'6/24/2013'
-p19770
-sg12154
-(lp19771
-g1963
-asg12156
-(lp19772
-S'Lectures'
-p19773
-aS'Radio programs'
-p19774
-aS'Poetry readings'
 p19775
-assg11637
-(dp19776
-g12148
-S'1962 August 23'
-p19777
-sg12150
-S'Romney, George'
-p19778
-sg11
-g11640
-sg12152
-S'6/05/2014'
+sg12154
+(lp19776
+g9228
+asg12156
+(lp19777
+g9223
+asg12158
+(lp19778
+S'Radio programs'
 p19779
-sg12154
-(lp19780
-g11635
-asg12156
-(lp19781
-S'Advertising'
+aS'Poetry readings'
+p19780
+assg9129
+(dp19781
+g12148
+S'1971 October 29'
 p19782
-assg8721
-(dp19783
-g12148
-S'1957 April 11'
+sg12150
+S'University of Michigan. Museum of Art.'
+p19783
+sg12152
+S'11/01/2013'
 p19784
-sg12150
-S'Romney, George'
-p19785
-sg11
-g8724
-sg12152
-S'6/05/2014'
-p19786
 sg12154
+(lp19785
+g9132
+asg12156
+(lp19786
+g9127
+asg12158
 (lp19787
-g8719
-asg12156
-(lp19788
-S'Press conferences'
-p19789
-assg2817
-(dp19790
+S'Lectures'
+p19788
+assg375
+(dp19789
 g12148
-S'1956 April 24'
-p19791
+S'1966 February 19'
+p19790
 sg12150
-S'Romney, George'
-p19792
-sg11
-g2820
+S'Post family'
+p19791
 sg12152
 S'6/05/2014'
-p19793
+p19792
 sg12154
-(lp19794
-g2815
+(lp19793
+g378
 asg12156
+(lp19794
+g373
+asg12158
 (lp19795
-S'Press conferences'
+S'Interviews'
 p19796
-assg15
+assg6777
 (dp19797
 g12148
-S'1984 November 10'
+S'1966 February 19'
 p19798
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Post family'
 p19799
-sg11
-g18
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p19800
 sg12154
 (lp19801
-g13
+g6780
 asg12156
 (lp19802
-S'Musical performances'
-p19803
-assg2709
-(dp19804
+g6775
+asg12158
+(lp19803
+S'Interviews'
+p19804
+assg693
+(dp19805
 g12148
-S'1984 November 10'
-p19805
-sg12150
-S"University of Michigan. Men's Glee Club"
+S'[Undated]'
 p19806
-sg11
-g2712
-sg12152
-S'11/01/2013'
+sg12150
+S'Post family'
 p19807
+sg12152
+S'6/05/2014'
+p19808
 sg12154
-(lp19808
-g2707
-asg12156
 (lp19809
-S'Musical performances'
-p19810
-assg6165
-(dp19811
-g12148
-S'1984 November 10'
+g696
+asg12156
+(lp19810
+g691
+asg12158
+(lp19811
+S'Interviews'
 p19812
-sg12150
-S"University of Michigan. Men's Glee Club"
-p19813
-sg11
-g6168
-sg12152
-S'11/01/2013'
+assg3369
+(dp19813
+g12148
+S'[Undated]'
 p19814
-sg12154
-(lp19815
-g6163
-asg12156
-(lp19816
-S'Musical performances'
-p19817
-assg9039
-(dp19818
-g12148
-S'1057 October 17'
-p19819
 sg12150
-S'Schimpke, Albert J.'
+S'Post family'
+p19815
+sg12152
+S'6/05/2014'
+p19816
+sg12154
+(lp19817
+g3372
+asg12156
+(lp19818
+g3367
+asg12158
+(lp19819
+S'Interviews'
 p19820
-sg11
-g9042
-sg12152
-S'11/01/2013'
-p19821
-sg12154
-(lp19822
-g9037
-ag9043
-asg12156
-(lp19823
-S'Oral Histories'
-p19824
-aS'Interviews'
-p19825
-aS'Oral Histories'
-p19826
-aS'Interviews'
-p19827
-assg6153
-(dp19828
+assg4185
+(dp19821
 g12148
-S'1954 November 04, 10'
-p19829
-sg12150
-S'Schimpke, Albert J.'
-p19830
-sg11
-g6156
-sg12152
-S'11/01/2013'
-p19831
-sg12154
-(lp19832
-g6151
-ag6157
-asg12156
-(lp19833
-S'Oral Histories'
-p19834
-aS'Interviews'
-p19835
-aS'Oral Histories'
-p19836
-aS'Interviews'
-p19837
-assg9003
-(dp19838
-g12148
-S'1984 November 10'
-p19839
+S'1974 November 16'
+p19822
 sg12150
 S"University of Michigan. Men's Glee Club"
-p19840
-sg11
-g9006
+p19823
 sg12152
 S'11/01/2013'
-p19841
+p19824
 sg12154
-(lp19842
-g9001
+(lp19825
+g4188
 asg12156
+(lp19826
+g4183
+asg12158
+(lp19827
+S'Musical performances'
+p19828
+assg6843
+(dp19829
+g12148
+S'1974 November 16'
+p19830
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19831
+sg12152
+S'11/01/2013'
+p19832
+sg12154
+(lp19833
+g6846
+asg12156
+(lp19834
+g6841
+asg12158
+(lp19835
+S'Musical performances'
+p19836
+assg9717
+(dp19837
+g12148
+S'1974 November 16'
+p19838
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19839
+sg12152
+S'11/01/2013'
+p19840
+sg12154
+(lp19841
+g9720
+asg12156
+(lp19842
+g9715
+asg12158
 (lp19843
 S'Musical performances'
 p19844
-assg11697
+assg8121
 (dp19845
 g12148
-S'1967 June 11'
+S'1953 September 10'
 p19846
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Moody, Blair'
 p19847
-sg11
-g11700
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p19848
 sg12154
 (lp19849
-g11695
+g8124
 asg12156
 (lp19850
-S'Musical performances'
-p19851
-assg5889
-(dp19852
-g12148
-S'1955 October 05, 11'
+g8119
+ag5323
+ag3997
+asg12158
+(lp19851
+S'Radio programs'
+p19852
+aS'Radio programs'
 p19853
-sg12150
-S'Schimpke, Albert J.'
+aS'Radio programs'
 p19854
-sg11
-g5892
+assg3975
+(dp19855
+g12148
+S'[Undated]'
+p19856
+sg12150
+S'Cacioppo, George'
+p19857
 sg12152
-S'11/01/2013'
-p19855
-sg12154
-(lp19856
-g5887
-ag5893
-asg12156
-(lp19857
-S'Oral Histories'
+S'2/25/2015'
 p19858
-aS'Interviews'
-p19859
-aS'Oral Histories'
-p19860
-aS'Interviews'
-p19861
-assg11847
-(dp19862
-g12148
-S'1956 November 05'
-p19863
-sg12150
-S'Schimpke, Albert J.'
-p19864
-sg11
-g11850
-sg12152
-S'11/01/2013'
-p19865
 sg12154
-(lp19866
-g11845
+(lp19859
+g3978
 asg12156
-(lp19867
-S'Oral Histories'
-p19868
-aS'Interviews'
-p19869
-assg3081
-(dp19870
-g12148
-S'1967 June 11'
-p19871
-sg12150
-S"University of Michigan. Men's Glee Club"
-p19872
-sg11
-g3084
-sg12152
-S'11/01/2013'
-p19873
-sg12154
-(lp19874
-g3079
-asg12156
-(lp19875
+(lp19860
+g3973
+asg12158
+(lp19861
 S'Musical performances'
+p19862
+assg6747
+(dp19863
+g12148
+S'[between 1950 and 1959]'
+p19864
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p19865
+sg12152
+S'6/24/2013'
+p19866
+sg12154
+(lp19867
+g6750
+asg12156
+(lp19868
+g6745
+asg12158
+(lp19869
+S'Interviews'
+p19870
+aS'Radio programs'
+p19871
+aS'Talk shows'
+p19872
+assg6891
+(dp19873
+g12148
+S'1982 March 11'
+p19874
+sg12150
+S'Michigan Organization for Human Rights'
+p19875
+sg12152
+S'6/05/2014'
 p19876
-assg5667
-(dp19877
-g12148
-S'1955 January 06-07'
-p19878
-sg12150
-S'Schimpke, Albert J.'
-p19879
-sg11
-g5670
-sg12152
-S'11/01/2013'
+sg12154
+(lp19877
+g6894
+asg12156
+(lp19878
+g6889
+asg12158
+(lp19879
+S'Radio programs'
 p19880
-sg12154
-(lp19881
-g5665
-ag5671
-asg12156
-(lp19882
-S'Oral Histories'
+assg4455
+(dp19881
+g12148
+S'[Undated]'
+p19882
+sg12150
+S'Michigan Organization for Human Rights'
 p19883
-aS'Interviews'
+sg12152
+S'6/05/2014'
 p19884
-aS'Oral Histories'
-p19885
-aS'Interviews'
-p19886
-assg3075
-(dp19887
-g12148
-S'1955 January 11'
+sg12154
+(lp19885
+g4458
+asg12156
+(lp19886
+g4453
+asg12158
+(lp19887
+S'Radio programs'
 p19888
-sg12150
-S'Schimpke, Albert J.'
-p19889
-sg11
-g3078
-sg12152
-S'11/01/2013'
-p19890
-sg12154
-(lp19891
-g3073
-asg12156
-(lp19892
-S'Oral Histories'
-p19893
-aS'Interviews'
-p19894
-assg11709
-(dp19895
+assg1305
+(dp19889
 g12148
-S'1955 February 18'
-p19896
+S'1980 December 18'
+p19890
 sg12150
-S'Schimpke, Albert J.'
-p19897
-sg11
-g11712
+S'Michigan Organization for Human Rights'
+p19891
 sg12152
-S'11/01/2013'
-p19898
+S'6/05/2014'
+p19892
 sg12154
-(lp19899
-g11707
-ag11701
+(lp19893
+g1308
 asg12156
-(lp19900
-S'Oral Histories'
-p19901
-aS'Interviews'
-p19902
-aS'Oral Histories'
-p19903
-aS'Interviews'
+(lp19894
+g1303
+asg12158
+(lp19895
+S'Radio programs'
+p19896
+assg10479
+(dp19897
+g12148
+S'1980 December 25'
+p19898
+sg12150
+S'Michigan Organization for Human Rights'
+p19899
+sg12152
+S'6/05/2014'
+p19900
+sg12154
+(lp19901
+g10482
+asg12156
+(lp19902
+g10477
+asg12158
+(lp19903
+S'Radio programs'
 p19904
-assg2199
+assg1227
 (dp19905
 g12148
-S'1954 February 02'
+S'1976 April 10'
 p19906
 sg12150
-S'Schimpke, Albert J.'
+S"University of Michigan. Men's Glee Club"
 p19907
-sg11
-g2202
 sg12152
 S'11/01/2013'
 p19908
 sg12154
 (lp19909
-g2197
-ag985
+g1230
 asg12156
 (lp19910
-S'Oral Histories'
-p19911
-aS'Interviews'
+g1225
+asg12158
+(lp19911
+S'Musical performances'
 p19912
-aS'Oral Histories'
-p19913
-aS'Interviews'
+assg3957
+(dp19913
+g12148
+S'1976 April 10'
 p19914
-assg2841
-(dp19915
-g12148
-S'1958 February 12'
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19915
+sg12152
+S'11/01/2013'
 p19916
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p19917
-sg11
-g2844
-sg12152
-S'6/24/2013'
-p19918
 sg12154
+(lp19917
+g3960
+asg12156
+(lp19918
+g3955
+asg12158
 (lp19919
-g2839
-asg12156
-(lp19920
-S'Radio programs'
-p19921
-aS'Poetry readings'
+S'Musical performances'
+p19920
+assg975
+(dp19921
+g12148
+S'1976 April 10'
 p19922
-assg267
-(dp19923
-g12148
-S'1968 November 09'
+sg12150
+S"University of Michigan. Men's Glee Club"
+p19923
+sg12152
+S'11/01/2013'
 p19924
-sg12150
-S"University of Michigan. Men's Glee Club"
-p19925
-sg11
-g270
-sg12152
-S'11/01/2013'
-p19926
 sg12154
+(lp19925
+g978
+asg12156
+(lp19926
+g973
+asg12158
 (lp19927
-g265
-asg12156
-(lp19928
 S'Musical performances'
-p19929
-assg10863
-(dp19930
+p19928
+assg7827
+(dp19929
 g12148
-S'1968 November 09'
-p19931
-sg12150
-S"University of Michigan. Men's Glee Club"
-p19932
-sg11
-g10866
-sg12152
-S'11/01/2013'
-p19933
-sg12154
-(lp19934
-g10861
-ag10843
-asg12156
-(lp19935
-S'Musical performances'
-p19936
-aS'Musical performances'
-p19937
-assg6615
-(dp19938
-g12148
-S'1976 August 26'
-p19939
+S'1976 September 23'
+p19930
 sg12150
 S'Michigan Organization for Human Rights'
-p19940
-sg11
-g6618
+p19931
 sg12152
 S'6/05/2014'
-p19941
+p19932
 sg12154
-(lp19942
-g6613
+(lp19933
+g7830
 asg12156
+(lp19934
+g7825
+asg12158
+(lp19935
+S'Radio programs'
+p19936
+assg5091
+(dp19937
+g12148
+S'[Undated]'
+p19938
+sg12150
+S'Michigan Organization for Human Rights'
+p19939
+sg12152
+S'6/05/2014'
+p19940
+sg12154
+(lp19941
+g5094
+asg12156
+(lp19942
+g5089
+asg12158
 (lp19943
 S'Radio programs'
 p19944
-assg243
+assg3279
 (dp19945
 g12148
-S'1977'
+S'1976 June 17'
 p19946
 sg12150
 S'Michigan Organization for Human Rights'
 p19947
-sg11
-g246
 sg12152
 S'6/05/2014'
 p19948
 sg12154
 (lp19949
-g241
+g3282
 asg12156
 (lp19950
+g3277
+ag4639
+asg12158
+(lp19951
 S'Radio programs'
-p19951
-assg9531
-(dp19952
+p19952
+aS'Radio programs'
+p19953
+assg1851
+(dp19954
+g12148
+S'1976 August 12'
+p19955
+sg12150
+S'Michigan Organization for Human Rights'
+p19956
+sg12152
+S'6/05/2014'
+p19957
+sg12154
+(lp19958
+g1854
+asg12156
+(lp19959
+g1849
+asg12158
+(lp19960
+S'Radio programs'
+p19961
+assg11091
+(dp19962
 g12148
 S'[Undated]'
-p19953
-sg12150
-S'Michigan Organization for Human Rights'
-p19954
-sg11
-g9534
-sg12152
-S'6/05/2014'
-p19955
-sg12154
-(lp19956
-g9529
-ag9535
-asg12156
-(lp19957
-S'Radio programs'
-p19958
-aS'Radio programs'
-p19959
-assg9663
-(dp19960
-g12148
-S'1976 October 07'
-p19961
-sg12150
-S'Michigan Organization for Human Rights'
-p19962
-sg11
-g9666
-sg12152
-S'6/05/2014'
 p19963
-sg12154
-(lp19964
-g9661
-asg12156
-(lp19965
-S'Radio programs'
-p19966
-assg6573
-(dp19967
-g12148
-S'1976 December 02'
-p19968
 sg12150
 S'Michigan Organization for Human Rights'
+p19964
+sg12152
+S'6/05/2014'
+p19965
+sg12154
+(lp19966
+g11094
+asg12156
+(lp19967
+g11089
+asg12158
+(lp19968
+S'Radio programs'
 p19969
-sg11
-g6576
-sg12152
-S'6/05/2014'
+aS'Dramatic readings'
 p19970
-sg12154
-(lp19971
-g6571
-asg12156
-(lp19972
-S'Interviews'
+assg1563
+(dp19971
+g12148
+S'1976 September 01'
+p19972
+sg12150
+S'Michigan Organization for Human Rights'
 p19973
-aS'Radio programs'
+sg12152
+S'6/05/2014'
 p19974
-assg9417
-(dp19975
-g12148
-S'1977 April 07'
-p19976
-sg12150
-S'Michigan Organization for Human Rights'
-p19977
-sg11
-g9420
-sg12152
-S'6/05/2014'
+sg12154
+(lp19975
+g1566
+asg12156
+(lp19976
+g1561
+asg12158
+(lp19977
+S'Radio programs'
 p19978
-sg12154
-(lp19979
-g9415
-asg12156
-(lp19980
-S'Radio programs'
+assg4755
+(dp19979
+g12148
+S'1976 March 25'
+p19980
+sg12150
+S'Michigan Organization for Human Rights'
 p19981
-assg249
-(dp19982
-g12148
-S'1977 February 24'
-p19983
-sg12150
-S'Michigan Organization for Human Rights'
-p19984
-sg11
-g252
 sg12152
 S'6/05/2014'
-p19985
+p19982
 sg12154
-(lp19986
-g247
+(lp19983
+g4758
 asg12156
-(lp19987
+(lp19984
+g4753
+asg12158
+(lp19985
 S'Radio programs'
+p19986
+assg2013
+(dp19987
+g12148
+S'1976 April 08'
 p19988
-assg9759
-(dp19989
-g12148
-S'1977 January 27'
+sg12150
+S'Michigan Organization for Human Rights'
+p19989
+sg12152
+S'6/05/2014'
 p19990
-sg12150
-S'Michigan Organization for Human Rights'
-p19991
-sg11
-g9762
-sg12152
-S'6/05/2014'
-p19992
 sg12154
+(lp19991
+g2016
+asg12156
+(lp19992
+g2011
+asg12158
 (lp19993
-g9757
-asg12156
-(lp19994
 S'Radio programs'
-p19995
-assg3657
-(dp19996
+p19994
+assg8295
+(dp19995
 g12148
-S'1976 December 30'
-p19997
+S'1976 April 22'
+p19996
 sg12150
 S'Michigan Organization for Human Rights'
-p19998
-sg11
-g3660
+p19997
 sg12152
 S'6/05/2014'
-p19999
+p19998
 sg12154
-(lp20000
-g3655
+(lp19999
+g8298
 asg12156
+(lp20000
+g8293
+asg12158
 (lp20001
 S'Radio programs'
 p20002
-assg9813
+assg10635
 (dp20003
 g12148
-S'1974 June 28'
+S'1976 May 20'
 p20004
 sg12150
 S'Michigan Organization for Human Rights'
 p20005
-sg11
-g9816
 sg12152
 S'6/05/2014'
 p20006
 sg12154
 (lp20007
-g9811
-ag9799
+g10638
 asg12156
 (lp20008
+g10633
+asg12158
+(lp20009
 S'Radio programs'
-p20009
-aS'Radio programs'
 p20010
-assg3501
+assg11619
 (dp20011
 g12148
-S'1960 April 06'
+S'1954 May 09'
 p20012
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Moody, Blair'
 p20013
-sg11
-g3504
 sg12152
-S'6/24/2013'
+S'2/25/2015'
 p20014
 sg12154
 (lp20015
-g3499
+g11622
 asg12156
 (lp20016
-S'Lectures'
-p20017
-aS'Literary readings'
+g11617
+asg12158
+(lp20017
+S'Radio programs'
 p20018
-aS'Radio programs'
-p20019
-assg3507
-(dp20020
+assg11487
+(dp20019
 g12148
-S'1951 October 16'
-p20021
+S'1954 May 16'
+p20020
 sg12150
 S'Moody, Blair'
-p20022
-sg11
-g3510
+p20021
 sg12152
 S'2/25/2015'
-p20023
+p20022
 sg12154
-(lp20024
-g3505
+(lp20023
+g11490
 asg12156
+(lp20024
+g11485
+asg12158
 (lp20025
 S'Radio programs'
 p20026
-aS'Talk shows'
-p20027
-assg819
-(dp20028
+assg11055
+(dp20027
 g12148
-S'1951 October 08'
-p20029
+S'1954 February 28'
+p20028
 sg12150
 S'Moody, Blair'
-p20030
-sg11
-g822
+p20029
 sg12152
 S'2/25/2015'
-p20031
+p20030
 sg12154
-(lp20032
-g817
+(lp20031
+g11058
 asg12156
+(lp20032
+g11053
+asg12158
 (lp20033
 S'Radio programs'
 p20034
-assg6549
+assg1353
 (dp20035
 g12148
-S'1951'
+S'1954 March 07'
 p20036
 sg12150
 S'Moody, Blair'
 p20037
-sg11
-g6552
 sg12152
 S'2/25/2015'
 p20038
 sg12154
 (lp20039
-g6547
+g1356
 asg12156
 (lp20040
+g1351
+asg12158
+(lp20041
 S'Radio programs'
-p20041
-assg9249
-(dp20042
+p20042
+assg7737
+(dp20043
 g12148
-S'1954 July 11'
-p20043
-sg12150
-S'Moody, Blair'
+S'1954 March 14'
 p20044
-sg11
-g9252
-sg12152
-S'2/25/2015'
+sg12150
+S'Moody, Blair'
 p20045
+sg12152
+S'2/25/2015'
+p20046
 sg12154
-(lp20046
-g9247
-asg12156
 (lp20047
+g7740
+asg12156
+(lp20048
+g7735
+asg12158
+(lp20049
 S'Radio programs'
-p20048
-aS'Talk shows'
-p20049
-assg3147
-(dp20050
+p20050
+assg4995
+(dp20051
 g12148
-S'1954 July 04'
-p20051
-sg12150
-S'Moody, Blair'
+S'1954 March 21'
 p20052
-sg11
-g3150
-sg12152
-S'2/25/2015'
+sg12150
+S'Moody, Blair'
 p20053
+sg12152
+S'2/25/2015'
+p20054
 sg12154
-(lp20054
-g3145
-asg12156
 (lp20055
+g4998
+asg12156
+(lp20056
+g4993
+asg12158
+(lp20057
 S'Radio programs'
-p20056
-assg3153
-(dp20057
-g12148
-S'1954 June 27'
 p20058
-sg12150
-S'Moody, Blair'
-p20059
-sg11
-g3156
-sg12152
-S'2/25/2015'
+assg8613
+(dp20059
+g12148
+S'1954 March 28'
 p20060
-sg12154
-(lp20061
-g3151
-asg12156
-(lp20062
-S'Radio programs'
-p20063
-assg3939
-(dp20064
-g12148
-S'1954 June 20'
-p20065
 sg12150
 S'Moody, Blair'
+p20061
+sg12152
+S'2/25/2015'
+p20062
+sg12154
+(lp20063
+g8616
+asg12156
+(lp20064
+g8611
+asg12158
+(lp20065
+S'Radio programs'
 p20066
-sg11
-g3942
+assg10887
+(dp20067
+g12148
+S'1954 April 04'
+p20068
+sg12150
+S'Moody, Blair'
+p20069
 sg12152
 S'2/25/2015'
-p20067
-sg12154
-(lp20068
-g3937
-asg12156
-(lp20069
-S'Radio programs'
 p20070
-assg10857
-(dp20071
-g12148
-S'1950'
-p20072
-sg12150
-S'Pollock, James Kerr'
-p20073
-sg11
-g10860
-sg12152
-S'11/01/2013'
+sg12154
+(lp20071
+g10890
+asg12156
+(lp20072
+g10885
+asg12158
+(lp20073
+S'Radio programs'
 p20074
-sg12154
-(lp20075
-g10855
-asg12156
-(lp20076
-S'Class'
+assg7581
+(dp20075
+g12148
+S'1954 April 11'
+p20076
+sg12150
+S'Moody, Blair'
 p20077
-assg3039
-(dp20078
-g12148
-S'1954 June 06'
-p20079
-sg12150
-S'Moody, Blair'
-p20080
-sg11
-g3042
 sg12152
 S'2/25/2015'
-p20081
+p20078
 sg12154
-(lp20082
-g3037
+(lp20079
+g7584
 asg12156
-(lp20083
+(lp20080
+g7579
+asg12158
+(lp20081
 S'Radio programs'
+p20082
+assg4869
+(dp20083
+g12148
+S'1954 April 18'
 p20084
-assg321
-(dp20085
-g12148
-S'1954 May 23'
-p20086
 sg12150
 S'Moody, Blair'
-p20087
-sg11
-g324
+p20085
 sg12152
 S'2/25/2015'
-p20088
+p20086
 sg12154
+(lp20087
+g4872
+asg12156
+(lp20088
+g4867
+asg12158
 (lp20089
-g319
-asg12156
-(lp20090
 S'Radio programs'
-p20091
-assg7629
-(dp20092
+p20090
+assg9033
+(dp20091
 g12148
-S'1969 November 12'
+S'1954 January 28'
+p20092
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20093
-sg12150
-S'University of Michigan. Ross School of Business'
+sg12152
+S'6/24/2013'
 p20094
-sg11
-g7632
-sg12152
-S'6/05/2014'
-p20095
 sg12154
+(lp20095
+g9036
+asg12156
 (lp20096
-g7627
-asg12156
+g9031
+asg12158
 (lp20097
-S'Conferences'
-p20098
-assg7575
-(dp20099
-g12148
-S'[Undated]'
-p20100
-sg12150
-S'Hallock, Archibald'
-p20101
-sg11
-g7578
-sg12152
-S'11/01/2013'
-p20102
-sg12154
-(lp20103
-g7573
-asg12156
-(lp20104
 S'Interviews'
-p20105
-assg4389
-(dp20106
-g12148
-S'1955 March 24'
-p20107
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20108
-sg11
-g4392
-sg12152
-S'6/24/2013'
-p20109
-sg12154
-(lp20110
-g4387
-asg12156
-(lp20111
-S'Lectures'
-p20112
+p20098
 aS'Radio programs'
-p20113
-aS'Poetry readings'
-p20114
-assg1623
-(dp20115
+p20099
+aS'Talk shows'
+p20100
+assg11523
+(dp20101
 g12148
-S'1958 May 15'
-p20116
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20117
-sg11
-g1626
-sg12152
-S'11/01/2013'
-p20118
-sg12154
-(lp20119
-g1621
-asg12156
-(lp20120
-S'Musical performances'
-p20121
-assg1407
-(dp20122
-g12148
-S'1966 March 16'
-p20123
+S'1954 January 29'
+p20102
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20124
-sg11
-g1410
+p20103
 sg12152
 S'6/24/2013'
-p20125
+p20104
 sg12154
-(lp20126
-g1405
+(lp20105
+g11526
 asg12156
+(lp20106
+g11521
+asg12158
+(lp20107
+S'Interviews'
+p20108
+aS'Radio programs'
+p20109
+aS'Talk shows'
+p20110
+assg2781
+(dp20111
+g12148
+S'1954 January 14'
+p20112
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20113
+sg12152
+S'6/24/2013'
+p20114
+sg12154
+(lp20115
+g2784
+asg12156
+(lp20116
+g2779
+asg12158
+(lp20117
+S'Interviews'
+p20118
+aS'Radio programs'
+p20119
+aS'Talk shows'
+p20120
+assg2529
+(dp20121
+g12148
+S'1951 January 15'
+p20122
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20123
+sg12152
+S'6/24/2013'
+p20124
+sg12154
+(lp20125
+g2532
+asg12156
+(lp20126
+g2527
+asg12158
 (lp20127
-S'Lectures'
+S'Interviews'
 p20128
 aS'Radio programs'
 p20129
-aS'Poetry readings'
+aS'Talk shows'
 p20130
-assg11481
+assg5655
 (dp20131
 g12148
-S'1956 September 28'
+S'1954 January 25'
 p20132
 sg12150
-S'Brucker, Wilber Marion'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20133
-sg11
-g11484
 sg12152
-S'11/01/2013'
+S'6/24/2013'
 p20134
 sg12154
 (lp20135
-g11479
+g5658
 asg12156
 (lp20136
-S'Addresses'
-p20137
-aS'Meetings'
+g5653
+asg12158
+(lp20137
+S'Interviews'
 p20138
-aS'Luncheons'
+aS'Radio programs'
 p20139
-assg10791
-(dp20140
+aS'Talk shows'
+p20140
+assg2871
+(dp20141
 g12148
-S'1960 November 13'
-p20141
+S'1954 January 26'
+p20142
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20142
-sg11
-g10794
+p20143
 sg12152
 S'6/24/2013'
-p20143
+p20144
 sg12154
-(lp20144
-g10789
-asg12156
 (lp20145
-S'Lectures'
-p20146
+g2874
+asg12156
+(lp20146
+g2869
+asg12158
+(lp20147
+S'Interviews'
+p20148
 aS'Radio programs'
-p20147
-assg11871
-(dp20148
-g12148
-S'1953 November 29'
 p20149
-sg12150
-S'Cushing, George'
-p20150
-sg11
-g11874
-sg12152
-S'2/25/2015'
-p20151
-sg12154
-(lp20152
-g11869
-asg12156
-(lp20153
-S'Radio programs'
-p20154
 aS'Talk shows'
-p20155
-assg2391
-(dp20156
+p20150
+assg9159
+(dp20151
 g12148
-S'1953 November 15'
-p20157
+S'1954 January 19'
+p20152
 sg12150
-S'Cushing, George'
-p20158
-sg11
-g2394
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20153
 sg12152
-S'2/25/2015'
-p20159
+S'6/24/2013'
+p20154
 sg12154
-(lp20160
-g2389
+(lp20155
+g9162
+ag9156
 asg12156
-(lp20161
-S'Radio programs'
+(lp20156
+g9157
+ag9151
+asg12158
+(lp20157
+S'Interviews'
+p20158
+aS'Radio programs'
+p20159
+aS'Talk shows'
+p20160
+aS'Interviews'
+p20161
+aS'Radio programs'
 p20162
 aS'Talk shows'
 p20163
-assg8733
+assg11541
 (dp20164
 g12148
-S'1953 October 11'
+S'1954 February 05'
 p20165
 sg12150
-S'Cushing, George'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20166
-sg11
-g8736
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p20167
 sg12154
 (lp20168
-g8731
+g11544
 asg12156
 (lp20169
-S'Radio programs'
-p20170
-aS'Talk shows'
+g11539
+asg12158
+(lp20170
+S'Interviews'
 p20171
-assg5919
-(dp20172
-g12148
-S'1953 October 04'
+aS'Radio programs'
+p20172
+aS'Talk shows'
 p20173
-sg12150
-S'Cushing, George'
-p20174
-sg11
-g5922
-sg12152
-S'2/25/2015'
+assg9087
+(dp20174
+g12148
+S'1974 March 19'
 p20175
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20176
+sg12152
+S'6/24/2013'
+p20177
 sg12154
-(lp20176
-g5917
+(lp20178
+g9090
 asg12156
-(lp20177
+(lp20179
+g9085
+asg12158
+(lp20180
 S'Radio programs'
-p20178
-aS'Talk shows'
-p20179
-assg2595
-(dp20180
-g12148
-S'1954 January 24'
 p20181
-sg12150
-S'Cushing, George'
+aS'Panel discussions'
 p20182
-sg11
-g2598
+assg6219
+(dp20183
+g12148
+S'1975 January 21'
+p20184
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20185
 sg12152
-S'2/25/2015'
-p20183
-sg12154
-(lp20184
-g2593
-asg12156
-(lp20185
-S'Radio programs'
+S'6/24/2013'
 p20186
-aS'Talk shows'
-p20187
-assg5043
-(dp20188
-g12148
-S'1954 January 17'
-p20189
-sg12150
-S'Cushing, George'
+sg12154
+(lp20187
+g6222
+asg12156
+(lp20188
+g6217
+asg12158
+(lp20189
+S'Radio programs'
 p20190
-sg11
-g5046
+assg5835
+(dp20191
+g12148
+S'1973 September 24'
+p20192
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20193
 sg12152
-S'2/25/2015'
-p20191
-sg12154
-(lp20192
-g5041
-asg12156
-(lp20193
-S'Radio programs'
+S'6/24/2013'
 p20194
-aS'Talk shows'
-p20195
-assg8889
-(dp20196
-g12148
-S'1954 January 10'
-p20197
-sg12150
-S'Cushing, George'
+sg12154
+(lp20195
+g5838
+asg12156
+(lp20196
+g5833
+asg12158
+(lp20197
+S'Radio programs'
 p20198
-sg11
-g8892
-sg12152
-S'2/25/2015'
+aS'Panel discussions'
 p20199
-sg12154
-(lp20200
-g8887
-asg12156
-(lp20201
-S'Radio programs'
+assg9351
+(dp20200
+g12148
+S'1973 October 22'
+p20201
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20202
-aS'Talk shows'
+sg12152
+S'6/24/2013'
 p20203
-assg8673
-(dp20204
-g12148
-S'1954 January 03'
-p20205
-sg12150
-S'Cushing, George'
-p20206
-sg11
-g8676
-sg12152
-S'2/25/2015'
+sg12154
+(lp20204
+g9354
+asg12156
+(lp20205
+g9349
+asg12158
+(lp20206
+S'Radio programs'
 p20207
-sg12154
-(lp20208
-g8671
-asg12156
-(lp20209
-S'Radio programs'
+aS'Panel discussions'
+p20208
+assg11805
+(dp20209
+g12148
+S'1973 November 19'
 p20210
-aS'Talk shows'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20211
-assg11193
-(dp20212
-g12148
-S'1954 February 07'
-p20213
-sg12150
-S'Cushing, George'
-p20214
-sg11
-g11196
 sg12152
-S'2/25/2015'
-p20215
+S'6/24/2013'
+p20212
 sg12154
-(lp20216
-g11191
+(lp20213
+g11808
 asg12156
-(lp20217
+(lp20214
+g11803
+asg12158
+(lp20215
 S'Radio programs'
+p20216
+assg8751
+(dp20217
+g12148
+S'1973 December 21'
 p20218
-aS'Talk shows'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20219
-assg8847
-(dp20220
+sg12152
+S'6/24/2013'
+p20220
+sg12154
+(lp20221
+g8754
+asg12156
+(lp20222
+g8749
+asg12158
+(lp20223
+S'Radio programs'
+p20224
+assg5961
+(dp20225
 g12148
-S'1954 January 31'
-p20221
+S'1974 January 22'
+p20226
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20227
+sg12152
+S'6/24/2013'
+p20228
+sg12154
+(lp20229
+g5964
+asg12156
+(lp20230
+g5959
+asg12158
+(lp20231
+S'Interviews'
+p20232
+aS'Radio programs'
+p20233
+aS'Talk shows'
+p20234
+assg11949
+(dp20235
+g12148
+S'1974 February 19'
+p20236
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20237
+sg12152
+S'6/24/2013'
+p20238
+sg12154
+(lp20239
+g11952
+asg12156
+(lp20240
+g11947
+asg12158
+(lp20241
+S'Interviews'
+p20242
+aS'Radio programs'
+p20243
+aS'Talk shows'
+p20244
+assg2313
+(dp20245
+g12148
+S'1974 March 19'
+p20246
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20247
+sg12152
+S'6/24/2013'
+p20248
+sg12154
+(lp20249
+g2316
+asg12156
+(lp20250
+g2311
+asg12158
+(lp20251
+S'Radio programs'
+p20252
+assg723
+(dp20253
+g12148
+S'1952 February 17'
+p20254
 sg12150
 S'Cushing, George'
-p20222
-sg11
-g8850
+p20255
 sg12152
 S'2/25/2015'
-p20223
+p20256
 sg12154
-(lp20224
-g8845
+(lp20257
+g726
 asg12156
-(lp20225
+(lp20258
+g721
+asg12158
+(lp20259
 S'Radio programs'
-p20226
+p20260
 aS'Talk shows'
-p20227
-assg12093
-(dp20228
+p20261
+assg3525
+(dp20262
 g12148
-S'1963 May 20'
-p20229
+S'1956 November 19'
+p20263
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20230
-sg11
-g12096
+S'Brucker, Wilber Marion'
+p20264
 sg12152
-S'6/24/2013'
-p20231
+S'11/01/2013'
+p20265
 sg12154
-(lp20232
-g12091
+(lp20266
+g3528
 asg12156
-(lp20233
+(lp20267
+g3523
+asg12158
+(lp20268
 S'Addresses'
-p20234
-aS'Radio programs'
-p20235
-aS'Dedications (ceremonies)'
-p20236
-assg9681
-(dp20237
+p20269
+assg6423
+(dp20270
 g12148
-S'1965 September, December'
-p20238
+S'1956 November 11'
+p20271
+sg12150
+S'Brucker, Wilber Marion'
+p20272
+sg12152
+S'11/01/2013'
+p20273
+sg12154
+(lp20274
+g6426
+asg12156
+(lp20275
+g6421
+asg12158
+(lp20276
+S'Dedications (ceremonies)'
+p20277
+assg9879
+(dp20278
+g12148
+S'1952 October 19'
+p20279
+sg12150
+S'Cushing, George'
+p20280
+sg12152
+S'2/25/2015'
+p20281
+sg12154
+(lp20282
+g9882
+asg12156
+(lp20283
+g9877
+asg12158
+(lp20284
+S'Radio programs'
+p20285
+aS'Talk shows'
+p20286
+assg4131
+(dp20287
+g12148
+S'1952 July 20'
+p20288
+sg12150
+S'Cushing, George'
+p20289
+sg12152
+S'2/25/2015'
+p20290
+sg12154
+(lp20291
+g4134
+asg12156
+(lp20292
+g4129
+asg12158
+(lp20293
+S'Radio programs'
+p20294
+aS'Talk shows'
+p20295
+assg6807
+(dp20296
+g12148
+S'1952 August 24'
+p20297
+sg12150
+S'Cushing, George'
+p20298
+sg12152
+S'2/25/2015'
+p20299
+sg12154
+(lp20300
+g6810
+asg12156
+(lp20301
+g6805
+asg12158
+(lp20302
+S'Radio programs'
+p20303
+aS'Talk shows'
+p20304
+assg753
+(dp20305
+g12148
+S'1952 June 22'
+p20306
+sg12150
+S'Cushing, George'
+p20307
+sg12152
+S'2/25/2015'
+p20308
+sg12154
+(lp20309
+g756
+asg12156
+(lp20310
+g751
+asg12158
+(lp20311
+S'Radio programs'
+p20312
+aS'Talk shows'
+p20313
+assg10209
+(dp20314
+g12148
+S'1952 July 06'
+p20315
+sg12150
+S'Cushing, George'
+p20316
+sg12152
+S'2/25/2015'
+p20317
+sg12154
+(lp20318
+g10212
+asg12156
+(lp20319
+g10207
+asg12158
+(lp20320
+S'Radio programs'
+p20321
+aS'Talk shows'
+p20322
+assg6981
+(dp20323
+g12148
+S'1952 March 16'
+p20324
+sg12150
+S'Cushing, George'
+p20325
+sg12152
+S'2/25/2015'
+p20326
+sg12154
+(lp20327
+g6984
+asg12156
+(lp20328
+g6979
+asg12158
+(lp20329
+S'Radio programs'
+p20330
+aS'Talk shows'
+p20331
+assg9567
+(dp20332
+g12148
+S'1952 April 06'
+p20333
+sg12150
+S'Cushing, George'
+p20334
+sg12152
+S'2/25/2015'
+p20335
+sg12154
+(lp20336
+g9570
+asg12156
+(lp20337
+g9565
+asg12158
+(lp20338
+S'Radio programs'
+p20339
+aS'Talk shows'
+p20340
+assg873
+(dp20341
+g12148
+S'1951 December 02'
+p20342
+sg12150
+S'Cushing, George'
+p20343
+sg12152
+S'2/25/2015'
+p20344
+sg12154
+(lp20345
+g876
+asg12156
+(lp20346
+g871
+asg12158
+(lp20347
+S'Radio programs'
+p20348
+aS'Talk shows'
+p20349
+assg879
+(dp20350
+g12148
+S'1963 June 08'
+p20351
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20239
-sg11
-g9684
+p20352
 sg12152
 S'6/24/2013'
-p20240
+p20353
 sg12154
-(lp20241
-g9679
-ag9673
+(lp20354
+g882
 asg12156
-(lp20242
-S'Oral Histories'
-p20243
-aS'Interviews'
-p20244
+(lp20355
+g877
+asg12158
+(lp20356
+S'Addresses'
+p20357
 aS'Radio programs'
-p20245
-aS'Talk shows'
-p20246
-aS'Oral Histories'
-p20247
-aS'Interviews'
-p20248
-aS'Radio programs'
-p20249
-aS'Talk shows'
-p20250
-assg9303
-(dp20251
+p20358
+assg405
+(dp20359
 g12148
-S'1963 July 06'
-p20252
+S'1952 August 26'
+p20360
+sg12150
+S'Cushing, George'
+p20361
+sg12152
+S'2/25/2015'
+p20362
+sg12154
+(lp20363
+g408
+asg12156
+(lp20364
+g403
+asg12158
+(lp20365
+S'Musical performances'
+p20366
+aS'Radio programs'
+p20367
+aS'Talk shows'
+p20368
+assg4113
+(dp20369
+g12148
+S'1980 March 14'
+p20370
 sg12150
 S'Bassett, Leslie'
-p20253
-sg11
-g9306
+p20371
 sg12152
 S'6/05/2014'
-p20254
-sg12154
-(lp20255
-g9301
-asg12156
-(lp20256
-S'Musical performances'
-p20257
-assg6921
-(dp20258
-g12148
-S'1983 Spring'
-p20259
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20260
-sg11
-g6924
-sg12152
-S'11/01/2013'
-p20261
-sg12154
-(lp20262
-g6919
-asg12156
-(lp20263
-S'Musical performances'
-p20264
-assg849
-(dp20265
-g12148
-S'1983 Spring'
-p20266
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20267
-sg11
-g852
-sg12152
-S'11/01/2013'
-p20268
-sg12154
-(lp20269
-g847
-asg12156
-(lp20270
-S'Musical performances'
-p20271
-assg1011
-(dp20272
-g12148
-S'[Undated]'
-p20273
-sg12150
-S'Sinclair, John and Leni'
-p20274
-sg11
-g1014
-sg12152
-S'6/24/2013'
-p20275
-sg12154
-(lp20276
-g1009
-ag1021
-ag1015
-asg12156
-(lp20277
-S'Musical performances'
-p20278
-aS'Interviews'
-p20279
-aS'Musical performances'
-p20280
-aS'Interviews'
-p20281
-aS'Musical performances'
-p20282
-aS'Interviews'
-p20283
-assg8781
-(dp20284
-g12148
-S'1972 September 13-14'
-p20285
-sg12150
-S'Sinclair, John and Leni'
-p20286
-sg11
-g8784
-sg12152
-S'6/24/2013'
-p20287
-sg12154
-(lp20288
-g8779
-ag8785
-ag5623
-asg12156
-(lp20289
-S'Meetings'
-p20290
-aS'Meetings'
-p20291
-aS'Meetings'
-p20292
-assg795
-(dp20293
-g12148
-S'1972 March 06-09'
-p20294
-sg12150
-S'Sinclair, John and Leni'
-p20295
-sg11
-g798
-sg12152
-S'6/24/2013'
-p20296
-sg12154
-(lp20297
-g793
-ag781
-ag1321
-ag1315
-asg12156
-(lp20298
-S'Interviews'
-p20299
-aS'Meetings'
-p20300
-aS'Interviews'
-p20301
-aS'Meetings'
-p20302
-aS'Interviews'
-p20303
-aS'Meetings'
-p20304
-aS'Interviews'
-p20305
-aS'Meetings'
-p20306
-assg4059
-(dp20307
-g12148
-S'1972 February 14, 1972 February 17, 1972 February 18'
-p20308
-sg12150
-S'Sinclair, John and Leni'
-p20309
-sg11
-g4062
-sg12152
-S'6/24/2013'
-p20310
-sg12154
-(lp20311
-g4057
-ag4045
-ag4051
-ag4069
-asg12156
-(lp20312
-S'Meetings'
-p20313
-aS'Meetings'
-p20314
-aS'Meetings'
-p20315
-aS'Meetings'
-p20316
-assg8265
-(dp20317
-g12148
-S'1972 February 11'
-p20318
-sg12150
-S'Sinclair, John and Leni'
-p20319
-sg11
-g8268
-sg12152
-S'6/24/2013'
-p20320
-sg12154
-(lp20321
-g8263
-ag2035
-ag907
-ag8269
-ag2029
-asg12156
-(lp20322
-S'Musical performances'
-p20323
-aS'Interviews'
-p20324
-aS'Meetings'
-p20325
-aS'Musical performances'
-p20326
-aS'Interviews'
-p20327
-aS'Meetings'
-p20328
-aS'Musical performances'
-p20329
-aS'Interviews'
-p20330
-aS'Meetings'
-p20331
-aS'Musical performances'
-p20332
-aS'Interviews'
-p20333
-aS'Meetings'
-p20334
-aS'Musical performances'
-p20335
-aS'Interviews'
-p20336
-aS'Meetings'
-p20337
-assg10575
-(dp20338
-g12148
-S'[1972 February 08], 1972 February 10'
-p20339
-sg12150
-S'Sinclair, John and Leni'
-p20340
-sg11
-g10578
-sg12152
-S'6/24/2013'
-p20341
-sg12154
-(lp20342
-g10573
-ag10579
-ag10585
-ag10591
-asg12156
-(lp20343
-S'Meetings'
-p20344
-aS'Meetings'
-p20345
-aS'Meetings'
-p20346
-aS'Meetings'
-p20347
-assg4539
-(dp20348
-g12148
-S'1972 February 03'
-p20349
-sg12150
-S'Sinclair, John and Leni'
-p20350
-sg11
-g4542
-sg12152
-S'6/24/2013'
-p20351
-sg12154
-(lp20352
-g4537
-ag9541
-ag4531
-ag4549
-ag9547
-asg12156
-(lp20353
-S'Musical performances'
-p20354
-aS'Meetings'
-p20355
-aS'Musical performances'
-p20356
-aS'Meetings'
-p20357
-aS'Musical performances'
-p20358
-aS'Meetings'
-p20359
-aS'Musical performances'
-p20360
-aS'Meetings'
-p20361
-aS'Musical performances'
-p20362
-aS'Meetings'
-p20363
-assg7545
-(dp20364
-g12148
-S'1966 October 14'
-p20365
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20366
-sg11
-g7548
-sg12152
-S'11/01/2013'
-p20367
-sg12154
-(lp20368
-g7543
-asg12156
-(lp20369
-S'Musical performances'
-p20370
-assg4647
-(dp20371
-g12148
-S'[Undated]'
 p20372
-sg12150
-S'Sinclair, John and Leni'
-p20373
-sg11
-g4650
-sg12152
-S'6/24/2013'
-p20374
 sg12154
-(lp20375
-g4645
+(lp20373
+g4116
 asg12156
-(lp20376
-S'Interviews'
+(lp20374
+g4111
+ag4759
+asg12158
+(lp20375
+S'Musical performances'
+p20376
+aS'Musical performances'
 p20377
-assg7347
+assg9945
 (dp20378
 g12148
-S'[Undated]'
+S'1966 May 21'
 p20379
 sg12150
-S'Sinclair, John and Leni'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20380
-sg11
-g7350
 sg12152
 S'6/24/2013'
 p20381
 sg12154
 (lp20382
-g7345
-ag7339
+g9948
 asg12156
 (lp20383
-S'Addresses'
-p20384
-aS'Addresses'
+g9943
+asg12158
+(lp20384
+S'Oral Histories'
 p20385
-assg2859
-(dp20386
-g12148
-S'1948 October 05'
-p20387
-sg12150
-S'Cushing, George'
-p20388
-sg11
-g2862
-sg12152
-S'2/25/2015'
-p20389
-sg12154
-(lp20390
-g2857
-asg12156
-(lp20391
-S'Radio programs'
-p20392
-aS'Talk shows'
-p20393
-assg7659
-(dp20394
-g12148
-S'1967 November 04'
-p20395
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20396
-sg11
-g7662
-sg12152
-S'11/01/2013'
-p20397
-sg12154
-(lp20398
-g7657
-asg12156
-(lp20399
-S'Musical performances'
-p20400
-assg11115
-(dp20401
-g12148
-S'1967 November 04'
-p20402
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20403
-sg11
-g11118
-sg12152
-S'11/01/2013'
-p20404
-sg12154
-(lp20405
-g11113
-asg12156
-(lp20406
-S'Musical performances'
-p20407
-assg5649
-(dp20408
-g12148
-S'1948 October 03'
-p20409
-sg12150
-S'Cushing, George'
-p20410
-sg11
-g5652
-sg12152
-S'2/25/2015'
-p20411
-sg12154
-(lp20412
-g5647
-asg12156
-(lp20413
-S'Radio programs'
-p20414
-aS'Talk shows'
-p20415
-assg2565
-(dp20416
-g12148
-S'1960 October 08'
-p20417
-sg12150
-S'University of Michigan. Alumni Association.'
-p20418
-sg11
-g2568
-sg12152
-S'11/01/2013'
-p20419
-sg12154
-(lp20420
-g2563
-asg12156
-(lp20421
-S'Musical performances'
-p20422
-assg2829
-(dp20423
-g12148
-S'1983 September 20'
-p20424
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p20425
-sg11
-g2832
-sg12152
-S'6/05/2014'
-p20426
-sg12154
-(lp20427
-g2827
-asg12156
-(lp20428
-S'Lectures'
-p20429
-aS'Musical performances'
-p20430
-aS'Radio programs'
-p20431
-assg5751
-(dp20432
-g12148
-S'1948 November 28'
-p20433
-sg12150
-S'Cushing, George'
-p20434
-sg11
-g5754
-sg12152
-S'2/25/2015'
-p20435
-sg12154
-(lp20436
-g5749
-asg12156
-(lp20437
-S'Radio programs'
-p20438
-aS'Talk shows'
-p20439
-assg9219
-(dp20440
-g12148
-S'1964 August 28, 1964 October 14'
-p20441
-sg12150
-S'Romney, George'
-p20442
-sg11
-g9222
-sg12152
-S'6/05/2014'
-p20443
-sg12154
-(lp20444
-g9217
-asg12156
-(lp20445
-S'Conferences'
-p20446
-aS'Press conferences'
-p20447
-assg3345
-(dp20448
-g12148
-S'[Undated]'
-p20449
-sg12150
-S'Romney, George'
-p20450
-sg11
-g3348
-sg12152
-S'6/05/2014'
-p20451
-sg12154
-(lp20452
-g3343
-asg12156
-(lp20453
-S'Interviews'
-p20454
-aS'Radio programs'
-p20455
-assg6123
-(dp20456
-g12148
-S'[Undated]'
-p20457
-sg12150
-S'Romney, George'
-p20458
-sg11
-g6126
-sg12152
-S'6/05/2014'
-p20459
-sg12154
-(lp20460
-g6121
-asg12156
-(lp20461
-S'Interviews'
-p20462
-assg6531
-(dp20463
-g12148
-S'1962'
-p20464
-sg12150
-S'Romney, George'
-p20465
-sg11
-g6534
-sg12152
-S'6/05/2014'
-p20466
-sg12154
-(lp20467
-g6529
-asg12156
-(lp20468
-S'Interviews'
-p20469
-assg9333
-(dp20470
-g12148
-S'1962'
-p20471
-sg12150
-S'Romney, George'
-p20472
-sg11
-g9336
-sg12152
-S'6/05/2014'
-p20473
-sg12154
-(lp20474
-g9331
-asg12156
-(lp20475
-S'Interviews'
-p20476
-assg12087
-(dp20477
-g12148
-S'[Undated]'
-p20478
-sg12150
-S'Romney, George'
-p20479
-sg11
-g12090
-sg12152
-S'6/05/2014'
-p20480
-sg12154
-(lp20481
-g12085
-ag11821
-asg12156
-(lp20482
-S'Interviews'
-p20483
-aS'Radio programs'
-p20484
 aS'Interviews'
-p20485
+p20386
 aS'Radio programs'
-p20486
-assg459
-(dp20487
+p20387
+aS'Talk shows'
+p20388
+assg10017
+(dp20389
 g12148
-S'1962'
-p20488
-sg12150
-S'Romney, George'
-p20489
-sg11
-g462
-sg12152
-S'6/05/2014'
-p20490
-sg12154
-(lp20491
-g457
-asg12156
-(lp20492
-S'Interviews'
-p20493
-aS'Radio programs'
-p20494
-assg6273
-(dp20495
-g12148
-S'1958 November 15'
-p20496
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20497
-sg11
-g6276
-sg12152
-S'11/01/2013'
-p20498
-sg12154
-(lp20499
-g6271
-asg12156
-(lp20500
-S'Musical performances'
-p20501
-assg21
-(dp20502
-g12148
-S'1958 November 15'
-p20503
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20504
-sg11
-g24
-sg12152
-S'11/01/2013'
-p20505
-sg12154
-(lp20506
-g19
-asg12156
-(lp20507
-S'Musical performances'
-p20508
-assg6555
-(dp20509
-g12148
-S'1964 November 07'
-p20510
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20511
-sg11
-g6558
-sg12152
-S'11/01/2013'
-p20512
-sg12154
-(lp20513
-g6553
-asg12156
-(lp20514
-S'Musical performances'
-p20515
-assg3633
-(dp20516
-g12148
-S'1964 November 07'
-p20517
-sg12150
-S"University of Michigan. Men's Glee Club"
-p20518
-sg11
-g3636
-sg12152
-S'11/01/2013'
-p20519
-sg12154
-(lp20520
-g3631
-asg12156
-(lp20521
-S'Musical performances'
-p20522
-assg10425
-(dp20523
-g12148
-S'1965 March 21'
-p20524
+S'1966 May 08'
+p20390
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20525
-sg11
-g10428
+p20391
 sg12152
 S'6/24/2013'
-p20526
+p20392
 sg12154
-(lp20527
-g10423
-ag10429
+(lp20393
+g10020
 asg12156
-(lp20528
+(lp20394
+g10015
+asg12158
+(lp20395
+S'Interviews'
+p20396
+aS'Radio programs'
+p20397
+aS'Talk shows'
+p20398
+assg7413
+(dp20399
+g12148
+S'1964 May 11'
+p20400
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20401
+sg12152
+S'6/24/2013'
+p20402
+sg12154
+(lp20403
+g7416
+asg12156
+(lp20404
+g7411
+asg12158
+(lp20405
+S'Interviews'
+p20406
+aS'Radio programs'
+p20407
+aS'Talk shows'
+p20408
+assg10161
+(dp20409
+g12148
+S'1965 May 12'
+p20410
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20411
+sg12152
+S'6/24/2013'
+p20412
+sg12154
+(lp20413
+g10164
+asg12156
+(lp20414
+g10159
+asg12158
+(lp20415
 S'Radio programs'
-p20529
-aS'Poetry readings'
-p20530
+p20416
+assg663
+(dp20417
+g12148
+S'1965 May 12'
+p20418
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20419
+sg12152
+S'6/24/2013'
+p20420
+sg12154
+(lp20421
+g666
+asg12156
+(lp20422
+g661
+asg12158
+(lp20423
+S'Radio programs'
+p20424
+assg9975
+(dp20425
+g12148
+S'1966 May 03'
+p20426
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20427
+sg12152
+S'6/24/2013'
+p20428
+sg12154
+(lp20429
+g9978
+asg12156
+(lp20430
+g9973
+asg12158
+(lp20431
+S'Musical performances'
+p20432
 aS'Radio programs'
-p20531
-aS'Poetry readings'
-p20532
-assg4257
-(dp20533
+p20433
+assg7599
+(dp20434
 g12148
-S'1955 January 06'
-p20534
+S'1966 May 17, 19'
+p20435
 sg12150
-S'Schimpke, Albert J.'
-p20535
-sg11
-g4260
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20436
+sg12152
+S'6/24/2013'
+p20437
+sg12154
+(lp20438
+g7602
+asg12156
+(lp20439
+g7597
+asg12158
+(lp20440
+S'Radio programs'
+p20441
+assg10023
+(dp20442
+g12148
+S'1962 June 20'
+p20443
+sg12150
+S"University of Michigan. Men's Glee Club"
+p20444
 sg12152
 S'11/01/2013'
-p20536
+p20445
 sg12154
-(lp20537
-g4255
-ag4273
+(lp20446
+g10026
 asg12156
-(lp20538
-S'Oral Histories'
-p20539
-aS'Interviews'
-p20540
-aS'Oral Histories'
-p20541
-aS'Interviews'
-p20542
-assg10641
-(dp20543
+(lp20447
+g10021
+asg12158
+(lp20448
+S'Musical performances'
+p20449
+assg657
+(dp20450
 g12148
-S'1954 October 01, 12-13'
-p20544
+S'1962 June 20'
+p20451
 sg12150
-S'Schimpke, Albert J.'
-p20545
-sg11
-g10644
+S"University of Michigan. Men's Glee Club"
+p20452
 sg12152
 S'11/01/2013'
-p20546
+p20453
 sg12154
-(lp20547
-g10639
-ag10645
+(lp20454
+g660
 asg12156
-(lp20548
-S'Oral Histories'
-p20549
-aS'Interviews'
-p20550
-aS'Oral Histories'
-p20551
-aS'Interviews'
-p20552
-assg4599
-(dp20553
+(lp20455
+g655
+asg12158
+(lp20456
+S'Musical performances'
+p20457
+assg1581
+(dp20458
 g12148
-S'1955 January 06'
-p20554
+S'1954 May'
+p20459
 sg12150
-S'Schimpke, Albert J.'
-p20555
-sg11
-g4602
+S'Bennett, John B.'
+p20460
 sg12152
 S'11/01/2013'
-p20556
+p20461
 sg12154
-(lp20557
-g4597
-ag4591
+(lp20462
+g1584
 asg12156
-(lp20558
-S'Oral Histories'
-p20559
-aS'Interviews'
-p20560
-aS'Oral Histories'
-p20561
-aS'Interviews'
-p20562
-assg7281
-(dp20563
+(lp20463
+g1579
+asg12158
+(lp20464
+S'Radio programs'
+p20465
+assg7773
+(dp20466
 g12148
-S'1955 January 06'
-p20564
+S'1954'
+p20467
 sg12150
-S'Schimpke, Albert J.'
-p20565
-sg11
-g7284
+S'Bennett, John B.'
+p20468
 sg12152
 S'11/01/2013'
-p20566
+p20469
 sg12154
-(lp20567
-g7279
-ag7261
+(lp20470
+g7776
 asg12156
-(lp20568
-S'Oral Histories'
-p20569
-aS'Interviews'
-p20570
-aS'Oral Histories'
-p20571
-aS'Interviews'
-p20572
-assg4335
-(dp20573
+(lp20471
+g7771
+asg12158
+(lp20472
+S'Radio programs'
+p20473
+assg10251
+(dp20474
 g12148
-S'[Undated]'
-p20574
+S'1953 April'
+p20475
 sg12150
-S'Schimpke, Albert J.'
-p20575
-sg11
-g4338
-sg12152
-S'11/01/2013'
-p20576
-sg12154
-(lp20577
-g4333
-asg12156
-(lp20578
-S'Oral Histories'
-p20579
-aS'Interviews'
-p20580
-assg1569
-(dp20581
-g12148
-S'1954 December 18'
-p20582
-sg12150
-S'Schimpke, Albert J.'
-p20583
-sg11
-g1572
-sg12152
-S'11/01/2013'
-p20584
-sg12154
-(lp20585
-g1567
-ag1573
-asg12156
-(lp20586
-S'Oral Histories'
-p20587
-aS'Interviews'
-p20588
-aS'Oral Histories'
-p20589
-aS'Interviews'
-p20590
-assg7809
-(dp20591
-g12148
-S'1956 November 06'
-p20592
-sg12150
-S'Schimpke, Albert J.'
-p20593
-sg11
-g7812
-sg12152
-S'11/01/2013'
-p20594
-sg12154
-(lp20595
-g7807
-ag7801
-asg12156
-(lp20596
-S'Oral Histories'
-p20597
-aS'Interviews'
-p20598
-aS'Oral Histories'
-p20599
-aS'Interviews'
-p20600
-assg10329
-(dp20601
-g12148
-S'1956 November 06'
-p20602
-sg12150
-S'Schimpke, Albert J.'
-p20603
-sg11
-g10332
-sg12152
-S'11/01/2013'
-p20604
-sg12154
-(lp20605
-g10327
-ag10321
-asg12156
-(lp20606
-S'Oral Histories'
-p20607
-aS'Interviews'
-p20608
-aS'Oral Histories'
-p20609
-aS'Interviews'
-p20610
-assg3699
-(dp20611
-g12148
-S'1955 November 04, 06'
-p20612
-sg12150
-S'Schimpke, Albert J.'
-p20613
-sg11
-g3702
-sg12152
-S'11/01/2013'
-p20614
-sg12154
-(lp20615
-g3697
-ag3703
-asg12156
-(lp20616
-S'Oral Histories'
-p20617
-aS'Interviews'
-p20618
-aS'Oral Histories'
-p20619
-aS'Interviews'
-p20620
-assg1215
-(dp20621
-g12148
-S'1961 March 15'
-p20622
-sg12150
-S'Schimpke, Albert J.'
-p20623
-sg11
-g1218
-sg12152
-S'11/01/2013'
-p20624
-sg12154
-(lp20625
-g1213
-asg12156
-(lp20626
-S'Oral Histories'
-p20627
-aS'Interviews'
-p20628
-assg1383
-(dp20629
-g12148
-S'1984 January 24'
-p20630
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p20631
-sg11
-g1386
+S'Hoffman, Clare E.'
+p20476
 sg12152
 S'6/05/2014'
-p20632
+p20477
 sg12154
-(lp20633
-g1381
+(lp20478
+g10254
 asg12156
-(lp20634
+(lp20479
+g10249
+asg12158
+(lp20480
+S'Interviews'
+p20481
+assg8727
+(dp20482
+g12148
+S'1944 September 03'
+p20483
+sg12150
+S'Cushing, George'
+p20484
+sg12152
+S'2/25/2015'
+p20485
+sg12154
+(lp20486
+g8730
+asg12156
+(lp20487
+g8725
+asg12158
+(lp20488
+S'Radio programs'
+p20489
+aS'Talk shows'
+p20490
+assg8145
+(dp20491
+g12148
+S'1943 December 05'
+p20492
+sg12150
+S'Cushing, George'
+p20493
+sg12152
+S'2/25/2015'
+p20494
+sg12154
+(lp20495
+g8148
+asg12156
+(lp20496
+g8143
+asg12158
+(lp20497
+S'Radio programs'
+p20498
+aS'Talk shows'
+p20499
+assg7887
+(dp20500
+g12148
+S'1966 March 20'
+p20501
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20502
+sg12152
+S'6/24/2013'
+p20503
+sg12154
+(lp20504
+g7890
+asg12156
+(lp20505
+g7885
+asg12158
+(lp20506
 S'Lectures'
-p20635
-aS'Musical performances'
-p20636
+p20507
 aS'Radio programs'
-p20637
-assg11259
-(dp20638
+p20508
+aS'Poetry readings'
+p20509
+assg5079
+(dp20510
 g12148
-S'1968 March 11'
+S'1944 August 13'
+p20511
+sg12150
+S'Cushing, George'
+p20512
+sg12152
+S'2/25/2015'
+p20513
+sg12154
+(lp20514
+g5082
+asg12156
+(lp20515
+g5077
+asg12158
+(lp20516
+S'Radio programs'
+p20517
+aS'Talk shows'
+p20518
+assg8277
+(dp20519
+g12148
+S'1943 July 18'
+p20520
+sg12150
+S'Cushing, George'
+p20521
+sg12152
+S'2/25/2015'
+p20522
+sg12154
+(lp20523
+g8280
+asg12156
+(lp20524
+g8275
+asg12158
+(lp20525
+S'Radio programs'
+p20526
+aS'Talk shows'
+p20527
+assg5595
+(dp20528
+g12148
+S'1943 September 05'
+p20529
+sg12150
+S'Cushing, George'
+p20530
+sg12152
+S'2/25/2015'
+p20531
+sg12154
+(lp20532
+g5598
+asg12156
+(lp20533
+g5593
+asg12158
+(lp20534
+S'Radio programs'
+p20535
+aS'Talk shows'
+p20536
+assg11589
+(dp20537
+g12148
+S'1943 September 05'
+p20538
+sg12150
+S'Cushing, George'
+p20539
+sg12152
+S'2/25/2015'
+p20540
+sg12154
+(lp20541
+g11592
+asg12156
+(lp20542
+g11587
+asg12158
+(lp20543
+S'Radio programs'
+p20544
+aS'Talk shows'
+p20545
+assg1839
+(dp20546
+g12148
+S'1943 September 12'
+p20547
+sg12150
+S'Cushing, George'
+p20548
+sg12152
+S'2/25/2015'
+p20549
+sg12154
+(lp20550
+g1842
+asg12156
+(lp20551
+g1837
+asg12158
+(lp20552
+S'Radio programs'
+p20553
+aS'Talk shows'
+p20554
+assg5613
+(dp20555
+g12148
+S'1961 May 14'
+p20556
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20557
+sg12152
+S'6/24/2013'
+p20558
+sg12154
+(lp20559
+g5616
+asg12156
+(lp20560
+g5611
+asg12158
+(lp20561
+S'Addresses'
+p20562
+aS'Lectures'
+p20563
+aS'Radio programs'
+p20564
+assg837
+(dp20565
+g12148
+S'1969 October 15'
+p20566
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20567
+sg12152
+S'6/24/2013'
+p20568
+sg12154
+(lp20569
+g840
+ag846
+asg12156
+(lp20570
+g835
+ag841
+asg12158
+(lp20571
+S'Addresses'
+p20572
+aS'Radio programs'
+p20573
+aS'Panel discussions'
+p20574
+aS'Addresses'
+p20575
+aS'Radio programs'
+p20576
+aS'Panel discussions'
+p20577
+assg3159
+(dp20578
+g12148
+S'1950 January 10'
+p20579
+sg12150
+S'Pollock, James Kerr'
+p20580
+sg12152
+S'11/01/2013'
+p20581
+sg12154
+(lp20582
+g3162
+asg12156
+(lp20583
+g3157
+asg12158
+(lp20584
+S'Lectures'
+p20585
+aS'Interviews'
+p20586
+aS'Class'
+p20587
+aS'Debates'
+p20588
+assg5817
+(dp20589
+g12148
+S'1950 January 17'
+p20590
+sg12150
+S'Pollock, James Kerr'
+p20591
+sg12152
+S'11/01/2013'
+p20592
+sg12154
+(lp20593
+g5820
+asg12156
+(lp20594
+g5815
+asg12158
+(lp20595
+S'Lectures'
+p20596
+aS'Class'
+p20597
+aS'Debates'
+p20598
+assg11931
+(dp20599
+g12148
+S'1950 January 17'
+p20600
+sg12150
+S'Pollock, James Kerr'
+p20601
+sg12152
+S'11/01/2013'
+p20602
+sg12154
+(lp20603
+g11934
+asg12156
+(lp20604
+g11929
+asg12158
+(lp20605
+S'Class'
+p20606
+assg9339
+(dp20607
+g12148
+S'1953 August 29'
+p20608
+sg12150
+S'Pollock, James Kerr'
+p20609
+sg12152
+S'11/01/2013'
+p20610
+sg12154
+(lp20611
+g9342
+asg12156
+(lp20612
+g9337
+asg12158
+(lp20613
+S'Lectures'
+p20614
+assg477
+(dp20615
+g12148
+S'1959 December 09'
+p20616
+sg12150
+S'Pollock, James Kerr'
+p20617
+sg12152
+S'11/01/2013'
+p20618
+sg12154
+(lp20619
+g480
+asg12156
+(lp20620
+g475
+asg12158
+(lp20621
+S'Addresses'
+p20622
+assg3015
+(dp20623
+g12148
+S'1963 January 04'
+p20624
+sg12150
+S'Pollock, James Kerr'
+p20625
+sg12152
+S'11/01/2013'
+p20626
+sg12154
+(lp20627
+g3018
+asg12156
+(lp20628
+g3013
+asg12158
+(lp20629
+S'Debates'
+p20630
+assg3291
+(dp20631
+g12148
+S'1968 January 19'
+p20632
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20633
+sg12152
+S'6/24/2013'
+p20634
+sg12154
+(lp20635
+g3294
+asg12156
+(lp20636
+g3289
+asg12158
+(lp20637
+S'Radio programs'
+p20638
+aS'Conferences'
 p20639
-sg12150
-S'Fleming, R. W. (Robben Wright)'
+aS'Panel discussions'
 p20640
-sg11
-g11262
+assg2691
+(dp20641
+g12148
+S'1961'
+p20642
+sg12150
+S'University of Michigan. Alumni Association.'
+p20643
 sg12152
-S'6/05/2014'
-p20641
-sg12154
-(lp20642
-g11257
-asg12156
-(lp20643
-S'Inauguration'
+S'11/01/2013'
 p20644
-assg8049
-(dp20645
+sg12154
+(lp20645
+g2694
+asg12156
+(lp20646
+g2689
+asg12158
+(lp20647
+S'Interviews'
+p20648
+aS'Radio programs'
+p20649
+aS'Talk shows'
+p20650
+assg4677
+(dp20651
 g12148
-S'1978 October 27'
-p20646
+S'1968'
+p20652
 sg12150
-S'Fleming, R. W. (Robben Wright)'
-p20647
-sg11
-g8052
+S'Democratic Party (Mich.)'
+p20653
 sg12152
 S'6/05/2014'
-p20648
-sg12154
-(lp20649
-g8047
-asg12156
-(lp20650
-S'Addresses'
-p20651
-aS'Dinners'
-p20652
-assg1299
-(dp20653
-g12148
-S'1960 October 14'
 p20654
-sg12150
-S'Williams, G. Mennen'
-p20655
-sg11
-g1302
-sg12152
-S'11/01/2013'
-p20656
 sg12154
+(lp20655
+g4680
+asg12156
+(lp20656
+g4675
+asg12158
 (lp20657
-g1297
-asg12156
-(lp20658
-S'Addresses'
-p20659
-assg11799
-(dp20660
+S'Interviews'
+p20658
+assg10443
+(dp20659
 g12148
-S'1960'
-p20661
+S'1964 November 05'
+p20660
 sg12150
-S'Williams, G. Mennen'
-p20662
-sg11
-g11802
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20661
 sg12152
-S'11/01/2013'
-p20663
+S'6/24/2013'
+p20662
 sg12154
-(lp20664
-g11797
+(lp20663
+g10446
 asg12156
+(lp20664
+g10441
+asg12158
 (lp20665
-S'Addresses'
+S'Radio programs'
 p20666
-aS'Advertising'
+aS'Documentaries'
 p20667
-assg10683
+assg4929
 (dp20668
 g12148
-S'1960 October 05'
+S'1962 April 30'
 p20669
 sg12150
-S'Williams, G. Mennen'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20670
-sg11
-g10686
 sg12152
-S'11/01/2013'
+S'6/24/2013'
 p20671
 sg12154
 (lp20672
-g10681
+g4932
 asg12156
 (lp20673
-S'Addresses'
-p20674
-aS'Interviews'
+g4927
+asg12158
+(lp20674
+S'Lectures'
 p20675
-assg11097
-(dp20676
-g12148
-S'1975 July 03'
+aS'Radio programs'
+p20676
+aS'Poetry readings'
 p20677
-sg12150
-S'Michigan Organization for Human Rights'
-p20678
-sg11
-g11100
-sg12152
-S'6/05/2014'
+assg10767
+(dp20678
+g12148
+S'1969 October 15'
 p20679
-sg12154
-(lp20680
-g11095
-asg12156
-(lp20681
-S'Radio programs'
-p20682
-assg1629
-(dp20683
-g12148
-S'1975 August 28'
-p20684
 sg12150
-S'Michigan Organization for Human Rights'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20680
+sg12152
+S'6/24/2013'
+p20681
+sg12154
+(lp20682
+g10770
+asg12156
+(lp20683
+g10765
+asg12158
+(lp20684
+S'Addresses'
 p20685
-sg11
-g1632
-sg12152
-S'6/05/2014'
+aS'Radio programs'
 p20686
-sg12154
-(lp20687
-g1627
-asg12156
-(lp20688
-S'Radio programs'
-p20689
-assg7899
-(dp20690
+assg4491
+(dp20687
 g12148
-S'1975 April 10'
-p20691
+S'1965 March 18'
+p20688
 sg12150
-S'Michigan Organization for Human Rights'
-p20692
-sg11
-g7902
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20689
 sg12152
-S'6/05/2014'
-p20693
+S'6/24/2013'
+p20690
 sg12154
-(lp20694
-g7897
+(lp20691
+g4494
 asg12156
-(lp20695
-S'Radio programs'
+(lp20692
+g4489
+asg12158
+(lp20693
+S'Lectures'
+p20694
+aS'Radio programs'
+p20695
+aS'Poetry readings'
 p20696
-assg5187
+assg1533
 (dp20697
 g12148
-S'1975 September 25'
+S'1954 October 28'
 p20698
 sg12150
-S'Michigan Organization for Human Rights'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20699
-sg11
-g5190
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p20700
 sg12154
 (lp20701
-g5185
+g1536
 asg12156
 (lp20702
-S'Radio programs'
-p20703
-assg2163
-(dp20704
-g12148
-S'1975 March 13'
-p20705
-sg12150
-S'Michigan Organization for Human Rights'
-p20706
-sg11
-g2166
-sg12152
-S'6/05/2014'
-p20707
-sg12154
-(lp20708
-g2161
-asg12156
-(lp20709
-S'Radio programs'
-p20710
-assg4875
-(dp20711
-g12148
-S'1975 March 27'
-p20712
-sg12150
-S'Michigan Organization for Human Rights'
-p20713
-sg11
-g4878
-sg12152
-S'6/05/2014'
-p20714
-sg12154
-(lp20715
-g4873
-asg12156
-(lp20716
-S'Radio programs'
-p20717
-assg8061
-(dp20718
-g12148
-S'1975 July 17'
-p20719
-sg12150
-S'Michigan Organization for Human Rights'
-p20720
-sg11
-g8064
-sg12152
-S'6/05/2014'
-p20721
-sg12154
-(lp20722
-g8059
-asg12156
-(lp20723
+g1531
+asg12158
+(lp20703
 S'Interviews'
-p20724
+p20704
 aS'Radio programs'
+p20705
+aS'Historical dramas'
+p20706
+aS'Talk shows'
+p20707
+assg4797
+(dp20708
+g12148
+S'1958 May 10'
+p20709
+sg12150
+S"University of Michigan. Men's Glee Club"
+p20710
+sg12152
+S'11/01/2013'
+p20711
+sg12154
+(lp20712
+g4800
+asg12156
+(lp20713
+g4795
+asg12158
+(lp20714
+S'Musical performances'
+p20715
+assg10869
+(dp20716
+g12148
+S'1958 May 10'
+p20717
+sg12150
+S"University of Michigan. Men's Glee Club"
+p20718
+sg12152
+S'11/01/2013'
+p20719
+sg12154
+(lp20720
+g10872
+asg12156
+(lp20721
+g10867
+asg12158
+(lp20722
+S'Musical performances'
+p20723
+assg1965
+(dp20724
+g12148
+S'1963 November 12'
 p20725
-assg5391
-(dp20726
-g12148
-S'1975 July 31'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p20726
+sg12152
+S'6/24/2013'
 p20727
-sg12150
-S'Michigan Organization for Human Rights'
-p20728
-sg11
-g5394
-sg12152
-S'6/05/2014'
-p20729
 sg12154
+(lp20728
+g1968
+asg12156
+(lp20729
+g1963
+asg12158
 (lp20730
-g5389
-asg12156
-(lp20731
-S'Radio programs'
+S'Lectures'
+p20731
+aS'Radio programs'
 p20732
-assg11397
-(dp20733
+aS'Poetry readings'
+p20733
+assg11637
+(dp20734
 g12148
-S'1975 June 19'
-p20734
-sg12150
-S'Michigan Organization for Human Rights'
+S'1962 August 23'
 p20735
-sg11
-g11400
-sg12152
-S'6/05/2014'
+sg12150
+S'Romney, George'
 p20736
+sg12152
+S'6/05/2014'
+p20737
 sg12154
-(lp20737
-g11395
-asg12156
 (lp20738
-S'Radio programs'
-p20739
-assg1647
-(dp20740
-g12148
-S'1975 August 14'
+g11640
+asg12156
+(lp20739
+g11635
+asg12158
+(lp20740
+S'Advertising'
 p20741
-sg12150
-S'Michigan Organization for Human Rights'
-p20742
-sg11
-g1650
-sg12152
-S'6/05/2014'
+assg8721
+(dp20742
+g12148
+S'1957 April 11'
 p20743
-sg12154
-(lp20744
-g1645
-asg12156
-(lp20745
-S'Radio programs'
-p20746
-assg11547
-(dp20747
-g12148
-S'[Undated]'
-p20748
 sg12150
-S'Allen, D.C., collector'
+S'Romney, George'
+p20744
+sg12152
+S'6/05/2014'
+p20745
+sg12154
+(lp20746
+g8724
+asg12156
+(lp20747
+g8719
+asg12158
+(lp20748
+S'Press conferences'
 p20749
-sg11
-g11550
+assg2817
+(dp20750
+g12148
+S'1956 April 24'
+p20751
+sg12150
+S'Romney, George'
+p20752
 sg12152
 S'6/05/2014'
-p20750
-sg12154
-(lp20751
-g11545
-ag11551
-asg12156
-(lp20752
-S'Sermons'
 p20753
-aS'Musical performances'
-p20754
-aS'Radio programs'
-p20755
-aS'Religious meetings'
-p20756
-aS'Sermons'
+sg12154
+(lp20754
+g2820
+asg12156
+(lp20755
+g2815
+asg12158
+(lp20756
+S'Press conferences'
 p20757
-aS'Musical performances'
-p20758
-aS'Radio programs'
+assg15
+(dp20758
+g12148
+S'1984 November 10'
 p20759
-aS'Religious meetings'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p20760
-assg8217
-(dp20761
-g12148
-S'[Undated]'
-p20762
-sg12150
-S'Allen, D.C., collector'
-p20763
-sg11
-g8220
 sg12152
-S'6/05/2014'
-p20764
+S'11/01/2013'
+p20761
 sg12154
-(lp20765
-g8215
-ag8209
+(lp20762
+g18
 asg12156
-(lp20766
-S'Sermons'
+(lp20763
+g13
+asg12158
+(lp20764
+S'Musical performances'
+p20765
+assg2709
+(dp20766
+g12148
+S'1984 November 10'
 p20767
-aS'Musical performances'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p20768
-aS'Radio programs'
+sg12152
+S'11/01/2013'
 p20769
-aS'Sermons'
-p20770
-aS'Musical performances'
-p20771
-aS'Radio programs'
-p20772
-assg5541
-(dp20773
+sg12154
+(lp20770
+g2712
+asg12156
+(lp20771
+g2707
+asg12158
+(lp20772
+S'Musical performances'
+p20773
+assg6165
+(dp20774
 g12148
-S'[Undated]'
-p20774
-sg12150
-S'Allen, D.C., collector'
+S'1984 November 10'
 p20775
-sg11
-g5544
-sg12152
-S'6/05/2014'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p20776
+sg12152
+S'11/01/2013'
+p20777
 sg12154
-(lp20777
-g5539
-ag5533
-asg12156
 (lp20778
-S'Sermons'
-p20779
-aS'Musical performances'
-p20780
-aS'Sermons'
+g6168
+asg12156
+(lp20779
+g6163
+asg12158
+(lp20780
+S'Musical performances'
 p20781
-aS'Musical performances'
-p20782
-assg2535
-(dp20783
+assg9039
+(dp20782
 g12148
-S'[Undated]'
+S'1057 October 17'
+p20783
+sg12150
+S'Schimpke, Albert J.'
 p20784
-sg12150
-S'Allen, D.C., collector'
+sg12152
+S'11/01/2013'
 p20785
-sg11
-g2538
-sg12152
-S'6/05/2014'
-p20786
 sg12154
+(lp20786
+g9042
+asg12156
 (lp20787
-g2533
-ag2545
-asg12156
+g9037
+ag9043
+asg12158
 (lp20788
-S'Sermons'
+S'Oral Histories'
 p20789
-aS'Musical performances'
+aS'Interviews'
 p20790
-aS'Radio programs'
+aS'Oral Histories'
 p20791
-aS'Sermons'
+aS'Interviews'
 p20792
-aS'Musical performances'
-p20793
-aS'Radio programs'
+assg6153
+(dp20793
+g12148
+S'1954 November 04, 10'
 p20794
-assg5235
-(dp20795
-g12148
-S'[Undated]'
+sg12150
+S'Schimpke, Albert J.'
+p20795
+sg12152
+S'11/01/2013'
 p20796
-sg12150
-S'Allen, D.C., collector'
-p20797
-sg11
-g5238
-sg12152
-S'6/05/2014'
-p20798
 sg12154
+(lp20797
+g6156
+asg12156
+(lp20798
+g6151
+ag6157
+asg12158
 (lp20799
-g5233
-ag5239
-asg12156
-(lp20800
-S'Sermons'
+S'Oral Histories'
+p20800
+aS'Interviews'
 p20801
-aS'Musical performances'
+aS'Oral Histories'
 p20802
-aS'Radio programs'
+aS'Interviews'
 p20803
-aS'Sermons'
-p20804
-aS'Musical performances'
+assg9003
+(dp20804
+g12148
+S'1984 November 10'
 p20805
-aS'Radio programs'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p20806
-assg11151
-(dp20807
-g12148
-S'[Undated]'
-p20808
-sg12150
-S'Allen, D.C., collector'
-p20809
-sg11
-g11154
 sg12152
-S'6/05/2014'
-p20810
+S'11/01/2013'
+p20807
 sg12154
-(lp20811
-g11149
-ag6565
+(lp20808
+g9006
 asg12156
-(lp20812
-S'Sermons'
+(lp20809
+g9001
+asg12158
+(lp20810
+S'Musical performances'
+p20811
+assg11697
+(dp20812
+g12148
+S'1967 June 11'
 p20813
-aS'Musical performances'
-p20814
-aS'Radio programs'
-p20815
-aS'Sermons'
-p20816
-aS'Musical performances'
-p20817
-aS'Radio programs'
-p20818
-assg8829
-(dp20819
-g12148
-S'[Undated]'
-p20820
 sg12150
-S'Allen, D.C., collector'
-p20821
-sg11
-g8832
+S"University of Michigan. Men's Glee Club"
+p20814
 sg12152
-S'6/05/2014'
-p20822
+S'11/01/2013'
+p20815
 sg12154
-(lp20823
-g8827
-ag8815
+(lp20816
+g11700
 asg12156
+(lp20817
+g11695
+asg12158
+(lp20818
+S'Musical performances'
+p20819
+assg5889
+(dp20820
+g12148
+S'1955 October 05, 11'
+p20821
+sg12150
+S'Schimpke, Albert J.'
+p20822
+sg12152
+S'11/01/2013'
+p20823
+sg12154
 (lp20824
-S'Sermons'
-p20825
-aS'Musical performances'
-p20826
-aS'Radio programs'
+g5892
+asg12156
+(lp20825
+g5887
+ag5893
+asg12158
+(lp20826
+S'Oral Histories'
 p20827
-aS'Sermons'
+aS'Interviews'
 p20828
-aS'Musical performances'
+aS'Oral Histories'
 p20829
-aS'Radio programs'
+aS'Interviews'
 p20830
-assg10719
+assg11847
 (dp20831
 g12148
-S'1983 October 11'
+S'1956 November 05'
 p20832
 sg12150
-S'Eclipse Jazz (University of Michigan)'
+S'Schimpke, Albert J.'
 p20833
-sg11
-g10722
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p20834
 sg12154
 (lp20835
-g10717
+g11850
 asg12156
 (lp20836
-S'Lectures'
-p20837
-aS'Musical performances'
+g11845
+asg12158
+(lp20837
+S'Oral Histories'
 p20838
-aS'Radio programs'
+aS'Interviews'
 p20839
-assg4701
+assg3081
 (dp20840
 g12148
-S'[Undated]'
+S'1967 June 11'
 p20841
 sg12150
-S'Allen, D.C., collector'
+S"University of Michigan. Men's Glee Club"
 p20842
-sg11
-g4704
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p20843
 sg12154
 (lp20844
-g4699
-ag4705
+g3084
 asg12156
 (lp20845
-S'Sermons'
-p20846
-aS'Musical performances'
+g3079
+asg12158
+(lp20846
+S'Musical performances'
 p20847
-aS'Radio programs'
-p20848
-aS'Sermons'
+assg5667
+(dp20848
+g12148
+S'1955 January 06-07'
 p20849
-aS'Musical performances'
+sg12150
+S'Schimpke, Albert J.'
 p20850
-aS'Radio programs'
+sg12152
+S'11/01/2013'
 p20851
-assg1923
-(dp20852
-g12148
-S'1983 October 11'
-p20853
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p20854
-sg11
-g1926
-sg12152
-S'6/05/2014'
+sg12154
+(lp20852
+g5670
+asg12156
+(lp20853
+g5665
+ag5671
+asg12158
+(lp20854
+S'Oral Histories'
 p20855
-sg12154
-(lp20856
-g1921
-asg12156
-(lp20857
-S'Lectures'
+aS'Interviews'
+p20856
+aS'Oral Histories'
+p20857
+aS'Interviews'
 p20858
-aS'Musical performances'
-p20859
-aS'Radio programs'
+assg3075
+(dp20859
+g12148
+S'1955 January 11'
 p20860
-assg2955
-(dp20861
-g12148
-S'1967 October 09'
+sg12150
+S'Schimpke, Albert J.'
+p20861
+sg12152
+S'11/01/2013'
 p20862
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p20863
-sg11
-g2958
-sg12152
-S'6/24/2013'
-p20864
 sg12154
+(lp20863
+g3078
+asg12156
+(lp20864
+g3073
+asg12158
 (lp20865
-g2953
-asg12156
-(lp20866
-S'Lectures'
+S'Oral Histories'
+p20866
+aS'Interviews'
 p20867
-aS'Radio programs'
-p20868
-assg135
-(dp20869
+assg11709
+(dp20868
 g12148
-S'[Undated]'
+S'1955 February 18'
+p20869
+sg12150
+S'Schimpke, Albert J.'
 p20870
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
+sg12152
+S'11/01/2013'
 p20871
-sg11
-g138
-sg12152
-S'6/05/2014'
-p20872
 sg12154
+(lp20872
+g11712
+asg12156
 (lp20873
-g133
-asg12156
+g11707
+ag11701
+asg12158
 (lp20874
-S'Conferences'
+S'Oral Histories'
 p20875
-assg2799
-(dp20876
-g12148
-S'[Undated]'
+aS'Interviews'
+p20876
+aS'Oral Histories'
 p20877
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
+aS'Interviews'
 p20878
-sg11
-g2802
-sg12152
-S'6/05/2014'
-p20879
-sg12154
-(lp20880
-g2797
-asg12156
-(lp20881
-S'Conferences'
-p20882
-assg9093
-(dp20883
+assg2199
+(dp20879
 g12148
-S'[Undated]'
-p20884
+S'1954 February 02'
+p20880
 sg12150
-S'Guild House (Ann Arbor, Mich.)'
-p20885
-sg11
-g9096
+S'Schimpke, Albert J.'
+p20881
 sg12152
-S'6/05/2014'
-p20886
+S'11/01/2013'
+p20882
 sg12154
-(lp20887
-g9091
+(lp20883
+g2202
 asg12156
-(lp20888
-S'Conferences'
+(lp20884
+g2197
+ag985
+asg12158
+(lp20885
+S'Oral Histories'
+p20886
+aS'Interviews'
+p20887
+aS'Oral Histories'
+p20888
+aS'Interviews'
 p20889
-assg729
+assg2841
 (dp20890
 g12148
-S'[Undated]'
+S'1958 February 12'
 p20891
 sg12150
-S'Guild House (Ann Arbor, Mich.)'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p20892
-sg11
-g732
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p20893
 sg12154
 (lp20894
-g727
+g2844
 asg12156
 (lp20895
-S'Conferences'
-p20896
-assg3267
-(dp20897
-g12148
-S'[Undated]'
+g2839
+asg12158
+(lp20896
+S'Radio programs'
+p20897
+aS'Poetry readings'
 p20898
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
-p20899
-sg11
-g3270
-sg12152
-S'6/05/2014'
+assg267
+(dp20899
+g12148
+S'1968 November 09'
 p20900
-sg12154
-(lp20901
-g3265
-asg12156
-(lp20902
-S'Conferences'
-p20903
-assg6069
-(dp20904
-g12148
-S'[Undated]'
-p20905
 sg12150
-S'Guild House (Ann Arbor, Mich.)'
+S"University of Michigan. Men's Glee Club"
+p20901
+sg12152
+S'11/01/2013'
+p20902
+sg12154
+(lp20903
+g270
+asg12156
+(lp20904
+g265
+asg12158
+(lp20905
+S'Musical performances'
 p20906
-sg11
-g6072
+assg10863
+(dp20907
+g12148
+S'1968 November 09'
+p20908
+sg12150
+S"University of Michigan. Men's Glee Club"
+p20909
 sg12152
-S'6/05/2014'
-p20907
-sg12154
-(lp20908
-g6067
-asg12156
-(lp20909
-S'Conferences'
+S'11/01/2013'
 p20910
-assg9117
-(dp20911
-g12148
-S'[Undated]'
-p20912
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
-p20913
-sg11
-g9120
-sg12152
-S'6/05/2014'
+sg12154
+(lp20911
+g10866
+asg12156
+(lp20912
+g10861
+ag10843
+asg12158
+(lp20913
+S'Musical performances'
 p20914
-sg12154
-(lp20915
-g9115
-ag9109
-asg12156
-(lp20916
-S'Conferences'
+aS'Musical performances'
+p20915
+assg6615
+(dp20916
+g12148
+S'1976 August 26'
 p20917
-aS'Conferences'
+sg12150
+S'Michigan Organization for Human Rights'
 p20918
-assg6279
-(dp20919
-g12148
-S'[Undated]'
-p20920
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
-p20921
-sg11
-g6282
 sg12152
 S'6/05/2014'
-p20922
+p20919
 sg12154
-(lp20923
-g6277
+(lp20920
+g6618
 asg12156
-(lp20924
-S'Conferences'
+(lp20921
+g6613
+asg12158
+(lp20922
+S'Radio programs'
+p20923
+assg243
+(dp20924
+g12148
+S'1977'
 p20925
-assg9291
-(dp20926
-g12148
-S'1983 September 27'
+sg12150
+S'Michigan Organization for Human Rights'
+p20926
+sg12152
+S'6/05/2014'
 p20927
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p20928
-sg11
-g9294
-sg12152
-S'6/05/2014'
-p20929
 sg12154
+(lp20928
+g246
+asg12156
+(lp20929
+g241
+asg12158
 (lp20930
-g9289
-asg12156
-(lp20931
-S'Lectures'
-p20932
-aS'Musical performances'
-p20933
-aS'Radio programs'
-p20934
-assg6249
-(dp20935
-g12148
-S'1983 September 27'
-p20936
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p20937
-sg11
-g6252
-sg12152
-S'6/05/2014'
-p20938
-sg12154
-(lp20939
-g6247
-asg12156
-(lp20940
-S'Lectures'
-p20941
-aS'Musical performances'
-p20942
-aS'Radio programs'
-p20943
-assg6339
-(dp20944
-g12148
-S'1962 June 13'
-p20945
-sg12150
-S'Swainson, John B.'
-p20946
-sg11
-g6342
-sg12152
-S'6/24/2013'
-p20947
-sg12154
-(lp20948
-g6337
-ag6343
-asg12156
-(lp20949
-S'Interviews'
-p20950
-aS'Radio programs'
-p20951
-aS'Talk shows'
-p20952
-aS'Interviews'
-p20953
-aS'Radio programs'
-p20954
-aS'Talk shows'
-p20955
-assg189
-(dp20956
-g12148
-S'1962'
-p20957
-sg12150
-S'Swainson, John B.'
-p20958
-sg11
-g192
-sg12152
-S'6/24/2013'
-p20959
-sg12154
-(lp20960
-g187
-asg12156
-(lp20961
-S'Musical performances'
-p20962
-aS'Advertising'
-p20963
-assg9687
-(dp20964
-g12148
-S'1962 September 24'
-p20965
-sg12150
-S'Swainson, John B.'
-p20966
-sg11
-g9690
-sg12152
-S'6/24/2013'
-p20967
-sg12154
-(lp20968
-g9685
-asg12156
-(lp20969
-S'Addresses'
-p20970
-aS'Dinners'
-p20971
-assg3897
-(dp20972
-g12148
-S'1960 March 15'
-p20973
-sg12150
-S'Whittaker, Hilary'
-p20974
-sg11
-g3900
-sg12152
-S'6/05/2014'
-p20975
-sg12154
-(lp20976
-g3895
-asg12156
-(lp20977
-S'Interviews'
-p20978
-assg3903
-(dp20979
-g12148
-S'1956 July 14'
-p20980
-sg12150
-S'Brucker, Wilber Marion'
-p20981
-sg11
-g3906
-sg12152
-S'11/01/2013'
-p20982
-sg12154
-(lp20983
-g3901
-asg12156
-(lp20984
-S'Addresses'
-p20985
-aS'Meetings'
-p20986
-aS'Dinners'
-p20987
-assg9993
-(dp20988
-g12148
-S'1956 July 14'
-p20989
-sg12150
-S'Brucker, Wilber Marion'
-p20990
-sg11
-g9996
-sg12152
-S'11/01/2013'
-p20991
-sg12154
-(lp20992
-g9991
-asg12156
-(lp20993
-S'Addresses'
-p20994
-aS'Meetings'
-p20995
-aS'Dinners'
-p20996
-assg453
-(dp20997
-g12148
-S'1956 July 14'
-p20998
-sg12150
-S'Brucker, Wilber Marion'
-p20999
-sg11
-g456
-sg12152
-S'11/01/2013'
-p21000
-sg12154
-(lp21001
-g451
-asg12156
-(lp21002
-S'Addresses'
-p21003
-aS'Meetings'
-p21004
-aS'Dinners'
-p21005
-assg3387
-(dp21006
-g12148
-S'1956 July 14'
-p21007
-sg12150
-S'Brucker, Wilber Marion'
-p21008
-sg11
-g3390
-sg12152
-S'11/01/2013'
-p21009
-sg12154
-(lp21010
-g3385
-asg12156
-(lp21011
-S'Addresses'
-p21012
-aS'Meetings'
-p21013
-aS'Dinners'
-p21014
-assg675
-(dp21015
-g12148
-S'1956 July 14'
-p21016
-sg12150
-S'Brucker, Wilber Marion'
-p21017
-sg11
-g678
-sg12152
-S'11/01/2013'
-p21018
-sg12154
-(lp21019
-g673
-asg12156
-(lp21020
-S'Addresses'
-p21021
-aS'Meetings'
-p21022
-aS'Dinners'
-p21023
-assg7131
-(dp21024
-g12148
-S'1953 August 23'
-p21025
-sg12150
-S'Cushing, George'
-p21026
-sg11
-g7134
-sg12152
-S'2/25/2015'
-p21027
-sg12154
-(lp21028
-g7129
-asg12156
-(lp21029
 S'Radio programs'
-p21030
-aS'Talk shows'
-p21031
-assg9819
-(dp21032
-g12148
-S'1953 September 27'
-p21033
-sg12150
-S'Cushing, George'
-p21034
-sg11
-g9822
-sg12152
-S'2/25/2015'
-p21035
-sg12154
-(lp21036
-g9817
-asg12156
-(lp21037
-S'Radio programs'
-p21038
-aS'Talk shows'
-p21039
-assg6861
-(dp21040
-g12148
-S'1961 January'
-p21041
-sg12150
-S'Karoub family'
-p21042
-sg11
-g6864
-sg12152
-S'6/24/2013'
-p21043
-sg12154
-(lp21044
-g6859
-ag6469
-ag6475
-asg12156
-(lp21045
-S'Literary readings'
-p21046
-aS'Musical performances'
-p21047
-aS'Poetry readings'
-p21048
-aS'Dialogues'
-p21049
-aS'Literary readings'
-p21050
-aS'Musical performances'
-p21051
-aS'Poetry readings'
-p21052
-aS'Dialogues'
-p21053
-aS'Literary readings'
-p21054
-aS'Musical performances'
-p21055
-aS'Poetry readings'
-p21056
-aS'Dialogues'
-p21057
-assg9783
-(dp21058
-g12148
-S'1953 July 05'
-p21059
-sg12150
-S'Cushing, George'
-p21060
-sg11
-g9786
-sg12152
-S'2/25/2015'
-p21061
-sg12154
-(lp21062
-g9781
-asg12156
-(lp21063
-S'Radio programs'
-p21064
-aS'Talk shows'
-p21065
-assg279
-(dp21066
-g12148
-S'1953 July 05'
-p21067
-sg12150
-S'Cushing, George'
-p21068
-sg11
-g282
-sg12152
-S'2/25/2015'
-p21069
-sg12154
-(lp21070
-g277
-asg12156
-(lp21071
-S'Radio programs'
-p21072
-aS'Talk shows'
-p21073
-assg10095
-(dp21074
-g12148
-S'1953 August 09'
-p21075
-sg12150
-S'Cushing, George'
-p21076
-sg11
-g10098
-sg12152
-S'2/25/2015'
-p21077
-sg12154
-(lp21078
-g10093
-asg12156
-(lp21079
-S'Radio programs'
-p21080
-aS'Talk shows'
-p21081
-assg7353
-(dp21082
-g12148
-S'1953 August 16'
-p21083
-sg12150
-S'Cushing, George'
-p21084
-sg11
-g7356
-sg12152
-S'2/25/2015'
-p21085
-sg12154
-(lp21086
-g7351
-asg12156
-(lp21087
-S'Radio programs'
-p21088
-aS'Talk shows'
-p21089
-assg3729
-(dp21090
-g12148
-S'1953 May 31'
-p21091
-sg12150
-S'Cushing, George'
-p21092
-sg11
-g3732
-sg12152
-S'2/25/2015'
-p21093
-sg12154
-(lp21094
-g3727
-asg12156
-(lp21095
-S'Radio programs'
-p21096
-aS'Talk shows'
-p21097
-assg381
-(dp21098
-g12148
-S'1953 June 14'
-p21099
-sg12150
-S'Cushing, George'
-p21100
-sg11
-g384
-sg12152
-S'2/25/2015'
-p21101
-sg12154
-(lp21102
-g379
-asg12156
-(lp21103
-S'Radio programs'
-p21104
-aS'Talk shows'
-p21105
-assg6375
-(dp21106
-g12148
-S'1953 June 26'
-p21107
-sg12150
-S'Cushing, George'
-p21108
-sg11
-g6378
-sg12152
-S'2/25/2015'
-p21109
-sg12154
-(lp21110
-g6373
-asg12156
-(lp21111
-S'Radio programs'
-p21112
-aS'Talk shows'
-p21113
-assg3795
-(dp21114
-g12148
-S'1953 June 28'
-p21115
-sg12150
-S'Cushing, George'
-p21116
-sg11
-g3798
-sg12152
-S'2/25/2015'
-p21117
-sg12154
-(lp21118
-g3793
-asg12156
-(lp21119
-S'Radio programs'
-p21120
-aS'Talk shows'
-p21121
-assg927
-(dp21122
-g12148
-S'1976 October 22'
-p21123
-sg12150
-S'University of Michigan. Alumni Association.'
-p21124
-sg11
-g930
-sg12152
-S'11/01/2013'
-p21125
-sg12154
-(lp21126
-g925
-asg12156
-(lp21127
-S'Musical performances'
-p21128
-assg7029
-(dp21129
-g12148
-S'1976 October 22'
-p21130
-sg12150
-S'University of Michigan. Alumni Association.'
-p21131
-sg11
-g7032
-sg12152
-S'11/01/2013'
-p21132
-sg12154
-(lp21133
-g7027
-asg12156
-(lp21134
-S'Musical performances'
-p21135
-assg1197
-(dp21136
+p20931
+assg9531
+(dp20932
 g12148
 S'[Undated]'
-p21137
+p20933
+sg12150
+S'Michigan Organization for Human Rights'
+p20934
+sg12152
+S'6/05/2014'
+p20935
+sg12154
+(lp20936
+g9534
+asg12156
+(lp20937
+g9529
+ag9535
+asg12158
+(lp20938
+S'Radio programs'
+p20939
+aS'Radio programs'
+p20940
+assg9663
+(dp20941
+g12148
+S'1976 October 07'
+p20942
+sg12150
+S'Michigan Organization for Human Rights'
+p20943
+sg12152
+S'6/05/2014'
+p20944
+sg12154
+(lp20945
+g9666
+asg12156
+(lp20946
+g9661
+asg12158
+(lp20947
+S'Radio programs'
+p20948
+assg6573
+(dp20949
+g12148
+S'1976 December 02'
+p20950
+sg12150
+S'Michigan Organization for Human Rights'
+p20951
+sg12152
+S'6/05/2014'
+p20952
+sg12154
+(lp20953
+g6576
+asg12156
+(lp20954
+g6571
+asg12158
+(lp20955
+S'Interviews'
+p20956
+aS'Radio programs'
+p20957
+assg9417
+(dp20958
+g12148
+S'1977 April 07'
+p20959
+sg12150
+S'Michigan Organization for Human Rights'
+p20960
+sg12152
+S'6/05/2014'
+p20961
+sg12154
+(lp20962
+g9420
+asg12156
+(lp20963
+g9415
+asg12158
+(lp20964
+S'Radio programs'
+p20965
+assg249
+(dp20966
+g12148
+S'1977 February 24'
+p20967
+sg12150
+S'Michigan Organization for Human Rights'
+p20968
+sg12152
+S'6/05/2014'
+p20969
+sg12154
+(lp20970
+g252
+asg12156
+(lp20971
+g247
+asg12158
+(lp20972
+S'Radio programs'
+p20973
+assg9759
+(dp20974
+g12148
+S'1977 January 27'
+p20975
+sg12150
+S'Michigan Organization for Human Rights'
+p20976
+sg12152
+S'6/05/2014'
+p20977
+sg12154
+(lp20978
+g9762
+asg12156
+(lp20979
+g9757
+asg12158
+(lp20980
+S'Radio programs'
+p20981
+assg3657
+(dp20982
+g12148
+S'1976 December 30'
+p20983
+sg12150
+S'Michigan Organization for Human Rights'
+p20984
+sg12152
+S'6/05/2014'
+p20985
+sg12154
+(lp20986
+g3660
+asg12156
+(lp20987
+g3655
+asg12158
+(lp20988
+S'Radio programs'
+p20989
+assg9813
+(dp20990
+g12148
+S'1974 June 28'
+p20991
+sg12150
+S'Michigan Organization for Human Rights'
+p20992
+sg12152
+S'6/05/2014'
+p20993
+sg12154
+(lp20994
+g9816
+asg12156
+(lp20995
+g9811
+ag9799
+asg12158
+(lp20996
+S'Radio programs'
+p20997
+aS'Radio programs'
+p20998
+assg3501
+(dp20999
+g12148
+S'1960 April 06'
+p21000
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21138
-sg11
-g1200
+p21001
 sg12152
 S'6/24/2013'
-p21139
+p21002
 sg12154
-(lp21140
-g1195
+(lp21003
+g3504
 asg12156
-(lp21141
-S'Oral Histories'
-p21142
+(lp21004
+g3499
+asg12158
+(lp21005
+S'Lectures'
+p21006
+aS'Literary readings'
+p21007
 aS'Radio programs'
-p21143
-assg4815
-(dp21144
+p21008
+assg3507
+(dp21009
 g12148
-S'1954 October 27'
-p21145
+S'1951 October 16'
+p21010
 sg12150
-S'Schimpke, Albert J.'
-p21146
-sg11
-g4818
+S'Moody, Blair'
+p21011
+sg12152
+S'2/25/2015'
+p21012
+sg12154
+(lp21013
+g3510
+asg12156
+(lp21014
+g3505
+asg12158
+(lp21015
+S'Radio programs'
+p21016
+aS'Talk shows'
+p21017
+assg819
+(dp21018
+g12148
+S'1951 October 08'
+p21019
+sg12150
+S'Moody, Blair'
+p21020
+sg12152
+S'2/25/2015'
+p21021
+sg12154
+(lp21022
+g822
+asg12156
+(lp21023
+g817
+asg12158
+(lp21024
+S'Radio programs'
+p21025
+assg6549
+(dp21026
+g12148
+S'1951'
+p21027
+sg12150
+S'Moody, Blair'
+p21028
+sg12152
+S'2/25/2015'
+p21029
+sg12154
+(lp21030
+g6552
+asg12156
+(lp21031
+g6547
+asg12158
+(lp21032
+S'Radio programs'
+p21033
+assg9249
+(dp21034
+g12148
+S'1954 July 11'
+p21035
+sg12150
+S'Moody, Blair'
+p21036
+sg12152
+S'2/25/2015'
+p21037
+sg12154
+(lp21038
+g9252
+asg12156
+(lp21039
+g9247
+asg12158
+(lp21040
+S'Radio programs'
+p21041
+aS'Talk shows'
+p21042
+assg3147
+(dp21043
+g12148
+S'1954 July 04'
+p21044
+sg12150
+S'Moody, Blair'
+p21045
+sg12152
+S'2/25/2015'
+p21046
+sg12154
+(lp21047
+g3150
+asg12156
+(lp21048
+g3145
+asg12158
+(lp21049
+S'Radio programs'
+p21050
+assg3153
+(dp21051
+g12148
+S'1954 June 27'
+p21052
+sg12150
+S'Moody, Blair'
+p21053
+sg12152
+S'2/25/2015'
+p21054
+sg12154
+(lp21055
+g3156
+asg12156
+(lp21056
+g3151
+asg12158
+(lp21057
+S'Radio programs'
+p21058
+assg3939
+(dp21059
+g12148
+S'1954 June 20'
+p21060
+sg12150
+S'Moody, Blair'
+p21061
+sg12152
+S'2/25/2015'
+p21062
+sg12154
+(lp21063
+g3942
+asg12156
+(lp21064
+g3937
+asg12158
+(lp21065
+S'Radio programs'
+p21066
+assg10857
+(dp21067
+g12148
+S'1950'
+p21068
+sg12150
+S'Pollock, James Kerr'
+p21069
 sg12152
 S'11/01/2013'
-p21147
+p21070
 sg12154
-(lp21148
-g4813
-ag4819
+(lp21071
+g10860
 asg12156
+(lp21072
+g10855
+asg12158
+(lp21073
+S'Class'
+p21074
+assg3039
+(dp21075
+g12148
+S'1954 June 06'
+p21076
+sg12150
+S'Moody, Blair'
+p21077
+sg12152
+S'2/25/2015'
+p21078
+sg12154
+(lp21079
+g3042
+asg12156
+(lp21080
+g3037
+asg12158
+(lp21081
+S'Radio programs'
+p21082
+assg321
+(dp21083
+g12148
+S'1954 May 23'
+p21084
+sg12150
+S'Moody, Blair'
+p21085
+sg12152
+S'2/25/2015'
+p21086
+sg12154
+(lp21087
+g324
+asg12156
+(lp21088
+g319
+asg12158
+(lp21089
+S'Radio programs'
+p21090
+assg7629
+(dp21091
+g12148
+S'1969 November 12'
+p21092
+sg12150
+S'University of Michigan. Ross School of Business'
+p21093
+sg12152
+S'6/05/2014'
+p21094
+sg12154
+(lp21095
+g7632
+asg12156
+(lp21096
+g7627
+asg12158
+(lp21097
+S'Conferences'
+p21098
+assg7575
+(dp21099
+g12148
+S'[Undated]'
+p21100
+sg12150
+S'Hallock, Archibald'
+p21101
+sg12152
+S'11/01/2013'
+p21102
+sg12154
+(lp21103
+g7578
+asg12156
+(lp21104
+g7573
+asg12158
+(lp21105
+S'Interviews'
+p21106
+assg4389
+(dp21107
+g12148
+S'1955 March 24'
+p21108
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p21109
+sg12152
+S'6/24/2013'
+p21110
+sg12154
+(lp21111
+g4392
+asg12156
+(lp21112
+g4387
+asg12158
+(lp21113
+S'Lectures'
+p21114
+aS'Radio programs'
+p21115
+aS'Poetry readings'
+p21116
+assg1623
+(dp21117
+g12148
+S'1958 May 15'
+p21118
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21119
+sg12152
+S'11/01/2013'
+p21120
+sg12154
+(lp21121
+g1626
+asg12156
+(lp21122
+g1621
+asg12158
+(lp21123
+S'Musical performances'
+p21124
+assg1407
+(dp21125
+g12148
+S'1966 March 16'
+p21126
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p21127
+sg12152
+S'6/24/2013'
+p21128
+sg12154
+(lp21129
+g1410
+asg12156
+(lp21130
+g1405
+asg12158
+(lp21131
+S'Lectures'
+p21132
+aS'Radio programs'
+p21133
+aS'Poetry readings'
+p21134
+assg11481
+(dp21135
+g12148
+S'1956 September 28'
+p21136
+sg12150
+S'Brucker, Wilber Marion'
+p21137
+sg12152
+S'11/01/2013'
+p21138
+sg12154
+(lp21139
+g11484
+asg12156
+(lp21140
+g11479
+asg12158
+(lp21141
+S'Addresses'
+p21142
+aS'Meetings'
+p21143
+aS'Luncheons'
+p21144
+assg10791
+(dp21145
+g12148
+S'1960 November 13'
+p21146
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p21147
+sg12152
+S'6/24/2013'
+p21148
+sg12154
 (lp21149
-S'Oral Histories'
-p21150
-aS'Interviews'
-p21151
-aS'Oral Histories'
+g10794
+asg12156
+(lp21150
+g10789
+asg12158
+(lp21151
+S'Lectures'
 p21152
-aS'Interviews'
+aS'Radio programs'
 p21153
-assg4173
+assg11871
 (dp21154
 g12148
-S'1954 November 10, 12'
+S'1953 November 29'
 p21155
 sg12150
-S'Schimpke, Albert J.'
+S'Cushing, George'
 p21156
-sg11
-g4176
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p21157
 sg12154
 (lp21158
-g4171
-ag4177
+g11874
 asg12156
 (lp21159
-S'Oral Histories'
-p21160
-aS'Interviews'
+g11869
+asg12158
+(lp21160
+S'Radio programs'
 p21161
-aS'Oral Histories'
+aS'Talk shows'
 p21162
-aS'Interviews'
-p21163
-assg1293
-(dp21164
+assg2391
+(dp21163
 g12148
-S'1960 November 08'
-p21165
-sg12150
-S'Schimpke, Albert J.'
-p21166
-sg11
-g1296
-sg12152
-S'11/01/2013'
-p21167
-sg12154
-(lp21168
-g1291
-ag1285
-asg12156
-(lp21169
-S'Oral Histories'
-p21170
-aS'Interviews'
-p21171
-aS'Oral Histories'
-p21172
-aS'Interviews'
-p21173
-assg10839
-(dp21174
-g12148
-S'1954 October 27'
-p21175
-sg12150
-S'Schimpke, Albert J.'
-p21176
-sg11
-g10842
-sg12152
-S'11/01/2013'
-p21177
-sg12154
-(lp21178
-g10837
-ag10831
-asg12156
-(lp21179
-S'Oral Histories'
-p21180
-aS'Interviews'
-p21181
-aS'Oral Histories'
-p21182
-aS'Interviews'
-p21183
-assg1473
-(dp21184
-g12148
-S'1956 August 14, 1957 October 16'
-p21185
-sg12150
-S'Schimpke, Albert J.'
-p21186
-sg11
-g1476
-sg12152
-S'11/01/2013'
-p21187
-sg12154
-(lp21188
-g1471
-ag1489
-asg12156
-(lp21189
-S'Oral Histories'
-p21190
-aS'Interviews'
-p21191
-aS'Oral Histories'
-p21192
-aS'Interviews'
-p21193
-assg4245
-(dp21194
-g12148
-S'1960 November 07-08'
-p21195
-sg12150
-S'Schimpke, Albert J.'
-p21196
-sg11
-g4248
-sg12152
-S'11/01/2013'
-p21197
-sg12154
-(lp21198
-g4243
-ag4249
-asg12156
-(lp21199
-S'Oral Histories'
-p21200
-aS'Interviews'
-p21201
-aS'Oral Histories'
-p21202
-aS'Interviews'
-p21203
-assg7719
-(dp21204
-g12148
-S'1962 August 01'
-p21205
-sg12150
-S'Schimpke, Albert J.'
-p21206
-sg11
-g7722
-sg12152
-S'11/01/2013'
-p21207
-sg12154
-(lp21208
-g7717
-ag7705
-asg12156
-(lp21209
-S'Oral Histories'
-p21210
-aS'Interviews'
-p21211
-aS'Oral Histories'
-p21212
-aS'Interviews'
-p21213
-assg10341
-(dp21214
-g12148
-S'1956 September 19'
-p21215
-sg12150
-S'Schimpke, Albert J.'
-p21216
-sg11
-g10344
-sg12152
-S'11/01/2013'
-p21217
-sg12154
-(lp21218
-g10339
-asg12156
-(lp21219
-S'Oral Histories'
-p21220
-aS'Interviews'
-p21221
-assg7815
-(dp21222
-g12148
-S'1955 January 18'
-p21223
-sg12150
-S'Schimpke, Albert J.'
-p21224
-sg11
-g7818
-sg12152
-S'11/01/2013'
-p21225
-sg12154
-(lp21226
-g7813
-asg12156
-(lp21227
-S'Oral Histories'
-p21228
-aS'Interviews'
-p21229
-assg1845
-(dp21230
-g12148
-S'1974 May 04'
-p21231
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21232
-sg11
-g1848
-sg12152
-S'6/24/2013'
-p21233
-sg12154
-(lp21234
-g1843
-asg12156
-(lp21235
-S'Addresses'
-p21236
-aS'Radio programs'
-p21237
-assg4467
-(dp21238
-g12148
-S'1951 October 21'
-p21239
+S'1953 November 15'
+p21164
 sg12150
 S'Cushing, George'
-p21240
-sg11
-g4470
+p21165
 sg12152
 S'2/25/2015'
-p21241
+p21166
 sg12154
-(lp21242
-g4465
+(lp21167
+g2394
 asg12156
-(lp21243
+(lp21168
+g2389
+asg12158
+(lp21169
 S'Radio programs'
-p21244
+p21170
 aS'Talk shows'
-p21245
-assg8385
-(dp21246
+p21171
+assg8733
+(dp21172
 g12148
-S'1963 May 25'
-p21247
+S'1953 October 11'
+p21173
 sg12150
-S'University of Michigan. Center for Japanese Studies'
-p21248
-sg11
-g8388
+S'Cushing, George'
+p21174
 sg12152
-S'6/05/2014'
-p21249
+S'2/25/2015'
+p21175
 sg12154
-(lp21250
-g8383
-ag8389
+(lp21176
+g8736
 asg12156
-(lp21251
-S'Conferences'
+(lp21177
+g8731
+asg12158
+(lp21178
+S'Radio programs'
+p21179
+aS'Talk shows'
+p21180
+assg5919
+(dp21181
+g12148
+S'1953 October 04'
+p21182
+sg12150
+S'Cushing, George'
+p21183
+sg12152
+S'2/25/2015'
+p21184
+sg12154
+(lp21185
+g5922
+asg12156
+(lp21186
+g5917
+asg12158
+(lp21187
+S'Radio programs'
+p21188
+aS'Talk shows'
+p21189
+assg2595
+(dp21190
+g12148
+S'1954 January 24'
+p21191
+sg12150
+S'Cushing, George'
+p21192
+sg12152
+S'2/25/2015'
+p21193
+sg12154
+(lp21194
+g2598
+asg12156
+(lp21195
+g2593
+asg12158
+(lp21196
+S'Radio programs'
+p21197
+aS'Talk shows'
+p21198
+assg5043
+(dp21199
+g12148
+S'1954 January 17'
+p21200
+sg12150
+S'Cushing, George'
+p21201
+sg12152
+S'2/25/2015'
+p21202
+sg12154
+(lp21203
+g5046
+asg12156
+(lp21204
+g5041
+asg12158
+(lp21205
+S'Radio programs'
+p21206
+aS'Talk shows'
+p21207
+assg8889
+(dp21208
+g12148
+S'1954 January 10'
+p21209
+sg12150
+S'Cushing, George'
+p21210
+sg12152
+S'2/25/2015'
+p21211
+sg12154
+(lp21212
+g8892
+asg12156
+(lp21213
+g8887
+asg12158
+(lp21214
+S'Radio programs'
+p21215
+aS'Talk shows'
+p21216
+assg8673
+(dp21217
+g12148
+S'1954 January 03'
+p21218
+sg12150
+S'Cushing, George'
+p21219
+sg12152
+S'2/25/2015'
+p21220
+sg12154
+(lp21221
+g8676
+asg12156
+(lp21222
+g8671
+asg12158
+(lp21223
+S'Radio programs'
+p21224
+aS'Talk shows'
+p21225
+assg11193
+(dp21226
+g12148
+S'1954 February 07'
+p21227
+sg12150
+S'Cushing, George'
+p21228
+sg12152
+S'2/25/2015'
+p21229
+sg12154
+(lp21230
+g11196
+asg12156
+(lp21231
+g11191
+asg12158
+(lp21232
+S'Radio programs'
+p21233
+aS'Talk shows'
+p21234
+assg8847
+(dp21235
+g12148
+S'1954 January 31'
+p21236
+sg12150
+S'Cushing, George'
+p21237
+sg12152
+S'2/25/2015'
+p21238
+sg12154
+(lp21239
+g8850
+asg12156
+(lp21240
+g8845
+asg12158
+(lp21241
+S'Radio programs'
+p21242
+aS'Talk shows'
+p21243
+assg12093
+(dp21244
+g12148
+S'1963 May 20'
+p21245
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p21246
+sg12152
+S'6/24/2013'
+p21247
+sg12154
+(lp21248
+g12096
+asg12156
+(lp21249
+g12091
+asg12158
+(lp21250
+S'Addresses'
+p21251
+aS'Radio programs'
 p21252
-aS'Conferences'
+aS'Dedications (ceremonies)'
 p21253
-assg10875
+assg9681
 (dp21254
 g12148
-S'1963 May 25'
+S'1965 September, December'
 p21255
 sg12150
-S'University of Michigan. Center for Japanese Studies'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p21256
-sg11
-g10878
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p21257
 sg12154
 (lp21258
-g10873
+g9684
 asg12156
 (lp21259
-S'Conferences'
-p21260
-assg8031
-(dp21261
-g12148
-S'1963 May 25'
+g9679
+ag9673
+asg12158
+(lp21260
+S'Oral Histories'
+p21261
+aS'Interviews'
 p21262
-sg12150
-S'University of Michigan. Center for Japanese Studies'
+aS'Radio programs'
 p21263
-sg11
-g8034
-sg12152
-S'6/05/2014'
+aS'Talk shows'
 p21264
-sg12154
-(lp21265
-g8029
-ag8023
-asg12156
-(lp21266
-S'Conferences'
+aS'Oral Histories'
+p21265
+aS'Interviews'
+p21266
+aS'Radio programs'
 p21267
-aS'Conferences'
+aS'Talk shows'
 p21268
-assg11373
+assg9303
 (dp21269
 g12148
-S'Undated'
+S'1963 July 06'
 p21270
 sg12150
-S'University of Michigan. Center for Japanese Studies'
+S'Bassett, Leslie'
 p21271
-sg11
-g11376
 sg12152
 S'6/05/2014'
 p21272
 sg12154
 (lp21273
-g11371
-ag11383
+g9306
 asg12156
 (lp21274
-S'Dialogues'
-p21275
-aS'Dialogues'
+g9301
+asg12158
+(lp21275
+S'Musical performances'
 p21276
-assg11169
+assg6921
 (dp21277
 g12148
-S'1963 May 25'
+S'1983 Spring'
 p21278
 sg12150
-S'University of Michigan. Center for Japanese Studies'
+S"University of Michigan. Men's Glee Club"
 p21279
-sg11
-g11172
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p21280
 sg12154
 (lp21281
-g11167
+g6924
 asg12156
 (lp21282
-S'Conferences'
-p21283
-assg7875
-(dp21284
-g12148
-S'1963 May 25'
-p21285
-sg12150
-S'University of Michigan. Center for Japanese Studies'
-p21286
-sg11
-g7878
-sg12152
-S'6/05/2014'
-p21287
-sg12154
-(lp21288
-g7873
-asg12156
-(lp21289
-S'Conferences'
-p21290
-assg5421
-(dp21291
-g12148
-S'1963 May 25'
-p21292
-sg12150
-S'University of Michigan. Center for Japanese Studies'
-p21293
-sg11
-g5424
-sg12152
-S'6/05/2014'
-p21294
-sg12154
-(lp21295
-g5419
-ag5413
-asg12156
-(lp21296
-S'Conferences'
-p21297
-aS'Conferences'
-p21298
-assg10539
-(dp21299
-g12148
-S'1951 September 16'
-p21300
-sg12150
-S'Cushing, George'
-p21301
-sg11
-g10542
-sg12152
-S'2/25/2015'
-p21302
-sg12154
-(lp21303
-g10537
-asg12156
-(lp21304
-S'Radio programs'
-p21305
-aS'Talk shows'
-p21306
-assg8157
-(dp21307
-g12148
-S'[Between 1950-1955]'
-p21308
-sg12150
-S'University of Michigan. Center for Japanese Studies'
-p21309
-sg11
-g8160
-sg12152
-S'6/05/2014'
-p21310
-sg12154
-(lp21311
-g8155
-asg12156
-(lp21312
+g6919
+asg12158
+(lp21283
 S'Musical performances'
-p21313
-assg5445
-(dp21314
+p21284
+assg849
+(dp21285
 g12148
-S'[Between 1950-1955]'
-p21315
+S'1983 Spring'
+p21286
 sg12150
-S'University of Michigan. Center for Japanese Studies'
-p21316
-sg11
-g5448
-sg12152
-S'6/05/2014'
-p21317
-sg12154
-(lp21318
-g5443
-ag5425
-asg12156
-(lp21319
-S'Dialogues'
-p21320
-aS'Dialogues'
-p21321
-assg2469
-(dp21322
-g12148
-S'1945 April 08'
-p21323
-sg12150
-S'Cushing, George'
-p21324
-sg11
-g2472
-sg12152
-S'2/25/2015'
-p21325
-sg12154
-(lp21326
-g2467
-asg12156
-(lp21327
-S'Radio programs'
-p21328
-aS'Talk shows'
-p21329
-assg5151
-(dp21330
-g12148
-S'1945 April 15'
-p21331
-sg12150
-S'Cushing, George'
-p21332
-sg11
-g5154
-sg12152
-S'2/25/2015'
-p21333
-sg12154
-(lp21334
-g5149
-asg12156
-(lp21335
-S'Radio programs'
-p21336
-aS'Talk shows'
-p21337
-assg4119
-(dp21338
-g12148
-S'1945 January 07'
-p21339
-sg12150
-S'Cushing, George'
-p21340
-sg11
-g4122
-sg12152
-S'2/25/2015'
-p21341
-sg12154
-(lp21342
-g4117
-asg12156
-(lp21343
-S'Radio programs'
-p21344
-aS'Talk shows'
-p21345
-assg8469
-(dp21346
-g12148
-S'1945 January 14'
-p21347
-sg12150
-S'Cushing, George'
-p21348
-sg11
-g8472
-sg12152
-S'2/25/2015'
-p21349
-sg12154
-(lp21350
-g8467
-asg12156
-(lp21351
-S'Radio programs'
-p21352
-aS'Talk shows'
-p21353
-assg11391
-(dp21354
-g12148
-S'1945 March 25'
-p21355
-sg12150
-S'Cushing, George'
-p21356
-sg11
-g11394
-sg12152
-S'2/25/2015'
-p21357
-sg12154
-(lp21358
-g11389
-asg12156
-(lp21359
-S'Radio programs'
-p21360
-aS'Talk shows'
-p21361
-assg8973
-(dp21362
-g12148
-S'1945 April 01'
-p21363
-sg12150
-S'Cushing, George'
-p21364
-sg11
-g8976
-sg12152
-S'2/25/2015'
-p21365
-sg12154
-(lp21366
-g8971
-asg12156
-(lp21367
-S'Radio programs'
-p21368
-aS'Talk shows'
-p21369
-assg5175
-(dp21370
-g12148
-S'1945 March 11'
-p21371
-sg12150
-S'Cushing, George'
-p21372
-sg11
-g5178
-sg12152
-S'2/25/2015'
-p21373
-sg12154
-(lp21374
-g5173
-asg12156
-(lp21375
-S'Radio programs'
-p21376
-aS'Talk shows'
-p21377
-assg8853
-(dp21378
-g12148
-S'1969 March 01'
-p21379
-sg12150
-S'Shepard, Robert J.'
-p21380
-sg11
-g8856
+S"University of Michigan. Men's Glee Club"
+p21287
 sg12152
 S'11/01/2013'
-p21381
+p21288
 sg12154
-(lp21382
-g8851
+(lp21289
+g852
 asg12156
-(lp21383
-S'Correspondence'
-p21384
-assg6033
-(dp21385
-g12148
-S'1969 February 27'
-p21386
-sg12150
-S'Shepard, Robert J.'
-p21387
-sg11
-g6036
-sg12152
-S'11/01/2013'
-p21388
-sg12154
-(lp21389
-g6031
-ag6019
-asg12156
-(lp21390
-S'Radio programs'
-p21391
-aS'Correspondence'
-p21392
-aS'Radio programs'
-p21393
-aS'Correspondence'
-p21394
-assg11625
-(dp21395
-g12148
-S'1969 February 21'
-p21396
-sg12150
-S'Shepard, Robert J.'
-p21397
-sg11
-g11628
-sg12152
-S'11/01/2013'
-p21398
-sg12154
-(lp21399
-g11623
-ag11629
-asg12156
-(lp21400
-S'Correspondence'
-p21401
-aS'Correspondence'
-p21402
-assg2139
-(dp21403
+(lp21290
+g847
+asg12158
+(lp21291
+S'Musical performances'
+p21292
+assg1011
+(dp21293
 g12148
 S'[Undated]'
-p21404
+p21294
 sg12150
-S'Shepard, Robert J.'
-p21405
-sg11
-g2142
+S'Sinclair, John and Leni'
+p21295
+sg12152
+S'6/24/2013'
+p21296
+sg12154
+(lp21297
+g1014
+asg12156
+(lp21298
+g1009
+ag1021
+ag1015
+asg12158
+(lp21299
+S'Musical performances'
+p21300
+aS'Interviews'
+p21301
+aS'Musical performances'
+p21302
+aS'Interviews'
+p21303
+aS'Musical performances'
+p21304
+aS'Interviews'
+p21305
+assg8781
+(dp21306
+g12148
+S'1972 September 13-14'
+p21307
+sg12150
+S'Sinclair, John and Leni'
+p21308
+sg12152
+S'6/24/2013'
+p21309
+sg12154
+(lp21310
+g8784
+asg12156
+(lp21311
+g8779
+ag8785
+ag5623
+asg12158
+(lp21312
+S'Meetings'
+p21313
+aS'Meetings'
+p21314
+aS'Meetings'
+p21315
+assg795
+(dp21316
+g12148
+S'1972 March 06-09'
+p21317
+sg12150
+S'Sinclair, John and Leni'
+p21318
+sg12152
+S'6/24/2013'
+p21319
+sg12154
+(lp21320
+g798
+asg12156
+(lp21321
+g793
+ag781
+ag1321
+ag1315
+asg12158
+(lp21322
+S'Interviews'
+p21323
+aS'Meetings'
+p21324
+aS'Interviews'
+p21325
+aS'Meetings'
+p21326
+aS'Interviews'
+p21327
+aS'Meetings'
+p21328
+aS'Interviews'
+p21329
+aS'Meetings'
+p21330
+assg4059
+(dp21331
+g12148
+S'1972 February 14, 1972 February 17, 1972 February 18'
+p21332
+sg12150
+S'Sinclair, John and Leni'
+p21333
+sg12152
+S'6/24/2013'
+p21334
+sg12154
+(lp21335
+g4062
+asg12156
+(lp21336
+g4057
+ag4045
+ag4051
+ag4069
+asg12158
+(lp21337
+S'Meetings'
+p21338
+aS'Meetings'
+p21339
+aS'Meetings'
+p21340
+aS'Meetings'
+p21341
+assg8265
+(dp21342
+g12148
+S'1972 February 11'
+p21343
+sg12150
+S'Sinclair, John and Leni'
+p21344
+sg12152
+S'6/24/2013'
+p21345
+sg12154
+(lp21346
+g8268
+asg12156
+(lp21347
+g8263
+ag2035
+ag907
+ag8269
+ag2029
+asg12158
+(lp21348
+S'Musical performances'
+p21349
+aS'Interviews'
+p21350
+aS'Meetings'
+p21351
+aS'Musical performances'
+p21352
+aS'Interviews'
+p21353
+aS'Meetings'
+p21354
+aS'Musical performances'
+p21355
+aS'Interviews'
+p21356
+aS'Meetings'
+p21357
+aS'Musical performances'
+p21358
+aS'Interviews'
+p21359
+aS'Meetings'
+p21360
+aS'Musical performances'
+p21361
+aS'Interviews'
+p21362
+aS'Meetings'
+p21363
+assg10575
+(dp21364
+g12148
+S'[1972 February 08], 1972 February 10'
+p21365
+sg12150
+S'Sinclair, John and Leni'
+p21366
+sg12152
+S'6/24/2013'
+p21367
+sg12154
+(lp21368
+g10578
+asg12156
+(lp21369
+g10573
+ag10579
+ag10585
+ag10591
+asg12158
+(lp21370
+S'Meetings'
+p21371
+aS'Meetings'
+p21372
+aS'Meetings'
+p21373
+aS'Meetings'
+p21374
+assg4539
+(dp21375
+g12148
+S'1972 February 03'
+p21376
+sg12150
+S'Sinclair, John and Leni'
+p21377
+sg12152
+S'6/24/2013'
+p21378
+sg12154
+(lp21379
+g4542
+asg12156
+(lp21380
+g4537
+ag9541
+ag4531
+ag4549
+ag9547
+asg12158
+(lp21381
+S'Musical performances'
+p21382
+aS'Meetings'
+p21383
+aS'Musical performances'
+p21384
+aS'Meetings'
+p21385
+aS'Musical performances'
+p21386
+aS'Meetings'
+p21387
+aS'Musical performances'
+p21388
+aS'Meetings'
+p21389
+aS'Musical performances'
+p21390
+aS'Meetings'
+p21391
+assg7545
+(dp21392
+g12148
+S'1966 October 14'
+p21393
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21394
 sg12152
 S'11/01/2013'
-p21406
+p21395
 sg12154
-(lp21407
-g2137
-ag2143
+(lp21396
+g7548
 asg12156
-(lp21408
-S'Radio programs'
+(lp21397
+g7543
+asg12158
+(lp21398
+S'Musical performances'
+p21399
+assg4647
+(dp21400
+g12148
+S'[Undated]'
+p21401
+sg12150
+S'Sinclair, John and Leni'
+p21402
+sg12152
+S'6/24/2013'
+p21403
+sg12154
+(lp21404
+g4650
+asg12156
+(lp21405
+g4645
+asg12158
+(lp21406
+S'Interviews'
+p21407
+assg7347
+(dp21408
+g12148
+S'[Undated]'
 p21409
-aS'Correspondence'
+sg12150
+S'Sinclair, John and Leni'
 p21410
-aS'Radio programs'
+sg12152
+S'6/24/2013'
 p21411
-aS'Correspondence'
-p21412
-assg8205
-(dp21413
-g12148
-S'1969 January 21'
-p21414
-sg12150
-S'Shepard, Robert J.'
+sg12154
+(lp21412
+g7350
+asg12156
+(lp21413
+g7345
+ag7339
+asg12158
+(lp21414
+S'Addresses'
 p21415
-sg11
-g8208
-sg12152
-S'11/01/2013'
+aS'Addresses'
 p21416
-sg12154
-(lp21417
-g8203
-asg12156
-(lp21418
-S'Correspondence'
+assg2859
+(dp21417
+g12148
+S'1948 October 05'
+p21418
+sg12150
+S'Cushing, George'
 p21419
-assg5631
-(dp21420
-g12148
-S'1969 January 19'
-p21421
-sg12150
-S'Shepard, Robert J.'
-p21422
-sg11
-g5634
 sg12152
-S'11/01/2013'
-p21423
+S'2/25/2015'
+p21420
 sg12154
-(lp21424
-g5629
+(lp21421
+g2862
 asg12156
-(lp21425
-S'Correspondence'
-p21426
-assg11529
-(dp21427
+(lp21422
+g2857
+asg12158
+(lp21423
+S'Radio programs'
+p21424
+aS'Talk shows'
+p21425
+assg7659
+(dp21426
 g12148
-S'1968 December 25'
+S'1967 November 04'
+p21427
+sg12150
+S"University of Michigan. Men's Glee Club"
 p21428
-sg12150
-S'Shepard, Robert J.'
-p21429
-sg11
-g11532
 sg12152
 S'11/01/2013'
-p21430
+p21429
 sg12154
-(lp21431
-g11527
+(lp21430
+g7662
 asg12156
+(lp21431
+g7657
+asg12158
 (lp21432
-S'Correspondence'
+S'Musical performances'
 p21433
-assg1929
+assg11115
 (dp21434
 g12148
-S'1968 December'
+S'1967 November 04'
 p21435
 sg12150
-S'Shepard, Robert J.'
+S"University of Michigan. Men's Glee Club"
 p21436
-sg11
-g1932
 sg12152
 S'11/01/2013'
 p21437
 sg12154
 (lp21438
-g1927
-ag1933
+g11118
 asg12156
 (lp21439
-S'Correspondence'
-p21440
-aS'Correspondence'
+g11113
+asg12158
+(lp21440
+S'Musical performances'
 p21441
-assg5523
+assg5649
 (dp21442
 g12148
-S'1968 December'
+S'1948 October 03'
 p21443
 sg12150
-S'Shepard, Robert J.'
+S'Cushing, George'
 p21444
-sg11
-g5526
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p21445
 sg12154
 (lp21446
-g5521
-ag5515
+g5652
 asg12156
 (lp21447
-S'Correspondence'
-p21448
-aS'Correspondence'
+g5647
+asg12158
+(lp21448
+S'Radio programs'
 p21449
-assg11379
-(dp21450
+aS'Talk shows'
+p21450
+assg2565
+(dp21451
 g12148
-S'1955 September 30'
-p21451
-sg12150
-S'Hartwick, Edward N.'
+S'1960 October 08'
 p21452
-sg11
-g11382
-sg12152
-S'2/25/2015'
+sg12150
+S'University of Michigan. Alumni Association.'
 p21453
+sg12152
+S'11/01/2013'
+p21454
 sg12154
-(lp21454
-g11377
-asg12156
 (lp21455
-S'Addresses'
-p21456
-assg7869
-(dp21457
-g12148
-S'1954 February 23'
+g2568
+asg12156
+(lp21456
+g2563
+asg12158
+(lp21457
+S'Musical performances'
 p21458
-sg12150
-S'Hartwick, Edward N.'
-p21459
-sg11
-g7872
-sg12152
-S'2/25/2015'
+assg2829
+(dp21459
+g12148
+S'1983 September 20'
 p21460
-sg12154
-(lp21461
-g7867
-asg12156
-(lp21462
-S'Addresses'
-p21463
-assg2307
-(dp21464
-g12148
-S'1954 February 13'
-p21465
 sg12150
-S'Hartwick, Edward N.'
+S'Eclipse Jazz (University of Michigan)'
+p21461
+sg12152
+S'6/05/2014'
+p21462
+sg12154
+(lp21463
+g2832
+asg12156
+(lp21464
+g2827
+asg12158
+(lp21465
+S'Lectures'
 p21466
-sg11
-g2310
-sg12152
-S'2/25/2015'
+aS'Musical performances'
 p21467
-sg12154
-(lp21468
-g2305
-ag2299
-asg12156
-(lp21469
-S'Addresses'
+aS'Radio programs'
+p21468
+assg5751
+(dp21469
+g12148
+S'1948 November 28'
 p21470
-aS'Addresses'
+sg12150
+S'Cushing, George'
 p21471
-assg11973
-(dp21472
-g12148
-S'1954 February 09'
-p21473
-sg12150
-S'Hartwick, Edward N.'
-p21474
-sg11
-g11976
 sg12152
 S'2/25/2015'
-p21475
+p21472
 sg12154
-(lp21476
-g11971
-ag11965
+(lp21473
+g5754
 asg12156
-(lp21477
-S'Addresses'
-p21478
-aS'Addresses'
+(lp21474
+g5749
+asg12158
+(lp21475
+S'Radio programs'
+p21476
+aS'Talk shows'
+p21477
+assg9219
+(dp21478
+g12148
+S'1964 August 28, 1964 October 14'
 p21479
-assg3021
-(dp21480
-g12148
-S'[1950?] February 28'
+sg12150
+S'Romney, George'
+p21480
+sg12152
+S'6/05/2014'
 p21481
-sg12150
-S'Hartwick, Edward N.'
-p21482
-sg11
-g3024
-sg12152
-S'2/25/2015'
-p21483
 sg12154
+(lp21482
+g9222
+asg12156
+(lp21483
+g9217
+asg12158
 (lp21484
-g3019
-ag3031
-asg12156
-(lp21485
-S'Meetings'
+S'Conferences'
+p21485
+aS'Press conferences'
 p21486
-aS'Meetings'
-p21487
-assg5211
-(dp21488
+assg3345
+(dp21487
 g12148
-S'1954?'
-p21489
+S'[Undated]'
+p21488
 sg12150
-S'Hartwick, Edward N.'
-p21490
-sg11
-g5214
+S'Romney, George'
+p21489
 sg12152
-S'2/25/2015'
-p21491
+S'6/05/2014'
+p21490
 sg12154
-(lp21492
-g5209
-ag5215
+(lp21491
+g3348
 asg12156
+(lp21492
+g3343
+asg12158
 (lp21493
-S'Addresses'
+S'Interviews'
 p21494
-aS'Addresses'
+aS'Radio programs'
 p21495
-assg7407
+assg6123
 (dp21496
 g12148
-S'1954?'
+S'[Undated]'
 p21497
 sg12150
-S'Hartwick, Edward N.'
+S'Romney, George'
 p21498
-sg11
-g7410
 sg12152
-S'2/25/2015'
+S'6/05/2014'
 p21499
 sg12154
 (lp21500
-g7405
-ag5353
+g6126
 asg12156
 (lp21501
-S'Addresses'
-p21502
-aS'Addresses'
+g6121
+asg12158
+(lp21502
+S'Interviews'
 p21503
-assg9063
+assg6531
 (dp21504
 g12148
-S'1954 March 18'
+S'1962'
 p21505
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Romney, George'
 p21506
-sg11
-g9066
 sg12152
-S'6/24/2013'
+S'6/05/2014'
 p21507
 sg12154
 (lp21508
-g9061
+g6534
 asg12156
 (lp21509
-S'Radio programs'
-p21510
-assg11511
-(dp21511
-g12148
-S'1954 March 21'
-p21512
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21513
-sg11
-g11514
-sg12152
-S'6/24/2013'
-p21514
-sg12154
-(lp21515
-g11509
-asg12156
-(lp21516
+g6529
+asg12158
+(lp21510
 S'Interviews'
-p21517
-aS'Radio programs'
-p21518
-aS'Talk shows'
+p21511
+assg9333
+(dp21512
+g12148
+S'1962'
+p21513
+sg12150
+S'Romney, George'
+p21514
+sg12152
+S'6/05/2014'
+p21515
+sg12154
+(lp21516
+g9336
+asg12156
+(lp21517
+g9331
+asg12158
+(lp21518
+S'Interviews'
 p21519
-assg8799
+assg12087
 (dp21520
 g12148
-S'1954 March 22'
+S'[Undated]'
 p21521
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Romney, George'
 p21522
-sg11
-g8802
 sg12152
-S'6/24/2013'
+S'6/05/2014'
 p21523
 sg12154
 (lp21524
-g8797
+g12090
 asg12156
 (lp21525
+g12085
+ag11821
+asg12158
+(lp21526
 S'Interviews'
-p21526
-aS'Radio programs'
 p21527
-aS'Talk shows'
+aS'Radio programs'
 p21528
-assg5955
-(dp21529
-g12148
-S'[Undated]'
+aS'Interviews'
+p21529
+aS'Radio programs'
 p21530
+assg459
+(dp21531
+g12148
+S'1962'
+p21532
+sg12150
+S'Romney, George'
+p21533
+sg12152
+S'6/05/2014'
+p21534
+sg12154
+(lp21535
+g462
+asg12156
+(lp21536
+g457
+asg12158
+(lp21537
+S'Interviews'
+p21538
+aS'Radio programs'
+p21539
+assg6273
+(dp21540
+g12148
+S'1958 November 15'
+p21541
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21542
+sg12152
+S'11/01/2013'
+p21543
+sg12154
+(lp21544
+g6276
+asg12156
+(lp21545
+g6271
+asg12158
+(lp21546
+S'Musical performances'
+p21547
+assg21
+(dp21548
+g12148
+S'1958 November 15'
+p21549
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21550
+sg12152
+S'11/01/2013'
+p21551
+sg12154
+(lp21552
+g24
+asg12156
+(lp21553
+g19
+asg12158
+(lp21554
+S'Musical performances'
+p21555
+assg6555
+(dp21556
+g12148
+S'1964 November 07'
+p21557
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21558
+sg12152
+S'11/01/2013'
+p21559
+sg12154
+(lp21560
+g6558
+asg12156
+(lp21561
+g6553
+asg12158
+(lp21562
+S'Musical performances'
+p21563
+assg3633
+(dp21564
+g12148
+S'1964 November 07'
+p21565
+sg12150
+S"University of Michigan. Men's Glee Club"
+p21566
+sg12152
+S'11/01/2013'
+p21567
+sg12154
+(lp21568
+g3636
+asg12156
+(lp21569
+g3631
+asg12158
+(lp21570
+S'Musical performances'
+p21571
+assg10425
+(dp21572
+g12148
+S'1965 March 21'
+p21573
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21531
-sg11
-g5958
+p21574
 sg12152
 S'6/24/2013'
-p21532
+p21575
 sg12154
-(lp21533
-g5953
+(lp21576
+g10428
+ag10434
 asg12156
-(lp21534
-S'Oral Histories'
-p21535
-aS'Interviews'
-p21536
+(lp21577
+g10423
+ag10429
+asg12158
+(lp21578
+S'Radio programs'
+p21579
+aS'Poetry readings'
+p21580
 aS'Radio programs'
-p21537
+p21581
+aS'Poetry readings'
+p21582
+assg4257
+(dp21583
+g12148
+S'1955 January 06'
+p21584
+sg12150
+S'Schimpke, Albert J.'
+p21585
+sg12152
+S'11/01/2013'
+p21586
+sg12154
+(lp21587
+g4260
+asg12156
+(lp21588
+g4255
+ag4273
+asg12158
+(lp21589
+S'Oral Histories'
+p21590
+aS'Interviews'
+p21591
+aS'Oral Histories'
+p21592
+aS'Interviews'
+p21593
+assg10641
+(dp21594
+g12148
+S'1954 October 01, 12-13'
+p21595
+sg12150
+S'Schimpke, Albert J.'
+p21596
+sg12152
+S'11/01/2013'
+p21597
+sg12154
+(lp21598
+g10644
+asg12156
+(lp21599
+g10639
+ag10645
+asg12158
+(lp21600
+S'Oral Histories'
+p21601
+aS'Interviews'
+p21602
+aS'Oral Histories'
+p21603
+aS'Interviews'
+p21604
+assg4599
+(dp21605
+g12148
+S'1955 January 06'
+p21606
+sg12150
+S'Schimpke, Albert J.'
+p21607
+sg12152
+S'11/01/2013'
+p21608
+sg12154
+(lp21609
+g4602
+asg12156
+(lp21610
+g4597
+ag4591
+asg12158
+(lp21611
+S'Oral Histories'
+p21612
+aS'Interviews'
+p21613
+aS'Oral Histories'
+p21614
+aS'Interviews'
+p21615
+assg7281
+(dp21616
+g12148
+S'1955 January 06'
+p21617
+sg12150
+S'Schimpke, Albert J.'
+p21618
+sg12152
+S'11/01/2013'
+p21619
+sg12154
+(lp21620
+g7284
+asg12156
+(lp21621
+g7279
+ag7261
+asg12158
+(lp21622
+S'Oral Histories'
+p21623
+aS'Interviews'
+p21624
+aS'Oral Histories'
+p21625
+aS'Interviews'
+p21626
+assg4335
+(dp21627
+g12148
+S'[Undated]'
+p21628
+sg12150
+S'Schimpke, Albert J.'
+p21629
+sg12152
+S'11/01/2013'
+p21630
+sg12154
+(lp21631
+g4338
+asg12156
+(lp21632
+g4333
+asg12158
+(lp21633
+S'Oral Histories'
+p21634
+aS'Interviews'
+p21635
+assg1569
+(dp21636
+g12148
+S'1954 December 18'
+p21637
+sg12150
+S'Schimpke, Albert J.'
+p21638
+sg12152
+S'11/01/2013'
+p21639
+sg12154
+(lp21640
+g1572
+asg12156
+(lp21641
+g1567
+ag1573
+asg12158
+(lp21642
+S'Oral Histories'
+p21643
+aS'Interviews'
+p21644
+aS'Oral Histories'
+p21645
+aS'Interviews'
+p21646
+assg7809
+(dp21647
+g12148
+S'1956 November 06'
+p21648
+sg12150
+S'Schimpke, Albert J.'
+p21649
+sg12152
+S'11/01/2013'
+p21650
+sg12154
+(lp21651
+g7812
+asg12156
+(lp21652
+g7807
+ag7801
+asg12158
+(lp21653
+S'Oral Histories'
+p21654
+aS'Interviews'
+p21655
+aS'Oral Histories'
+p21656
+aS'Interviews'
+p21657
+assg10329
+(dp21658
+g12148
+S'1956 November 06'
+p21659
+sg12150
+S'Schimpke, Albert J.'
+p21660
+sg12152
+S'11/01/2013'
+p21661
+sg12154
+(lp21662
+g10332
+asg12156
+(lp21663
+g10327
+ag10321
+asg12158
+(lp21664
+S'Oral Histories'
+p21665
+aS'Interviews'
+p21666
+aS'Oral Histories'
+p21667
+aS'Interviews'
+p21668
+assg3699
+(dp21669
+g12148
+S'1955 November 04, 06'
+p21670
+sg12150
+S'Schimpke, Albert J.'
+p21671
+sg12152
+S'11/01/2013'
+p21672
+sg12154
+(lp21673
+g3702
+asg12156
+(lp21674
+g3697
+ag3703
+asg12158
+(lp21675
+S'Oral Histories'
+p21676
+aS'Interviews'
+p21677
+aS'Oral Histories'
+p21678
+aS'Interviews'
+p21679
+assg1215
+(dp21680
+g12148
+S'1961 March 15'
+p21681
+sg12150
+S'Schimpke, Albert J.'
+p21682
+sg12152
+S'11/01/2013'
+p21683
+sg12154
+(lp21684
+g1218
+asg12156
+(lp21685
+g1213
+asg12158
+(lp21686
+S'Oral Histories'
+p21687
+aS'Interviews'
+p21688
+assg1383
+(dp21689
+g12148
+S'1984 January 24'
+p21690
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p21691
+sg12152
+S'6/05/2014'
+p21692
+sg12154
+(lp21693
+g1386
+asg12156
+(lp21694
+g1381
+asg12158
+(lp21695
+S'Lectures'
+p21696
+aS'Musical performances'
+p21697
+aS'Radio programs'
+p21698
+assg11259
+(dp21699
+g12148
+S'1968 March 11'
+p21700
+sg12150
+S'Fleming, R. W. (Robben Wright)'
+p21701
+sg12152
+S'6/05/2014'
+p21702
+sg12154
+(lp21703
+g11262
+asg12156
+(lp21704
+g11257
+asg12158
+(lp21705
+S'Inauguration'
+p21706
+assg8049
+(dp21707
+g12148
+S'1978 October 27'
+p21708
+sg12150
+S'Fleming, R. W. (Robben Wright)'
+p21709
+sg12152
+S'6/05/2014'
+p21710
+sg12154
+(lp21711
+g8052
+asg12156
+(lp21712
+g8047
+asg12158
+(lp21713
+S'Addresses'
+p21714
+aS'Dinners'
+p21715
+assg1299
+(dp21716
+g12148
+S'1960 October 14'
+p21717
+sg12150
+S'Williams, G. Mennen'
+p21718
+sg12152
+S'11/01/2013'
+p21719
+sg12154
+(lp21720
+g1302
+asg12156
+(lp21721
+g1297
+asg12158
+(lp21722
+S'Addresses'
+p21723
+assg11799
+(dp21724
+g12148
+S'1960'
+p21725
+sg12150
+S'Williams, G. Mennen'
+p21726
+sg12152
+S'11/01/2013'
+p21727
+sg12154
+(lp21728
+g11802
+asg12156
+(lp21729
+g11797
+asg12158
+(lp21730
+S'Addresses'
+p21731
+aS'Advertising'
+p21732
+assg10683
+(dp21733
+g12148
+S'1960 October 05'
+p21734
+sg12150
+S'Williams, G. Mennen'
+p21735
+sg12152
+S'11/01/2013'
+p21736
+sg12154
+(lp21737
+g10686
+asg12156
+(lp21738
+g10681
+asg12158
+(lp21739
+S'Addresses'
+p21740
+aS'Interviews'
+p21741
+assg11097
+(dp21742
+g12148
+S'1975 July 03'
+p21743
+sg12150
+S'Michigan Organization for Human Rights'
+p21744
+sg12152
+S'6/05/2014'
+p21745
+sg12154
+(lp21746
+g11100
+asg12156
+(lp21747
+g11095
+asg12158
+(lp21748
+S'Radio programs'
+p21749
+assg1629
+(dp21750
+g12148
+S'1975 August 28'
+p21751
+sg12150
+S'Michigan Organization for Human Rights'
+p21752
+sg12152
+S'6/05/2014'
+p21753
+sg12154
+(lp21754
+g1632
+asg12156
+(lp21755
+g1627
+asg12158
+(lp21756
+S'Radio programs'
+p21757
+assg7899
+(dp21758
+g12148
+S'1975 April 10'
+p21759
+sg12150
+S'Michigan Organization for Human Rights'
+p21760
+sg12152
+S'6/05/2014'
+p21761
+sg12154
+(lp21762
+g7902
+asg12156
+(lp21763
+g7897
+asg12158
+(lp21764
+S'Radio programs'
+p21765
+assg5187
+(dp21766
+g12148
+S'1975 September 25'
+p21767
+sg12150
+S'Michigan Organization for Human Rights'
+p21768
+sg12152
+S'6/05/2014'
+p21769
+sg12154
+(lp21770
+g5190
+asg12156
+(lp21771
+g5185
+asg12158
+(lp21772
+S'Radio programs'
+p21773
+assg2163
+(dp21774
+g12148
+S'1975 March 13'
+p21775
+sg12150
+S'Michigan Organization for Human Rights'
+p21776
+sg12152
+S'6/05/2014'
+p21777
+sg12154
+(lp21778
+g2166
+asg12156
+(lp21779
+g2161
+asg12158
+(lp21780
+S'Radio programs'
+p21781
+assg4875
+(dp21782
+g12148
+S'1975 March 27'
+p21783
+sg12150
+S'Michigan Organization for Human Rights'
+p21784
+sg12152
+S'6/05/2014'
+p21785
+sg12154
+(lp21786
+g4878
+asg12156
+(lp21787
+g4873
+asg12158
+(lp21788
+S'Radio programs'
+p21789
+assg8061
+(dp21790
+g12148
+S'1975 July 17'
+p21791
+sg12150
+S'Michigan Organization for Human Rights'
+p21792
+sg12152
+S'6/05/2014'
+p21793
+sg12154
+(lp21794
+g8064
+asg12156
+(lp21795
+g8059
+asg12158
+(lp21796
+S'Interviews'
+p21797
+aS'Radio programs'
+p21798
+assg5391
+(dp21799
+g12148
+S'1975 July 31'
+p21800
+sg12150
+S'Michigan Organization for Human Rights'
+p21801
+sg12152
+S'6/05/2014'
+p21802
+sg12154
+(lp21803
+g5394
+asg12156
+(lp21804
+g5389
+asg12158
+(lp21805
+S'Radio programs'
+p21806
+assg11397
+(dp21807
+g12148
+S'1975 June 19'
+p21808
+sg12150
+S'Michigan Organization for Human Rights'
+p21809
+sg12152
+S'6/05/2014'
+p21810
+sg12154
+(lp21811
+g11400
+asg12156
+(lp21812
+g11395
+asg12158
+(lp21813
+S'Radio programs'
+p21814
+assg1647
+(dp21815
+g12148
+S'1975 August 14'
+p21816
+sg12150
+S'Michigan Organization for Human Rights'
+p21817
+sg12152
+S'6/05/2014'
+p21818
+sg12154
+(lp21819
+g1650
+asg12156
+(lp21820
+g1645
+asg12158
+(lp21821
+S'Radio programs'
+p21822
+assg11547
+(dp21823
+g12148
+S'[Undated]'
+p21824
+sg12150
+S'Allen, D.C., collector'
+p21825
+sg12152
+S'6/05/2014'
+p21826
+sg12154
+(lp21827
+g11550
+asg12156
+(lp21828
+g11545
+ag11551
+asg12158
+(lp21829
+S'Sermons'
+p21830
+aS'Musical performances'
+p21831
+aS'Radio programs'
+p21832
+aS'Religious meetings'
+p21833
+aS'Sermons'
+p21834
+aS'Musical performances'
+p21835
+aS'Radio programs'
+p21836
+aS'Religious meetings'
+p21837
+assg8217
+(dp21838
+g12148
+S'[Undated]'
+p21839
+sg12150
+S'Allen, D.C., collector'
+p21840
+sg12152
+S'6/05/2014'
+p21841
+sg12154
+(lp21842
+g8220
+asg12156
+(lp21843
+g8215
+ag8209
+asg12158
+(lp21844
+S'Sermons'
+p21845
+aS'Musical performances'
+p21846
+aS'Radio programs'
+p21847
+aS'Sermons'
+p21848
+aS'Musical performances'
+p21849
+aS'Radio programs'
+p21850
+assg5541
+(dp21851
+g12148
+S'[Undated]'
+p21852
+sg12150
+S'Allen, D.C., collector'
+p21853
+sg12152
+S'6/05/2014'
+p21854
+sg12154
+(lp21855
+g5544
+asg12156
+(lp21856
+g5539
+ag5533
+asg12158
+(lp21857
+S'Sermons'
+p21858
+aS'Musical performances'
+p21859
+aS'Sermons'
+p21860
+aS'Musical performances'
+p21861
+assg2535
+(dp21862
+g12148
+S'[Undated]'
+p21863
+sg12150
+S'Allen, D.C., collector'
+p21864
+sg12152
+S'6/05/2014'
+p21865
+sg12154
+(lp21866
+g2538
+asg12156
+(lp21867
+g2533
+ag2545
+asg12158
+(lp21868
+S'Sermons'
+p21869
+aS'Musical performances'
+p21870
+aS'Radio programs'
+p21871
+aS'Sermons'
+p21872
+aS'Musical performances'
+p21873
+aS'Radio programs'
+p21874
+assg5235
+(dp21875
+g12148
+S'[Undated]'
+p21876
+sg12150
+S'Allen, D.C., collector'
+p21877
+sg12152
+S'6/05/2014'
+p21878
+sg12154
+(lp21879
+g5238
+asg12156
+(lp21880
+g5233
+ag5239
+asg12158
+(lp21881
+S'Sermons'
+p21882
+aS'Musical performances'
+p21883
+aS'Radio programs'
+p21884
+aS'Sermons'
+p21885
+aS'Musical performances'
+p21886
+aS'Radio programs'
+p21887
+assg11151
+(dp21888
+g12148
+S'[Undated]'
+p21889
+sg12150
+S'Allen, D.C., collector'
+p21890
+sg12152
+S'6/05/2014'
+p21891
+sg12154
+(lp21892
+g11154
+asg12156
+(lp21893
+g11149
+ag6565
+asg12158
+(lp21894
+S'Sermons'
+p21895
+aS'Musical performances'
+p21896
+aS'Radio programs'
+p21897
+aS'Sermons'
+p21898
+aS'Musical performances'
+p21899
+aS'Radio programs'
+p21900
+assg8829
+(dp21901
+g12148
+S'[Undated]'
+p21902
+sg12150
+S'Allen, D.C., collector'
+p21903
+sg12152
+S'6/05/2014'
+p21904
+sg12154
+(lp21905
+g8832
+asg12156
+(lp21906
+g8827
+ag8815
+asg12158
+(lp21907
+S'Sermons'
+p21908
+aS'Musical performances'
+p21909
+aS'Radio programs'
+p21910
+aS'Sermons'
+p21911
+aS'Musical performances'
+p21912
+aS'Radio programs'
+p21913
+assg10719
+(dp21914
+g12148
+S'1983 October 11'
+p21915
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p21916
+sg12152
+S'6/05/2014'
+p21917
+sg12154
+(lp21918
+g10722
+asg12156
+(lp21919
+g10717
+asg12158
+(lp21920
+S'Lectures'
+p21921
+aS'Musical performances'
+p21922
+aS'Radio programs'
+p21923
+assg4701
+(dp21924
+g12148
+S'[Undated]'
+p21925
+sg12150
+S'Allen, D.C., collector'
+p21926
+sg12152
+S'6/05/2014'
+p21927
+sg12154
+(lp21928
+g4704
+asg12156
+(lp21929
+g4699
+ag4705
+asg12158
+(lp21930
+S'Sermons'
+p21931
+aS'Musical performances'
+p21932
+aS'Radio programs'
+p21933
+aS'Sermons'
+p21934
+aS'Musical performances'
+p21935
+aS'Radio programs'
+p21936
+assg1923
+(dp21937
+g12148
+S'1983 October 11'
+p21938
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p21939
+sg12152
+S'6/05/2014'
+p21940
+sg12154
+(lp21941
+g1926
+asg12156
+(lp21942
+g1921
+asg12158
+(lp21943
+S'Lectures'
+p21944
+aS'Musical performances'
+p21945
+aS'Radio programs'
+p21946
+assg2955
+(dp21947
+g12148
+S'1967 October 09'
+p21948
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p21949
+sg12152
+S'6/24/2013'
+p21950
+sg12154
+(lp21951
+g2958
+asg12156
+(lp21952
+g2953
+asg12158
+(lp21953
+S'Lectures'
+p21954
+aS'Radio programs'
+p21955
+assg135
+(dp21956
+g12148
+S'[Undated]'
+p21957
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21958
+sg12152
+S'6/05/2014'
+p21959
+sg12154
+(lp21960
+g138
+asg12156
+(lp21961
+g133
+asg12158
+(lp21962
+S'Conferences'
+p21963
+assg2799
+(dp21964
+g12148
+S'[Undated]'
+p21965
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21966
+sg12152
+S'6/05/2014'
+p21967
+sg12154
+(lp21968
+g2802
+asg12156
+(lp21969
+g2797
+asg12158
+(lp21970
+S'Conferences'
+p21971
+assg9093
+(dp21972
+g12148
+S'[Undated]'
+p21973
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21974
+sg12152
+S'6/05/2014'
+p21975
+sg12154
+(lp21976
+g9096
+asg12156
+(lp21977
+g9091
+asg12158
+(lp21978
+S'Conferences'
+p21979
+assg729
+(dp21980
+g12148
+S'[Undated]'
+p21981
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21982
+sg12152
+S'6/05/2014'
+p21983
+sg12154
+(lp21984
+g732
+asg12156
+(lp21985
+g727
+asg12158
+(lp21986
+S'Conferences'
+p21987
+assg3267
+(dp21988
+g12148
+S'[Undated]'
+p21989
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21990
+sg12152
+S'6/05/2014'
+p21991
+sg12154
+(lp21992
+g3270
+asg12156
+(lp21993
+g3265
+asg12158
+(lp21994
+S'Conferences'
+p21995
+assg6069
+(dp21996
+g12148
+S'[Undated]'
+p21997
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p21998
+sg12152
+S'6/05/2014'
+p21999
+sg12154
+(lp22000
+g6072
+asg12156
+(lp22001
+g6067
+asg12158
+(lp22002
+S'Conferences'
+p22003
+assg9117
+(dp22004
+g12148
+S'[Undated]'
+p22005
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p22006
+sg12152
+S'6/05/2014'
+p22007
+sg12154
+(lp22008
+g9120
+asg12156
+(lp22009
+g9115
+ag9109
+asg12158
+(lp22010
+S'Conferences'
+p22011
+aS'Conferences'
+p22012
+assg6279
+(dp22013
+g12148
+S'[Undated]'
+p22014
+sg12150
+S'Guild House (Ann Arbor, Mich.)'
+p22015
+sg12152
+S'6/05/2014'
+p22016
+sg12154
+(lp22017
+g6282
+asg12156
+(lp22018
+g6277
+asg12158
+(lp22019
+S'Conferences'
+p22020
+assg9291
+(dp22021
+g12148
+S'1983 September 27'
+p22022
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p22023
+sg12152
+S'6/05/2014'
+p22024
+sg12154
+(lp22025
+g9294
+asg12156
+(lp22026
+g9289
+asg12158
+(lp22027
+S'Lectures'
+p22028
+aS'Musical performances'
+p22029
+aS'Radio programs'
+p22030
+assg6249
+(dp22031
+g12148
+S'1983 September 27'
+p22032
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p22033
+sg12152
+S'6/05/2014'
+p22034
+sg12154
+(lp22035
+g6252
+asg12156
+(lp22036
+g6247
+asg12158
+(lp22037
+S'Lectures'
+p22038
+aS'Musical performances'
+p22039
+aS'Radio programs'
+p22040
+assg6339
+(dp22041
+g12148
+S'1962 June 13'
+p22042
+sg12150
+S'Swainson, John B.'
+p22043
+sg12152
+S'6/24/2013'
+p22044
+sg12154
+(lp22045
+g6342
+asg12156
+(lp22046
+g6337
+ag6343
+asg12158
+(lp22047
+S'Interviews'
+p22048
+aS'Radio programs'
+p22049
 aS'Talk shows'
-p21538
+p22050
+aS'Interviews'
+p22051
+aS'Radio programs'
+p22052
+aS'Talk shows'
+p22053
+assg189
+(dp22054
+g12148
+S'1962'
+p22055
+sg12150
+S'Swainson, John B.'
+p22056
+sg12152
+S'6/24/2013'
+p22057
+sg12154
+(lp22058
+g192
+asg12156
+(lp22059
+g187
+asg12158
+(lp22060
+S'Musical performances'
+p22061
+aS'Advertising'
+p22062
+assg9687
+(dp22063
+g12148
+S'1962 September 24'
+p22064
+sg12150
+S'Swainson, John B.'
+p22065
+sg12152
+S'6/24/2013'
+p22066
+sg12154
+(lp22067
+g9690
+asg12156
+(lp22068
+g9685
+asg12158
+(lp22069
+S'Addresses'
+p22070
+aS'Dinners'
+p22071
+assg3897
+(dp22072
+g12148
+S'1960 March 15'
+p22073
+sg12150
+S'Whittaker, Hilary'
+p22074
+sg12152
+S'6/05/2014'
+p22075
+sg12154
+(lp22076
+g3900
+asg12156
+(lp22077
+g3895
+asg12158
+(lp22078
+S'Interviews'
+p22079
+assg3903
+(dp22080
+g12148
+S'1956 July 14'
+p22081
+sg12150
+S'Brucker, Wilber Marion'
+p22082
+sg12152
+S'11/01/2013'
+p22083
+sg12154
+(lp22084
+g3906
+asg12156
+(lp22085
+g3901
+asg12158
+(lp22086
+S'Addresses'
+p22087
+aS'Meetings'
+p22088
+aS'Dinners'
+p22089
+assg9993
+(dp22090
+g12148
+S'1956 July 14'
+p22091
+sg12150
+S'Brucker, Wilber Marion'
+p22092
+sg12152
+S'11/01/2013'
+p22093
+sg12154
+(lp22094
+g9996
+asg12156
+(lp22095
+g9991
+asg12158
+(lp22096
+S'Addresses'
+p22097
+aS'Meetings'
+p22098
+aS'Dinners'
+p22099
+assg453
+(dp22100
+g12148
+S'1956 July 14'
+p22101
+sg12150
+S'Brucker, Wilber Marion'
+p22102
+sg12152
+S'11/01/2013'
+p22103
+sg12154
+(lp22104
+g456
+asg12156
+(lp22105
+g451
+asg12158
+(lp22106
+S'Addresses'
+p22107
+aS'Meetings'
+p22108
+aS'Dinners'
+p22109
+assg3387
+(dp22110
+g12148
+S'1956 July 14'
+p22111
+sg12150
+S'Brucker, Wilber Marion'
+p22112
+sg12152
+S'11/01/2013'
+p22113
+sg12154
+(lp22114
+g3390
+asg12156
+(lp22115
+g3385
+asg12158
+(lp22116
+S'Addresses'
+p22117
+aS'Meetings'
+p22118
+aS'Dinners'
+p22119
+assg675
+(dp22120
+g12148
+S'1956 July 14'
+p22121
+sg12150
+S'Brucker, Wilber Marion'
+p22122
+sg12152
+S'11/01/2013'
+p22123
+sg12154
+(lp22124
+g678
+asg12156
+(lp22125
+g673
+asg12158
+(lp22126
+S'Addresses'
+p22127
+aS'Meetings'
+p22128
+aS'Dinners'
+p22129
+assg7131
+(dp22130
+g12148
+S'1953 August 23'
+p22131
+sg12150
+S'Cushing, George'
+p22132
+sg12152
+S'2/25/2015'
+p22133
+sg12154
+(lp22134
+g7134
+asg12156
+(lp22135
+g7129
+asg12158
+(lp22136
+S'Radio programs'
+p22137
+aS'Talk shows'
+p22138
+assg9819
+(dp22139
+g12148
+S'1953 September 27'
+p22140
+sg12150
+S'Cushing, George'
+p22141
+sg12152
+S'2/25/2015'
+p22142
+sg12154
+(lp22143
+g9822
+asg12156
+(lp22144
+g9817
+asg12158
+(lp22145
+S'Radio programs'
+p22146
+aS'Talk shows'
+p22147
+assg6861
+(dp22148
+g12148
+S'1961 January'
+p22149
+sg12150
+S'Karoub family'
+p22150
+sg12152
+S'6/24/2013'
+p22151
+sg12154
+(lp22152
+g6864
+asg12156
+(lp22153
+g6859
+ag6469
+ag6475
+asg12158
+(lp22154
+S'Literary readings'
+p22155
+aS'Musical performances'
+p22156
+aS'Poetry readings'
+p22157
+aS'Dialogues'
+p22158
+aS'Literary readings'
+p22159
+aS'Musical performances'
+p22160
+aS'Poetry readings'
+p22161
+aS'Dialogues'
+p22162
+aS'Literary readings'
+p22163
+aS'Musical performances'
+p22164
+aS'Poetry readings'
+p22165
+aS'Dialogues'
+p22166
+assg9783
+(dp22167
+g12148
+S'1953 July 05'
+p22168
+sg12150
+S'Cushing, George'
+p22169
+sg12152
+S'2/25/2015'
+p22170
+sg12154
+(lp22171
+g9786
+asg12156
+(lp22172
+g9781
+asg12158
+(lp22173
+S'Radio programs'
+p22174
+aS'Talk shows'
+p22175
+assg279
+(dp22176
+g12148
+S'1953 July 05'
+p22177
+sg12150
+S'Cushing, George'
+p22178
+sg12152
+S'2/25/2015'
+p22179
+sg12154
+(lp22180
+g282
+asg12156
+(lp22181
+g277
+asg12158
+(lp22182
+S'Radio programs'
+p22183
+aS'Talk shows'
+p22184
+assg10095
+(dp22185
+g12148
+S'1953 August 09'
+p22186
+sg12150
+S'Cushing, George'
+p22187
+sg12152
+S'2/25/2015'
+p22188
+sg12154
+(lp22189
+g10098
+asg12156
+(lp22190
+g10093
+asg12158
+(lp22191
+S'Radio programs'
+p22192
+aS'Talk shows'
+p22193
+assg7353
+(dp22194
+g12148
+S'1953 August 16'
+p22195
+sg12150
+S'Cushing, George'
+p22196
+sg12152
+S'2/25/2015'
+p22197
+sg12154
+(lp22198
+g7356
+asg12156
+(lp22199
+g7351
+asg12158
+(lp22200
+S'Radio programs'
+p22201
+aS'Talk shows'
+p22202
+assg3729
+(dp22203
+g12148
+S'1953 May 31'
+p22204
+sg12150
+S'Cushing, George'
+p22205
+sg12152
+S'2/25/2015'
+p22206
+sg12154
+(lp22207
+g3732
+asg12156
+(lp22208
+g3727
+asg12158
+(lp22209
+S'Radio programs'
+p22210
+aS'Talk shows'
+p22211
+assg381
+(dp22212
+g12148
+S'1953 June 14'
+p22213
+sg12150
+S'Cushing, George'
+p22214
+sg12152
+S'2/25/2015'
+p22215
+sg12154
+(lp22216
+g384
+asg12156
+(lp22217
+g379
+asg12158
+(lp22218
+S'Radio programs'
+p22219
+aS'Talk shows'
+p22220
+assg6375
+(dp22221
+g12148
+S'1953 June 26'
+p22222
+sg12150
+S'Cushing, George'
+p22223
+sg12152
+S'2/25/2015'
+p22224
+sg12154
+(lp22225
+g6378
+asg12156
+(lp22226
+g6373
+asg12158
+(lp22227
+S'Radio programs'
+p22228
+aS'Talk shows'
+p22229
+assg3795
+(dp22230
+g12148
+S'1953 June 28'
+p22231
+sg12150
+S'Cushing, George'
+p22232
+sg12152
+S'2/25/2015'
+p22233
+sg12154
+(lp22234
+g3798
+asg12156
+(lp22235
+g3793
+asg12158
+(lp22236
+S'Radio programs'
+p22237
+aS'Talk shows'
+p22238
+assg927
+(dp22239
+g12148
+S'1976 October 22'
+p22240
+sg12150
+S'University of Michigan. Alumni Association.'
+p22241
+sg12152
+S'11/01/2013'
+p22242
+sg12154
+(lp22243
+g930
+asg12156
+(lp22244
+g925
+asg12158
+(lp22245
+S'Musical performances'
+p22246
+assg7029
+(dp22247
+g12148
+S'1976 October 22'
+p22248
+sg12150
+S'University of Michigan. Alumni Association.'
+p22249
+sg12152
+S'11/01/2013'
+p22250
+sg12154
+(lp22251
+g7032
+asg12156
+(lp22252
+g7027
+asg12158
+(lp22253
+S'Musical performances'
+p22254
+assg1197
+(dp22255
+g12148
+S'[Undated]'
+p22256
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22257
+sg12152
+S'6/24/2013'
+p22258
+sg12154
+(lp22259
+g1200
+asg12156
+(lp22260
+g1195
+asg12158
+(lp22261
+S'Oral Histories'
+p22262
+aS'Radio programs'
+p22263
+assg4815
+(dp22264
+g12148
+S'1954 October 27'
+p22265
+sg12150
+S'Schimpke, Albert J.'
+p22266
+sg12152
+S'11/01/2013'
+p22267
+sg12154
+(lp22268
+g4818
+asg12156
+(lp22269
+g4813
+ag4819
+asg12158
+(lp22270
+S'Oral Histories'
+p22271
+aS'Interviews'
+p22272
+aS'Oral Histories'
+p22273
+aS'Interviews'
+p22274
+assg4173
+(dp22275
+g12148
+S'1954 November 10, 12'
+p22276
+sg12150
+S'Schimpke, Albert J.'
+p22277
+sg12152
+S'11/01/2013'
+p22278
+sg12154
+(lp22279
+g4176
+asg12156
+(lp22280
+g4171
+ag4177
+asg12158
+(lp22281
+S'Oral Histories'
+p22282
+aS'Interviews'
+p22283
+aS'Oral Histories'
+p22284
+aS'Interviews'
+p22285
+assg1293
+(dp22286
+g12148
+S'1960 November 08'
+p22287
+sg12150
+S'Schimpke, Albert J.'
+p22288
+sg12152
+S'11/01/2013'
+p22289
+sg12154
+(lp22290
+g1296
+asg12156
+(lp22291
+g1291
+ag1285
+asg12158
+(lp22292
+S'Oral Histories'
+p22293
+aS'Interviews'
+p22294
+aS'Oral Histories'
+p22295
+aS'Interviews'
+p22296
+assg10839
+(dp22297
+g12148
+S'1954 October 27'
+p22298
+sg12150
+S'Schimpke, Albert J.'
+p22299
+sg12152
+S'11/01/2013'
+p22300
+sg12154
+(lp22301
+g10842
+asg12156
+(lp22302
+g10837
+ag10831
+asg12158
+(lp22303
+S'Oral Histories'
+p22304
+aS'Interviews'
+p22305
+aS'Oral Histories'
+p22306
+aS'Interviews'
+p22307
+assg1473
+(dp22308
+g12148
+S'1956 August 14, 1957 October 16'
+p22309
+sg12150
+S'Schimpke, Albert J.'
+p22310
+sg12152
+S'11/01/2013'
+p22311
+sg12154
+(lp22312
+g1476
+asg12156
+(lp22313
+g1471
+ag1489
+asg12158
+(lp22314
+S'Oral Histories'
+p22315
+aS'Interviews'
+p22316
+aS'Oral Histories'
+p22317
+aS'Interviews'
+p22318
+assg4245
+(dp22319
+g12148
+S'1960 November 07-08'
+p22320
+sg12150
+S'Schimpke, Albert J.'
+p22321
+sg12152
+S'11/01/2013'
+p22322
+sg12154
+(lp22323
+g4248
+asg12156
+(lp22324
+g4243
+ag4249
+asg12158
+(lp22325
+S'Oral Histories'
+p22326
+aS'Interviews'
+p22327
+aS'Oral Histories'
+p22328
+aS'Interviews'
+p22329
+assg7719
+(dp22330
+g12148
+S'1962 August 01'
+p22331
+sg12150
+S'Schimpke, Albert J.'
+p22332
+sg12152
+S'11/01/2013'
+p22333
+sg12154
+(lp22334
+g7722
+asg12156
+(lp22335
+g7717
+ag7705
+asg12158
+(lp22336
+S'Oral Histories'
+p22337
+aS'Interviews'
+p22338
+aS'Oral Histories'
+p22339
+aS'Interviews'
+p22340
+assg10341
+(dp22341
+g12148
+S'1956 September 19'
+p22342
+sg12150
+S'Schimpke, Albert J.'
+p22343
+sg12152
+S'11/01/2013'
+p22344
+sg12154
+(lp22345
+g10344
+asg12156
+(lp22346
+g10339
+asg12158
+(lp22347
+S'Oral Histories'
+p22348
+aS'Interviews'
+p22349
+assg7815
+(dp22350
+g12148
+S'1955 January 18'
+p22351
+sg12150
+S'Schimpke, Albert J.'
+p22352
+sg12152
+S'11/01/2013'
+p22353
+sg12154
+(lp22354
+g7818
+asg12156
+(lp22355
+g7813
+asg12158
+(lp22356
+S'Oral Histories'
+p22357
+aS'Interviews'
+p22358
+assg1845
+(dp22359
+g12148
+S'1974 May 04'
+p22360
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22361
+sg12152
+S'6/24/2013'
+p22362
+sg12154
+(lp22363
+g1848
+asg12156
+(lp22364
+g1843
+asg12158
+(lp22365
+S'Addresses'
+p22366
+aS'Radio programs'
+p22367
+assg4467
+(dp22368
+g12148
+S'1951 October 21'
+p22369
+sg12150
+S'Cushing, George'
+p22370
+sg12152
+S'2/25/2015'
+p22371
+sg12154
+(lp22372
+g4470
+asg12156
+(lp22373
+g4465
+asg12158
+(lp22374
+S'Radio programs'
+p22375
+aS'Talk shows'
+p22376
+assg8385
+(dp22377
+g12148
+S'1963 May 25'
+p22378
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22379
+sg12152
+S'6/05/2014'
+p22380
+sg12154
+(lp22381
+g8388
+asg12156
+(lp22382
+g8383
+ag8389
+asg12158
+(lp22383
+S'Conferences'
+p22384
+aS'Conferences'
+p22385
+assg10875
+(dp22386
+g12148
+S'1963 May 25'
+p22387
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22388
+sg12152
+S'6/05/2014'
+p22389
+sg12154
+(lp22390
+g10878
+asg12156
+(lp22391
+g10873
+asg12158
+(lp22392
+S'Conferences'
+p22393
+assg8031
+(dp22394
+g12148
+S'1963 May 25'
+p22395
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22396
+sg12152
+S'6/05/2014'
+p22397
+sg12154
+(lp22398
+g8034
+asg12156
+(lp22399
+g8029
+ag8023
+asg12158
+(lp22400
+S'Conferences'
+p22401
+aS'Conferences'
+p22402
+assg11373
+(dp22403
+g12148
+S'Undated'
+p22404
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22405
+sg12152
+S'6/05/2014'
+p22406
+sg12154
+(lp22407
+g11376
+ag11388
+asg12156
+(lp22408
+g11371
+ag11383
+asg12158
+(lp22409
+S'Dialogues'
+p22410
+aS'Dialogues'
+p22411
+assg11169
+(dp22412
+g12148
+S'1963 May 25'
+p22413
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22414
+sg12152
+S'6/05/2014'
+p22415
+sg12154
+(lp22416
+g11172
+asg12156
+(lp22417
+g11167
+asg12158
+(lp22418
+S'Conferences'
+p22419
+assg7875
+(dp22420
+g12148
+S'1963 May 25'
+p22421
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22422
+sg12152
+S'6/05/2014'
+p22423
+sg12154
+(lp22424
+g7878
+asg12156
+(lp22425
+g7873
+asg12158
+(lp22426
+S'Conferences'
+p22427
+assg5421
+(dp22428
+g12148
+S'1963 May 25'
+p22429
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22430
+sg12152
+S'6/05/2014'
+p22431
+sg12154
+(lp22432
+g5424
+asg12156
+(lp22433
+g5419
+ag5413
+asg12158
+(lp22434
+S'Conferences'
+p22435
+aS'Conferences'
+p22436
+assg10539
+(dp22437
+g12148
+S'1951 September 16'
+p22438
+sg12150
+S'Cushing, George'
+p22439
+sg12152
+S'2/25/2015'
+p22440
+sg12154
+(lp22441
+g10542
+asg12156
+(lp22442
+g10537
+asg12158
+(lp22443
+S'Radio programs'
+p22444
+aS'Talk shows'
+p22445
+assg8157
+(dp22446
+g12148
+S'[Between 1950-1955]'
+p22447
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22448
+sg12152
+S'6/05/2014'
+p22449
+sg12154
+(lp22450
+g8160
+asg12156
+(lp22451
+g8155
+asg12158
+(lp22452
+S'Musical performances'
+p22453
+assg5445
+(dp22454
+g12148
+S'[Between 1950-1955]'
+p22455
+sg12150
+S'University of Michigan. Center for Japanese Studies'
+p22456
+sg12152
+S'6/05/2014'
+p22457
+sg12154
+(lp22458
+g5448
+asg12156
+(lp22459
+g5443
+ag5425
+asg12158
+(lp22460
+S'Dialogues'
+p22461
+aS'Dialogues'
+p22462
+assg2469
+(dp22463
+g12148
+S'1945 April 08'
+p22464
+sg12150
+S'Cushing, George'
+p22465
+sg12152
+S'2/25/2015'
+p22466
+sg12154
+(lp22467
+g2472
+asg12156
+(lp22468
+g2467
+asg12158
+(lp22469
+S'Radio programs'
+p22470
+aS'Talk shows'
+p22471
+assg5151
+(dp22472
+g12148
+S'1945 April 15'
+p22473
+sg12150
+S'Cushing, George'
+p22474
+sg12152
+S'2/25/2015'
+p22475
+sg12154
+(lp22476
+g5154
+asg12156
+(lp22477
+g5149
+asg12158
+(lp22478
+S'Radio programs'
+p22479
+aS'Talk shows'
+p22480
+assg4119
+(dp22481
+g12148
+S'1945 January 07'
+p22482
+sg12150
+S'Cushing, George'
+p22483
+sg12152
+S'2/25/2015'
+p22484
+sg12154
+(lp22485
+g4122
+asg12156
+(lp22486
+g4117
+asg12158
+(lp22487
+S'Radio programs'
+p22488
+aS'Talk shows'
+p22489
+assg8469
+(dp22490
+g12148
+S'1945 January 14'
+p22491
+sg12150
+S'Cushing, George'
+p22492
+sg12152
+S'2/25/2015'
+p22493
+sg12154
+(lp22494
+g8472
+asg12156
+(lp22495
+g8467
+asg12158
+(lp22496
+S'Radio programs'
+p22497
+aS'Talk shows'
+p22498
+assg11391
+(dp22499
+g12148
+S'1945 March 25'
+p22500
+sg12150
+S'Cushing, George'
+p22501
+sg12152
+S'2/25/2015'
+p22502
+sg12154
+(lp22503
+g11394
+asg12156
+(lp22504
+g11389
+asg12158
+(lp22505
+S'Radio programs'
+p22506
+aS'Talk shows'
+p22507
+assg8973
+(dp22508
+g12148
+S'1945 April 01'
+p22509
+sg12150
+S'Cushing, George'
+p22510
+sg12152
+S'2/25/2015'
+p22511
+sg12154
+(lp22512
+g8976
+asg12156
+(lp22513
+g8971
+asg12158
+(lp22514
+S'Radio programs'
+p22515
+aS'Talk shows'
+p22516
+assg5175
+(dp22517
+g12148
+S'1945 March 11'
+p22518
+sg12150
+S'Cushing, George'
+p22519
+sg12152
+S'2/25/2015'
+p22520
+sg12154
+(lp22521
+g5178
+asg12156
+(lp22522
+g5173
+asg12158
+(lp22523
+S'Radio programs'
+p22524
+aS'Talk shows'
+p22525
+assg8853
+(dp22526
+g12148
+S'1969 March 01'
+p22527
+sg12150
+S'Shepard, Robert J.'
+p22528
+sg12152
+S'11/01/2013'
+p22529
+sg12154
+(lp22530
+g8856
+asg12156
+(lp22531
+g8851
+asg12158
+(lp22532
+S'Correspondence'
+p22533
+assg6033
+(dp22534
+g12148
+S'1969 February 27'
+p22535
+sg12150
+S'Shepard, Robert J.'
+p22536
+sg12152
+S'11/01/2013'
+p22537
+sg12154
+(lp22538
+g6036
+asg12156
+(lp22539
+g6031
+ag6019
+asg12158
+(lp22540
+S'Radio programs'
+p22541
+aS'Correspondence'
+p22542
+aS'Radio programs'
+p22543
+aS'Correspondence'
+p22544
+assg11625
+(dp22545
+g12148
+S'1969 February 21'
+p22546
+sg12150
+S'Shepard, Robert J.'
+p22547
+sg12152
+S'11/01/2013'
+p22548
+sg12154
+(lp22549
+g11628
+asg12156
+(lp22550
+g11623
+ag11629
+asg12158
+(lp22551
+S'Correspondence'
+p22552
+aS'Correspondence'
+p22553
+assg2139
+(dp22554
+g12148
+S'[Undated]'
+p22555
+sg12150
+S'Shepard, Robert J.'
+p22556
+sg12152
+S'11/01/2013'
+p22557
+sg12154
+(lp22558
+g2142
+asg12156
+(lp22559
+g2137
+ag2143
+asg12158
+(lp22560
+S'Radio programs'
+p22561
+aS'Correspondence'
+p22562
+aS'Radio programs'
+p22563
+aS'Correspondence'
+p22564
+assg8205
+(dp22565
+g12148
+S'1969 January 21'
+p22566
+sg12150
+S'Shepard, Robert J.'
+p22567
+sg12152
+S'11/01/2013'
+p22568
+sg12154
+(lp22569
+g8208
+asg12156
+(lp22570
+g8203
+asg12158
+(lp22571
+S'Correspondence'
+p22572
+assg5631
+(dp22573
+g12148
+S'1969 January 19'
+p22574
+sg12150
+S'Shepard, Robert J.'
+p22575
+sg12152
+S'11/01/2013'
+p22576
+sg12154
+(lp22577
+g5634
+asg12156
+(lp22578
+g5629
+asg12158
+(lp22579
+S'Correspondence'
+p22580
+assg11529
+(dp22581
+g12148
+S'1968 December 25'
+p22582
+sg12150
+S'Shepard, Robert J.'
+p22583
+sg12152
+S'11/01/2013'
+p22584
+sg12154
+(lp22585
+g11532
+asg12156
+(lp22586
+g11527
+asg12158
+(lp22587
+S'Correspondence'
+p22588
+assg1929
+(dp22589
+g12148
+S'1968 December'
+p22590
+sg12150
+S'Shepard, Robert J.'
+p22591
+sg12152
+S'11/01/2013'
+p22592
+sg12154
+(lp22593
+g1932
+asg12156
+(lp22594
+g1927
+ag1933
+asg12158
+(lp22595
+S'Correspondence'
+p22596
+aS'Correspondence'
+p22597
+assg5523
+(dp22598
+g12148
+S'1968 December'
+p22599
+sg12150
+S'Shepard, Robert J.'
+p22600
+sg12152
+S'11/01/2013'
+p22601
+sg12154
+(lp22602
+g5526
+asg12156
+(lp22603
+g5521
+ag5515
+asg12158
+(lp22604
+S'Correspondence'
+p22605
+aS'Correspondence'
+p22606
+assg11379
+(dp22607
+g12148
+S'1955 September 30'
+p22608
+sg12150
+S'Hartwick, Edward N.'
+p22609
+sg12152
+S'2/25/2015'
+p22610
+sg12154
+(lp22611
+g11382
+asg12156
+(lp22612
+g11377
+asg12158
+(lp22613
+S'Addresses'
+p22614
+assg7869
+(dp22615
+g12148
+S'1954 February 23'
+p22616
+sg12150
+S'Hartwick, Edward N.'
+p22617
+sg12152
+S'2/25/2015'
+p22618
+sg12154
+(lp22619
+g7872
+asg12156
+(lp22620
+g7867
+asg12158
+(lp22621
+S'Addresses'
+p22622
+assg2307
+(dp22623
+g12148
+S'1954 February 13'
+p22624
+sg12150
+S'Hartwick, Edward N.'
+p22625
+sg12152
+S'2/25/2015'
+p22626
+sg12154
+(lp22627
+g2310
+ag2304
+asg12156
+(lp22628
+g2305
+ag2299
+asg12158
+(lp22629
+S'Addresses'
+p22630
+aS'Addresses'
+p22631
+assg11973
+(dp22632
+g12148
+S'1954 February 09'
+p22633
+sg12150
+S'Hartwick, Edward N.'
+p22634
+sg12152
+S'2/25/2015'
+p22635
+sg12154
+(lp22636
+g11976
+ag11970
+asg12156
+(lp22637
+g11971
+ag11965
+asg12158
+(lp22638
+S'Addresses'
+p22639
+aS'Addresses'
+p22640
+assg3021
+(dp22641
+g12148
+S'[1950?] February 28'
+p22642
+sg12150
+S'Hartwick, Edward N.'
+p22643
+sg12152
+S'2/25/2015'
+p22644
+sg12154
+(lp22645
+g3024
+asg12156
+(lp22646
+g3019
+ag3031
+asg12158
+(lp22647
+S'Meetings'
+p22648
+aS'Meetings'
+p22649
+assg5211
+(dp22650
+g12148
+S'1954?'
+p22651
+sg12150
+S'Hartwick, Edward N.'
+p22652
+sg12152
+S'2/25/2015'
+p22653
+sg12154
+(lp22654
+g5214
+asg12156
+(lp22655
+g5209
+ag5215
+asg12158
+(lp22656
+S'Addresses'
+p22657
+aS'Addresses'
+p22658
+assg7407
+(dp22659
+g12148
+S'1954?'
+p22660
+sg12150
+S'Hartwick, Edward N.'
+p22661
+sg12152
+S'2/25/2015'
+p22662
+sg12154
+(lp22663
+g7410
+asg12156
+(lp22664
+g7405
+ag5353
+asg12158
+(lp22665
+S'Addresses'
+p22666
+aS'Addresses'
+p22667
+assg9063
+(dp22668
+g12148
+S'1954 March 18'
+p22669
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22670
+sg12152
+S'6/24/2013'
+p22671
+sg12154
+(lp22672
+g9066
+asg12156
+(lp22673
+g9061
+asg12158
+(lp22674
+S'Radio programs'
+p22675
+assg11511
+(dp22676
+g12148
+S'1954 March 21'
+p22677
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22678
+sg12152
+S'6/24/2013'
+p22679
+sg12154
+(lp22680
+g11514
+asg12156
+(lp22681
+g11509
+asg12158
+(lp22682
+S'Interviews'
+p22683
+aS'Radio programs'
+p22684
+aS'Talk shows'
+p22685
+assg8799
+(dp22686
+g12148
+S'1954 March 22'
+p22687
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22688
+sg12152
+S'6/24/2013'
+p22689
+sg12154
+(lp22690
+g8802
+asg12156
+(lp22691
+g8797
+asg12158
+(lp22692
+S'Interviews'
+p22693
+aS'Radio programs'
+p22694
+aS'Talk shows'
+p22695
+assg5955
+(dp22696
+g12148
+S'[Undated]'
+p22697
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22698
+sg12152
+S'6/24/2013'
+p22699
+sg12154
+(lp22700
+g5958
+asg12156
+(lp22701
+g5953
+asg12158
+(lp22702
+S'Oral Histories'
+p22703
+aS'Interviews'
+p22704
+aS'Radio programs'
+p22705
+aS'Talk shows'
+p22706
 assg11517
-(dp21539
+(dp22707
 g12148
 S'1955 December 15'
-p21540
+p22708
 sg12150
 S'Hartwick, Edward N.'
-p21541
-sg11
-g11520
+p22709
 sg12152
 S'2/25/2015'
-p21542
+p22710
 sg12154
-(lp21543
-g11515
+(lp22711
+g11520
 asg12156
-(lp21544
+(lp22712
+g11515
+asg12158
+(lp22713
 S'Meetings'
-p21545
+p22714
 assg4323
-(dp21546
+(dp22715
 g12148
 S'1955 June 17'
-p21547
+p22716
 sg12150
 S'Hartwick, Edward N.'
-p21548
-sg11
-g4326
+p22717
 sg12152
 S'2/25/2015'
-p21549
+p22718
 sg12154
-(lp21550
-g4321
+(lp22719
+g4326
 asg12156
-(lp21551
+(lp22720
+g4321
+asg12158
+(lp22721
 S'Radio programs'
-p21552
+p22722
 assg5481
-(dp21553
+(dp22723
 g12148
 S'1971 December 28-31, 1972 January 01'
-p21554
+p22724
 sg12150
 S'Sinclair, John and Leni'
-p21555
-sg11
-g5484
+p22725
 sg12152
 S'6/24/2013'
-p21556
+p22726
 sg12154
-(lp21557
+(lp22727
+g5484
+asg12156
+(lp22728
 g5479
 ag5491
 ag5485
@@ -56518,9675 +57718,10120 @@ ag5131
 ag8125
 ag8131
 ag5125
-asg12156
-(lp21558
+asg12158
+(lp22729
 S'Meetings'
-p21559
+p22730
 aS'Meetings'
-p21560
+p22731
 aS'Meetings'
-p21561
+p22732
 aS'Meetings'
-p21562
+p22733
 aS'Meetings'
-p21563
+p22734
 aS'Meetings'
-p21564
+p22735
 aS'Meetings'
-p21565
+p22736
 aS'Meetings'
-p21566
+p22737
 aS'Meetings'
-p21567
+p22738
 aS'Meetings'
-p21568
+p22739
 aS'Meetings'
-p21569
+p22740
 aS'Meetings'
-p21570
+p22741
 aS'Meetings'
-p21571
+p22742
 assg6081
-(dp21572
+(dp22743
 g12148
 S'1972'
-p21573
+p22744
 sg12150
 S'Sinclair, John and Leni'
-p21574
-sg11
-g6084
+p22745
 sg12152
 S'6/24/2013'
-p21575
+p22746
 sg12154
-(lp21576
+(lp22747
+g6084
+asg12156
+(lp22748
 g6079
 ag2983
 ag2989
 ag2965
-asg12156
-(lp21577
+asg12158
+(lp22749
 S'Meetings'
-p21578
+p22750
 aS'Meetings'
-p21579
+p22751
 aS'Meetings'
-p21580
+p22752
 aS'Meetings'
-p21581
+p22753
 assg9207
-(dp21582
+(dp22754
 g12148
 S'1972 January 02'
-p21583
+p22755
 sg12150
 S'Sinclair, John and Leni'
-p21584
-sg11
-g9210
+p22756
 sg12152
 S'6/24/2013'
-p21585
+p22757
 sg12154
-(lp21586
+(lp22758
+g9210
+asg12156
+(lp22759
 g9205
 ag9199
 ag9193
-asg12156
-(lp21587
+asg12158
+(lp22760
 S'Meetings'
-p21588
+p22761
 aS'Meetings'
-p21589
+p22762
 aS'Meetings'
-p21590
+p22763
 assg11769
-(dp21591
+(dp22764
 g12148
 S'1972 January 25'
-p21592
+p22765
 sg12150
 S'Sinclair, John and Leni'
-p21593
-sg11
-g11772
+p22766
 sg12152
 S'6/24/2013'
-p21594
+p22767
 sg12154
-(lp21595
+(lp22768
+g11772
+asg12156
+(lp22769
 g11767
 ag9727
 ag11761
 ag11779
-asg12156
-(lp21596
+asg12158
+(lp22770
 S'Meetings'
-p21597
+p22771
 aS'Meetings'
-p21598
+p22772
 aS'Meetings'
-p21599
+p22773
 aS'Meetings'
-p21600
+p22774
 assg6189
-(dp21601
+(dp22775
 g12148
 S'1968'
-p21602
+p22776
 sg12150
 S'Sinclair, John and Leni'
-p21603
-sg11
-g6192
+p22777
 sg12152
 S'6/24/2013'
-p21604
+p22778
 sg12154
-(lp21605
-g6187
+(lp22779
+g6192
 asg12156
-(lp21606
+(lp22780
+g6187
+asg12158
+(lp22781
 S'Interviews'
-p21607
+p22782
 aS'Meetings'
-p21608
+p22783
 assg393
-(dp21609
+(dp22784
 g12148
 S'1971'
-p21610
+p22785
 sg12150
 S'Sinclair, John and Leni'
-p21611
-sg11
-g396
+p22786
 sg12152
 S'6/24/2013'
-p21612
+p22787
 sg12154
-(lp21613
+(lp22788
+g396
+asg12156
+(lp22789
 g391
 ag73
 ag67
-asg12156
-(lp21614
+asg12158
+(lp22790
 S'Musical performances'
-p21615
+p22791
 aS'Meetings'
-p21616
+p22792
 aS'Musical performances'
-p21617
+p22793
 aS'Meetings'
-p21618
+p22794
 aS'Musical performances'
-p21619
+p22795
 aS'Meetings'
-p21620
+p22796
 assg5793
-(dp21621
+(dp22797
 g12148
 S'1971 October 28'
-p21622
+p22798
 sg12150
 S'Sinclair, John and Leni'
-p21623
-sg11
-g5796
+p22799
 sg12152
 S'6/24/2013'
-p21624
+p22800
 sg12154
-(lp21625
+(lp22801
+g5796
+asg12156
+(lp22802
 g5791
 ag5779
 ag5785
 ag5767
 ag11743
 ag11749
-asg12156
-(lp21626
+asg12158
+(lp22803
 S'Meetings'
-p21627
+p22804
 aS'Meetings'
-p21628
+p22805
 aS'Meetings'
-p21629
+p22806
 aS'Meetings'
-p21630
+p22807
 aS'Meetings'
-p21631
+p22808
 aS'Meetings'
-p21632
+p22809
 assg5727
-(dp21633
+(dp22810
 g12148
 S'1972 January 26'
-p21634
+p22811
 sg12150
 S'Sinclair, John and Leni'
-p21635
-sg11
-g5730
+p22812
 sg12152
 S'6/24/2013'
-p21636
+p22813
 sg12154
-(lp21637
+(lp22814
+g5730
+asg12156
+(lp22815
 g5725
 ag5737
 ag5731
-asg12156
-(lp21638
+asg12158
+(lp22816
 S'Meetings'
-p21639
+p22817
 aS'Meetings'
-p21640
+p22818
 aS'Meetings'
-p21641
+p22819
 assg2907
-(dp21642
+(dp22820
 g12148
 S'1972 January 29'
-p21643
+p22821
 sg12150
 S'Sinclair, John and Leni'
-p21644
-sg11
-g2910
+p22822
 sg12152
 S'6/24/2013'
-p21645
+p22823
 sg12154
-(lp21646
+(lp22824
+g2910
+asg12156
+(lp22825
 g2905
 ag2911
 ag2917
 ag2923
-asg12156
-(lp21647
+asg12158
+(lp22826
 S'Meetings'
-p21648
-aS'Meetings'
-p21649
-aS'Meetings'
-p21650
-aS'Meetings'
-p21651
-assg147
-(dp21652
-g12148
-S'[Undated]'
-p21653
-sg12150
-S'Crane, Henry Hitt'
-p21654
-sg11
-g150
-sg12152
-S'6/24/2013'
-p21655
-sg12154
-(lp21656
-g145
-asg12156
-(lp21657
-S'Sermons'
-p21658
-assg4077
-(dp21659
-g12148
-S'1954 December 29'
-p21660
-sg12150
-S'Schimpke, Albert J.'
-p21661
-sg11
-g4080
-sg12152
-S'11/01/2013'
-p21662
-sg12154
-(lp21663
-g4075
-ag4081
-asg12156
-(lp21664
-S'Oral Histories'
-p21665
-aS'Oral Histories'
-p21666
-assg6111
-(dp21667
-g12148
-S'1977 March 22'
-p21668
-sg12150
-S'University of Michigan. Alumni Association.'
-p21669
-sg11
-g6114
-sg12152
-S'11/01/2013'
-p21670
-sg12154
-(lp21671
-g6109
-ag6115
-asg12156
-(lp21672
-S'Musical performances'
-p21673
-aS'Musical performances'
-p21674
-assg3885
-(dp21675
-g12148
-S'1975 April'
-p21676
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21677
-sg11
-g3888
-sg12152
-S'11/01/2013'
-p21678
-sg12154
-(lp21679
-g3883
-asg12156
-(lp21680
-S'Musical performances'
-p21681
-assg1185
-(dp21682
-g12148
-S'1975 April 12'
-p21683
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21684
-sg11
-g1188
-sg12152
-S'11/01/2013'
-p21685
-sg12154
-(lp21686
-g1183
-asg12156
-(lp21687
-S'Musical performances'
-p21688
-assg291
-(dp21689
-g12148
-S'1960 May 15'
-p21690
-sg12150
-S'Blanshard, Paul'
-p21691
-sg11
-g294
-sg12152
-S'11/01/2013'
-p21692
-sg12154
-(lp21693
-g289
-asg12156
-(lp21694
-S'Radio programs'
-p21695
-assg6411
-(dp21696
-g12148
-S'1971 October 29'
-p21697
-sg12150
-S'University of Michigan. Museum of Art.'
-p21698
-sg11
-g6414
-sg12152
-S'11/01/2013'
-p21699
-sg12154
-(lp21700
-g6409
-asg12156
-(lp21701
-S'Panel discussions'
-p21702
-assg10383
-(dp21703
-g12148
-S'1976 March 26'
-p21704
-sg12150
-S'University of Michigan. Museum of Art.'
-p21705
-sg11
-g10386
-sg12152
-S'11/01/2013'
-p21706
-sg12154
-(lp21707
-g10381
-ag1201
-asg12156
-(lp21708
-S'Panel discussions'
-p21709
-aS'Panel discussions'
-p21710
-assg6999
-(dp21711
-g12148
-S'1976 December 10'
-p21712
-sg12150
-S'Hart, Philip A.'
-p21713
-sg11
-g7002
-sg12152
-S'11/01/2013'
-p21714
-sg12154
-(lp21715
-g6997
-ag7003
-asg12156
-(lp21716
-S'Dedications (ceremonies)'
-p21717
-aS'Dedications (ceremonies)'
-p21718
-assg10233
-(dp21719
-g12148
-S'[Undated]'
-p21720
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21721
-sg11
-g10236
-sg12152
-S'11/01/2013'
-p21722
-sg12154
-(lp21723
-g10231
-asg12156
-(lp21724
-S'Musical performances'
-p21725
-assg10503
-(dp21726
-g12148
-S'1951 March 04'
-p21727
-sg12150
-S'Cushing, George'
-p21728
-sg11
-g10506
-sg12152
-S'2/25/2015'
-p21729
-sg12154
-(lp21730
-g10501
-asg12156
-(lp21731
-S'Radio programs'
-p21732
-aS'Talk shows'
-p21733
-assg4497
-(dp21734
-g12148
-S'1953 April 09'
-p21735
-sg12150
-S'Hoffman, Clare E.'
-p21736
-sg11
-g4500
-sg12152
-S'6/05/2014'
-p21737
-sg12154
-(lp21738
-g4495
-asg12156
-(lp21739
-S'Interviews'
-p21740
-assg10509
-(dp21741
-g12148
-S'1953 April 10'
-p21742
-sg12150
-S'Hoffman, Clare E.'
-p21743
-sg11
-g10512
-sg12152
-S'6/05/2014'
-p21744
-sg12154
-(lp21745
-g10507
-asg12156
-(lp21746
-g12532
-assg1005
-(dp21747
-g12148
-S'1953 April'
-p21748
-sg12150
-S'Hoffman, Clare E.'
-p21749
-sg11
-g1008
-sg12152
-S'6/05/2014'
-p21750
-sg12154
-(lp21751
-g1003
-asg12156
-(lp21752
-g12532
-assg999
-(dp21753
-g12148
-S'1964 May 08'
-p21754
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21755
-sg11
-g1002
-sg12152
-S'6/24/2013'
-p21756
-sg12154
-(lp21757
-g997
-asg12156
-(lp21758
-S'Addresses'
-p21759
-aS'Radio programs'
-p21760
-aS'Dedications (ceremonies)'
-p21761
-assg7689
-(dp21762
-g12148
-S'1961 September 27'
-p21763
-sg12150
-S'Hoffman, Clare E.'
-p21764
-sg11
-g7692
-sg12152
-S'6/05/2014'
-p21765
-sg12154
-(lp21766
-g7687
-asg12156
-(lp21767
-S'Radio programs'
-p21768
-assg1449
-(dp21769
-g12148
-S'1961 September 27'
-p21770
-sg12150
-S'Hoffman, Clare E.'
-p21771
-sg11
-g1452
-sg12152
-S'6/05/2014'
-p21772
-sg12154
-(lp21773
-g1447
-asg12156
-(lp21774
-S'Radio programs'
-p21775
-assg4167
-(dp21776
-g12148
-S'1961 August 24'
-p21777
-sg12150
-S'Hoffman, Clare E.'
-p21778
-sg11
-g4170
-sg12152
-S'6/05/2014'
-p21779
-sg12154
-(lp21780
-g4165
-asg12156
-(lp21781
-S'Radio programs'
-p21782
-assg10419
-(dp21783
-g12148
-S'1987 April 11'
-p21784
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21785
-sg11
-g10422
-sg12152
-S'11/01/2013'
-p21786
-sg12154
-(lp21787
-g10417
-asg12156
-(lp21788
-S'Musical performances'
-p21789
-assg4407
-(dp21790
-g12148
-S'1987 April 11'
-p21791
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21792
-sg11
-g4410
-sg12152
-S'11/01/2013'
-p21793
-sg12154
-(lp21794
-g4405
-asg12156
-(lp21795
-S'Musical performances'
-p21796
-assg4749
-(dp21797
-g12148
-S'1962 April 30'
-p21798
-sg12150
-S'Romney, George'
-p21799
-sg11
-g4752
-sg12152
-S'6/05/2014'
-p21800
-sg12154
-(lp21801
-g4747
-asg12156
-(lp21802
-S'Addresses'
-p21803
-assg11661
-(dp21804
-g12148
-S'1963 January 08'
-p21805
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21806
-sg11
-g11664
-sg12152
-S'6/24/2013'
-p21807
-sg12154
-(lp21808
-g11659
-asg12156
-(lp21809
-S'Lectures'
-p21810
-aS'Radio programs'
-p21811
-aS'Poetry readings'
-p21812
-assg3951
-(dp21813
-g12148
-S'1969 October 15'
-p21814
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21815
-sg11
-g3954
-sg12152
-S'6/24/2013'
-p21816
-sg12154
-(lp21817
-g3949
-ag3943
-asg12156
-(lp21818
-S'Addresses'
-p21819
-aS'Musical performances'
-p21820
-aS'Radio programs'
-p21821
-aS'Poetry readings'
-p21822
-aS'Addresses'
-p21823
-aS'Musical performances'
-p21824
-aS'Radio programs'
-p21825
-aS'Poetry readings'
-p21826
-assg5691
-(dp21827
-g12148
-S'1968 January 10'
-p21828
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21829
-sg11
-g5694
-sg12152
-S'11/01/2013'
-p21830
-sg12154
-(lp21831
-g5689
-asg12156
-(lp21832
-S'Musical performances'
-p21833
-assg8289
-(dp21834
-g12148
-S'1978 November 18'
-p21835
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21836
-sg11
-g8292
-sg12152
-S'11/01/2013'
-p21837
-sg12154
-(lp21838
-g8287
-ag313
-asg12156
-(lp21839
-S'Musical performances'
-p21840
-aS'Musical performances'
-p21841
-assg6675
-(dp21842
-g12148
-S'1978 November 18'
-p21843
-sg12150
-S"University of Michigan. Men's Glee Club"
-p21844
-sg11
-g6678
-sg12152
-S'11/01/2013'
-p21845
-sg12154
-(lp21846
-g6673
-ag3907
-asg12156
-(lp21847
-S'Musical performances'
-p21848
-aS'Musical performances'
-p21849
-assg8037
-(dp21850
-g12148
-S'1971 December 24'
-p21851
-sg12150
-S'Canterbury House (Ann Arbor, Mich.)'
-p21852
-sg11
-g8040
-sg12152
-S'6/05/2014'
-p21853
-sg12154
-(lp21854
-g8035
-asg12156
-(lp21855
-S'Musical performances'
-p21856
-assg5385
-(dp21857
-g12148
-S'1966 August 29'
-p21858
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p21859
-sg11
-g5388
-sg12152
-S'6/24/2013'
-p21860
-sg12154
-(lp21861
-g5383
-asg12156
-(lp21862
-S'Addresses'
-p21863
-aS'Radio programs'
-p21864
-assg2715
-(dp21865
-g12148
-S'1966 May 03'
-p21866
-sg12150
-S'Romney, George'
-p21867
-sg11
-g2718
-sg12152
-S'6/05/2014'
-p21868
-sg12154
-(lp21869
-g2713
-asg12156
-(lp21870
-S'Conferences'
-p21871
-assg5433
-(dp21872
-g12148
-S'1966 May 03'
-p21873
-sg12150
-S'Romney, George'
-p21874
-sg11
-g5436
-sg12152
-S'6/05/2014'
-p21875
-sg12154
-(lp21876
-g5431
-asg12156
-(lp21877
-S'Conferences'
-p21878
-assg11451
-(dp21879
-g12148
-S'1966 May 03'
-p21880
-sg12150
-S'Romney, George'
-p21881
-sg11
-g11454
-sg12152
-S'6/05/2014'
-p21882
-sg12154
-(lp21883
-g11449
-asg12156
-(lp21884
-S'Conferences'
-p21885
-assg9015
-(dp21886
-g12148
-S'1966 May 03'
-p21887
-sg12150
-S'Romney, George'
-p21888
-sg11
-g9018
-sg12152
-S'6/05/2014'
-p21889
-sg12154
-(lp21890
-g9013
-asg12156
-(lp21891
-S'Conferences'
-p21892
-assg2553
-(dp21893
-g12148
-S'1966 October 16'
-p21894
-sg12150
-S'Romney, George'
-p21895
-sg11
-g2556
-sg12152
-S'6/05/2014'
-p21896
-sg12154
-(lp21897
-g2551
-ag2557
-asg12156
-(lp21898
-S'Interviews'
-p21899
-aS'Television'
-p21900
-aS'Interviews'
-p21901
-aS'Television'
-p21902
-assg11991
-(dp21903
-g12148
-S'1957 September 04, October 22'
-p21904
-sg12150
-S'Schimpke, Albert J.'
-p21905
-sg11
-g11994
-sg12152
-S'11/01/2013'
-p21906
-sg12154
-(lp21907
-g11989
-ag11995
-asg12156
-(lp21908
-S'Oral Histories'
-p21909
-aS'Oral Histories'
-p21910
-assg6225
-(dp21911
-g12148
-S'1954 October 25'
-p21912
-sg12150
-S'Schimpke, Albert J.'
-p21913
-sg11
-g6228
-sg12152
-S'11/01/2013'
-p21914
-sg12154
-(lp21915
-g6223
-ag6229
-asg12156
-(lp21916
-S'Oral Histories'
-p21917
-aS'Oral Histories'
-p21918
-assg129
-(dp21919
-g12148
-S'1956 August 28'
-p21920
-sg12150
-S'Schimpke, Albert J.'
-p21921
-sg11
-g132
-sg12152
-S'11/01/2013'
-p21922
-sg12154
-(lp21923
-g127
-ag121
-asg12156
-(lp21924
-S'Oral Histories'
-p21925
-aS'Interviews'
-p21926
-aS'Oral Histories'
-p21927
-aS'Interviews'
-p21928
-assg2775
-(dp21929
-g12148
-S'1956 November 07'
-p21930
-sg12150
-S'Schimpke, Albert J.'
-p21931
-sg11
-g2778
-sg12152
-S'11/01/2013'
-p21932
-sg12154
-(lp21933
-g2773
-ag2767
-asg12156
-(lp21934
-S'Oral Histories'
-p21935
-aS'Interviews'
-p21936
-aS'Oral Histories'
-p21937
-aS'Interviews'
-p21938
-assg12051
-(dp21939
-g12148
-S'1955 November 11'
-p21940
-sg12150
-S'Schimpke, Albert J.'
-p21941
-sg11
-g12054
-sg12152
-S'11/01/2013'
-p21942
-sg12154
-(lp21943
-g12049
-ag12055
-asg12156
-(lp21944
-S'Oral Histories'
-p21945
-aS'Interviews'
-p21946
-aS'Oral Histories'
-p21947
-aS'Interviews'
-p21948
-assg9423
-(dp21949
-g12148
-S'1956 August 28'
-p21950
-sg12150
-S'Schimpke, Albert J.'
-p21951
-sg11
-g9426
-sg12152
-S'11/01/2013'
-p21952
-sg12154
-(lp21953
-g9421
-ag9427
-asg12156
-(lp21954
-S'Oral Histories'
-p21955
-aS'Interviews'
-p21956
-aS'Oral Histories'
-p21957
-aS'Interviews'
-p21958
-assg3231
-(dp21959
-g12148
-S'1956 November 09, 13'
-p21960
-sg12150
-S'Schimpke, Albert J.'
-p21961
-sg11
-g3234
-sg12152
-S'11/01/2013'
-p21962
-sg12154
-(lp21963
-g3229
-ag3223
-asg12156
-(lp21964
-S'Oral Histories'
-p21965
-aS'Interviews'
-p21966
-aS'Oral Histories'
-p21967
-aS'Interviews'
-p21968
-assg6015
-(dp21969
-g12148
-S'1956 September, October 26'
-p21970
-sg12150
-S'Schimpke, Albert J.'
-p21971
-sg11
-g6018
-sg12152
-S'11/01/2013'
-p21972
-sg12154
-(lp21973
-g6013
-ag6007
-asg12156
-(lp21974
-S'Oral Histories'
-p21975
-aS'Interviews'
-p21976
-aS'Oral Histories'
-p21977
-aS'Interviews'
-p21978
-assg2763
-(dp21979
-g12148
-S'1956 October 10'
-p21980
-sg12150
-S'Schimpke, Albert J.'
-p21981
-sg11
-g2766
-sg12152
-S'11/01/2013'
-p21982
-sg12154
-(lp21983
-g2761
-ag2755
-asg12156
-(lp21984
-S'Oral Histories'
-p21985
-aS'Oral Histories'
-p21986
-assg8475
-(dp21987
-g12148
-S'1957 February 05'
-p21988
-sg12150
-S'Schimpke, Albert J.'
-p21989
-sg11
-g8478
-sg12152
-S'11/01/2013'
-p21990
-sg12154
-(lp21991
-g8473
-asg12156
-(lp21992
-S'Oral Histories'
-p21993
-assg45
-(dp21994
-g12148
-S'1958 April 12'
-p21995
-sg12150
-S'Williams, G. Mennen'
-p21996
-sg11
-g48
-sg12152
-S'11/01/2013'
-p21997
-sg12154
-(lp21998
-g43
-asg12156
-(lp21999
-S'Dialogues'
-p22000
-assg11181
-(dp22001
-g12148
-S'1958 April 12'
-p22002
-sg12150
-S'Williams, G. Mennen'
-p22003
-sg11
-g11184
-sg12152
-S'11/01/2013'
-p22004
-sg12154
-(lp22005
-g11179
-ag11185
-asg12156
-(lp22006
-S'Addresses'
-p22007
-aS'Dialogues'
-p22008
-aS'Addresses'
-p22009
-aS'Dialogues'
-p22010
-assg10959
-(dp22011
-g12148
-S'1958 April 12'
-p22012
-sg12150
-S'Williams, G. Mennen'
-p22013
-sg11
-g10962
-sg12152
-S'11/01/2013'
-p22014
-sg12154
-(lp22015
-g10957
-ag10951
-asg12156
-(lp22016
-S'Addresses'
-p22017
-aS'Dialogues'
-p22018
-aS'Addresses'
-p22019
-aS'Dialogues'
-p22020
-assg6255
-(dp22021
-g12148
-S'1958 April 12'
-p22022
-sg12150
-S'Williams, G. Mennen'
-p22023
-sg11
-g6258
-sg12152
-S'11/01/2013'
-p22024
-sg12154
-(lp22025
-g6253
-ag6259
-asg12156
-(lp22026
-S'Addresses'
-p22027
-aS'Dialogues'
-p22028
-aS'Addresses'
-p22029
-aS'Dialogues'
-p22030
-assg6099
-(dp22031
-g12148
-S'1958 April 12'
-p22032
-sg12150
-S'Williams, G. Mennen'
-p22033
-sg11
-g6102
-sg12152
-S'11/01/2013'
-p22034
-sg12154
-(lp22035
-g6097
-ag6091
-asg12156
-(lp22036
-S'Addresses'
-p22037
-aS'Addresses'
-p22038
-assg6183
-(dp22039
-g12148
-S'1958 April 12'
-p22040
-sg12150
-S'Williams, G. Mennen'
-p22041
-sg11
-g6186
-sg12152
-S'11/01/2013'
-p22042
-sg12154
-(lp22043
-g6181
-asg12156
-(lp22044
-g12532
-assg3273
-(dp22045
-g12148
-S'1976 January 15'
-p22046
-sg12150
-S'Michigan Organization for Human Rights'
-p22047
-sg11
-g3276
-sg12152
-S'6/05/2014'
-p22048
-sg12154
-(lp22049
-g3271
-asg12156
-(lp22050
-S'Radio programs'
-p22051
-assg543
-(dp22052
-g12148
-S'1975 February 18'
-p22053
-sg12150
-S'Michigan Organization for Human Rights'
-p22054
-sg11
-g546
-sg12152
-S'6/05/2014'
-p22055
-sg12154
-(lp22056
-g541
-asg12156
-(lp22057
-S'Radio programs'
-p22058
-assg6627
-(dp22059
-g12148
-S'1976 February 12'
-p22060
-sg12150
-S'Michigan Organization for Human Rights'
-p22061
-sg11
-g6630
-sg12152
-S'6/05/2014'
-p22062
-sg12154
-(lp22063
-g6625
-asg12156
-(lp22064
-S'Radio programs'
-p22065
-assg9465
-(dp22066
-g12148
-S'1976 January 29'
-p22067
-sg12150
-S'Michigan Organization for Human Rights'
-p22068
-sg11
-g9468
-sg12152
-S'6/05/2014'
-p22069
-sg12154
-(lp22070
-g9463
-asg12156
-(lp22071
-S'Radio programs'
-p22072
-assg6483
-(dp22073
-g12148
-S'1975 October 09'
-p22074
-sg12150
-S'Michigan Organization for Human Rights'
-p22075
-sg11
-g6486
-sg12152
-S'6/05/2014'
-p22076
-sg12154
-(lp22077
-g6481
-asg12156
-(lp22078
-S'Radio programs'
-p22079
-assg3771
-(dp22080
-g12148
-S'1975 May 22'
-p22081
-sg12150
-S'Michigan Organization for Human Rights'
-p22082
-sg11
-g3774
-sg12152
-S'6/05/2014'
-p22083
-sg12154
-(lp22084
-g3769
-asg12156
-(lp22085
-S'Radio programs'
-p22086
-assg9909
-(dp22087
-g12148
-S'1975 December 04'
-p22088
-sg12150
-S'Michigan Organization for Human Rights'
-p22089
-sg11
-g9912
-sg12152
-S'6/05/2014'
-p22090
-sg12154
-(lp22091
-g9907
-asg12156
-(lp22092
-S'Radio programs'
-p22093
-assg9435
-(dp22094
-g12148
-S'1975 November 06'
-p22095
-sg12150
-S'Michigan Organization for Human Rights'
-p22096
-sg11
-g9438
-sg12152
-S'6/05/2014'
-p22097
-sg12154
-(lp22098
-g9433
-asg12156
-(lp22099
-S'Radio programs'
-p22100
-assg9843
-(dp22101
-g12148
-S'1974'
-p22102
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22103
-sg11
-g9846
-sg12152
-S'11/01/2013'
-p22104
-sg12154
-(lp22105
-g9841
-asg12156
-(lp22106
-S'Musical performances'
-p22107
-assg9075
-(dp22108
-g12148
-S'1976 March 11'
-p22109
-sg12150
-S'Michigan Organization for Human Rights'
-p22110
-sg11
-g9078
-sg12152
-S'6/05/2014'
-p22111
-sg12154
-(lp22112
-g9073
-asg12156
-(lp22113
-S'Radio programs'
-p22114
-assg801
-(dp22115
-g12148
-S'1976 February 26'
-p22116
-sg12150
-S'Michigan Organization for Human Rights'
-p22117
-sg11
-g804
-sg12152
-S'6/05/2014'
-p22118
-sg12154
-(lp22119
-g799
-asg12156
-(lp22120
-S'Radio programs'
-p22121
-assg7023
-(dp22122
-g12148
-S'1962 March 17'
-p22123
-sg12150
-S'Post family'
-p22124
-sg11
-g7026
-sg12152
-S'6/05/2014'
-p22125
-sg12154
-(lp22126
-g7021
-asg12156
-(lp22127
-S'Interviews'
-p22128
-assg5553
-(dp22129
-g12148
-S'1962 February 19'
-p22130
-sg12150
-S'Post family'
-p22131
-sg11
-g5556
-sg12152
-S'6/05/2014'
-p22132
-sg12154
-(lp22133
-g5551
-ag5557
-asg12156
-(lp22134
-S'Interviews'
-p22135
-aS'Interviews'
-p22136
-assg3579
-(dp22137
-g12148
-S'1957 September 17'
-p22138
-sg12150
-S'Post family'
-p22139
-sg11
-g3582
-sg12152
-S'6/05/2014'
-p22140
-sg12154
-(lp22141
-g3577
-asg12156
-(lp22142
-S'Dedications (ceremonies)'
-p22143
-assg7119
-(dp22144
-g12148
-S'1976 September 26, 1976 December 02'
-p22145
-sg12150
-S'Hart, Philip A.'
-p22146
-sg11
-g7122
-sg12152
-S'11/01/2013'
-p22147
-sg12154
-(lp22148
-g7117
-asg12156
-(lp22149
-S'Addresses'
-p22150
-aS'Interviews'
-p22151
-aS'Television'
-p22152
-assg10173
-(dp22153
-g12148
-S'[Undated]'
-p22154
-sg12150
-S'Post family'
-p22155
-sg11
-g10176
-sg12152
-S'6/05/2014'
-p22156
-sg12154
-(lp22157
-g10171
-asg12156
-(lp22158
-S'Interviews'
-p22159
-assg687
-(dp22160
-g12148
-S'1965 August'
-p22161
-sg12150
-S'Post family'
-p22162
-sg11
-g690
-sg12152
-S'6/05/2014'
-p22163
-sg12154
-(lp22164
-g685
-asg12156
-(lp22165
-S'Interviews'
-p22166
-assg6729
-(dp22167
-g12148
-S'1965 March'
-p22168
-sg12150
-S'Post family'
-p22169
-sg11
-g6732
-sg12152
-S'6/05/2014'
-p22170
-sg12154
-(lp22171
-g6727
-asg12156
-(lp22172
-S'Interviews'
-p22173
-assg11955
-(dp22174
-g12148
-S'1965 February'
-p22175
-sg12150
-S'Post family'
-p22176
-sg11
-g11958
-sg12152
-S'6/05/2014'
-p22177
-sg12154
-(lp22178
-g11953
-ag11941
-asg12156
-(lp22179
-S'Interviews'
-p22180
-aS'Interviews'
-p22181
-assg4689
-(dp22182
-g12148
-S'1951 June 03'
-p22183
-sg12150
-S'Cushing, George'
-p22184
-sg11
-g4692
-sg12152
-S'2/25/2015'
-p22185
-sg12154
-(lp22186
-g4687
-asg12156
-(lp22187
-S'Radio programs'
-p22188
-aS'Talk shows'
-p22189
-assg6405
-(dp22190
-g12148
-S'[Undated]'
-p22191
-sg12150
-S'Post family'
-p22192
-sg11
-g6408
-sg12152
-S'6/05/2014'
-p22193
-sg12154
-(lp22194
-g6403
-asg12156
-(lp22195
-S'Interviews'
-p22196
-assg3693
-(dp22197
-g12148
-S'[Undated]'
-p22198
-sg12150
-S'Post family'
-p22199
-sg11
-g3696
-sg12152
-S'6/05/2014'
-p22200
-sg12154
-(lp22201
-g3691
-asg12156
-(lp22202
-S'Interviews'
-p22203
-assg4377
-(dp22204
-g12148
-S'1972 March 25'
-p22205
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22206
-sg11
-g4380
-sg12152
-S'11/01/2013'
-p22207
-sg12154
-(lp22208
-g4375
-ag4381
-asg12156
-(lp22209
-S'Musical performances'
-p22210
-aS'Musical performances'
-p22211
-assg1689
-(dp22212
-g12148
-S'[Undated]'
-p22213
-sg12150
-S'Michigan Memorial Phoenix Project'
-p22214
-sg11
-g1692
-sg12152
-S'11/01/2013'
-p22215
-sg12154
-(lp22216
-g1687
-asg12156
-(lp22217
-S'Radio programs'
-p22218
-assg7149
-(dp22219
-g12148
-S'1976 November 13'
-p22220
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22221
-sg11
-g7152
-sg12152
-S'11/01/2013'
-p22222
-sg12154
-(lp22223
-g7147
-ag7159
-asg12156
-(lp22224
-S'Musical performances'
-p22225
-aS'Musical performances'
-p22226
-assg6951
-(dp22227
-g12148
-S'1976 November 13'
-p22228
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22229
-sg11
-g6954
-sg12152
-S'11/01/2013'
-p22230
-sg12154
-(lp22231
-g6949
-asg12156
-(lp22232
-S'Musical performances'
-p22233
-assg9915
-(dp22234
-g12148
-S'1953 November 21'
-p22235
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22236
-sg11
-g9918
-sg12152
-S'11/01/2013'
-p22237
-sg12154
-(lp22238
-g9913
-asg12156
-(lp22239
-S'Musical performances'
-p22240
-assg4125
-(dp22241
-g12148
-S'1961 January 12'
-p22242
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22243
-sg11
-g4128
-sg12152
-S'6/24/2013'
-p22244
-sg12154
-(lp22245
-g4123
-asg12156
-(lp22246
-S'Addresses'
-p22247
-aS'Radio programs'
-p22248
-aS'Dedications (ceremonies)'
-p22249
-aS'Luncheons'
-p22250
-assg11835
-(dp22251
-g12148
-S'1967 October 02'
-p22252
-sg12150
-S'Romney, George'
-p22253
-sg11
-g11838
-sg12152
-S'6/05/2014'
-p22254
-sg12154
-(lp22255
-g11833
-ag12079
-ag10483
-asg12156
-(lp22256
-S'Meetings'
-p22257
-aS'Meetings'
-p22258
-aS'Meetings'
-p22259
-assg10461
-(dp22260
-g12148
-S'[Undated]'
-p22261
-sg12150
-S'Guild House (Ann Arbor, Mich.)'
-p22262
-sg11
-g10464
-sg12152
-S'6/05/2014'
-p22263
-sg12154
-(lp22264
-g10459
-asg12156
-(lp22265
-S'Conferences'
-p22266
-assg10689
-(dp22267
-g12148
-S'1976 July 01'
-p22268
-sg12150
-S'Hart, Philip A.'
-p22269
-sg11
-g10692
-sg12152
-S'11/01/2013'
-p22270
-sg12154
-(lp22271
-g10687
-asg12156
-(lp22272
-S'Press conferences'
-p22273
-assg11079
-(dp22274
-g12148
-S'1956 June 14'
-p22275
-sg12150
-S'Brucker, Wilber Marion'
-p22276
-sg11
-g11082
-sg12152
-S'11/01/2013'
-p22277
-sg12154
-(lp22278
-g11077
-asg12156
-(lp22279
-S'Dictation recordings'
-p22280
-aS'Reports'
-p22281
-assg8607
-(dp22282
-g12148
-S'1956 June 14'
-p22283
-sg12150
-S'Brucker, Wilber Marion'
-p22284
-sg11
-g8610
-sg12152
-S'11/01/2013'
-p22285
-sg12154
-(lp22286
-g8605
-asg12156
-(lp22287
-S'Dictation recordings'
-p22288
-aS'Reports'
-p22289
-assg2577
-(dp22290
-g12148
-S'1962 May 12'
-p22291
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22292
-sg11
-g2580
-sg12152
-S'11/01/2013'
-p22293
-sg12154
-(lp22294
-g2575
-asg12156
-(lp22295
-S'Musical performances'
-p22296
-assg8895
-(dp22297
-g12148
-S'1950'
-p22298
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22299
-sg11
-g8898
-sg12152
-S'6/24/2013'
-p22300
-sg12154
-(lp22301
-g8893
-asg12156
-(lp22302
-S'Interviews'
-p22303
-aS'Radio programs'
-p22304
-aS'Panel discussions'
-p22305
-aS'Talk shows'
-p22306
-assg5097
-(dp22307
-g12148
-S'1956 July 14'
-p22308
-sg12150
-S'Brucker, Wilber Marion'
-p22309
-sg11
-g5100
-sg12152
-S'11/01/2013'
-p22310
-sg12154
-(lp22311
-g5095
-asg12156
-(lp22312
-S'Addresses'
-p22313
-aS'Meetings'
-p22314
-aS'Dinners'
-p22315
-assg5931
-(dp22316
-g12148
-S'1954 July 18'
-p22317
-sg12150
-S'Cushing, George'
-p22318
-sg11
-g5934
-sg12152
-S'2/25/2015'
-p22319
-sg12154
-(lp22320
-g5929
-asg12156
-(lp22321
-S'Radio programs'
-p22322
-aS'Talk shows'
-p22323
-assg8715
-(dp22324
-g12148
-S'1977 April 02'
-p22325
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22326
-sg11
-g8718
-sg12152
-S'11/01/2013'
-p22327
-sg12154
-(lp22328
-g8713
-asg12156
-(lp22329
-S'Musical performances'
-p22330
-assg2487
-(dp22331
-g12148
-S'1977 April 02'
-p22332
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22333
-sg11
-g2490
-sg12152
-S'11/01/2013'
-p22334
-sg12154
-(lp22335
-g2485
-asg12156
-(lp22336
-S'Musical performances'
-p22337
-assg7743
-(dp22338
-g12148
-S'1954 May 16'
-p22339
-sg12150
-S'Cushing, George'
-p22340
-sg11
-g7746
-sg12152
-S'2/25/2015'
-p22341
-sg12154
-(lp22342
-g7741
-asg12156
-(lp22343
-S'Radio programs'
-p22344
-aS'Talk shows'
-p22345
-assg8103
-(dp22346
-g12148
-S'1954 April 09'
-p22347
-sg12150
-S'Cushing, George'
-p22348
-sg11
-g8106
-sg12152
-S'2/25/2015'
-p22349
-sg12154
-(lp22350
-g8101
-asg12156
-(lp22351
-S'Radio programs'
-p22352
-aS'Talk shows'
-p22353
-assg11409
-(dp22354
-g12148
-S'1954 May 23'
-p22355
-sg12150
-S'Cushing, George'
-p22356
-sg11
-g11412
-sg12152
-S'2/25/2015'
-p22357
-sg12154
-(lp22358
-g11407
-asg12156
-(lp22359
-S'Radio programs'
-p22360
-aS'Talk shows'
-p22361
-assg9105
-(dp22362
-g12148
-S'1954 May 23'
-p22363
-sg12150
-S'Cushing, George'
-p22364
-sg11
-g9108
-sg12152
-S'2/25/2015'
-p22365
-sg12154
-(lp22366
-g9103
-asg12156
-(lp22367
-S'Radio programs'
-p22368
-aS'Talk shows'
-p22369
-assg5571
-(dp22370
-g12148
-S'1954 June 06'
-p22371
-sg12150
-S'Cushing, George'
-p22372
-sg11
-g5574
-sg12152
-S'2/25/2015'
-p22373
-sg12154
-(lp22374
-g5569
-asg12156
-(lp22375
-S'Radio programs'
-p22376
-aS'Talk shows'
-p22377
-assg8247
-(dp22378
-g12148
-S'1954 May 30'
-p22379
-sg12150
-S'Cushing, George'
-p22380
-sg11
-g8250
-sg12152
-S'2/25/2015'
-p22381
-sg12154
-(lp22382
-g8245
-asg12156
-(lp22383
-S'Musical performances'
-p22384
-aS'Radio programs'
-p22385
-aS'Talk shows'
-p22386
-assg1797
-(dp22387
-g12148
-S'1954 July 04'
-p22388
-sg12150
-S'Cushing, George'
-p22389
-sg11
-g1800
-sg12152
-S'2/25/2015'
-p22390
-sg12154
-(lp22391
-g1795
-asg12156
-(lp22392
-S'Radio programs'
-p22393
-aS'Talk shows'
-p22394
-assg8841
-(dp22395
-g12148
-S'1954 June 27'
-p22396
-sg12150
-S'Cushing, George'
-p22397
-sg11
-g8844
-sg12152
-S'2/25/2015'
-p22398
-sg12154
-(lp22399
-g8839
-asg12156
-(lp22400
-S'Radio programs'
-p22401
-aS'Talk shows'
-p22402
-assg1437
-(dp22403
-g12148
-S'1955 June 26'
-p22404
-sg12150
-S'Cushing, George'
-p22405
-sg11
-g1440
-sg12152
-S'2/25/2015'
-p22406
-sg12154
-(lp22407
-g1435
-asg12156
-(lp22408
-S'Radio programs'
-p22409
-aS'Talk shows'
-p22410
-assg3435
-(dp22411
-g12148
-S'1963 May 18'
-p22412
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22413
-sg11
-g3438
-sg12152
-S'11/01/2013'
-p22414
-sg12154
-(lp22415
-g3433
-asg12156
-(lp22416
-S'Musical performances'
-p22417
-assg6939
-(dp22418
-g12148
-S'1961 June 17'
-p22419
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22420
-sg11
-g6942
-sg12152
-S'6/24/2013'
-p22421
-sg12154
-(lp22422
-g6937
-ag6931
-asg12156
-(lp22423
-S'Addresses'
-p22424
-aS'Radio programs'
-p22425
-aS'Addresses'
-p22426
-aS'Radio programs'
-p22427
-assg3129
-(dp22428
-g12148
-S'1963 May 18'
-p22429
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22430
-sg11
-g3132
-sg12152
-S'11/01/2013'
-p22431
-sg12154
-(lp22432
-g3127
-asg12156
-(lp22433
-S'Musical performances'
-p22434
-assg519
-(dp22435
-g12148
-S'1962 January 03'
-p22436
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22437
-sg11
-g522
-sg12152
-S'6/24/2013'
-p22438
-sg12154
-(lp22439
-g517
-asg12156
-(lp22440
-S'Interviews'
-p22441
-aS'Radio programs'
-p22442
-aS'Talk shows'
-p22443
-assg1119
-(dp22444
-g12148
-S'1962 April 30'
-p22445
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22446
-sg11
-g1122
-sg12152
-S'6/24/2013'
-p22447
-sg12154
-(lp22448
-g1117
-asg12156
-(lp22449
-S'Interviews'
-p22450
-aS'Radio programs'
-p22451
-aS'Talk shows'
-p22452
-assg10101
-(dp22453
-g12148
-S'1944 December 10'
-p22454
-sg12150
-S'Cushing, George'
-p22455
-sg11
-g10104
-sg12152
-S'2/25/2015'
-p22456
-sg12154
-(lp22457
-g10099
-asg12156
-(lp22458
-S'Radio programs'
-p22459
-aS'Talk shows'
-p22460
-assg597
-(dp22461
-g12148
-S'1944 December 03'
-p22462
-sg12150
-S'Cushing, George'
-p22463
-sg11
-g600
-sg12152
-S'2/25/2015'
-p22464
-sg12154
-(lp22465
-g595
-asg12156
-(lp22466
-S'Radio programs'
-p22467
-aS'Talk shows'
-p22468
-assg591
-(dp22469
-g12148
-S'[Undated]'
-p22470
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22471
-sg11
-g594
-sg12152
-S'6/24/2013'
-p22472
-sg12154
-(lp22473
-g589
-asg12156
-(lp22474
-S'Interviews'
-p22475
-aS'Radio programs'
-p22476
-aS'Talk shows'
-p22477
-assg7083
-(dp22478
-g12148
-S'1961 December 27'
-p22479
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22480
-sg11
-g7086
-sg12152
-S'6/24/2013'
-p22481
-sg12154
-(lp22482
-g7081
-asg12156
-(lp22483
-S'Interviews'
-p22484
-aS'Radio programs'
-p22485
-aS'Talk shows'
-p22486
-assg4011
-(dp22487
-g12148
-S'1963 November 12'
-p22488
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22489
-sg11
-g4014
-sg12152
-S'6/24/2013'
-p22490
-sg12154
-(lp22491
-g4009
-asg12156
-(lp22492
-S'Interviews'
-p22493
-aS'Radio programs'
-p22494
-aS'Talk shows'
-p22495
-assg6621
-(dp22496
-g12148
-S'1963, 1964'
-p22497
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22498
-sg11
-g6624
-sg12152
-S'6/24/2013'
-p22499
-sg12154
-(lp22500
-g6619
-asg12156
-(lp22501
-S'Interviews'
-p22502
-aS'Radio programs'
-p22503
-aS'Talk shows'
-p22504
-assg6885
-(dp22505
-g12148
-S'1944 December 31'
-p22506
-sg12150
-S'Cushing, George'
-p22507
-sg11
-g6888
-sg12152
-S'2/25/2015'
-p22508
-sg12154
-(lp22509
-g6883
-asg12156
-(lp22510
-S'Radio programs'
-p22511
-aS'Talk shows'
-p22512
-assg4233
-(dp22513
-g12148
-S'1944 December 17'
-p22514
-sg12150
-S'Cushing, George'
-p22515
-sg11
-g4236
-sg12152
-S'2/25/2015'
-p22516
-sg12154
-(lp22517
-g4231
-asg12156
-(lp22518
-S'Radio programs'
-p22519
-aS'Talk shows'
-p22520
-assg10167
-(dp22521
-g12148
-S'1971 March 28'
-p22522
-sg12150
-S'Detroit Urban League'
-p22523
-sg11
-g10170
-sg12152
-S'6/24/2013'
-p22524
-sg12154
-(lp22525
-g10165
-asg12156
-(lp22526
-S'Addresses'
-p22527
-assg1941
-(dp22528
-g12148
-S'1969 June 26'
-p22529
-sg12150
-S'Detroit Urban League'
-p22530
-sg11
-g1944
-sg12152
-S'6/24/2013'
-p22531
-sg12154
-(lp22532
-g1939
-asg12156
-(lp22533
-S'Addresses'
-p22534
-assg1749
-(dp22535
-g12148
-S'1963 October 06, 1963 October 10'
-p22536
-sg12150
-S'Kramer, Arthur W.'
-p22537
-sg11
-g1752
-sg12152
-S'6/05/2014'
-p22538
-sg12154
-(lp22539
-g1747
-ag11143
-asg12156
-(lp22540
-S'Addresses'
-p22541
-aS'Addresses'
-p22542
-assg9837
-(dp22543
-g12148
-S'1980 April 19'
-p22544
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22545
-sg11
-g9840
-sg12152
-S'11/01/2013'
-p22546
-sg12154
-(lp22547
-g9835
-asg12156
-(lp22548
-S'Musical performances'
-p22549
-assg3561
-(dp22550
-g12148
-S'1980 April 19'
-p22551
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22552
-sg11
-g3564
-sg12152
-S'11/01/2013'
-p22553
-sg12154
-(lp22554
-g3559
-asg12156
-(lp22555
-S'Musical performances'
-p22556
-assg1347
-(dp22557
-g12148
-S'[Undated]'
-p22558
-sg12150
-S'Sinclair, John and Leni'
-p22559
-sg11
-g1350
-sg12152
-S'6/24/2013'
-p22560
-sg12154
-(lp22561
-g1345
-asg12156
-(lp22562
-S'Interviews'
-p22563
-assg1167
-(dp22564
-g12148
-S'1971'
-p22565
-sg12150
-S'Sinclair, John and Leni'
-p22566
-sg11
-g1170
-sg12152
-S'6/24/2013'
-p22567
-sg12154
-(lp22568
-g1165
-asg12156
-(lp22569
-S'Interviews'
-p22570
-aS'Radio programs'
-p22571
-aS'Poetry readings'
-p22572
-aS'Talk shows'
-p22573
-assg861
-(dp22574
-g12148
-S'1969 December 31'
-p22575
-sg12150
-S'Sinclair, John and Leni'
-p22576
-sg11
-g864
-sg12152
-S'6/24/2013'
-p22577
-sg12154
-(lp22578
-g859
-asg12156
-(lp22579
-S'Musical performances'
-p22580
-aS'Interviews'
-p22581
-aS'Radio programs'
-p22582
-aS'Talk shows'
-p22583
-assg1503
-(dp22584
-g12148
-S'1969 December 07'
-p22585
-sg12150
-S'Sinclair, John and Leni'
-p22586
-sg11
-g1506
-sg12152
-S'6/24/2013'
-p22587
-sg12154
-(lp22588
-g1501
-asg12156
-(lp22589
-S'Addresses'
-p22590
-aS'Interviews'
-p22591
-assg4287
-(dp22592
-g12148
-S'1970 June 07'
-p22593
-sg12150
-S'Sinclair, John and Leni'
-p22594
-sg11
-g4290
-sg12152
-S'6/24/2013'
-p22595
-sg12154
-(lp22596
-g4285
-asg12156
-(lp22597
-S'Musical performances'
-p22598
-aS'Interviews'
-p22599
-aS'Radio programs'
-p22600
-aS'Talk shows'
-p22601
-assg6945
-(dp22602
-g12148
-S'1969 December 31'
-p22603
-sg12150
-S'Sinclair, John and Leni'
-p22604
-sg11
-g6948
-sg12152
-S'6/24/2013'
-p22605
-sg12154
-(lp22606
-g6943
-asg12156
-(lp22607
-S'Musical performances'
-p22608
-aS'Interviews'
-p22609
-aS'Radio programs'
-p22610
-aS'Talk shows'
-p22611
-assg11577
-(dp22612
-g12148
-S'1971 December 20'
-p22613
-sg12150
-S'Sinclair, John and Leni'
-p22614
-sg11
-g11580
-sg12152
-S'6/24/2013'
-p22615
-sg12154
-(lp22616
-g11575
-ag11581
-asg12156
-(lp22617
-S'Musical performances'
-p22618
-aS'Interviews'
-p22619
-aS'Radio programs'
-p22620
-aS'Poetry readings'
-p22621
-aS'Talk shows'
-p22622
-aS'Musical performances'
-p22623
-aS'Interviews'
-p22624
-aS'Radio programs'
-p22625
-aS'Poetry readings'
-p22626
-aS'Talk shows'
-p22627
-assg8433
-(dp22628
-g12148
-S'1971 December 20'
-p22629
-sg12150
-S'Sinclair, John and Leni'
-p22630
-sg11
-g8436
-sg12152
-S'6/24/2013'
-p22631
-sg12154
-(lp22632
-g8431
-asg12156
-(lp22633
-S'Musical performances'
-p22634
-aS'Interviews'
-p22635
-aS'Radio programs'
-p22636
-aS'Talk shows'
-p22637
-assg4359
-(dp22638
-g12148
-S'1971'
-p22639
-sg12150
-S'Sinclair, John and Leni'
-p22640
-sg11
-g4362
-sg12152
-S'6/24/2013'
-p22641
-sg12154
-(lp22642
-g4357
-asg12156
-(lp22643
-S'Musical performances'
-p22644
-aS'Interviews'
-p22645
-aS'Radio programs'
-p22646
-aS'Talk shows'
-p22647
-assg6987
-(dp22648
-g12148
-S'1971'
-p22649
-sg12150
-S'Sinclair, John and Leni'
-p22650
-sg11
-g6990
-sg12152
-S'6/24/2013'
-p22651
-sg12154
-(lp22652
-g6985
-asg12156
-(lp22653
-S'Dialogues'
-p22654
-assg1611
-(dp22655
-g12148
-S'1949 May 01, 1950 May 07, 1951 May 21, 1951 November 21'
-p22656
-sg12150
-S'Crane, Henry Hitt'
-p22657
-sg11
-g1614
-sg12152
-S'6/24/2013'
-p22658
-sg12154
-(lp22659
-g1609
-ag1615
-ag4327
-asg12156
-(lp22660
-S'Sermons'
-p22661
-aS'Sermons'
-p22662
-aS'Sermons'
-p22663
-assg2019
-(dp22664
-g12148
-S'1978 February 21'
-p22665
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22666
-sg11
-g2022
-sg12152
-S'6/24/2013'
-p22667
-sg12154
-(lp22668
-g2017
-asg12156
-(lp22669
-S'Radio programs'
-p22670
-aS'Poetry readings'
-p22671
-assg3411
-(dp22672
-g12148
-S'1949 September 17, 1950 October 29, [Undated], 1951 Spring'
-p22673
-sg12150
-S'Crane, Henry Hitt'
-p22674
-sg11
-g3414
-sg12152
-S'6/24/2013'
-p22675
-sg12154
-(lp22676
-g3409
-ag4651
-asg12156
-(lp22677
-S'Sermons'
-p22678
-aS'Sermons'
-p22679
-assg7851
-(dp22680
-g12148
-S'1950 February 19, 1952 May 19'
-p22681
-sg12150
-S'Crane, Henry Hitt'
-p22682
-sg11
-g7854
-sg12152
-S'6/24/2013'
-p22683
-sg12154
-(lp22684
-g7849
-ag7843
-asg12156
-(lp22685
-S'Sermons'
-p22686
-aS'Sermons'
-p22687
-assg5307
-(dp22688
-g12148
-S'1963 March 01'
-p22689
-sg12150
-S'Kramer, Arthur W.'
-p22690
-sg11
-g5310
-sg12152
-S'6/05/2014'
-p22691
-sg12154
-(lp22692
-g5305
-ag5293
-asg12156
-(lp22693
-S'Lectures'
-p22694
-aS'Sound tracks'
-p22695
-aS'Radio programs'
-p22696
-aS'Lectures'
-p22697
-aS'Sound tracks'
-p22698
-aS'Radio programs'
-p22699
-assg10413
-(dp22700
-g12148
-S'[Undated]'
-p22701
-sg12150
-S'Historica Critica'
-p22702
-sg11
-g10416
-sg12152
-S'6/05/2014'
-p22703
-sg12154
-(lp22704
-g10411
-asg12156
-(lp22705
-S'Oral Histories'
-p22706
-aS'Interviews'
-p22707
-assg10947
-(dp22708
-g12148
-S'1965, 1979, [Undated]'
-p22709
-sg12150
-S'Albright, William'
-p22710
-sg11
-g10950
-sg12152
-S'11/1/2012'
-p22711
-sg12154
-(lp22712
-g10945
-ag10939
-asg12156
-(lp22713
-S'Musical performances'
-p22714
-aS'Musical performances'
-p22715
-assg1431
-(dp22716
-g12148
-S'1967, 1974, 1977'
-p22717
-sg12150
-S'Albright, William'
-p22718
-sg11
-g1434
-sg12152
-S'11/1/2012'
-p22719
-sg12154
-(lp22720
-g1429
-asg12156
-(lp22721
-S'Musical performances'
-p22722
-assg7701
-(dp22723
-g12148
-S'1981 October 16'
-p22724
-sg12150
-S'Albright, William'
-p22725
-sg11
-g7704
-sg12152
-S'11/1/2012'
-p22726
-sg12154
-(lp22727
-g7699
-asg12156
-(lp22728
-S'Musical performances'
-p22729
-assg4965
-(dp22730
-g12148
-S'[Undated]'
-p22731
-sg12150
-S'Albright, William'
-p22732
-sg11
-g4968
-sg12152
-S'11/1/2012'
-p22733
-sg12154
-(lp22734
-g4963
-asg12156
-(lp22735
-S'Musical performances'
-p22736
-assg1905
-(dp22737
-g12148
-S'1967 November, 1968 March 28'
-p22738
-sg12150
-S'Albright, William'
-p22739
-sg11
-g1908
-sg12152
-S'11/1/2012'
-p22740
-sg12154
-(lp22741
-g1903
-asg12156
-(lp22742
-S'Musical performances'
-p22743
-assg7857
-(dp22744
-g12148
-S'[Undated]'
-p22745
-sg12150
-S'Albright, William'
-p22746
-sg11
-g7860
-sg12152
-S'11/1/2012'
-p22747
-sg12154
-(lp22748
-g7855
-ag7861
-asg12156
-(lp22749
-S'Musical performances'
-p22750
-aS'Musical performances'
-p22751
-assg5139
-(dp22752
-g12148
-S'[Undated]'
-p22753
-sg12150
-S'Albright, William'
-p22754
-sg11
-g5142
-sg12152
-S'11/1/2012'
-p22755
-sg12154
-(lp22756
-g5137
-asg12156
-(lp22757
-S'Musical performances'
-p22758
-assg11121
-(dp22759
-g12148
-S'1979'
-p22760
-sg12150
-S'Albright, William'
-p22761
-sg11
-g11124
-sg12152
-S'11/1/2012'
-p22762
-sg12154
-(lp22763
-g11119
-asg12156
-(lp22764
-S'Musical performances'
-p22765
-assg1455
-(dp22766
-g12148
-S'[Undated]'
-p22767
-sg12150
-S'Albright, William'
-p22768
-sg11
-g1458
-sg12152
-S'11/1/2012'
-p22769
-sg12154
-(lp22770
-g1453
-ag1441
-asg12156
-(lp22771
-S'Musical performances'
-p22772
-aS'Musical performances'
-p22773
-assg5301
-(dp22774
-g12148
-S'1943 March 07'
-p22775
-sg12150
-S'Cushing, George'
-p22776
-sg11
-g5304
-sg12152
-S'2/25/2015'
-p22777
-sg12154
-(lp22778
-g5299
-asg12156
-(lp22779
-S'Radio programs'
-p22780
-aS'Talk shows'
-p22781
-assg7995
-(dp22782
-g12148
-S'1943 March 14'
-p22783
-sg12150
-S'Cushing, George'
-p22784
-sg11
-g7998
-sg12152
-S'2/25/2015'
-p22785
-sg12154
-(lp22786
-g7993
-asg12156
-(lp22787
-S'Radio programs'
-p22788
-aS'Talk shows'
-p22789
-assg4461
-(dp22790
-g12148
-S'1965 July 30'
-p22791
-sg12150
-S'Williams, Robert F.'
-p22792
-sg11
-g4464
-sg12152
-S'2/25/2015'
-p22793
-sg12154
-(lp22794
-g4459
-asg12156
-(lp22795
-S'Radio programs'
-p22796
-assg7299
-(dp22797
-g12148
-S'1966'
-p22798
-sg12150
-S'Williams, Robert F.'
-p22799
-sg11
-g7302
-sg12152
-S'2/25/2015'
-p22800
-sg12154
-(lp22801
-g7297
-ag7045
-ag7309
-ag1885
-asg12156
-(lp22802
-S'Rallies'
-p22803
-aS'Rallies'
-p22804
-aS'Rallies'
-p22805
-aS'Rallies'
-p22806
-assg11733
-(dp22807
-g12148
-S'1966 August 08'
-p22808
-sg12150
-S'Williams, Robert F.'
-p22809
-sg11
-g11736
-sg12152
-S'2/25/2015'
-p22810
-sg12154
-(lp22811
-g11731
-asg12156
-(lp22812
-S'Addresses'
-p22813
-aS'Lectures'
-p22814
-aS'Rallies'
-p22815
-assg10677
-(dp22816
-g12148
-S'1966'
-p22817
-sg12150
-S'Williams, Robert F.'
-p22818
-sg11
-g10680
-sg12152
-S'2/25/2015'
-p22819
-sg12154
-(lp22820
-g10675
-asg12156
-(lp22821
-S'Addresses'
-p22822
-aS'Lectures'
-p22823
-aS'Rallies'
-p22824
-assg1695
-(dp22825
-g12148
-S'1942 July 26'
-p22826
-sg12150
-S'Cushing, George'
 p22827
-sg11
-g1698
-sg12152
-S'2/25/2015'
+aS'Meetings'
 p22828
-sg12154
-(lp22829
-g1693
-asg12156
-(lp22830
-S'Radio programs'
-p22831
-assg11469
-(dp22832
+aS'Meetings'
+p22829
+aS'Meetings'
+p22830
+assg147
+(dp22831
 g12148
-S'1965 January 22'
-p22833
+S'[Undated]'
+p22832
 sg12150
-S'Williams, Robert F.'
-p22834
-sg11
-g11472
+S'Crane, Henry Hitt'
+p22833
 sg12152
-S'2/25/2015'
-p22835
+S'6/24/2013'
+p22834
 sg12154
-(lp22836
-g11467
+(lp22835
+g150
 asg12156
+(lp22836
+g145
+asg12158
 (lp22837
-S'Musical performances'
+S'Sermons'
 p22838
-assg7971
+assg4077
 (dp22839
 g12148
-S'1942 July 05'
+S'1954 December 29'
 p22840
 sg12150
-S'Cushing, George'
+S'Schimpke, Albert J.'
 p22841
-sg11
-g7974
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p22842
 sg12154
 (lp22843
-g7969
+g4080
 asg12156
 (lp22844
-S'Radio programs'
-p22845
-assg2649
-(dp22846
-g12148
-S'1942 July 19'
-p22847
-sg12150
-S'Cushing, George'
-p22848
-sg11
-g2652
-sg12152
-S'2/25/2015'
-p22849
-sg12154
-(lp22850
-g2647
-asg12156
-(lp22851
-S'Radio programs'
-p22852
-assg2061
-(dp22853
-g12148
-S'1962'
-p22854
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22855
-sg11
-g2064
-sg12152
-S'6/24/2013'
-p22856
-sg12154
-(lp22857
-g2059
-asg12156
-(lp22858
-S'Interviews'
-p22859
-aS'Radio programs'
-p22860
-aS'Talk shows'
-p22861
-assg8541
-(dp22862
-g12148
-S'1960 May 02'
-p22863
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22864
-sg11
-g8544
-sg12152
-S'6/24/2013'
-p22865
-sg12154
-(lp22866
-g8539
-asg12156
-(lp22867
-S'Musical performances'
-p22868
-aS'Radio programs'
-p22869
-assg4161
-(dp22870
-g12148
-S'1961 May 10'
-p22871
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22872
-sg11
-g4164
-sg12152
-S'6/24/2013'
-p22873
-sg12154
-(lp22874
-g4159
-asg12156
-(lp22875
+g4075
+ag4081
+asg12158
+(lp22845
 S'Oral Histories'
-p22876
+p22846
+aS'Oral Histories'
+p22847
+assg6111
+(dp22848
+g12148
+S'1977 March 22'
+p22849
+sg12150
+S'University of Michigan. Alumni Association.'
+p22850
+sg12152
+S'11/01/2013'
+p22851
+sg12154
+(lp22852
+g6114
+asg12156
+(lp22853
+g6109
+ag6115
+asg12158
+(lp22854
+S'Musical performances'
+p22855
 aS'Musical performances'
-p22877
-aS'Interviews'
-p22878
-aS'Radio programs'
-p22879
-aS'Talk shows'
+p22856
+assg3885
+(dp22857
+g12148
+S'1975 April'
+p22858
+sg12150
+S"University of Michigan. Men's Glee Club"
+p22859
+sg12152
+S'11/01/2013'
+p22860
+sg12154
+(lp22861
+g3888
+asg12156
+(lp22862
+g3883
+asg12158
+(lp22863
+S'Musical performances'
+p22864
+assg1185
+(dp22865
+g12148
+S'1975 April 12'
+p22866
+sg12150
+S"University of Michigan. Men's Glee Club"
+p22867
+sg12152
+S'11/01/2013'
+p22868
+sg12154
+(lp22869
+g1188
+asg12156
+(lp22870
+g1183
+asg12158
+(lp22871
+S'Musical performances'
+p22872
+assg291
+(dp22873
+g12148
+S'1960 May 15'
+p22874
+sg12150
+S'Blanshard, Paul'
+p22875
+sg12152
+S'11/01/2013'
+p22876
+sg12154
+(lp22877
+g294
+asg12156
+(lp22878
+g289
+asg12158
+(lp22879
+S'Radio programs'
 p22880
-assg2085
+assg6411
 (dp22881
 g12148
-S'1960 April 29'
+S'1971 October 29'
 p22882
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'University of Michigan. Museum of Art.'
 p22883
-sg11
-g2088
 sg12152
-S'6/24/2013'
+S'11/01/2013'
 p22884
 sg12154
 (lp22885
-g2083
+g6414
 asg12156
 (lp22886
-S'Radio programs'
-p22887
-assg11613
-(dp22888
+g6409
+asg12158
+(lp22887
+S'Panel discussions'
+p22888
+assg10383
+(dp22889
 g12148
-S'1960 April 30'
-p22889
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'1976 March 26'
 p22890
-sg11
-g11616
-sg12152
-S'6/24/2013'
+sg12150
+S'University of Michigan. Museum of Art.'
 p22891
-sg12154
-(lp22892
-g11611
-asg12156
-(lp22893
-S'Radio programs'
-p22894
-assg8307
-(dp22895
-g12148
-S'1959 April 30'
-p22896
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22897
-sg11
-g8310
-sg12152
-S'6/24/2013'
-p22898
-sg12154
-(lp22899
-g8305
-asg12156
-(lp22900
-S'Interviews'
-p22901
-aS'Radio programs'
-p22902
-aS'Talk shows'
-p22903
-assg7893
-(dp22904
-g12148
-S'1966 April 01'
-p22905
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22906
-sg11
-g7896
-sg12152
-S'6/24/2013'
-p22907
-sg12154
-(lp22908
-g7891
-asg12156
-(lp22909
-S'Radio programs'
-p22910
-aS'Panel discussions'
-p22911
-assg5067
-(dp22912
-g12148
-S'1971 November'
-p22913
-sg12150
-S'Sinclair, John and Leni'
-p22914
-sg11
-g5070
-sg12152
-S'6/24/2013'
-p22915
-sg12154
-(lp22916
-g5065
-asg12156
-(lp22917
-S'Musical performances'
-p22918
-aS'Poetry readings'
-p22919
-assg2589
-(dp22920
-g12148
-S'1971 November'
-p22921
-sg12150
-S'Sinclair, John and Leni'
-p22922
-sg11
-g2592
-sg12152
-S'6/24/2013'
-p22923
-sg12154
-(lp22924
-g2587
-asg12156
-(lp22925
-S'Musical performances'
-p22926
-aS'Poetry readings'
-p22927
-assg8949
-(dp22928
-g12148
-S'1947 June 08'
-p22929
-sg12150
-S'Cushing, George'
-p22930
-sg11
-g8952
-sg12152
-S'2/25/2015'
-p22931
-sg12154
-(lp22932
-g8947
-asg12156
-(lp22933
-S'Radio programs'
-p22934
-aS'Talk shows'
-p22935
-assg11343
-(dp22936
-g12148
-S'1947 May 11'
-p22937
-sg12150
-S'Cushing, George'
-p22938
-sg11
-g11346
-sg12152
-S'2/25/2015'
-p22939
-sg12154
-(lp22940
-g11341
-asg12156
-(lp22941
-S'Radio programs'
-p22942
-aS'Talk shows'
-p22943
-assg1989
-(dp22944
-g12148
-S'1947 June 29'
-p22945
-sg12150
-S'Cushing, George'
-p22946
-sg11
-g1992
-sg12152
-S'2/25/2015'
-p22947
-sg12154
-(lp22948
-g1987
-asg12156
-(lp22949
-S'Radio programs'
-p22950
-aS'Talk shows'
-p22951
-assg8505
-(dp22952
-g12148
-S'1947 June 15'
-p22953
-sg12150
-S'Cushing, George'
-p22954
-sg11
-g8508
-sg12152
-S'2/25/2015'
-p22955
-sg12154
-(lp22956
-g8503
-asg12156
-(lp22957
-S'Radio programs'
-p22958
-aS'Talk shows'
-p22959
-assg8913
-(dp22960
-g12148
-S'1947 April 20'
-p22961
-sg12150
-S'Cushing, George'
-p22962
-sg11
-g8916
-sg12152
-S'2/25/2015'
-p22963
-sg12154
-(lp22964
-g8911
-asg12156
-(lp22965
-S'Radio programs'
-p22966
-aS'Talk shows'
-p22967
-assg11229
-(dp22968
-g12148
-S'1947 April 06'
-p22969
-sg12150
-S'Cushing, George'
-p22970
-sg11
-g11232
-sg12152
-S'2/25/2015'
-p22971
-sg12154
-(lp22972
-g11227
-asg12156
-(lp22973
-S'Sound tracks'
-p22974
-aS'Talk shows'
-p22975
-assg3543
-(dp22976
-g12148
-S'1964 November 18'
-p22977
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p22978
-sg11
-g3546
-sg12152
-S'6/24/2013'
-p22979
-sg12154
-(lp22980
-g3541
-asg12156
-(lp22981
-S'Oral Histories'
-p22982
-aS'Radio programs'
-p22983
-aS'Documentaries'
-p22984
-assg3333
-(dp22985
-g12148
-S'1947 April 28'
-p22986
-sg12150
-S'Cushing, George'
-p22987
-sg11
-g3336
-sg12152
-S'2/25/2015'
-p22988
-sg12154
-(lp22989
-g3331
-asg12156
-(lp22990
-S'Radio programs'
-p22991
-aS'Talk shows'
-p22992
-assg8901
-(dp22993
-g12148
-S'1962 May 12'
-p22994
-sg12150
-S"University of Michigan. Men's Glee Club"
-p22995
-sg11
-g8904
 sg12152
 S'11/01/2013'
-p22996
+p22892
 sg12154
-(lp22997
-g8899
+(lp22893
+g10386
 asg12156
-(lp22998
-S'Musical performances'
-p22999
-assg2295
-(dp23000
+(lp22894
+g10381
+ag1201
+asg12158
+(lp22895
+S'Panel discussions'
+p22896
+aS'Panel discussions'
+p22897
+assg6999
+(dp22898
 g12148
-S'1954 July 11'
-p23001
+S'1976 December 10'
+p22899
 sg12150
-S'Cushing, George'
-p23002
-sg11
-g2298
+S'Hart, Philip A.'
+p22900
 sg12152
-S'2/25/2015'
-p23003
+S'11/01/2013'
+p22901
 sg12154
-(lp23004
-g2293
+(lp22902
+g7002
 asg12156
-(lp23005
-S'Radio programs'
-p23006
-aS'Talk shows'
-p23007
-assg6147
-(dp23008
+(lp22903
+g6997
+ag7003
+asg12158
+(lp22904
+S'Dedications (ceremonies)'
+p22905
+aS'Dedications (ceremonies)'
+p22906
+assg10233
+(dp22907
 g12148
 S'[Undated]'
-p23009
-sg12150
-S'University of Michigan. Alumni Association.'
-p23010
-sg11
-g6150
-sg12152
-S'11/01/2013'
-p23011
-sg12154
-(lp23012
-g6145
-asg12156
-(lp23013
-S'Radio programs'
-p23014
-assg2667
-(dp23015
-g12148
-S'1962 October 21'
-p23016
+p22908
 sg12150
 S"University of Michigan. Men's Glee Club"
-p23017
-sg11
-g2670
+p22909
 sg12152
 S'11/01/2013'
-p23018
+p22910
 sg12154
-(lp23019
-g2665
+(lp22911
+g10236
 asg12156
-(lp23020
+(lp22912
+g10231
+asg12158
+(lp22913
 S'Musical performances'
-p23021
-assg8169
-(dp23022
+p22914
+assg10503
+(dp22915
 g12148
-S'1965 September 14'
-p23023
+S'1951 March 04'
+p22916
 sg12150
-S'Alternative Perspectives on Vietnam'
-p23024
-sg11
-g8172
+S'Cushing, George'
+p22917
 sg12152
-S'11/01/2013'
-p23025
+S'2/25/2015'
+p22918
 sg12154
-(lp23026
-g8167
-ag8185
+(lp22919
+g10506
 asg12156
-(lp23027
-S'Addresses'
-p23028
-aS'Conferences'
-p23029
-aS'Addresses'
-p23030
-aS'Conferences'
-p23031
-assg7521
-(dp23032
-g12148
-S'1965 September 15'
-p23033
-sg12150
-S'Alternative Perspectives on Vietnam'
-p23034
-sg11
-g7524
-sg12152
-S'11/01/2013'
-p23035
-sg12154
-(lp23036
-g7519
-ag7525
-asg12156
-(lp23037
-S'Addresses'
-p23038
-aS'Conferences'
-p23039
-aS'Addresses'
-p23040
-aS'Conferences'
-p23041
-assg5907
-(dp23042
-g12148
-S'1954 March 04'
-p23043
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23044
-sg11
-g5910
-sg12152
-S'6/24/2013'
-p23045
-sg12154
-(lp23046
-g5905
-asg12156
-(lp23047
-S'Lectures'
-p23048
-aS'Radio programs'
-p23049
-aS'Poetry readings'
-p23050
-assg6993
-(dp23051
-g12148
-S'1964 November 09'
-p23052
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23053
-sg11
-g6996
-sg12152
-S'6/24/2013'
-p23054
-sg12154
-(lp23055
-g6991
-asg12156
-(lp23056
-S'Lectures'
-p23057
-aS'Radio programs'
-p23058
-aS'Poetry readings'
-p23059
-assg4881
-(dp23060
-g12148
-S'1961 May 10'
-p23061
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23062
-sg11
-g4884
-sg12152
-S'6/24/2013'
-p23063
-sg12154
-(lp23064
-g4879
-asg12156
-(lp23065
-S'Lectures'
-p23066
-aS'Radio programs'
-p23067
-aS'Poetry readings'
-p23068
-assg7881
-(dp23069
-g12148
-S'1959 February 05'
-p23070
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23071
-sg11
-g7884
-sg12152
-S'6/24/2013'
-p23072
-sg12154
-(lp23073
-g7879
-asg12156
-(lp23074
+(lp22920
+g10501
+asg12158
+(lp22921
 S'Radio programs'
-p23075
-aS'Documentaries'
-p23076
-assg1653
-(dp23077
-g12148
-S'1959 April 22'
-p23078
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23079
-sg11
-g1656
-sg12152
-S'6/24/2013'
-p23080
-sg12154
-(lp23081
-g1651
-asg12156
-(lp23082
-S'Radio programs'
-p23083
-aS'Documentaries'
-p23084
-assg8685
-(dp23085
-g12148
-S'1966 August 27'
-p23086
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p23087
-sg11
-g8688
-sg12152
-S'6/05/2014'
-p23088
-sg12154
-(lp23089
-g8683
-ag8677
-asg12156
-(lp23090
-S'Conferences'
-p23091
-aS'Conferences'
-p23092
-assg6765
-(dp23093
-g12148
-S'1973 December 03'
-p23094
-sg12150
-S'Sinclair, John and Leni'
-p23095
-sg11
-g6768
-sg12152
-S'6/24/2013'
-p23096
-sg12154
-(lp23097
-g6763
-asg12156
-(lp23098
-S'Interviews'
-p23099
-aS'Radio programs'
-p23100
+p22922
 aS'Talk shows'
-p23101
-assg8931
-(dp23102
+p22923
+assg4497
+(dp22924
 g12148
-S'1983 January 02'
-p23103
+S'1953 April 09'
+p22925
 sg12150
-S'Sinclair, John and Leni'
-p23104
-sg11
-g8934
+S'Hoffman, Clare E.'
+p22926
+sg12152
+S'6/05/2014'
+p22927
+sg12154
+(lp22928
+g4500
+asg12156
+(lp22929
+g4495
+asg12158
+(lp22930
+S'Interviews'
+p22931
+assg10509
+(dp22932
+g12148
+S'1953 April 10'
+p22933
+sg12150
+S'Hoffman, Clare E.'
+p22934
+sg12152
+S'6/05/2014'
+p22935
+sg12154
+(lp22936
+g10512
+asg12156
+(lp22937
+g10507
+asg12158
+(lp22938
+g12582
+assg1005
+(dp22939
+g12148
+S'1953 April'
+p22940
+sg12150
+S'Hoffman, Clare E.'
+p22941
+sg12152
+S'6/05/2014'
+p22942
+sg12154
+(lp22943
+g1008
+asg12156
+(lp22944
+g1003
+asg12158
+(lp22945
+g12582
+assg999
+(dp22946
+g12148
+S'1964 May 08'
+p22947
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p22948
 sg12152
 S'6/24/2013'
+p22949
+sg12154
+(lp22950
+g1002
+asg12156
+(lp22951
+g997
+asg12158
+(lp22952
+S'Addresses'
+p22953
+aS'Radio programs'
+p22954
+aS'Dedications (ceremonies)'
+p22955
+assg7689
+(dp22956
+g12148
+S'1961 September 27'
+p22957
+sg12150
+S'Hoffman, Clare E.'
+p22958
+sg12152
+S'6/05/2014'
+p22959
+sg12154
+(lp22960
+g7692
+asg12156
+(lp22961
+g7687
+asg12158
+(lp22962
+S'Radio programs'
+p22963
+assg1449
+(dp22964
+g12148
+S'1961 September 27'
+p22965
+sg12150
+S'Hoffman, Clare E.'
+p22966
+sg12152
+S'6/05/2014'
+p22967
+sg12154
+(lp22968
+g1452
+asg12156
+(lp22969
+g1447
+asg12158
+(lp22970
+S'Radio programs'
+p22971
+assg4167
+(dp22972
+g12148
+S'1961 August 24'
+p22973
+sg12150
+S'Hoffman, Clare E.'
+p22974
+sg12152
+S'6/05/2014'
+p22975
+sg12154
+(lp22976
+g4170
+asg12156
+(lp22977
+g4165
+asg12158
+(lp22978
+S'Radio programs'
+p22979
+assg10419
+(dp22980
+g12148
+S'1987 April 11'
+p22981
+sg12150
+S"University of Michigan. Men's Glee Club"
+p22982
+sg12152
+S'11/01/2013'
+p22983
+sg12154
+(lp22984
+g10422
+asg12156
+(lp22985
+g10417
+asg12158
+(lp22986
+S'Musical performances'
+p22987
+assg4407
+(dp22988
+g12148
+S'1987 April 11'
+p22989
+sg12150
+S"University of Michigan. Men's Glee Club"
+p22990
+sg12152
+S'11/01/2013'
+p22991
+sg12154
+(lp22992
+g4410
+asg12156
+(lp22993
+g4405
+asg12158
+(lp22994
+S'Musical performances'
+p22995
+assg4749
+(dp22996
+g12148
+S'1962 April 30'
+p22997
+sg12150
+S'Romney, George'
+p22998
+sg12152
+S'6/05/2014'
+p22999
+sg12154
+(lp23000
+g4752
+asg12156
+(lp23001
+g4747
+asg12158
+(lp23002
+S'Addresses'
+p23003
+assg11661
+(dp23004
+g12148
+S'1963 January 08'
+p23005
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23006
+sg12152
+S'6/24/2013'
+p23007
+sg12154
+(lp23008
+g11664
+asg12156
+(lp23009
+g11659
+asg12158
+(lp23010
+S'Lectures'
+p23011
+aS'Radio programs'
+p23012
+aS'Poetry readings'
+p23013
+assg3951
+(dp23014
+g12148
+S'1969 October 15'
+p23015
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23016
+sg12152
+S'6/24/2013'
+p23017
+sg12154
+(lp23018
+g3954
+ag3948
+asg12156
+(lp23019
+g3949
+ag3943
+asg12158
+(lp23020
+S'Addresses'
+p23021
+aS'Musical performances'
+p23022
+aS'Radio programs'
+p23023
+aS'Poetry readings'
+p23024
+aS'Addresses'
+p23025
+aS'Musical performances'
+p23026
+aS'Radio programs'
+p23027
+aS'Poetry readings'
+p23028
+assg5691
+(dp23029
+g12148
+S'1968 January 10'
+p23030
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23031
+sg12152
+S'11/01/2013'
+p23032
+sg12154
+(lp23033
+g5694
+asg12156
+(lp23034
+g5689
+asg12158
+(lp23035
+S'Musical performances'
+p23036
+assg8289
+(dp23037
+g12148
+S'1978 November 18'
+p23038
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23039
+sg12152
+S'11/01/2013'
+p23040
+sg12154
+(lp23041
+g8292
+asg12156
+(lp23042
+g8287
+ag313
+asg12158
+(lp23043
+S'Musical performances'
+p23044
+aS'Musical performances'
+p23045
+assg6675
+(dp23046
+g12148
+S'1978 November 18'
+p23047
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23048
+sg12152
+S'11/01/2013'
+p23049
+sg12154
+(lp23050
+g6678
+asg12156
+(lp23051
+g6673
+ag3907
+asg12158
+(lp23052
+S'Musical performances'
+p23053
+aS'Musical performances'
+p23054
+assg8037
+(dp23055
+g12148
+S'1971 December 24'
+p23056
+sg12150
+S'Canterbury House (Ann Arbor, Mich.)'
+p23057
+sg12152
+S'6/05/2014'
+p23058
+sg12154
+(lp23059
+g8040
+asg12156
+(lp23060
+g8035
+asg12158
+(lp23061
+S'Musical performances'
+p23062
+assg5385
+(dp23063
+g12148
+S'1966 August 29'
+p23064
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23065
+sg12152
+S'6/24/2013'
+p23066
+sg12154
+(lp23067
+g5388
+asg12156
+(lp23068
+g5383
+asg12158
+(lp23069
+S'Addresses'
+p23070
+aS'Radio programs'
+p23071
+assg2715
+(dp23072
+g12148
+S'1966 May 03'
+p23073
+sg12150
+S'Romney, George'
+p23074
+sg12152
+S'6/05/2014'
+p23075
+sg12154
+(lp23076
+g2718
+asg12156
+(lp23077
+g2713
+asg12158
+(lp23078
+S'Conferences'
+p23079
+assg5433
+(dp23080
+g12148
+S'1966 May 03'
+p23081
+sg12150
+S'Romney, George'
+p23082
+sg12152
+S'6/05/2014'
+p23083
+sg12154
+(lp23084
+g5436
+asg12156
+(lp23085
+g5431
+asg12158
+(lp23086
+S'Conferences'
+p23087
+assg11451
+(dp23088
+g12148
+S'1966 May 03'
+p23089
+sg12150
+S'Romney, George'
+p23090
+sg12152
+S'6/05/2014'
+p23091
+sg12154
+(lp23092
+g11454
+asg12156
+(lp23093
+g11449
+asg12158
+(lp23094
+S'Conferences'
+p23095
+assg9015
+(dp23096
+g12148
+S'1966 May 03'
+p23097
+sg12150
+S'Romney, George'
+p23098
+sg12152
+S'6/05/2014'
+p23099
+sg12154
+(lp23100
+g9018
+asg12156
+(lp23101
+g9013
+asg12158
+(lp23102
+S'Conferences'
+p23103
+assg2553
+(dp23104
+g12148
+S'1966 October 16'
 p23105
-sg12154
-(lp23106
-g8929
-asg12156
-(lp23107
-S'Dialogues'
-p23108
-assg10935
-(dp23109
-g12148
-S'1974 May 09'
-p23110
 sg12150
-S'Michigan Organization for Human Rights'
+S'Romney, George'
+p23106
+sg12152
+S'6/05/2014'
+p23107
+sg12154
+(lp23108
+g2556
+asg12156
+(lp23109
+g2551
+ag2557
+asg12158
+(lp23110
+S'Interviews'
 p23111
-sg11
-g10938
-sg12152
-S'6/05/2014'
+aS'Television'
 p23112
-sg12154
-(lp23113
-g10933
-asg12156
-(lp23114
-S'Radio programs'
-p23115
-assg8487
-(dp23116
+aS'Interviews'
+p23113
+aS'Television'
+p23114
+assg11991
+(dp23115
 g12148
-S'1974 May 02'
+S'1957 September 04, October 22'
+p23116
+sg12150
+S'Schimpke, Albert J.'
 p23117
-sg12150
-S'Michigan Organization for Human Rights'
+sg12152
+S'11/01/2013'
 p23118
-sg11
-g8490
-sg12152
-S'6/05/2014'
-p23119
 sg12154
+(lp23119
+g11994
+asg12156
 (lp23120
-g8485
-asg12156
+g11989
+ag11995
+asg12158
 (lp23121
-S'Radio programs'
+S'Oral Histories'
 p23122
-assg2253
-(dp23123
+aS'Oral Histories'
+p23123
+assg6225
+(dp23124
 g12148
-S'1974 April 18'
-p23124
-sg12150
-S'Michigan Organization for Human Rights'
+S'1954 October 25'
 p23125
-sg11
-g2256
-sg12152
-S'6/05/2014'
+sg12150
+S'Schimpke, Albert J.'
 p23126
+sg12152
+S'11/01/2013'
+p23127
 sg12154
-(lp23127
-g2251
-asg12156
 (lp23128
-S'Radio programs'
-p23129
-assg4923
-(dp23130
-g12148
-S'1974 April 04'
+g6228
+asg12156
+(lp23129
+g6223
+ag6229
+asg12158
+(lp23130
+S'Oral Histories'
 p23131
-sg12150
-S'Michigan Organization for Human Rights'
+aS'Oral Histories'
 p23132
-sg11
-g4926
-sg12152
-S'6/05/2014'
-p23133
-sg12154
-(lp23134
-g4921
-asg12156
-(lp23135
-S'Radio programs'
-p23136
-assg1971
-(dp23137
+assg129
+(dp23133
 g12148
-S'1974 March 21'
-p23138
+S'1956 August 28'
+p23134
 sg12150
-S'Michigan Organization for Human Rights'
-p23139
-sg11
-g1974
+S'Schimpke, Albert J.'
+p23135
 sg12152
-S'6/05/2014'
-p23140
+S'11/01/2013'
+p23136
 sg12154
-(lp23141
-g1969
+(lp23137
+g132
 asg12156
-(lp23142
-S'Radio programs'
+(lp23138
+g127
+ag121
+asg12158
+(lp23139
+S'Oral Histories'
+p23140
+aS'Interviews'
+p23141
+aS'Oral Histories'
+p23142
+aS'Interviews'
 p23143
-assg11565
+assg2775
 (dp23144
 g12148
-S'1974 March 14'
+S'1956 November 07'
 p23145
 sg12150
-S'Michigan Organization for Human Rights'
+S'Schimpke, Albert J.'
 p23146
-sg11
-g11568
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p23147
 sg12154
 (lp23148
-g11563
+g2778
 asg12156
 (lp23149
-S'Radio programs'
-p23150
-assg5577
-(dp23151
-g12148
-S'1974 March 07'
-p23152
-sg12150
-S'Michigan Organization for Human Rights'
-p23153
-sg11
-g5580
-sg12152
-S'6/05/2014'
-p23154
-sg12154
-(lp23155
-g5575
-asg12156
-(lp23156
-S'Radio programs'
-p23157
-assg4887
-(dp23158
-g12148
-S'1974 February 07'
-p23159
-sg12150
-S'Michigan Organization for Human Rights'
-p23160
-sg11
-g4890
-sg12152
-S'6/05/2014'
-p23161
-sg12154
-(lp23162
-g4885
-asg12156
-(lp23163
-S'Radio programs'
-p23164
-assg11007
-(dp23165
-g12148
-S'1974 July 11'
-p23166
-sg12150
-S'Michigan Organization for Human Rights'
-p23167
-sg11
-g11010
-sg12152
-S'6/05/2014'
-p23168
-sg12154
-(lp23169
-g11005
-asg12156
-(lp23170
-S'Radio programs'
-p23171
-assg8589
-(dp23172
-g12148
-S'1974 July 18'
-p23173
-sg12150
-S'Michigan Organization for Human Rights'
-p23174
-sg11
-g8592
-sg12152
-S'6/05/2014'
-p23175
-sg12154
-(lp23176
-g8587
-asg12156
-(lp23177
-S'Radio programs'
-p23178
-assg8415
-(dp23179
-g12148
-S'1956 October 20, 22'
-p23180
-sg12150
-S'Schimpke, Albert J.'
-p23181
-sg11
-g8418
-sg12152
-S'11/01/2013'
-p23182
-sg12154
-(lp23183
-g8413
-ag8419
-asg12156
-(lp23184
+g2773
+ag2767
+asg12158
+(lp23150
 S'Oral Histories'
-p23185
+p23151
 aS'Interviews'
-p23186
+p23152
 aS'Oral Histories'
-p23187
+p23153
 aS'Interviews'
-p23188
-assg2373
-(dp23189
+p23154
+assg12051
+(dp23155
 g12148
-S'1960 September 21'
-p23190
+S'1955 November 11'
+p23156
 sg12150
 S'Schimpke, Albert J.'
-p23191
-sg11
-g2376
+p23157
 sg12152
 S'11/01/2013'
-p23192
+p23158
 sg12154
-(lp23193
-g2371
+(lp23159
+g12054
 asg12156
+(lp23160
+g12049
+ag12055
+asg12158
+(lp23161
+S'Oral Histories'
+p23162
+aS'Interviews'
+p23163
+aS'Oral Histories'
+p23164
+aS'Interviews'
+p23165
+assg9423
+(dp23166
+g12148
+S'1956 August 28'
+p23167
+sg12150
+S'Schimpke, Albert J.'
+p23168
+sg12152
+S'11/01/2013'
+p23169
+sg12154
+(lp23170
+g9426
+asg12156
+(lp23171
+g9421
+ag9427
+asg12158
+(lp23172
+S'Oral Histories'
+p23173
+aS'Interviews'
+p23174
+aS'Oral Histories'
+p23175
+aS'Interviews'
+p23176
+assg3231
+(dp23177
+g12148
+S'1956 November 09, 13'
+p23178
+sg12150
+S'Schimpke, Albert J.'
+p23179
+sg12152
+S'11/01/2013'
+p23180
+sg12154
+(lp23181
+g3234
+asg12156
+(lp23182
+g3229
+ag3223
+asg12158
+(lp23183
+S'Oral Histories'
+p23184
+aS'Interviews'
+p23185
+aS'Oral Histories'
+p23186
+aS'Interviews'
+p23187
+assg6015
+(dp23188
+g12148
+S'1956 September, October 26'
+p23189
+sg12150
+S'Schimpke, Albert J.'
+p23190
+sg12152
+S'11/01/2013'
+p23191
+sg12154
+(lp23192
+g6018
+asg12156
+(lp23193
+g6013
+ag6007
+asg12158
 (lp23194
 S'Oral Histories'
 p23195
 aS'Interviews'
 p23196
-assg11841
-(dp23197
-g12148
-S'1976 July 19'
-p23198
-sg12150
-S'National Housewives League of America.'
-p23199
-sg11
-g11844
-sg12152
-S'11/01/2013'
-p23200
-sg12154
-(lp23201
-g11839
-asg12156
-(lp23202
-S'Interviews'
-p23203
-aS'Radio programs'
-p23204
-aS'Talk shows'
-p23205
-assg417
-(dp23206
-g12148
-S'1959 March 13'
-p23207
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23208
-sg11
-g420
-sg12152
-S'6/24/2013'
-p23209
-sg12154
-(lp23210
-g415
-asg12156
-(lp23211
-S'Radio programs'
-p23212
-aS'Panel discussions'
-p23213
-assg6141
-(dp23214
-g12148
-S'1972 September'
-p23215
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p23216
-sg11
-g6144
-sg12152
-S'6/05/2014'
-p23217
-sg12154
-(lp23218
-g6139
-asg12156
-(lp23219
-S'Conferences'
-p23220
-assg3339
-(dp23221
-g12148
-S'1972 September'
-p23222
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p23223
-sg11
-g3342
-sg12152
-S'6/05/2014'
-p23224
-sg12154
-(lp23225
-g3337
-asg12156
-(lp23226
-S'Conferences'
-p23227
-assg10113
-(dp23228
-g12148
-S'1954 April 18'
-p23229
-sg12150
-S'Cushing, George'
-p23230
-sg11
-g10116
-sg12152
-S'2/25/2015'
-p23231
-sg12154
-(lp23232
-g10111
-asg12156
-(lp23233
-S'Radio programs'
-p23234
-aS'Talk shows'
-p23235
-assg7485
-(dp23236
-g12148
-S'1954 May 02'
-p23237
-sg12150
-S'Cushing, George'
-p23238
-sg11
-g7488
-sg12152
-S'2/25/2015'
-p23239
-sg12154
-(lp23240
-g7483
-asg12156
-(lp23241
-S'Radio programs'
-p23242
-aS'Talk shows'
-p23243
-assg813
-(dp23244
-g12148
-S'1954 February 28'
-p23245
-sg12150
-S'Cushing, George'
-p23246
-sg11
-g816
-sg12152
-S'2/25/2015'
-p23247
-sg12154
-(lp23248
-g811
-asg12156
-(lp23249
-S'Radio programs'
-p23250
-aS'Talk shows'
-p23251
-assg3477
-(dp23252
-g12148
-S'1954 March 07'
-p23253
-sg12150
-S'Cushing, George'
-p23254
-sg11
-g3480
-sg12152
-S'2/25/2015'
-p23255
-sg12154
-(lp23256
-g3475
-asg12156
-(lp23257
-S'Radio programs'
-p23258
-aS'Talk shows'
-p23259
-assg6903
-(dp23260
-g12148
-S'1954 February 14'
-p23261
-sg12150
-S'Cushing, George'
-p23262
-sg11
-g6906
-sg12152
-S'2/25/2015'
-p23263
-sg12154
-(lp23264
-g6901
-asg12156
-(lp23265
-S'Radio programs'
-p23266
-aS'Talk shows'
-p23267
-assg6909
-(dp23268
-g12148
-S'1953 October 19'
-p23269
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23270
-sg11
-g6912
-sg12152
-S'6/24/2013'
-p23271
-sg12154
-(lp23272
-g6907
-asg12156
-(lp23273
-S'Radio programs'
-p23274
-aS'Historical dramas'
-p23275
-assg939
-(dp23276
-g12148
-S'1954 March 28'
-p23277
-sg12150
-S'Cushing, George'
-p23278
-sg11
-g942
-sg12152
-S'2/25/2015'
-p23279
-sg12154
-(lp23280
-g937
-asg12156
-(lp23281
-S'Radio programs'
-p23282
-aS'Talk shows'
-p23283
-assg3627
-(dp23284
-g12148
-S'1954 April 11'
-p23285
-sg12150
-S'Cushing, George'
-p23286
-sg11
-g3630
-sg12152
-S'2/25/2015'
-p23287
-sg12154
-(lp23288
-g3625
-asg12156
-(lp23289
-S'Radio programs'
-p23290
-aS'Talk shows'
-p23291
-assg9627
-(dp23292
-g12148
-S'1954 March 14'
-p23293
-sg12150
-S'Cushing, George'
-p23294
-sg11
-g9630
-sg12152
-S'2/25/2015'
-p23295
-sg12154
-(lp23296
-g9625
-asg12156
-(lp23297
-S'Radio programs'
-p23298
-aS'Talk shows'
-p23299
-assg5457
-(dp23300
-g12148
-S'1954 March 21'
-p23301
-sg12150
-S'Cushing, George'
-p23302
-sg11
-g5460
-sg12152
-S'2/25/2015'
-p23303
-sg12154
-(lp23304
-g5455
-asg12156
-(lp23305
-S'Radio programs'
-p23306
-aS'Talk shows'
-p23307
-assg1239
-(dp23308
-g12148
-S'1957 March 20'
-p23309
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23310
-sg11
-g1242
-sg12152
-S'6/24/2013'
-p23311
-sg12154
-(lp23312
-g1237
-asg12156
-(lp23313
-S'Radio programs'
-p23314
-aS'Poetry readings'
-p23315
-assg4227
-(dp23316
-g12148
-S'1962 August 01'
-p23317
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23318
-sg11
-g4230
-sg12152
-S'6/24/2013'
-p23319
-sg12154
-(lp23320
-g4225
-asg12156
-(lp23321
-S'Interviews'
-p23322
-aS'Radio programs'
-p23323
-aS'Panel discussions'
-p23324
-aS'Talk shows'
-p23325
-assg7755
-(dp23326
-g12148
-S'1964 May 28'
-p23327
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23328
-sg11
-g7758
-sg12152
-S'6/24/2013'
-p23329
-sg12154
-(lp23330
-g7753
-asg12156
-(lp23331
-S'Interviews'
-p23332
-aS'Radio programs'
-p23333
-aS'Panel discussions'
-p23334
-aS'Talk shows'
-p23335
-assg10155
-(dp23336
-g12148
-S'1963 December 18'
-p23337
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23338
-sg11
-g10158
-sg12152
-S'6/24/2013'
-p23339
-sg12154
-(lp23340
-g10153
-asg12156
-(lp23341
-S'Interviews'
-p23342
-aS'Radio programs'
-p23343
-aS'Panel discussions'
-p23344
-aS'Talk shows'
-p23345
-assg1029
-(dp23346
-g12148
-S'1966 March 09'
-p23347
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23348
-sg11
-g1032
-sg12152
-S'6/24/2013'
-p23349
-sg12154
-(lp23350
-g1027
-asg12156
-(lp23351
-S'Interviews'
-p23352
-aS'Radio programs'
-p23353
-aS'Panel discussions'
-p23354
-aS'Talk shows'
-p23355
-assg10557
-(dp23356
-g12148
-S'1964 November 12'
-p23357
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23358
-sg11
-g10560
-sg12152
-S'6/24/2013'
-p23359
-sg12154
-(lp23360
-g10555
-asg12156
-(lp23361
-S'Interviews'
-p23362
-aS'Radio programs'
-p23363
-aS'Panel discussions'
-p23364
-aS'Talk shows'
-p23365
-assg4545
-(dp23366
-g12148
-S'1967 December 31'
-p23367
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23368
-sg11
-g4548
-sg12152
-S'6/24/2013'
-p23369
-sg12154
-(lp23370
-g4543
-asg12156
-(lp23371
-S'Radio programs'
-p23372
-aS'Panel discussions'
-p23373
-assg6855
-(dp23374
-g12148
-S'1967 October 27'
-p23375
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23376
-sg11
-g6858
-sg12152
-S'6/24/2013'
-p23377
-sg12154
-(lp23378
-g6853
-ag6847
-asg12156
-(lp23379
-S'Interviews'
-p23380
-aS'Radio programs'
-p23381
-aS'Panel discussions'
-p23382
-aS'Talk shows'
-p23383
+aS'Oral Histories'
+p23197
 aS'Interviews'
-p23384
-aS'Radio programs'
-p23385
-aS'Panel discussions'
-p23386
-aS'Talk shows'
-p23387
-assg7785
-(dp23388
+p23198
+assg2763
+(dp23199
 g12148
-S'1969 May'
-p23389
+S'1956 October 10'
+p23200
 sg12150
-S'Shepard, Robert J.'
-p23390
-sg11
-g7788
+S'Schimpke, Albert J.'
+p23201
 sg12152
 S'11/01/2013'
-p23391
+p23202
 sg12154
-(lp23392
-g7783
+(lp23203
+g2766
 asg12156
-(lp23393
-S'Correspondence'
-p23394
-assg1545
-(dp23395
+(lp23204
+g2761
+ag2755
+asg12158
+(lp23205
+S'Oral Histories'
+p23206
+aS'Oral Histories'
+p23207
+assg8475
+(dp23208
 g12148
-S'1969 April 06'
-p23396
+S'1957 February 05'
+p23209
 sg12150
-S'Shepard, Robert J.'
-p23397
-sg11
-g1548
+S'Schimpke, Albert J.'
+p23210
 sg12152
 S'11/01/2013'
-p23398
+p23211
 sg12154
-(lp23399
-g1543
+(lp23212
+g8478
 asg12156
-(lp23400
-S'Correspondence'
-p23401
-assg4269
-(dp23402
+(lp23213
+g8473
+asg12158
+(lp23214
+S'Oral Histories'
+p23215
+assg45
+(dp23216
 g12148
-S'1969 April 06'
-p23403
-sg12150
-S'Shepard, Robert J.'
-p23404
-sg11
-g4272
-sg12152
-S'11/01/2013'
-p23405
-sg12154
-(lp23406
-g4267
-ag4261
-asg12156
-(lp23407
-S'Correspondence'
-p23408
-aS'Correspondence'
-p23409
-assg9741
-(dp23410
-g12148
-S'1969 April 03'
-p23411
-sg12150
-S'Shepard, Robert J.'
-p23412
-sg11
-g9744
-sg12152
-S'11/01/2013'
-p23413
-sg12154
-(lp23414
-g9739
-asg12156
-(lp23415
-S'Correspondence'
-p23416
-assg4485
-(dp23417
-g12148
-S'1969 March 30'
-p23418
-sg12150
-S'Shepard, Robert J.'
-p23419
-sg11
-g4488
-sg12152
-S'11/01/2013'
-p23420
-sg12154
-(lp23421
-g4483
-ag2671
-asg12156
-(lp23422
-S'Correspondence'
-p23423
-aS'Correspondence'
-p23424
-assg7173
-(dp23425
-g12148
-S'1969 March 13'
-p23426
-sg12150
-S'Shepard, Robert J.'
-p23427
-sg11
-g7176
-sg12152
-S'11/01/2013'
-p23428
-sg12154
-(lp23429
-g7171
-ag7177
-asg12156
-(lp23430
-S'Correspondence'
-p23431
-aS'Correspondence'
-p23432
-assg4347
-(dp23433
-g12148
-S'1969 March 11'
-p23434
-sg12150
-S'Shepard, Robert J.'
-p23435
-sg11
-g4350
-sg12152
-S'11/01/2013'
-p23436
-sg12154
-(lp23437
-g4345
-ag4339
-asg12156
-(lp23438
-S'Correspondence'
-p23439
-aS'Correspondence'
-p23440
-assg1599
-(dp23441
-g12148
-S'1969 March'
-p23442
-sg12150
-S'Shepard, Robert J.'
-p23443
-sg11
-g1602
-sg12152
-S'11/01/2013'
-p23444
-sg12154
-(lp23445
-g1597
-ag1585
-asg12156
-(lp23446
-S'Correspondence'
-p23447
-aS'Correspondence'
-p23448
-assg5529
-(dp23449
-g12148
-S'1971 February 09'
-p23450
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23451
-sg11
-g5532
-sg12152
-S'6/24/2013'
-p23452
-sg12154
-(lp23453
-g5527
-asg12156
-(lp23454
-S'Lectures'
-p23455
-aS'Radio programs'
-p23456
-aS'Rallies'
-p23457
-assg2457
-(dp23458
-g12148
-S'1961 July 15'
-p23459
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23460
-sg11
-g2460
-sg12152
-S'6/24/2013'
-p23461
-sg12154
-(lp23462
-g2455
-ag2443
-ag2449
-asg12156
-(lp23463
-S'Musical performances'
-p23464
-aS'Radio programs'
-p23465
-aS'Historical dramas'
-p23466
-aS'Musical performances'
-p23467
-aS'Radio programs'
-p23468
-aS'Historical dramas'
-p23469
-aS'Musical performances'
-p23470
-aS'Radio programs'
-p23471
-aS'Historical dramas'
-p23472
-assg2961
-(dp23473
-g12148
-S'1959?'
-p23474
+S'1958 April 12'
+p23217
 sg12150
 S'Williams, G. Mennen'
-p23475
-sg11
-g2964
+p23218
 sg12152
 S'11/01/2013'
-p23476
+p23219
 sg12154
-(lp23477
-g2959
+(lp23220
+g48
 asg12156
-(lp23478
-S'Addresses'
-p23479
-assg2235
-(dp23480
+(lp23221
+g43
+asg12158
+(lp23222
+S'Dialogues'
+p23223
+assg11181
+(dp23224
 g12148
-S'1945 September 09'
-p23481
+S'1958 April 12'
+p23225
+sg12150
+S'Williams, G. Mennen'
+p23226
+sg12152
+S'11/01/2013'
+p23227
+sg12154
+(lp23228
+g11184
+asg12156
+(lp23229
+g11179
+ag11185
+asg12158
+(lp23230
+S'Addresses'
+p23231
+aS'Dialogues'
+p23232
+aS'Addresses'
+p23233
+aS'Dialogues'
+p23234
+assg10959
+(dp23235
+g12148
+S'1958 April 12'
+p23236
+sg12150
+S'Williams, G. Mennen'
+p23237
+sg12152
+S'11/01/2013'
+p23238
+sg12154
+(lp23239
+g10962
+asg12156
+(lp23240
+g10957
+ag10951
+asg12158
+(lp23241
+S'Addresses'
+p23242
+aS'Dialogues'
+p23243
+aS'Addresses'
+p23244
+aS'Dialogues'
+p23245
+assg6255
+(dp23246
+g12148
+S'1958 April 12'
+p23247
+sg12150
+S'Williams, G. Mennen'
+p23248
+sg12152
+S'11/01/2013'
+p23249
+sg12154
+(lp23250
+g6258
+asg12156
+(lp23251
+g6253
+ag6259
+asg12158
+(lp23252
+S'Addresses'
+p23253
+aS'Dialogues'
+p23254
+aS'Addresses'
+p23255
+aS'Dialogues'
+p23256
+assg6099
+(dp23257
+g12148
+S'1958 April 12'
+p23258
+sg12150
+S'Williams, G. Mennen'
+p23259
+sg12152
+S'11/01/2013'
+p23260
+sg12154
+(lp23261
+g6102
+asg12156
+(lp23262
+g6097
+ag6091
+asg12158
+(lp23263
+S'Addresses'
+p23264
+aS'Addresses'
+p23265
+assg6183
+(dp23266
+g12148
+S'1958 April 12'
+p23267
+sg12150
+S'Williams, G. Mennen'
+p23268
+sg12152
+S'11/01/2013'
+p23269
+sg12154
+(lp23270
+g6186
+asg12156
+(lp23271
+g6181
+asg12158
+(lp23272
+g12582
+assg3273
+(dp23273
+g12148
+S'1976 January 15'
+p23274
+sg12150
+S'Michigan Organization for Human Rights'
+p23275
+sg12152
+S'6/05/2014'
+p23276
+sg12154
+(lp23277
+g3276
+asg12156
+(lp23278
+g3271
+asg12158
+(lp23279
+S'Radio programs'
+p23280
+assg543
+(dp23281
+g12148
+S'1975 February 18'
+p23282
+sg12150
+S'Michigan Organization for Human Rights'
+p23283
+sg12152
+S'6/05/2014'
+p23284
+sg12154
+(lp23285
+g546
+asg12156
+(lp23286
+g541
+asg12158
+(lp23287
+S'Radio programs'
+p23288
+assg6627
+(dp23289
+g12148
+S'1976 February 12'
+p23290
+sg12150
+S'Michigan Organization for Human Rights'
+p23291
+sg12152
+S'6/05/2014'
+p23292
+sg12154
+(lp23293
+g6630
+asg12156
+(lp23294
+g6625
+asg12158
+(lp23295
+S'Radio programs'
+p23296
+assg9465
+(dp23297
+g12148
+S'1976 January 29'
+p23298
+sg12150
+S'Michigan Organization for Human Rights'
+p23299
+sg12152
+S'6/05/2014'
+p23300
+sg12154
+(lp23301
+g9468
+asg12156
+(lp23302
+g9463
+asg12158
+(lp23303
+S'Radio programs'
+p23304
+assg6483
+(dp23305
+g12148
+S'1975 October 09'
+p23306
+sg12150
+S'Michigan Organization for Human Rights'
+p23307
+sg12152
+S'6/05/2014'
+p23308
+sg12154
+(lp23309
+g6486
+asg12156
+(lp23310
+g6481
+asg12158
+(lp23311
+S'Radio programs'
+p23312
+assg3771
+(dp23313
+g12148
+S'1975 May 22'
+p23314
+sg12150
+S'Michigan Organization for Human Rights'
+p23315
+sg12152
+S'6/05/2014'
+p23316
+sg12154
+(lp23317
+g3774
+asg12156
+(lp23318
+g3769
+asg12158
+(lp23319
+S'Radio programs'
+p23320
+assg9909
+(dp23321
+g12148
+S'1975 December 04'
+p23322
+sg12150
+S'Michigan Organization for Human Rights'
+p23323
+sg12152
+S'6/05/2014'
+p23324
+sg12154
+(lp23325
+g9912
+asg12156
+(lp23326
+g9907
+asg12158
+(lp23327
+S'Radio programs'
+p23328
+assg9435
+(dp23329
+g12148
+S'1975 November 06'
+p23330
+sg12150
+S'Michigan Organization for Human Rights'
+p23331
+sg12152
+S'6/05/2014'
+p23332
+sg12154
+(lp23333
+g9438
+asg12156
+(lp23334
+g9433
+asg12158
+(lp23335
+S'Radio programs'
+p23336
+assg9843
+(dp23337
+g12148
+S'1974'
+p23338
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23339
+sg12152
+S'11/01/2013'
+p23340
+sg12154
+(lp23341
+g9846
+asg12156
+(lp23342
+g9841
+asg12158
+(lp23343
+S'Musical performances'
+p23344
+assg9075
+(dp23345
+g12148
+S'1976 March 11'
+p23346
+sg12150
+S'Michigan Organization for Human Rights'
+p23347
+sg12152
+S'6/05/2014'
+p23348
+sg12154
+(lp23349
+g9078
+asg12156
+(lp23350
+g9073
+asg12158
+(lp23351
+S'Radio programs'
+p23352
+assg801
+(dp23353
+g12148
+S'1976 February 26'
+p23354
+sg12150
+S'Michigan Organization for Human Rights'
+p23355
+sg12152
+S'6/05/2014'
+p23356
+sg12154
+(lp23357
+g804
+asg12156
+(lp23358
+g799
+asg12158
+(lp23359
+S'Radio programs'
+p23360
+assg7023
+(dp23361
+g12148
+S'1962 March 17'
+p23362
+sg12150
+S'Post family'
+p23363
+sg12152
+S'6/05/2014'
+p23364
+sg12154
+(lp23365
+g7026
+asg12156
+(lp23366
+g7021
+asg12158
+(lp23367
+S'Interviews'
+p23368
+assg5553
+(dp23369
+g12148
+S'1962 February 19'
+p23370
+sg12150
+S'Post family'
+p23371
+sg12152
+S'6/05/2014'
+p23372
+sg12154
+(lp23373
+g5556
+asg12156
+(lp23374
+g5551
+ag5557
+asg12158
+(lp23375
+S'Interviews'
+p23376
+aS'Interviews'
+p23377
+assg3579
+(dp23378
+g12148
+S'1957 September 17'
+p23379
+sg12150
+S'Post family'
+p23380
+sg12152
+S'6/05/2014'
+p23381
+sg12154
+(lp23382
+g3582
+asg12156
+(lp23383
+g3577
+asg12158
+(lp23384
+S'Dedications (ceremonies)'
+p23385
+assg7119
+(dp23386
+g12148
+S'1976 September 26, 1976 December 02'
+p23387
+sg12150
+S'Hart, Philip A.'
+p23388
+sg12152
+S'11/01/2013'
+p23389
+sg12154
+(lp23390
+g7122
+asg12156
+(lp23391
+g7117
+asg12158
+(lp23392
+S'Addresses'
+p23393
+aS'Interviews'
+p23394
+aS'Television'
+p23395
+assg10173
+(dp23396
+g12148
+S'[Undated]'
+p23397
+sg12150
+S'Post family'
+p23398
+sg12152
+S'6/05/2014'
+p23399
+sg12154
+(lp23400
+g10176
+asg12156
+(lp23401
+g10171
+asg12158
+(lp23402
+S'Interviews'
+p23403
+assg687
+(dp23404
+g12148
+S'1965 August'
+p23405
+sg12150
+S'Post family'
+p23406
+sg12152
+S'6/05/2014'
+p23407
+sg12154
+(lp23408
+g690
+asg12156
+(lp23409
+g685
+asg12158
+(lp23410
+S'Interviews'
+p23411
+assg6729
+(dp23412
+g12148
+S'1965 March'
+p23413
+sg12150
+S'Post family'
+p23414
+sg12152
+S'6/05/2014'
+p23415
+sg12154
+(lp23416
+g6732
+asg12156
+(lp23417
+g6727
+asg12158
+(lp23418
+S'Interviews'
+p23419
+assg11955
+(dp23420
+g12148
+S'1965 February'
+p23421
+sg12150
+S'Post family'
+p23422
+sg12152
+S'6/05/2014'
+p23423
+sg12154
+(lp23424
+g11958
+asg12156
+(lp23425
+g11953
+ag11941
+asg12158
+(lp23426
+S'Interviews'
+p23427
+aS'Interviews'
+p23428
+assg4689
+(dp23429
+g12148
+S'1951 June 03'
+p23430
 sg12150
 S'Cushing, George'
-p23482
-sg11
-g2238
+p23431
 sg12152
 S'2/25/2015'
+p23432
+sg12154
+(lp23433
+g4692
+asg12156
+(lp23434
+g4687
+asg12158
+(lp23435
+S'Radio programs'
+p23436
+aS'Talk shows'
+p23437
+assg6405
+(dp23438
+g12148
+S'[Undated]'
+p23439
+sg12150
+S'Post family'
+p23440
+sg12152
+S'6/05/2014'
+p23441
+sg12154
+(lp23442
+g6408
+asg12156
+(lp23443
+g6403
+asg12158
+(lp23444
+S'Interviews'
+p23445
+assg3693
+(dp23446
+g12148
+S'[Undated]'
+p23447
+sg12150
+S'Post family'
+p23448
+sg12152
+S'6/05/2014'
+p23449
+sg12154
+(lp23450
+g3696
+asg12156
+(lp23451
+g3691
+asg12158
+(lp23452
+S'Interviews'
+p23453
+assg4377
+(dp23454
+g12148
+S'1972 March 25'
+p23455
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23456
+sg12152
+S'11/01/2013'
+p23457
+sg12154
+(lp23458
+g4380
+asg12156
+(lp23459
+g4375
+ag4381
+asg12158
+(lp23460
+S'Musical performances'
+p23461
+aS'Musical performances'
+p23462
+assg1689
+(dp23463
+g12148
+S'[Undated]'
+p23464
+sg12150
+S'Michigan Memorial Phoenix Project'
+p23465
+sg12152
+S'11/01/2013'
+p23466
+sg12154
+(lp23467
+g1692
+asg12156
+(lp23468
+g1687
+asg12158
+(lp23469
+S'Radio programs'
+p23470
+assg7149
+(dp23471
+g12148
+S'1976 November 13'
+p23472
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23473
+sg12152
+S'11/01/2013'
+p23474
+sg12154
+(lp23475
+g7152
+asg12156
+(lp23476
+g7147
+ag7159
+asg12158
+(lp23477
+S'Musical performances'
+p23478
+aS'Musical performances'
+p23479
+assg6951
+(dp23480
+g12148
+S'1976 November 13'
+p23481
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23482
+sg12152
+S'11/01/2013'
 p23483
 sg12154
 (lp23484
-g2233
+g6954
 asg12156
 (lp23485
-S'Radio programs'
-p23486
-aS'Talk shows'
+g6949
+asg12158
+(lp23486
+S'Musical performances'
 p23487
-assg11721
+assg9915
 (dp23488
 g12148
-S'1945 September 16'
+S'1953 November 21'
 p23489
 sg12150
-S'Cushing, George'
+S"University of Michigan. Men's Glee Club"
 p23490
-sg11
-g11724
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p23491
 sg12154
 (lp23492
-g11719
+g9918
 asg12156
 (lp23493
-S'Radio programs'
-p23494
-aS'Talk shows'
+g9913
+asg12158
+(lp23494
+S'Musical performances'
 p23495
-assg5745
+assg4125
 (dp23496
 g12148
-S'1945 September 30'
+S'1961 January 12'
 p23497
 sg12150
-S'Cushing, George'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p23498
-sg11
-g5748
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p23499
 sg12154
 (lp23500
-g5743
+g4128
 asg12156
 (lp23501
-S'Radio programs'
-p23502
-aS'Talk shows'
+g4123
+asg12158
+(lp23502
+S'Addresses'
 p23503
-assg8547
-(dp23504
-g12148
-S'1945 November 04'
+aS'Radio programs'
+p23504
+aS'Dedications (ceremonies)'
 p23505
-sg12150
-S'Cushing, George'
+aS'Luncheons'
 p23506
-sg11
-g8550
+assg11835
+(dp23507
+g12148
+S'1967 October 02'
+p23508
+sg12150
+S'Romney, George'
+p23509
 sg12152
-S'2/25/2015'
-p23507
-sg12154
-(lp23508
-g8545
-asg12156
-(lp23509
-S'Radio programs'
+S'6/05/2014'
 p23510
-aS'Talk shows'
-p23511
-assg5565
-(dp23512
-g12148
-S'1945 November 11'
-p23513
-sg12150
-S'Cushing, George'
+sg12154
+(lp23511
+g11838
+asg12156
+(lp23512
+g11833
+ag12079
+ag10483
+asg12158
+(lp23513
+S'Meetings'
 p23514
-sg11
-g5568
-sg12152
-S'2/25/2015'
+aS'Meetings'
 p23515
-sg12154
-(lp23516
-g5563
-asg12156
-(lp23517
-S'Radio programs'
-p23518
-aS'Talk shows'
-p23519
-assg4665
-(dp23520
-g12148
-S'1945 November 25'
-p23521
-sg12150
-S'Cushing, George'
-p23522
-sg11
-g4668
-sg12152
-S'2/25/2015'
-p23523
-sg12154
-(lp23524
-g4663
-asg12156
-(lp23525
-S'Radio programs'
-p23526
-aS'Talk shows'
-p23527
-assg9099
-(dp23528
-g12148
-S'1945 December 02'
-p23529
-sg12150
-S'Cushing, George'
-p23530
-sg11
-g9102
-sg12152
-S'2/25/2015'
-p23531
-sg12154
-(lp23532
-g9097
-asg12156
-(lp23533
-S'Radio programs'
-p23534
-aS'Talk shows'
-p23535
-assg1113
-(dp23536
-g12148
-S'1945 December 16'
-p23537
-sg12150
-S'Cushing, George'
-p23538
-sg11
-g1116
-sg12152
-S'2/25/2015'
-p23539
-sg12154
-(lp23540
-g1111
-asg12156
-(lp23541
-S'Radio programs'
-p23542
-aS'Talk shows'
-p23543
-assg2349
-(dp23544
-g12148
-S'1946 January 13'
-p23545
-sg12150
-S'Cushing, George'
-p23546
-sg11
-g2352
-sg12152
-S'2/25/2015'
-p23547
-sg12154
-(lp23548
-g2347
-asg12156
-(lp23549
-S'Radio programs'
-p23550
-aS'Talk shows'
-p23551
-assg11829
-(dp23552
-g12148
-S'1946 February 03'
-p23553
-sg12150
-S'Cushing, George'
-p23554
-sg11
-g11832
-sg12152
-S'2/25/2015'
-p23555
-sg12154
-(lp23556
-g11827
-asg12156
-(lp23557
-S'Radio programs'
-p23558
-aS'Talk shows'
-p23559
-assg3243
-(dp23560
-g12148
-S'1955 January 26'
-p23561
-sg12150
-S'Crane, Henry Hitt'
-p23562
-sg11
-g3246
-sg12152
-S'6/24/2013'
-p23563
-sg12154
-(lp23564
-g3241
-ag3235
-asg12156
-(lp23565
-S'Sermons'
-p23566
-aS'Sermons'
-p23567
-assg9267
-(dp23568
+aS'Meetings'
+p23516
+assg10461
+(dp23517
 g12148
 S'[Undated]'
-p23569
+p23518
 sg12150
-S'Detroit Urban League'
-p23570
-sg11
-g9270
+S'Guild House (Ann Arbor, Mich.)'
+p23519
 sg12152
-S'6/24/2013'
-p23571
+S'6/05/2014'
+p23520
 sg12154
-(lp23572
-g9265
+(lp23521
+g10464
 asg12156
-(lp23573
-S'Addresses'
-p23574
-assg11859
-(dp23575
+(lp23522
+g10459
+asg12158
+(lp23523
+S'Conferences'
+p23524
+assg10689
+(dp23525
 g12148
-S'1968 April 05'
-p23576
+S'1976 July 01'
+p23526
+sg12150
+S'Hart, Philip A.'
+p23527
+sg12152
+S'11/01/2013'
+p23528
+sg12154
+(lp23529
+g10692
+asg12156
+(lp23530
+g10687
+asg12158
+(lp23531
+S'Press conferences'
+p23532
+assg11079
+(dp23533
+g12148
+S'1956 June 14'
+p23534
+sg12150
+S'Brucker, Wilber Marion'
+p23535
+sg12152
+S'11/01/2013'
+p23536
+sg12154
+(lp23537
+g11082
+asg12156
+(lp23538
+g11077
+asg12158
+(lp23539
+S'Dictation recordings'
+p23540
+aS'Reports'
+p23541
+assg8607
+(dp23542
+g12148
+S'1956 June 14'
+p23543
+sg12150
+S'Brucker, Wilber Marion'
+p23544
+sg12152
+S'11/01/2013'
+p23545
+sg12154
+(lp23546
+g8610
+asg12156
+(lp23547
+g8605
+asg12158
+(lp23548
+S'Dictation recordings'
+p23549
+aS'Reports'
+p23550
+assg2577
+(dp23551
+g12148
+S'1962 May 12'
+p23552
+sg12150
+S"University of Michigan. Men's Glee Club"
+p23553
+sg12152
+S'11/01/2013'
+p23554
+sg12154
+(lp23555
+g2580
+asg12156
+(lp23556
+g2575
+asg12158
+(lp23557
+S'Musical performances'
+p23558
+assg8895
+(dp23559
+g12148
+S'1950'
+p23560
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23561
+sg12152
+S'6/24/2013'
+p23562
+sg12154
+(lp23563
+g8898
+asg12156
+(lp23564
+g8893
+asg12158
+(lp23565
+S'Interviews'
+p23566
+aS'Radio programs'
+p23567
+aS'Panel discussions'
+p23568
+aS'Talk shows'
+p23569
+assg5097
+(dp23570
+g12148
+S'1956 July 14'
+p23571
+sg12150
+S'Brucker, Wilber Marion'
+p23572
+sg12152
+S'11/01/2013'
+p23573
+sg12154
+(lp23574
+g5100
+asg12156
+(lp23575
+g5095
+asg12158
+(lp23576
+S'Addresses'
 p23577
-sg11
-g11862
-sg12152
-S'6/24/2013'
+aS'Meetings'
 p23578
-sg12154
-(lp23579
-g11857
-asg12156
-(lp23580
-S'Radio programs'
+aS'Dinners'
+p23579
+assg5931
+(dp23580
+g12148
+S'1954 July 18'
 p23581
-aS'Memorial services'
+sg12150
+S'Cushing, George'
 p23582
-assg183
-(dp23583
-g12148
-S'1968'
-p23584
-sg12150
-S'Sinclair, John and Leni'
-p23585
-sg11
-g186
 sg12152
-S'6/24/2013'
-p23586
+S'2/25/2015'
+p23583
 sg12154
-(lp23587
-g181
+(lp23584
+g5934
 asg12156
-(lp23588
-S'Interviews'
-p23589
-aS'Radio programs'
+(lp23585
+g5929
+asg12158
+(lp23586
+S'Radio programs'
+p23587
+aS'Talk shows'
+p23588
+assg8715
+(dp23589
+g12148
+S'1977 April 02'
 p23590
-aS'Talk shows'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p23591
-assg10011
-(dp23592
-g12148
-S'1969 November'
-p23593
-sg12150
-S'Sinclair, John and Leni'
-p23594
-sg11
-g10014
 sg12152
-S'6/24/2013'
-p23595
+S'11/01/2013'
+p23592
 sg12154
-(lp23596
-g10009
-ag3877
-ag3889
-ag10003
+(lp23593
+g8718
 asg12156
-(lp23597
-S'Interviews'
+(lp23594
+g8713
+asg12158
+(lp23595
+S'Musical performances'
+p23596
+assg2487
+(dp23597
+g12148
+S'1977 April 02'
 p23598
-aS'Interviews'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p23599
-aS'Interviews'
+sg12152
+S'11/01/2013'
 p23600
-aS'Interviews'
-p23601
-assg8871
-(dp23602
-g12148
-S'1966 April 17'
-p23603
-sg12150
-S'Sinclair, John and Leni'
+sg12154
+(lp23601
+g2490
+asg12156
+(lp23602
+g2485
+asg12158
+(lp23603
+S'Musical performances'
 p23604
-sg11
-g8874
+assg7743
+(dp23605
+g12148
+S'1954 May 16'
+p23606
+sg12150
+S'Cushing, George'
+p23607
 sg12152
-S'6/24/2013'
-p23605
-sg12154
-(lp23606
-g8869
-asg12156
-(lp23607
-S'Interviews'
+S'2/25/2015'
 p23608
-assg6027
-(dp23609
-g12148
-S'1967 November 16'
-p23610
-sg12150
-S'Sinclair, John and Leni'
-p23611
-sg11
-g6030
-sg12152
-S'6/24/2013'
+sg12154
+(lp23609
+g7746
+asg12156
+(lp23610
+g7741
+asg12158
+(lp23611
+S'Radio programs'
 p23612
-sg12154
-(lp23613
-g6025
-asg12156
-(lp23614
-S'Interviews'
+aS'Talk shows'
+p23613
+assg8103
+(dp23614
+g12148
+S'1954 April 09'
 p23615
-assg12009
-(dp23616
-g12148
-S'[1976-1977?]'
+sg12150
+S'Cushing, George'
+p23616
+sg12152
+S'2/25/2015'
 p23617
-sg12150
-S'Sinclair, John and Leni'
-p23618
-sg11
-g12012
-sg12152
-S'6/24/2013'
-p23619
 sg12154
+(lp23618
+g8106
+asg12156
+(lp23619
+g8101
+asg12158
 (lp23620
-g12007
-asg12156
-(lp23621
-S'Interviews'
+S'Radio programs'
+p23621
+aS'Talk shows'
 p23622
-aS'Radio programs'
-p23623
-aS'Talk shows'
+assg11409
+(dp23623
+g12148
+S'1954 May 23'
 p23624
-assg3807
-(dp23625
-g12148
-S'[Undated]'
+sg12150
+S'Cushing, George'
+p23625
+sg12152
+S'2/25/2015'
 p23626
-sg12150
-S'Sinclair, John and Leni'
-p23627
-sg11
-g3810
-sg12152
-S'6/24/2013'
-p23628
 sg12154
+(lp23627
+g11412
+asg12156
+(lp23628
+g11407
+asg12158
 (lp23629
-g3805
-ag3799
-asg12156
-(lp23630
-S'Interviews'
+S'Radio programs'
+p23630
+aS'Talk shows'
 p23631
-aS'Radio programs'
-p23632
-aS'Talk shows'
+assg9105
+(dp23632
+g12148
+S'1954 May 23'
 p23633
-aS'Interviews'
+sg12150
+S'Cushing, George'
 p23634
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p23635
-aS'Talk shows'
-p23636
-assg11775
-(dp23637
-g12148
-S'[Undated]'
-p23638
-sg12150
-S'Sinclair, John and Leni'
+sg12154
+(lp23636
+g9108
+asg12156
+(lp23637
+g9103
+asg12158
+(lp23638
+S'Radio programs'
 p23639
-sg11
-g11778
-sg12152
-S'6/24/2013'
+aS'Talk shows'
 p23640
-sg12154
-(lp23641
-g11773
-asg12156
-(lp23642
-S'Interviews'
+assg5571
+(dp23641
+g12148
+S'1954 June 06'
+p23642
+sg12150
+S'Cushing, George'
 p23643
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p23644
-aS'Talk shows'
-p23645
-assg9189
-(dp23646
-g12148
-S'[Undated]'
-p23647
-sg12150
-S'Sinclair, John and Leni'
+sg12154
+(lp23645
+g5574
+asg12156
+(lp23646
+g5569
+asg12158
+(lp23647
+S'Radio programs'
 p23648
-sg11
-g9192
-sg12152
-S'6/24/2013'
+aS'Talk shows'
 p23649
-sg12154
-(lp23650
-g9187
-asg12156
-(lp23651
-S'Interviews'
+assg8247
+(dp23650
+g12148
+S'1954 May 30'
+p23651
+sg12150
+S'Cushing, George'
 p23652
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p23653
-aS'Talk shows'
-p23654
-assg12063
-(dp23655
-g12148
-S'[Undated]'
-p23656
-sg12150
-S'Sinclair, John and Leni'
+sg12154
+(lp23654
+g8250
+asg12156
+(lp23655
+g8245
+asg12158
+(lp23656
+S'Musical performances'
 p23657
-sg11
-g12066
-sg12152
-S'6/24/2013'
+aS'Radio programs'
 p23658
-sg12154
-(lp23659
-g12061
-asg12156
-(lp23660
-S'Interviews'
+aS'Talk shows'
+p23659
+assg1797
+(dp23660
+g12148
+S'1954 July 04'
 p23661
-aS'Radio programs'
+sg12150
+S'Cushing, George'
 p23662
-aS'Talk shows'
+sg12152
+S'2/25/2015'
 p23663
-assg2601
-(dp23664
-g12148
-S'[Undated]'
-p23665
-sg12150
-S'Sinclair, John and Leni'
-p23666
-sg11
-g2604
-sg12152
-S'6/24/2013'
+sg12154
+(lp23664
+g1800
+asg12156
+(lp23665
+g1795
+asg12158
+(lp23666
+S'Radio programs'
 p23667
-sg12154
-(lp23668
-g2599
-asg12156
-(lp23669
-S'Interviews'
-p23670
-aS'Radio programs'
-p23671
 aS'Talk shows'
+p23668
+assg8841
+(dp23669
+g12148
+S'1954 June 27'
+p23670
+sg12150
+S'Cushing, George'
+p23671
+sg12152
+S'2/25/2015'
 p23672
-assg3063
-(dp23673
-g12148
-S'1978 June 29'
-p23674
-sg12150
-S'Albright, William'
-p23675
-sg11
-g3066
-sg12152
-S'11/9/2012'
+sg12154
+(lp23673
+g8844
+asg12156
+(lp23674
+g8839
+asg12158
+(lp23675
+S'Radio programs'
 p23676
-sg12154
-(lp23677
-g3061
-asg12156
-(lp23678
-S'Musical performances'
+aS'Talk shows'
+p23677
+assg1437
+(dp23678
+g12148
+S'1955 June 26'
 p23679
-assg357
-(dp23680
-g12148
-S'1982 October 31, 1981 September'
+sg12150
+S'Cushing, George'
+p23680
+sg12152
+S'2/25/2015'
 p23681
-sg12150
-S'Albright, William'
-p23682
-sg11
-g360
-sg12152
-S'11/9/2012'
-p23683
 sg12154
+(lp23682
+g1440
+asg12156
+(lp23683
+g1435
+asg12158
 (lp23684
-g355
-ag361
-asg12156
-(lp23685
-S'Musical performances'
+S'Radio programs'
+p23685
+aS'Talk shows'
 p23686
-aS'Musical performances'
-p23687
-assg6495
-(dp23688
+assg3435
+(dp23687
 g12148
-S'1971 March 03'
-p23689
+S'1963 May 18'
+p23688
 sg12150
-S'Albright, William'
-p23690
-sg11
-g6498
+S"University of Michigan. Men's Glee Club"
+p23689
 sg12152
-S'10/29/2012'
-p23691
+S'11/01/2013'
+p23690
 sg12154
-(lp23692
-g6493
+(lp23691
+g3438
 asg12156
+(lp23692
+g3433
+asg12158
 (lp23693
 S'Musical performances'
 p23694
-assg9309
+assg6939
 (dp23695
 g12148
-S'[Undated]'
+S'1961 June 17'
 p23696
 sg12150
-S'Albright, William'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p23697
-sg11
-g9312
 sg12152
-S'10/29/2012'
+S'6/24/2013'
 p23698
 sg12154
 (lp23699
-g9307
+g6942
+ag6936
 asg12156
 (lp23700
-S'Musical performances'
-p23701
-assg6333
-(dp23702
-g12148
-S'1971 May 25-26'
+g6937
+ag6931
+asg12158
+(lp23701
+S'Addresses'
+p23702
+aS'Radio programs'
 p23703
-sg12150
-S'Albright, William'
+aS'Addresses'
 p23704
-sg11
-g6336
-sg12152
-S'10/29/2012'
+aS'Radio programs'
 p23705
-sg12154
-(lp23706
-g6331
-asg12156
-(lp23707
-S'Musical performances'
-p23708
-assg3597
-(dp23709
+assg3129
+(dp23706
 g12148
-S'1974 April, 1979 May 07'
-p23710
-sg12150
-S'Albright, William'
-p23711
-sg11
-g3600
-sg12152
-S'10/29/2012'
-p23712
-sg12154
-(lp23713
-g3595
-asg12156
-(lp23714
-S'Musical performances'
-p23715
-assg9735
-(dp23716
-g12148
-S'[Undated]'
-p23717
-sg12150
-S'Albright, William'
-p23718
-sg11
-g9738
-sg12152
-S'11/1/2012'
-p23719
-sg12154
-(lp23720
-g9733
-asg12156
-(lp23721
-S'Musical performances'
-p23722
-assg9273
-(dp23723
-g12148
-S'1977 February'
-p23724
-sg12150
-S'Albright, William'
-p23725
-sg11
-g9276
-sg12152
-S'10/29/2012'
-p23726
-sg12154
-(lp23727
-g9271
-asg12156
-(lp23728
-S'Musical performances'
-p23729
-assg6669
-(dp23730
-g12148
-S'[Undated]'
-p23731
-sg12150
-S'Albright, William'
-p23732
-sg11
-g6672
-sg12152
-S'11/9/2012'
-p23733
-sg12154
-(lp23734
-g6667
-ag6661
-asg12156
-(lp23735
-S'Musical performances'
-p23736
-aS'Musical performances'
-p23737
-assg9327
-(dp23738
-g12148
-S'[Undated]'
-p23739
-sg12150
-S'Albright, William'
-p23740
-sg11
-g9330
-sg12152
-S'11/9/2012'
-p23741
-sg12154
-(lp23742
-g9325
-asg12156
-(lp23743
-S'Musical performances'
-p23744
-assg471
-(dp23745
-g12148
-S'1983 March 25'
-p23746
+S'1963 May 18'
+p23707
 sg12150
 S"University of Michigan. Men's Glee Club"
-p23747
-sg11
-g474
+p23708
 sg12152
 S'11/01/2013'
-p23748
+p23709
 sg12154
-(lp23749
-g469
+(lp23710
+g3132
 asg12156
-(lp23750
+(lp23711
+g3127
+asg12158
+(lp23712
 S'Musical performances'
+p23713
+assg519
+(dp23714
+g12148
+S'1962 January 03'
+p23715
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23716
+sg12152
+S'6/24/2013'
+p23717
+sg12154
+(lp23718
+g522
+asg12156
+(lp23719
+g517
+asg12158
+(lp23720
+S'Interviews'
+p23721
+aS'Radio programs'
+p23722
+aS'Talk shows'
+p23723
+assg1119
+(dp23724
+g12148
+S'1962 April 30'
+p23725
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23726
+sg12152
+S'6/24/2013'
+p23727
+sg12154
+(lp23728
+g1122
+asg12156
+(lp23729
+g1117
+asg12158
+(lp23730
+S'Interviews'
+p23731
+aS'Radio programs'
+p23732
+aS'Talk shows'
+p23733
+assg10101
+(dp23734
+g12148
+S'1944 December 10'
+p23735
+sg12150
+S'Cushing, George'
+p23736
+sg12152
+S'2/25/2015'
+p23737
+sg12154
+(lp23738
+g10104
+asg12156
+(lp23739
+g10099
+asg12158
+(lp23740
+S'Radio programs'
+p23741
+aS'Talk shows'
+p23742
+assg597
+(dp23743
+g12148
+S'1944 December 03'
+p23744
+sg12150
+S'Cushing, George'
+p23745
+sg12152
+S'2/25/2015'
+p23746
+sg12154
+(lp23747
+g600
+asg12156
+(lp23748
+g595
+asg12158
+(lp23749
+S'Radio programs'
+p23750
+aS'Talk shows'
 p23751
-assg735
+assg591
 (dp23752
 g12148
-S'1983 March 25'
+S'[Undated]'
 p23753
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p23754
-sg11
-g738
 sg12152
-S'11/01/2013'
+S'6/24/2013'
 p23755
 sg12154
 (lp23756
-g733
+g594
 asg12156
 (lp23757
-S'Musical performances'
-p23758
-assg3405
-(dp23759
-g12148
-S'1983 March 25'
+g589
+asg12158
+(lp23758
+S'Interviews'
+p23759
+aS'Radio programs'
 p23760
-sg12150
-S"University of Michigan. Men's Glee Club"
+aS'Talk shows'
 p23761
-sg11
-g3408
+assg7083
+(dp23762
+g12148
+S'1961 December 27'
+p23763
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23764
 sg12152
-S'11/01/2013'
-p23762
-sg12154
-(lp23763
-g3403
-asg12156
-(lp23764
-S'Musical performances'
+S'6/24/2013'
 p23765
-assg6837
-(dp23766
-g12148
-S'1983 March 25'
-p23767
-sg12150
-S"University of Michigan. Men's Glee Club"
-p23768
-sg11
-g6840
-sg12152
-S'11/01/2013'
+sg12154
+(lp23766
+g7086
+asg12156
+(lp23767
+g7081
+asg12158
+(lp23768
+S'Interviews'
 p23769
-sg12154
-(lp23770
-g6835
-asg12156
-(lp23771
-S'Musical performances'
-p23772
-assg7203
-(dp23773
+aS'Radio programs'
+p23770
+aS'Talk shows'
+p23771
+assg4011
+(dp23772
 g12148
-S'1970 April 3'
+S'1963 November 12'
+p23773
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p23774
+sg12152
+S'6/24/2013'
+p23775
+sg12154
+(lp23776
+g4014
+asg12156
+(lp23777
+g4009
+asg12158
+(lp23778
+S'Interviews'
+p23779
+aS'Radio programs'
+p23780
+aS'Talk shows'
+p23781
+assg6621
+(dp23782
+g12148
+S'1963, 1964'
+p23783
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p23784
+sg12152
+S'6/24/2013'
+p23785
+sg12154
+(lp23786
+g6624
+asg12156
+(lp23787
+g6619
+asg12158
+(lp23788
+S'Interviews'
+p23789
+aS'Radio programs'
+p23790
+aS'Talk shows'
+p23791
+assg6885
+(dp23792
+g12148
+S'1944 December 31'
+p23793
+sg12150
+S'Cushing, George'
+p23794
+sg12152
+S'2/25/2015'
+p23795
+sg12154
+(lp23796
+g6888
+asg12156
+(lp23797
+g6883
+asg12158
+(lp23798
+S'Radio programs'
+p23799
+aS'Talk shows'
+p23800
+assg4233
+(dp23801
+g12148
+S'1944 December 17'
+p23802
+sg12150
+S'Cushing, George'
+p23803
+sg12152
+S'2/25/2015'
+p23804
+sg12154
+(lp23805
+g4236
+asg12156
+(lp23806
+g4231
+asg12158
+(lp23807
+S'Radio programs'
+p23808
+aS'Talk shows'
+p23809
+assg10167
+(dp23810
+g12148
+S'1971 March 28'
+p23811
+sg12150
+S'Detroit Urban League'
+p23812
+sg12152
+S'6/24/2013'
+p23813
+sg12154
+(lp23814
+g10170
+asg12156
+(lp23815
+g10165
+asg12158
+(lp23816
+S'Addresses'
+p23817
+assg1941
+(dp23818
+g12148
+S'1969 June 26'
+p23819
+sg12150
+S'Detroit Urban League'
+p23820
+sg12152
+S'6/24/2013'
+p23821
+sg12154
+(lp23822
+g1944
+asg12156
+(lp23823
+g1939
+asg12158
+(lp23824
+S'Addresses'
+p23825
+assg1749
+(dp23826
+g12148
+S'1963 October 06, 1963 October 10'
+p23827
+sg12150
+S'Kramer, Arthur W.'
+p23828
+sg12152
+S'6/05/2014'
+p23829
+sg12154
+(lp23830
+g1752
+asg12156
+(lp23831
+g1747
+ag11143
+asg12158
+(lp23832
+S'Addresses'
+p23833
+aS'Addresses'
+p23834
+assg9837
+(dp23835
+g12148
+S'1980 April 19'
+p23836
 sg12150
 S"University of Michigan. Men's Glee Club"
-p23775
-sg11
-g7206
+p23837
 sg12152
 S'11/01/2013'
-p23776
+p23838
 sg12154
-(lp23777
-g7201
-ag7219
-asg12156
-(lp23778
-S'Musical performances'
-p23779
-aS'Musical performances'
-p23780
-assg3321
-(dp23781
-g12148
-S'1970 July 07'
-p23782
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23783
-sg11
-g3324
-sg12152
-S'6/24/2013'
-p23784
-sg12154
-(lp23785
-g3319
-asg12156
-(lp23786
-S'Radio programs'
-p23787
-aS'Panel discussions'
-p23788
-assg711
-(dp23789
-g12148
-S'1966 June 25'
-p23790
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23791
-sg11
-g714
-sg12152
-S'6/24/2013'
-p23792
-sg12154
-(lp23793
-g709
-asg12156
-(lp23794
-S'Oral Histories'
-p23795
-aS'Radio programs'
-p23796
-aS'Documentaries'
-p23797
-assg9891
-(dp23798
-g12148
-S'1966 June 30'
-p23799
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23800
-sg11
-g9894
-sg12152
-S'6/24/2013'
-p23801
-sg12154
-(lp23802
-g9889
-asg12156
-(lp23803
-S'Oral Histories'
-p23804
-aS'Radio programs'
-p23805
-aS'Documentaries'
-p23806
-assg411
-(dp23807
-g12148
-S'1966 March 10'
-p23808
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23809
-sg11
-g414
-sg12152
-S'6/24/2013'
-p23810
-sg12154
-(lp23811
-g409
-asg12156
-(lp23812
-S'Oral Histories'
-p23813
-aS'Radio programs'
-p23814
-aS'Documentaries'
-p23815
-assg3327
-(dp23816
-g12148
-S'1967 June 30'
-p23817
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23818
-sg11
-g3330
-sg12152
-S'6/24/2013'
-p23819
-sg12154
-(lp23820
-g3325
-asg12156
-(lp23821
-S'Oral Histories'
-p23822
-aS'Radio programs'
-p23823
-aS'Documentaries'
-p23824
-assg621
-(dp23825
-g12148
-S'1966 July 14'
-p23826
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23827
-sg11
-g624
-sg12152
-S'6/24/2013'
-p23828
-sg12154
-(lp23829
-g619
-asg12156
-(lp23830
-S'Oral Histories'
-p23831
-aS'Radio programs'
-p23832
-aS'Documentaries'
-p23833
-assg6381
-(dp23834
-g12148
-S'1966 February 11'
-p23835
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23836
-sg11
-g6384
-sg12152
-S'6/24/2013'
-p23837
-sg12154
-(lp23838
-g6379
-ag6367
-asg12156
 (lp23839
-S'Oral Histories'
-p23840
-aS'Radio programs'
-p23841
-aS'Documentaries'
+g9840
+asg12156
+(lp23840
+g9835
+asg12158
+(lp23841
+S'Musical performances'
 p23842
-aS'Oral Histories'
-p23843
-aS'Radio programs'
+assg3561
+(dp23843
+g12148
+S'1980 April 19'
 p23844
-aS'Documentaries'
+sg12150
+S"University of Michigan. Men's Glee Club"
 p23845
-assg2661
-(dp23846
-g12148
-S'1966 April 17'
-p23847
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p23848
-sg11
-g2664
 sg12152
-S'6/24/2013'
-p23849
+S'11/01/2013'
+p23846
 sg12154
-(lp23850
-g2659
-ag2653
+(lp23847
+g3564
 asg12156
-(lp23851
-S'Oral Histories'
+(lp23848
+g3559
+asg12158
+(lp23849
+S'Musical performances'
+p23850
+assg1347
+(dp23851
+g12148
+S'[Undated]'
 p23852
-aS'Radio programs'
+sg12150
+S'Sinclair, John and Leni'
 p23853
-aS'Documentaries'
+sg12152
+S'6/24/2013'
 p23854
-aS'Oral Histories'
-p23855
-aS'Radio programs'
-p23856
-aS'Documentaries'
-p23857
-assg669
-(dp23858
+sg12154
+(lp23855
+g1350
+asg12156
+(lp23856
+g1345
+asg12158
+(lp23857
+S'Interviews'
+p23858
+assg1167
+(dp23859
 g12148
-S'1985'
-p23859
-sg12150
-S'Sinclair, John and Leni'
+S'1971'
 p23860
-sg11
-g672
-sg12152
-S'6/24/2013'
+sg12150
+S'Sinclair, John and Leni'
 p23861
+sg12152
+S'6/24/2013'
+p23862
 sg12154
-(lp23862
-g667
-asg12156
 (lp23863
-S'Musical performances'
-p23864
-aS'Poetry readings'
-p23865
-assg7095
-(dp23866
-g12148
-S'1985'
+g1170
+asg12156
+(lp23864
+g1165
+asg12158
+(lp23865
+S'Interviews'
+p23866
+aS'Radio programs'
 p23867
-sg12150
-S'Sinclair, John and Leni'
-p23868
-sg11
-g7098
-sg12152
-S'6/24/2013'
-p23869
-sg12154
-(lp23870
-g7093
-asg12156
-(lp23871
-S'Musical performances'
-p23872
 aS'Poetry readings'
-p23873
-assg963
-(dp23874
+p23868
+aS'Talk shows'
+p23869
+assg861
+(dp23870
 g12148
-S'1972'
-p23875
+S'1969 December 31'
+p23871
 sg12150
 S'Sinclair, John and Leni'
-p23876
-sg11
-g966
+p23872
 sg12152
 S'6/24/2013'
-p23877
+p23873
 sg12154
-(lp23878
-g961
+(lp23874
+g864
 asg12156
-(lp23879
-S'Poetry readings'
+(lp23875
+g859
+asg12158
+(lp23876
+S'Musical performances'
+p23877
+aS'Interviews'
+p23878
+aS'Radio programs'
+p23879
+aS'Talk shows'
 p23880
-assg9939
+assg1503
 (dp23881
 g12148
-S'1972'
+S'1969 December 07'
 p23882
 sg12150
 S'Sinclair, John and Leni'
 p23883
-sg11
-g9942
 sg12152
 S'6/24/2013'
 p23884
 sg12154
 (lp23885
-g9937
+g1506
 asg12156
 (lp23886
-S'Poetry readings'
-p23887
-assg681
-(dp23888
-g12148
-S'1947 November 03'
+g1501
+asg12158
+(lp23887
+S'Addresses'
+p23888
+aS'Interviews'
 p23889
-sg12150
-S'Cushing, George'
-p23890
-sg11
-g684
-sg12152
-S'2/25/2015'
+assg4287
+(dp23890
+g12148
+S'1970 June 07'
 p23891
+sg12150
+S'Sinclair, John and Leni'
+p23892
+sg12152
+S'6/24/2013'
+p23893
 sg12154
-(lp23892
-g679
+(lp23894
+g4290
 asg12156
-(lp23893
-S'Radio programs'
-p23894
-aS'Talk shows'
-p23895
-assg7101
-(dp23896
-g12148
-S'1947 November 11'
+(lp23895
+g4285
+asg12158
+(lp23896
+S'Musical performances'
 p23897
-sg12150
-S'Cushing, George'
+aS'Interviews'
 p23898
-sg11
-g7104
-sg12152
-S'2/25/2015'
+aS'Radio programs'
 p23899
-sg12154
-(lp23900
-g7099
-asg12156
-(lp23901
-S'Radio programs'
-p23902
 aS'Talk shows'
+p23900
+assg6945
+(dp23901
+g12148
+S'1969 December 31'
+p23902
+sg12150
+S'Sinclair, John and Leni'
 p23903
-assg759
-(dp23904
-g12148
-S'1964 April 21'
-p23905
-sg12150
-S'Hart, Philip A.'
-p23906
-sg11
-g762
 sg12152
-S'11/01/2013'
-p23907
+S'6/24/2013'
+p23904
 sg12154
-(lp23908
-g757
+(lp23905
+g6948
 asg12156
-(lp23909
-S'Conferences'
+(lp23906
+g6943
+asg12158
+(lp23907
+S'Musical performances'
+p23908
+aS'Interviews'
+p23909
+aS'Radio programs'
 p23910
-assg10215
-(dp23911
+aS'Talk shows'
+p23911
+assg11577
+(dp23912
 g12148
-S'1964 April 21'
-p23912
-sg12150
-S'Hart, Philip A.'
+S'1971 December 20'
 p23913
-sg11
-g10218
-sg12152
-S'11/01/2013'
+sg12150
+S'Sinclair, John and Leni'
 p23914
+sg12152
+S'6/24/2013'
+p23915
 sg12154
-(lp23915
-g10213
-asg12156
 (lp23916
-S'Conferences'
-p23917
-assg4149
-(dp23918
-g12148
-S'1964 April 21'
+g11580
+asg12156
+(lp23917
+g11575
+ag11581
+asg12158
+(lp23918
+S'Musical performances'
 p23919
-sg12150
-S'Hart, Philip A.'
+aS'Interviews'
 p23920
-sg11
-g4152
-sg12152
-S'11/01/2013'
+aS'Radio programs'
 p23921
-sg12154
-(lp23922
-g4147
-asg12156
-(lp23923
-S'Conferences'
+aS'Poetry readings'
+p23922
+aS'Talk shows'
+p23923
+aS'Musical performances'
 p23924
-assg6825
-(dp23925
-g12148
-S'1964 April 21'
+aS'Interviews'
+p23925
+aS'Radio programs'
 p23926
-sg12150
-S'Hart, Philip A.'
+aS'Poetry readings'
 p23927
-sg11
-g6828
-sg12152
-S'11/01/2013'
+aS'Talk shows'
 p23928
-sg12154
-(lp23929
-g6823
-asg12156
-(lp23930
-S'Conferences'
-p23931
-assg4137
-(dp23932
+assg8433
+(dp23929
 g12148
-S'1947 September 28'
-p23933
+S'1971 December 20'
+p23930
 sg12150
-S'Cushing, George'
-p23934
-sg11
-g4140
+S'Sinclair, John and Leni'
+p23931
 sg12152
-S'2/25/2015'
-p23935
+S'6/24/2013'
+p23932
 sg12154
-(lp23936
-g4135
+(lp23933
+g8436
 asg12156
-(lp23937
-S'Radio programs'
+(lp23934
+g8431
+asg12158
+(lp23935
+S'Musical performances'
+p23936
+aS'Interviews'
+p23937
+aS'Radio programs'
 p23938
 aS'Talk shows'
 p23939
-assg6819
+assg4359
 (dp23940
 g12148
-S'1947 October 02'
+S'1971'
 p23941
 sg12150
-S'Cushing, George'
+S'Sinclair, John and Leni'
 p23942
-sg11
-g6822
 sg12152
-S'2/25/2015'
+S'6/24/2013'
 p23943
 sg12154
 (lp23944
-g6817
+g4362
 asg12156
 (lp23945
-S'Radio programs'
-p23946
-aS'Talk shows'
+g4357
+asg12158
+(lp23946
+S'Musical performances'
 p23947
-assg4209
-(dp23948
-g12148
-S'1964 March 31'
+aS'Interviews'
+p23948
+aS'Radio programs'
 p23949
-sg12150
-S'Hart, Philip A.'
+aS'Talk shows'
 p23950
-sg11
-g4212
+assg6987
+(dp23951
+g12148
+S'1971'
+p23952
+sg12150
+S'Sinclair, John and Leni'
+p23953
 sg12152
-S'11/01/2013'
-p23951
-sg12154
-(lp23952
-g4207
-asg12156
-(lp23953
-S'Radio programs'
+S'6/24/2013'
 p23954
-aS'Debates'
-p23955
-assg10221
-(dp23956
-g12148
-S'1947 September 21'
-p23957
-sg12150
-S'Cushing, George'
+sg12154
+(lp23955
+g6990
+asg12156
+(lp23956
+g6985
+asg12158
+(lp23957
+S'Dialogues'
 p23958
-sg11
-g10224
+assg1611
+(dp23959
+g12148
+S'1949 May 01, 1950 May 07, 1951 May 21, 1951 November 21'
+p23960
+sg12150
+S'Crane, Henry Hitt'
+p23961
 sg12152
-S'2/25/2015'
-p23959
-sg12154
-(lp23960
-g10219
-asg12156
-(lp23961
-S'Radio programs'
+S'6/24/2013'
 p23962
-aS'Talk shows'
-p23963
-assg6429
-(dp23964
-g12148
-S'1954 June 13'
-p23965
-sg12150
-S'Moody, Blair'
+sg12154
+(lp23963
+g1614
+ag1620
+ag4332
+asg12156
+(lp23964
+g1609
+ag1615
+ag4327
+asg12158
+(lp23965
+S'Sermons'
 p23966
-sg11
-g6432
-sg12152
-S'2/25/2015'
+aS'Sermons'
 p23967
-sg12154
-(lp23968
-g6427
-asg12156
-(lp23969
-S'Radio programs'
+aS'Sermons'
+p23968
+assg2019
+(dp23969
+g12148
+S'1978 February 21'
 p23970
-aS'Talk shows'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p23971
-assg7749
-(dp23972
-g12148
-S'1962 January 09'
-p23973
-sg12150
-S'Romney, George'
-p23974
-sg11
-g7752
 sg12152
-S'6/05/2014'
-p23975
+S'6/24/2013'
+p23972
 sg12154
-(lp23976
-g7747
+(lp23973
+g2022
 asg12156
-(lp23977
-S'Debates'
-p23978
-assg1365
-(dp23979
+(lp23974
+g2017
+asg12158
+(lp23975
+S'Radio programs'
+p23976
+aS'Poetry readings'
+p23977
+assg3411
+(dp23978
 g12148
-S'1962 February 03'
+S'1949 September 17, 1950 October 29, [Undated], 1951 Spring'
+p23979
+sg12150
+S'Crane, Henry Hitt'
 p23980
-sg12150
-S'Romney, George'
-p23981
-sg11
-g1368
 sg12152
-S'6/05/2014'
-p23982
+S'6/24/2013'
+p23981
 sg12154
-(lp23983
-g1363
+(lp23982
+g3414
+ag4656
 asg12156
+(lp23983
+g3409
+ag4651
+asg12158
 (lp23984
-S'Interviews'
+S'Sermons'
 p23985
-aS'Television'
+aS'Sermons'
 p23986
-assg9561
+assg7851
 (dp23987
 g12148
-S'1962 January 09'
+S'1950 February 19, 1952 May 19'
 p23988
 sg12150
-S'Romney, George'
+S'Crane, Henry Hitt'
 p23989
-sg11
-g9564
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p23990
 sg12154
 (lp23991
-g9559
+g7854
 asg12156
 (lp23992
-S'Debates'
-p23993
-assg8055
-(dp23994
-g12148
-S'1962 January 09'
+g7849
+ag7843
+asg12158
+(lp23993
+S'Sermons'
+p23994
+aS'Sermons'
 p23995
-sg12150
-S'Romney, George'
-p23996
-sg11
-g8058
-sg12152
-S'6/05/2014'
+assg5307
+(dp23996
+g12148
+S'1963 March 01'
 p23997
-sg12154
-(lp23998
-g8053
-asg12156
-(lp23999
-S'Debates'
-p24000
-assg7779
-(dp24001
-g12148
-S'1962 February 03'
-p24002
 sg12150
-S'Romney, George'
+S'Kramer, Arthur W.'
+p23998
+sg12152
+S'6/05/2014'
+p23999
+sg12154
+(lp24000
+g5310
+asg12156
+(lp24001
+g5305
+ag5293
+asg12158
+(lp24002
+S'Lectures'
 p24003
-sg11
-g7782
-sg12152
-S'6/05/2014'
+aS'Sound tracks'
 p24004
-sg12154
-(lp24005
-g7777
-asg12156
-(lp24006
-S'Interviews'
+aS'Radio programs'
+p24005
+aS'Lectures'
+p24006
+aS'Sound tracks'
 p24007
-assg5013
-(dp24008
+aS'Radio programs'
+p24008
+assg10413
+(dp24009
 g12148
-S'1962 December 04'
-p24009
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'[Undated]'
 p24010
-sg11
-g5016
-sg12152
-S'6/24/2013'
-p24011
-sg12154
-(lp24012
-g5011
-asg12156
-(lp24013
-S'Radio programs'
-p24014
-aS'Poetry readings'
-p24015
-assg555
-(dp24016
-g12148
-S'1973 September 06'
-p24017
 sg12150
-S'Michigan Organization for Human Rights'
-p24018
-sg11
-g558
+S'Historica Critica'
+p24011
 sg12152
 S'6/05/2014'
+p24012
+sg12154
+(lp24013
+g10416
+asg12156
+(lp24014
+g10411
+asg12158
+(lp24015
+S'Oral Histories'
+p24016
+aS'Interviews'
+p24017
+assg10947
+(dp24018
+g12148
+S'1965, 1979, [Undated]'
 p24019
-sg12154
-(lp24020
-g553
-asg12156
-(lp24021
-S'Radio programs'
-p24022
-assg5085
-(dp24023
-g12148
-S'1970'
-p24024
 sg12150
 S'Albright, William'
+p24020
+sg12152
+S'11/1/2012'
+p24021
+sg12154
+(lp24022
+g10950
+asg12156
+(lp24023
+g10945
+ag10939
+asg12158
+(lp24024
+S'Musical performances'
 p24025
-sg11
-g5088
-sg12152
-S'6/24/2013'
+aS'Musical performances'
 p24026
-sg12154
-(lp24027
-g5083
-asg12156
-(lp24028
-S'Musical performances'
-p24029
-assg2409
-(dp24030
+assg1431
+(dp24027
 g12148
-S'1969 June 11'
-p24031
+S'1967, 1974, 1977'
+p24028
 sg12150
 S'Albright, William'
-p24032
-sg11
-g2412
+p24029
 sg12152
-S'6/24/2013'
-p24033
+S'11/1/2012'
+p24030
 sg12154
-(lp24034
-g2407
+(lp24031
+g1434
 asg12156
-(lp24035
+(lp24032
+g1429
+asg12158
+(lp24033
 S'Musical performances'
+p24034
+assg7701
+(dp24035
+g12148
+S'1981 October 16'
 p24036
-assg12003
-(dp24037
-g12148
-S'1958 January 31'
+sg12150
+S'Albright, William'
+p24037
+sg12152
+S'11/1/2012'
 p24038
-sg12150
-S'Brucker, Wilber Marion'
-p24039
-sg11
-g12006
-sg12152
-S'11/01/2013'
-p24040
 sg12154
+(lp24039
+g7704
+asg12156
+(lp24040
+g7699
+asg12158
 (lp24041
-g12001
-asg12156
-(lp24042
-S'Radio programs'
-p24043
-assg6609
-(dp24044
+S'Musical performances'
+p24042
+assg4965
+(dp24043
 g12148
-S'1944 November 26'
+S'[Undated]'
+p24044
+sg12150
+S'Albright, William'
 p24045
-sg12150
-S'Cushing, George'
+sg12152
+S'11/1/2012'
 p24046
-sg11
-g6612
-sg12152
-S'2/25/2015'
-p24047
 sg12154
+(lp24047
+g4968
+asg12156
 (lp24048
-g6607
-asg12156
+g4963
+asg12158
 (lp24049
-S'Radio programs'
+S'Musical performances'
 p24050
-aS'Talk shows'
-p24051
-assg4005
-(dp24052
+assg1905
+(dp24051
 g12148
-S'1944 November 12'
+S'1967 November, 1968 March 28'
+p24052
+sg12150
+S'Albright, William'
 p24053
-sg12150
-S'Cushing, George'
+sg12152
+S'11/1/2012'
 p24054
-sg11
-g4008
-sg12152
-S'2/25/2015'
-p24055
 sg12154
+(lp24055
+g1908
+asg12156
 (lp24056
-g4003
-asg12156
+g1903
+asg12158
 (lp24057
-S'Radio programs'
+S'Musical performances'
 p24058
-aS'Talk shows'
-p24059
-assg5985
-(dp24060
+assg7857
+(dp24059
 g12148
-S'1970 March 14'
-p24061
+S'[Undated]'
+p24060
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p24062
-sg11
-g5988
+S'Albright, William'
+p24061
 sg12152
-S'6/24/2013'
-p24063
+S'11/1/2012'
+p24062
 sg12154
-(lp24064
-g5983
+(lp24063
+g7860
 asg12156
+(lp24064
+g7855
+ag7861
+asg12158
 (lp24065
-S'Addresses'
+S'Musical performances'
 p24066
-aS'Radio programs'
+aS'Musical performances'
 p24067
-assg9897
+assg5139
 (dp24068
 g12148
-S'1959 March 18'
+S'[Undated]'
 p24069
 sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
+S'Albright, William'
 p24070
-sg11
-g9900
 sg12152
-S'6/24/2013'
+S'11/1/2012'
 p24071
 sg12154
 (lp24072
-g9895
+g5142
 asg12156
 (lp24073
-S'Interviews'
-p24074
-aS'Radio programs'
+g5137
+asg12158
+(lp24074
+S'Musical performances'
 p24075
-aS'Talk shows'
-p24076
-assg1911
-(dp24077
+assg11121
+(dp24076
 g12148
-S'1984 April 07'
-p24078
+S'1979'
+p24077
 sg12150
-S"University of Michigan. Men's Glee Club"
-p24079
-sg11
-g1914
+S'Albright, William'
+p24078
 sg12152
-S'11/01/2013'
-p24080
+S'11/1/2012'
+p24079
 sg12154
-(lp24081
-g1909
-ag1915
+(lp24080
+g11124
 asg12156
+(lp24081
+g11119
+asg12158
 (lp24082
 S'Musical performances'
 p24083
-aS'Musical performances'
-p24084
-assg9885
-(dp24085
+assg1455
+(dp24084
 g12148
-S'1944 September 24'
-p24086
+S'[Undated]'
+p24085
 sg12150
-S'Cushing, George'
-p24087
-sg11
-g9888
+S'Albright, William'
+p24086
 sg12152
-S'2/25/2015'
-p24088
+S'11/1/2012'
+p24087
 sg12154
-(lp24089
-g9883
+(lp24088
+g1458
 asg12156
+(lp24089
+g1453
+ag1441
+asg12158
 (lp24090
-S'Radio programs'
+S'Musical performances'
 p24091
-aS'Talk shows'
+aS'Musical performances'
 p24092
-assg3555
+assg5301
 (dp24093
 g12148
-S'1960 May 14'
+S'1943 March 07'
 p24094
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Cushing, George'
 p24095
-sg11
-g3558
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p24096
 sg12154
 (lp24097
-g3553
+g5304
 asg12156
 (lp24098
-S'Musical performances'
-p24099
-assg6285
-(dp24100
-g12148
-S'1969 June 22'
+g5299
+asg12158
+(lp24099
+S'Radio programs'
+p24100
+aS'Talk shows'
 p24101
-sg12150
-S"University of Michigan. Men's Glee Club"
-p24102
-sg11
-g6288
-sg12152
-S'11/01/2013'
+assg7995
+(dp24102
+g12148
+S'1943 March 14'
 p24103
-sg12154
-(lp24104
-g6283
-asg12156
-(lp24105
-S'Musical performances'
-p24106
-assg225
-(dp24107
-g12148
-S'1969 June 22'
-p24108
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Cushing, George'
+p24104
+sg12152
+S'2/25/2015'
+p24105
+sg12154
+(lp24106
+g7998
+asg12156
+(lp24107
+g7993
+asg12158
+(lp24108
+S'Radio programs'
 p24109
-sg11
-g228
-sg12152
-S'11/01/2013'
+aS'Talk shows'
 p24110
-sg12154
-(lp24111
-g223
-asg12156
-(lp24112
-S'Musical performances'
+assg4461
+(dp24111
+g12148
+S'1965 July 30'
+p24112
+sg12150
+S'Williams, Robert F.'
 p24113
-assg9699
-(dp24114
-g12148
-S'1960 May 14'
-p24115
-sg12150
-S"University of Michigan. Men's Glee Club"
-p24116
-sg11
-g9702
 sg12152
-S'11/01/2013'
-p24117
+S'2/25/2015'
+p24114
 sg12154
-(lp24118
-g9697
+(lp24115
+g4464
 asg12156
-(lp24119
-S'Musical performances'
+(lp24116
+g4459
+asg12158
+(lp24117
+S'Radio programs'
+p24118
+assg7299
+(dp24119
+g12148
+S'1966'
 p24120
-assg1125
-(dp24121
-g12148
-S'1944 November 05'
+sg12150
+S'Williams, Robert F.'
+p24121
+sg12152
+S'2/25/2015'
 p24122
-sg12150
-S'Cushing, George'
-p24123
-sg11
-g1128
-sg12152
-S'2/25/2015'
-p24124
 sg12154
+(lp24123
+g7302
+asg12156
+(lp24124
+g7297
+ag7045
+ag7309
+ag1885
+asg12158
 (lp24125
-g1123
-asg12156
-(lp24126
-S'Radio programs'
+S'Rallies'
+p24126
+aS'Rallies'
 p24127
-aS'Talk shows'
+aS'Rallies'
 p24128
-assg3615
-(dp24129
+aS'Rallies'
+p24129
+assg11733
+(dp24130
 g12148
-S'1944 October 15'
-p24130
+S'1966 August 08'
+p24131
+sg12150
+S'Williams, Robert F.'
+p24132
+sg12152
+S'2/25/2015'
+p24133
+sg12154
+(lp24134
+g11736
+asg12156
+(lp24135
+g11731
+asg12158
+(lp24136
+S'Addresses'
+p24137
+aS'Lectures'
+p24138
+aS'Rallies'
+p24139
+assg10677
+(dp24140
+g12148
+S'1966'
+p24141
+sg12150
+S'Williams, Robert F.'
+p24142
+sg12152
+S'2/25/2015'
+p24143
+sg12154
+(lp24144
+g10680
+asg12156
+(lp24145
+g10675
+asg12158
+(lp24146
+S'Addresses'
+p24147
+aS'Lectures'
+p24148
+aS'Rallies'
+p24149
+assg1695
+(dp24150
+g12148
+S'1942 July 26'
+p24151
 sg12150
 S'Cushing, George'
-p24131
-sg11
-g3618
-sg12152
-S'2/25/2015'
-p24132
-sg12154
-(lp24133
-g3613
-asg12156
-(lp24134
-S'Radio programs'
-p24135
-aS'Talk shows'
-p24136
-assg6645
-(dp24137
-g12148
-S'1953 November 08'
-p24138
-sg12150
-S'Moody, Blair'
-p24139
-sg11
-g6648
-sg12152
-S'2/25/2015'
-p24140
-sg12154
-(lp24141
-g6643
-asg12156
-(lp24142
-S'Radio programs'
-p24143
-assg9447
-(dp24144
-g12148
-S'1953 November 01'
-p24145
-sg12150
-S'Moody, Blair'
-p24146
-sg11
-g9450
-sg12152
-S'2/25/2015'
-p24147
-sg12154
-(lp24148
-g9445
-asg12156
-(lp24149
-S'Radio programs'
-p24150
-assg6741
-(dp24151
-g12148
-S'1962 September 15'
 p24152
-sg12150
-S'Romney, George'
-p24153
-sg11
-g6744
 sg12152
-S'6/05/2014'
-p24154
+S'2/25/2015'
+p24153
 sg12154
-(lp24155
-g6739
+(lp24154
+g1698
 asg12156
+(lp24155
+g1693
+asg12158
 (lp24156
-S'Addresses'
+S'Radio programs'
 p24157
-assg9483
+assg11469
 (dp24158
 g12148
-S'1953 September 09'
+S'1965 January 22'
 p24159
 sg12150
-S'Moody, Blair'
+S'Williams, Robert F.'
 p24160
-sg11
-g9486
 sg12152
 S'2/25/2015'
 p24161
 sg12154
 (lp24162
-g9481
+g11472
 asg12156
 (lp24163
-S'Radio programs'
-p24164
-aS'Talk shows'
+g11467
+asg12158
+(lp24164
+S'Musical performances'
 p24165
-assg3351
+assg7971
 (dp24166
 g12148
-S'1953 October 18'
+S'1942 July 05'
 p24167
 sg12150
-S'Moody, Blair'
+S'Cushing, George'
 p24168
-sg11
-g3354
 sg12152
 S'2/25/2015'
 p24169
 sg12154
 (lp24170
-g3349
+g7974
 asg12156
 (lp24171
+g7969
+asg12158
+(lp24172
 S'Radio programs'
-p24172
-assg603
-(dp24173
+p24173
+assg2649
+(dp24174
 g12148
-S'1953 September 23'
-p24174
-sg12150
-S'Moody, Blair'
+S'1942 July 19'
 p24175
-sg11
-g606
-sg12152
-S'2/25/2015'
+sg12150
+S'Cushing, George'
 p24176
+sg12152
+S'2/25/2015'
+p24177
 sg12154
-(lp24177
-g601
-asg12156
 (lp24178
+g2652
+asg12156
+(lp24179
+g2647
+asg12158
+(lp24180
 S'Radio programs'
-p24179
-aS'Talk shows'
-p24180
-assg6753
-(dp24181
+p24181
+assg2061
+(dp24182
 g12148
-S'1951'
-p24182
-sg12150
-S'Moody, Blair'
+S'1962'
 p24183
-sg11
-g6756
-sg12152
-S'2/25/2015'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24184
+sg12152
+S'6/24/2013'
+p24185
 sg12154
-(lp24185
-g6751
-asg12156
 (lp24186
-S'Radio programs'
-p24187
-aS'Talk shows'
-p24188
-assg141
-(dp24189
-g12148
-S'1953 May 30'
+g2064
+asg12156
+(lp24187
+g2059
+asg12158
+(lp24188
+S'Interviews'
+p24189
+aS'Radio programs'
 p24190
-sg12150
-S'Moody, Blair'
+aS'Talk shows'
 p24191
-sg11
-g144
+assg8541
+(dp24192
+g12148
+S'1960 May 02'
+p24193
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24194
 sg12152
-S'2/25/2015'
-p24192
-sg12154
-(lp24193
-g139
-asg12156
-(lp24194
-S'Radio programs'
+S'6/24/2013'
 p24195
-aS'Talk shows'
-p24196
-assg9651
-(dp24197
-g12148
-S'1953 May 14'
-p24198
-sg12150
-S'Moody, Blair'
+sg12154
+(lp24196
+g8544
+asg12156
+(lp24197
+g8539
+asg12158
+(lp24198
+S'Musical performances'
 p24199
-sg11
-g9654
-sg12152
-S'2/25/2015'
+aS'Radio programs'
 p24200
-sg12154
-(lp24201
-g9649
-asg12156
-(lp24202
-S'Radio programs'
+assg4161
+(dp24201
+g12148
+S'1961 May 10'
+p24202
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24203
-aS'Talk shows'
+sg12152
+S'6/24/2013'
 p24204
-assg6489
-(dp24205
-g12148
-S'1974 September 26'
-p24206
-sg12150
-S'Michigan Organization for Human Rights'
-p24207
-sg11
-g6492
-sg12152
-S'6/05/2014'
+sg12154
+(lp24205
+g4164
+asg12156
+(lp24206
+g4159
+asg12158
+(lp24207
+S'Oral Histories'
 p24208
-sg12154
-(lp24209
-g6487
-asg12156
-(lp24210
-S'Radio programs'
+aS'Musical performances'
+p24209
+aS'Interviews'
+p24210
+aS'Radio programs'
 p24211
-assg9921
-(dp24212
+aS'Talk shows'
+p24212
+assg2085
+(dp24213
 g12148
-S'1974 August 15'
-p24213
-sg12150
-S'Michigan Organization for Human Rights'
+S'1960 April 29'
 p24214
-sg11
-g9924
-sg12152
-S'6/05/2014'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24215
+sg12152
+S'6/24/2013'
+p24216
 sg12154
-(lp24216
-g9919
-asg12156
 (lp24217
+g2088
+asg12156
+(lp24218
+g2083
+asg12158
+(lp24219
 S'Radio programs'
-p24218
-assg423
-(dp24219
-g12148
-S'1974 August 01'
 p24220
-sg12150
-S'Michigan Organization for Human Rights'
-p24221
-sg11
-g426
-sg12152
-S'6/05/2014'
+assg11613
+(dp24221
+g12148
+S'1960 April 30'
 p24222
-sg12154
-(lp24223
-g421
-asg12156
-(lp24224
-S'Radio programs'
-p24225
-assg9723
-(dp24226
-g12148
-S'1975 January 16'
-p24227
 sg12150
-S'Michigan Organization for Human Rights'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24223
+sg12152
+S'6/24/2013'
+p24224
+sg12154
+(lp24225
+g11616
+asg12156
+(lp24226
+g11611
+asg12158
+(lp24227
+S'Radio programs'
 p24228
-sg11
-g9726
+assg8307
+(dp24229
+g12148
+S'1959 April 30'
+p24230
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24231
 sg12152
-S'6/05/2014'
-p24229
-sg12154
-(lp24230
-g9721
-asg12156
-(lp24231
-S'Radio programs'
+S'6/24/2013'
 p24232
-assg945
-(dp24233
-g12148
-S'1974 November 21'
-p24234
-sg12150
-S'Michigan Organization for Human Rights'
-p24235
-sg11
-g948
-sg12152
-S'6/05/2014'
+sg12154
+(lp24233
+g8310
+asg12156
+(lp24234
+g8305
+asg12158
+(lp24235
+S'Interviews'
 p24236
-sg12154
-(lp24237
-g943
-asg12156
-(lp24238
-S'Radio programs'
-p24239
-assg339
-(dp24240
+aS'Radio programs'
+p24237
+aS'Talk shows'
+p24238
+assg7893
+(dp24239
 g12148
-S'1974 November 07'
-p24241
+S'1966 April 01'
+p24240
 sg12150
-S'Michigan Organization for Human Rights'
-p24242
-sg11
-g342
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24241
 sg12152
-S'6/05/2014'
-p24243
+S'6/24/2013'
+p24242
 sg12154
-(lp24244
-g337
+(lp24243
+g7896
 asg12156
+(lp24244
+g7891
+asg12158
 (lp24245
 S'Radio programs'
 p24246
-assg891
-(dp24247
+aS'Panel discussions'
+p24247
+assg5067
+(dp24248
 g12148
-S'1975 February 13'
-p24248
-sg12150
-S'Michigan Organization for Human Rights'
+S'1971 November'
 p24249
-sg11
-g894
-sg12152
-S'6/05/2014'
+sg12150
+S'Sinclair, John and Leni'
 p24250
+sg12152
+S'6/24/2013'
+p24251
 sg12154
-(lp24251
-g889
-asg12156
 (lp24252
-S'Radio programs'
-p24253
-assg3585
-(dp24254
-g12148
-S'1975 January 30'
+g5070
+asg12156
+(lp24253
+g5065
+asg12158
+(lp24254
+S'Musical performances'
 p24255
-sg12150
-S'Michigan Organization for Human Rights'
+aS'Poetry readings'
 p24256
-sg11
-g3588
+assg2589
+(dp24257
+g12148
+S'1971 November'
+p24258
+sg12150
+S'Sinclair, John and Leni'
+p24259
 sg12152
-S'6/05/2014'
-p24257
-sg12154
-(lp24258
-g3583
-asg12156
-(lp24259
-S'Radio programs'
+S'6/24/2013'
 p24260
-assg981
-(dp24261
-g12148
-S'1984 January 31'
-p24262
-sg12150
-S'Eclipse Jazz (University of Michigan)'
-p24263
-sg11
-g984
-sg12152
-S'6/05/2014'
+sg12154
+(lp24261
+g2592
+asg12156
+(lp24262
+g2587
+asg12158
+(lp24263
+S'Musical performances'
 p24264
-sg12154
-(lp24265
-g979
-asg12156
-(lp24266
-S'Lectures'
+aS'Poetry readings'
+p24265
+assg8949
+(dp24266
+g12148
+S'1947 June 08'
 p24267
-aS'Musical performances'
+sg12150
+S'Cushing, George'
 p24268
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p24269
-assg6783
-(dp24270
-g12148
-S'1953-1955'
-p24271
-sg12150
-S'Kurath, Gertrude Prokosc'
-p24272
-sg11
-g6786
-sg12152
-S'6/24/2013'
+sg12154
+(lp24270
+g8952
+asg12156
+(lp24271
+g8947
+asg12158
+(lp24272
+S'Radio programs'
 p24273
-sg12154
-(lp24274
-g6781
-asg12156
-(lp24275
-S'Musical performances'
-p24276
-assg3819
-(dp24277
+aS'Talk shows'
+p24274
+assg11343
+(dp24275
 g12148
-S'1953-1954'
-p24278
+S'1947 May 11'
+p24276
 sg12150
-S'Kurath, Gertrude Prokosc'
-p24279
-sg11
-g3822
+S'Cushing, George'
+p24277
 sg12152
-S'6/24/2013'
-p24280
+S'2/25/2015'
+p24278
 sg12154
-(lp24281
-g3817
+(lp24279
+g11346
 asg12156
-(lp24282
-S'Musical performances'
+(lp24280
+g11341
+asg12158
+(lp24281
+S'Radio programs'
+p24282
+aS'Talk shows'
 p24283
-assg10203
+assg1989
 (dp24284
 g12148
-S'1974 September 26'
+S'1947 June 29'
 p24285
 sg12150
-S"University of Michigan. Men's Glee Club"
+S'Cushing, George'
 p24286
-sg11
-g10206
 sg12152
-S'11/01/2013'
+S'2/25/2015'
 p24287
 sg12154
 (lp24288
-g10201
+g1992
 asg12156
 (lp24289
-S'Musical performances'
-p24290
-assg6597
-(dp24291
-g12148
-S'1960-1961'
-p24292
-sg12150
-S'University of Michigan. Alumni Association.'
-p24293
-sg11
-g6600
-sg12152
-S'11/01/2013'
-p24294
-sg12154
-(lp24295
-g6595
-ag6589
-asg12156
-(lp24296
-S'Interviews'
-p24297
-aS'Interviews'
-p24298
-assg8019
-(dp24299
-g12148
-S'1954'
-p24300
-sg12150
-S'Michigan Fellowship of Reconciliation'
-p24301
-sg11
-g8022
-sg12152
-S'11/01/2013'
-p24302
-sg12154
-(lp24303
-g8017
-ag1249
-asg12156
-(lp24304
-S'Addresses'
-p24305
-aS'Conferences'
-p24306
-aS'Addresses'
-p24307
-aS'Conferences'
-p24308
-assg2079
-(dp24309
-g12148
-S'1983 December 15'
-p24310
-sg12150
-S'Blanchard, James'
-p24311
-sg11
-g2082
-sg12152
-S'6/24/2013'
-p24312
-sg12154
-(lp24313
-g2077
-asg12156
-(lp24314
-S'Interviews'
-p24315
-aS'Radio programs'
-p24316
+g1987
+asg12158
+(lp24290
+S'Radio programs'
+p24291
 aS'Talk shows'
-p24317
-assg8325
-(dp24318
+p24292
+assg8505
+(dp24293
 g12148
-S'1984 January 18'
-p24319
+S'1947 June 15'
+p24294
 sg12150
-S'Blanchard, James'
-p24320
-sg11
-g8328
+S'Cushing, George'
+p24295
+sg12152
+S'2/25/2015'
+p24296
+sg12154
+(lp24297
+g8508
+asg12156
+(lp24298
+g8503
+asg12158
+(lp24299
+S'Radio programs'
+p24300
+aS'Talk shows'
+p24301
+assg8913
+(dp24302
+g12148
+S'1947 April 20'
+p24303
+sg12150
+S'Cushing, George'
+p24304
+sg12152
+S'2/25/2015'
+p24305
+sg12154
+(lp24306
+g8916
+asg12156
+(lp24307
+g8911
+asg12158
+(lp24308
+S'Radio programs'
+p24309
+aS'Talk shows'
+p24310
+assg11229
+(dp24311
+g12148
+S'1947 April 06'
+p24312
+sg12150
+S'Cushing, George'
+p24313
+sg12152
+S'2/25/2015'
+p24314
+sg12154
+(lp24315
+g11232
+asg12156
+(lp24316
+g11227
+asg12158
+(lp24317
+S'Sound tracks'
+p24318
+aS'Talk shows'
+p24319
+assg3543
+(dp24320
+g12148
+S'1964 November 18'
+p24321
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24322
 sg12152
 S'6/24/2013'
-p24321
+p24323
 sg12154
-(lp24322
-g8323
+(lp24324
+g3546
 asg12156
-(lp24323
-S'Addresses'
-p24324
-assg1863
-(dp24325
-g12148
-S'1972 September'
-p24326
-sg12150
-S'Republican Party (Mich.). State Central Committee'
+(lp24325
+g3541
+asg12158
+(lp24326
+S'Oral Histories'
 p24327
-sg11
-g1866
-sg12152
-S'6/05/2014'
+aS'Radio programs'
 p24328
-sg12154
-(lp24329
-g1861
-asg12156
-(lp24330
-S'Conferences'
-p24331
-assg11415
-(dp24332
+aS'Documentaries'
+p24329
+assg3333
+(dp24330
 g12148
-S'1972 September'
-p24333
+S'1947 April 28'
+p24331
 sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24334
-sg11
-g11418
+S'Cushing, George'
+p24332
 sg12152
-S'6/05/2014'
-p24335
+S'2/25/2015'
+p24333
 sg12154
-(lp24336
-g11413
+(lp24334
+g3336
 asg12156
-(lp24337
-S'Conferences'
+(lp24335
+g3331
+asg12158
+(lp24336
+S'Radio programs'
+p24337
+aS'Talk shows'
 p24338
-assg1509
+assg8901
 (dp24339
 g12148
-S'1968 September 14-16'
+S'1962 May 12'
 p24340
 sg12150
-S'Republican Party (Mich.). State Central Committee'
+S"University of Michigan. Men's Glee Club"
 p24341
-sg11
-g1512
 sg12152
-S'6/05/2014'
+S'11/01/2013'
 p24342
 sg12154
 (lp24343
-g1507
+g8904
 asg12156
 (lp24344
-S'Conferences'
-p24345
-assg11013
-(dp24346
+g8899
+asg12158
+(lp24345
+S'Musical performances'
+p24346
+assg2295
+(dp24347
 g12148
-S'1968 September 14-16'
-p24347
-sg12150
-S'Republican Party (Mich.). State Central Committee'
+S'1954 July 11'
 p24348
-sg11
-g11016
-sg12152
-S'6/05/2014'
+sg12150
+S'Cushing, George'
 p24349
+sg12152
+S'2/25/2015'
+p24350
 sg12154
-(lp24350
-g11011
-asg12156
 (lp24351
-S'Conferences'
-p24352
-aS'Dinners'
-p24353
-assg4953
-(dp24354
-g12148
-S'1972 September 2'
+g2298
+asg12156
+(lp24352
+g2293
+asg12158
+(lp24353
+S'Radio programs'
+p24354
+aS'Talk shows'
 p24355
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24356
-sg11
-g4956
-sg12152
-S'6/05/2014'
-p24357
-sg12154
-(lp24358
-g4951
-asg12156
-(lp24359
-S'Conferences'
-p24360
-assg7695
-(dp24361
-g12148
-S'1968 September 14-16'
-p24362
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24363
-sg11
-g7698
-sg12152
-S'6/05/2014'
-p24364
-sg12154
-(lp24365
-g7693
-asg12156
-(lp24366
-S'Conferences'
-p24367
-assg4743
-(dp24368
-g12148
-S'1968 January 19, 20'
-p24369
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24370
-sg11
-g4746
-sg12152
-S'6/05/2014'
-p24371
-sg12154
-(lp24372
-g4741
-ag4099
-asg12156
-(lp24373
-S'Seminars'
-p24374
-aS'Seminars'
-p24375
-assg1977
-(dp24376
-g12148
-S'1968 January 19, 20'
-p24377
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24378
-sg11
-g1980
-sg12152
-S'6/05/2014'
-p24379
-sg12154
-(lp24380
-g1975
-ag1981
-asg12156
-(lp24381
-S'Seminars'
-p24382
-aS'Seminars'
-p24383
-assg5019
-(dp24384
-g12148
-S'1968 September 14-16'
-p24385
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24386
-sg11
-g5022
-sg12152
-S'6/05/2014'
-p24387
-sg12154
-(lp24388
-g5017
-asg12156
-(lp24389
-S'Conferences'
-p24390
-assg7767
-(dp24391
-g12148
-S'1968 January 19, 20'
-p24392
-sg12150
-S'Republican Party (Mich.). State Central Committee'
-p24393
-sg11
-g7770
-sg12152
-S'6/05/2014'
-p24394
-sg12154
-(lp24395
-g7765
-ag7759
-asg12156
-(lp24396
-S'Seminars'
-p24397
-aS'Seminars'
-p24398
-assg7977
-(dp24399
-g12148
-S'1951 September 23'
-p24400
-sg12150
-S'Cushing, George'
-p24401
-sg11
-g7980
-sg12152
-S'2/25/2015'
-p24402
-sg12154
-(lp24403
-g7975
-asg12156
-(lp24404
-S'Radio programs'
-p24405
-aS'Talk shows'
-p24406
-assg9183
-(dp24407
-g12148
-S'1954 November 14'
-p24408
-sg12150
-S'Cushing, George'
-p24409
-sg11
-g9186
-sg12152
-S'2/25/2015'
-p24410
-sg12154
-(lp24411
-g9181
-asg12156
-(lp24412
-S'Radio programs'
-p24413
-aS'Talk shows'
-p24414
-assg11715
-(dp24415
-g12148
-S'1954 November 17'
-p24416
-sg12150
-S'Cushing, George'
-p24417
-sg11
-g11718
-sg12152
-S'2/25/2015'
-p24418
-sg12154
-(lp24419
-g11713
-asg12156
-(lp24420
-S'Radio programs'
-p24421
-aS'Talk shows'
-p24422
-assg5757
-(dp24423
-g12148
-S'1954 October 17'
-p24424
-sg12150
-S'Cushing, George'
-p24425
-sg11
-g5760
-sg12152
-S'2/25/2015'
-p24426
-sg12154
-(lp24427
-g5755
-asg12156
-(lp24428
-S'Radio programs'
-p24429
-aS'Talk shows'
-p24430
-assg2931
-(dp24431
-g12148
-S'1954 October 17'
-p24432
-sg12150
-S'Cushing, George'
-p24433
-sg11
-g2934
-sg12152
-S'2/25/2015'
-p24434
-sg12154
-(lp24435
-g2929
-asg12156
-(lp24436
-S'Radio programs'
-p24437
-aS'Talk shows'
-p24438
-assg5997
-(dp24439
-g12148
-S'1954 October 10'
-p24440
-sg12150
-S'Cushing, George'
-p24441
-sg11
-g6000
-sg12152
-S'2/25/2015'
-p24442
-sg12154
-(lp24443
-g5995
-asg12156
-(lp24444
-S'Radio programs'
-p24445
-aS'Talk shows'
-p24446
-assg8823
-(dp24447
-g12148
-S'1954 October 03'
-p24448
-sg12150
-S'Cushing, George'
-p24449
-sg11
-g8826
-sg12152
-S'2/25/2015'
-p24450
-sg12154
-(lp24451
-g8821
-asg12156
-(lp24452
-S'Radio programs'
-p24453
-aS'Talk shows'
-p24454
-assg5685
-(dp24455
-g12148
-S'1954 September 26'
-p24456
-sg12150
-S'Cushing, George'
-p24457
-sg11
-g5688
-sg12152
-S'2/25/2015'
-p24458
-sg12154
-(lp24459
-g5683
-asg12156
-(lp24460
-S'Radio programs'
-p24461
-aS'Talk shows'
-p24462
-assg12015
-(dp24463
-g12148
-S'1954 September 19'
-p24464
-sg12150
-S'Cushing, George'
-p24465
-sg11
-g12018
-sg12152
-S'2/25/2015'
-p24466
-sg12154
-(lp24467
-g12013
-asg12156
-(lp24468
-S'Radio programs'
-p24469
-aS'Talk shows'
-p24470
-assg11979
-(dp24471
-g12148
-S'1950 January 15'
-p24472
-sg12150
-S'Cushing, George'
-p24473
-sg11
-g11982
-sg12152
-S'2/25/2015'
-p24474
-sg12154
-(lp24475
-g11977
-asg12156
-(lp24476
-S'Radio programs'
-p24477
-aS'Talk shows'
-p24478
-assg5157
-(dp24479
-g12148
-S'1954 November 28'
-p24480
-sg12150
-S'Cushing, George'
-p24481
-sg11
-g5160
-sg12152
-S'2/25/2015'
-p24482
-sg12154
-(lp24483
-g5155
-asg12156
-(lp24484
-S'Radio programs'
-p24485
-aS'Talk shows'
-p24486
-assg3591
-(dp24487
-g12148
-S'1954 November 21'
-p24488
-sg12150
-S'Cushing, George'
-p24489
-sg11
-g3594
-sg12152
-S'2/25/2015'
-p24490
-sg12154
-(lp24491
-g3589
-asg12156
-(lp24492
-S'Radio programs'
-p24493
-aS'Talk shows'
-p24494
-assg10335
-(dp24495
+assg6147
+(dp24356
 g12148
 S'[Undated]'
-p24496
+p24357
 sg12150
-S'Martin, John Butlin'
-p24497
-sg11
-g10338
+S'University of Michigan. Alumni Association.'
+p24358
 sg12152
 S'11/01/2013'
-p24498
+p24359
 sg12154
-(lp24499
-g10333
+(lp24360
+g6150
 asg12156
-(lp24500
-S'Interviews'
-p24501
-assg159
-(dp24502
+(lp24361
+g6145
+asg12158
+(lp24362
+S'Radio programs'
+p24363
+assg2667
+(dp24364
 g12148
-S'1983 October 04'
-p24503
+S'1962 October 21'
+p24365
 sg12150
-S'Eclipse Jazz (University of Michigan)'
-p24504
-sg11
-g162
+S"University of Michigan. Men's Glee Club"
+p24366
+sg12152
+S'11/01/2013'
+p24367
+sg12154
+(lp24368
+g2670
+asg12156
+(lp24369
+g2665
+asg12158
+(lp24370
+S'Musical performances'
+p24371
+assg8169
+(dp24372
+g12148
+S'1965 September 14'
+p24373
+sg12150
+S'Alternative Perspectives on Vietnam'
+p24374
+sg12152
+S'11/01/2013'
+p24375
+sg12154
+(lp24376
+g8172
+asg12156
+(lp24377
+g8167
+ag8185
+asg12158
+(lp24378
+S'Addresses'
+p24379
+aS'Conferences'
+p24380
+aS'Addresses'
+p24381
+aS'Conferences'
+p24382
+assg7521
+(dp24383
+g12148
+S'1965 September 15'
+p24384
+sg12150
+S'Alternative Perspectives on Vietnam'
+p24385
+sg12152
+S'11/01/2013'
+p24386
+sg12154
+(lp24387
+g7524
+asg12156
+(lp24388
+g7519
+ag7525
+asg12158
+(lp24389
+S'Addresses'
+p24390
+aS'Conferences'
+p24391
+aS'Addresses'
+p24392
+aS'Conferences'
+p24393
+assg5907
+(dp24394
+g12148
+S'1954 March 04'
+p24395
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24396
+sg12152
+S'6/24/2013'
+p24397
+sg12154
+(lp24398
+g5910
+asg12156
+(lp24399
+g5905
+asg12158
+(lp24400
+S'Lectures'
+p24401
+aS'Radio programs'
+p24402
+aS'Poetry readings'
+p24403
+assg6993
+(dp24404
+g12148
+S'1964 November 09'
+p24405
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24406
+sg12152
+S'6/24/2013'
+p24407
+sg12154
+(lp24408
+g6996
+asg12156
+(lp24409
+g6991
+asg12158
+(lp24410
+S'Lectures'
+p24411
+aS'Radio programs'
+p24412
+aS'Poetry readings'
+p24413
+assg4881
+(dp24414
+g12148
+S'1961 May 10'
+p24415
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24416
+sg12152
+S'6/24/2013'
+p24417
+sg12154
+(lp24418
+g4884
+asg12156
+(lp24419
+g4879
+asg12158
+(lp24420
+S'Lectures'
+p24421
+aS'Radio programs'
+p24422
+aS'Poetry readings'
+p24423
+assg7881
+(dp24424
+g12148
+S'1959 February 05'
+p24425
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24426
+sg12152
+S'6/24/2013'
+p24427
+sg12154
+(lp24428
+g7884
+asg12156
+(lp24429
+g7879
+asg12158
+(lp24430
+S'Radio programs'
+p24431
+aS'Documentaries'
+p24432
+assg1653
+(dp24433
+g12148
+S'1959 April 22'
+p24434
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24435
+sg12152
+S'6/24/2013'
+p24436
+sg12154
+(lp24437
+g1656
+asg12156
+(lp24438
+g1651
+asg12158
+(lp24439
+S'Radio programs'
+p24440
+aS'Documentaries'
+p24441
+assg8685
+(dp24442
+g12148
+S'1966 August 27'
+p24443
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p24444
 sg12152
 S'6/05/2014'
-p24505
+p24445
 sg12154
-(lp24506
-g157
+(lp24446
+g8688
 asg12156
+(lp24447
+g8683
+ag8677
+asg12158
+(lp24448
+S'Conferences'
+p24449
+aS'Conferences'
+p24450
+assg6765
+(dp24451
+g12148
+S'1973 December 03'
+p24452
+sg12150
+S'Sinclair, John and Leni'
+p24453
+sg12152
+S'6/24/2013'
+p24454
+sg12154
+(lp24455
+g6768
+asg12156
+(lp24456
+g6763
+asg12158
+(lp24457
+S'Interviews'
+p24458
+aS'Radio programs'
+p24459
+aS'Talk shows'
+p24460
+assg8931
+(dp24461
+g12148
+S'1983 January 02'
+p24462
+sg12150
+S'Sinclair, John and Leni'
+p24463
+sg12152
+S'6/24/2013'
+p24464
+sg12154
+(lp24465
+g8934
+asg12156
+(lp24466
+g8929
+asg12158
+(lp24467
+S'Dialogues'
+p24468
+assg10935
+(dp24469
+g12148
+S'1974 May 09'
+p24470
+sg12150
+S'Michigan Organization for Human Rights'
+p24471
+sg12152
+S'6/05/2014'
+p24472
+sg12154
+(lp24473
+g10938
+asg12156
+(lp24474
+g10933
+asg12158
+(lp24475
+S'Radio programs'
+p24476
+assg8487
+(dp24477
+g12148
+S'1974 May 02'
+p24478
+sg12150
+S'Michigan Organization for Human Rights'
+p24479
+sg12152
+S'6/05/2014'
+p24480
+sg12154
+(lp24481
+g8490
+asg12156
+(lp24482
+g8485
+asg12158
+(lp24483
+S'Radio programs'
+p24484
+assg2253
+(dp24485
+g12148
+S'1974 April 18'
+p24486
+sg12150
+S'Michigan Organization for Human Rights'
+p24487
+sg12152
+S'6/05/2014'
+p24488
+sg12154
+(lp24489
+g2256
+asg12156
+(lp24490
+g2251
+asg12158
+(lp24491
+S'Radio programs'
+p24492
+assg4923
+(dp24493
+g12148
+S'1974 April 04'
+p24494
+sg12150
+S'Michigan Organization for Human Rights'
+p24495
+sg12152
+S'6/05/2014'
+p24496
+sg12154
+(lp24497
+g4926
+asg12156
+(lp24498
+g4921
+asg12158
+(lp24499
+S'Radio programs'
+p24500
+assg1971
+(dp24501
+g12148
+S'1974 March 21'
+p24502
+sg12150
+S'Michigan Organization for Human Rights'
+p24503
+sg12152
+S'6/05/2014'
+p24504
+sg12154
+(lp24505
+g1974
+asg12156
+(lp24506
+g1969
+asg12158
 (lp24507
 S'Radio programs'
 p24508
-assg4065
+assg11565
 (dp24509
 g12148
-S'1952 July'
+S'1974 March 14'
 p24510
 sg12150
-S'Martin, John Butlin'
+S'Michigan Organization for Human Rights'
 p24511
-sg11
-g4068
 sg12152
-S'11/01/2013'
+S'6/05/2014'
 p24512
 sg12154
 (lp24513
-g4063
+g11568
 asg12156
 (lp24514
-S'Advertising'
-p24515
-assg6237
-(dp24516
-g12148
-S'1963 March 10'
-p24517
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p24518
-sg11
-g6240
-sg12152
-S'6/24/2013'
-p24519
-sg12154
-(lp24520
-g6235
-asg12156
-(lp24521
+g11563
+asg12158
+(lp24515
 S'Radio programs'
-p24522
-aS'Poetry readings'
-p24523
-assg6465
-(dp24524
+p24516
+assg5577
+(dp24517
 g12148
-S'1959 June 04'
-p24525
+S'1974 March 07'
+p24518
 sg12150
-S'Hatcher, Harlan Henthorne'
-p24526
-sg11
-g6468
+S'Michigan Organization for Human Rights'
+p24519
 sg12152
 S'6/05/2014'
+p24520
+sg12154
+(lp24521
+g5580
+asg12156
+(lp24522
+g5575
+asg12158
+(lp24523
+S'Radio programs'
+p24524
+assg4887
+(dp24525
+g12148
+S'1974 February 07'
+p24526
+sg12150
+S'Michigan Organization for Human Rights'
 p24527
+sg12152
+S'6/05/2014'
+p24528
 sg12154
-(lp24528
-g6463
-asg12156
 (lp24529
-S'Addresses'
-p24530
-assg1725
-(dp24531
-g12148
-S'1952 July'
+g4890
+asg12156
+(lp24530
+g4885
+asg12158
+(lp24531
+S'Radio programs'
 p24532
-sg12150
-S'Martin, John Butlin'
-p24533
-sg11
-g1728
-sg12152
-S'11/01/2013'
+assg11007
+(dp24533
+g12148
+S'1974 July 11'
 p24534
-sg12154
-(lp24535
-g1723
-asg12156
-(lp24536
-S'Advertising'
-p24537
-assg489
-(dp24538
-g12148
-S'1952 July'
-p24539
 sg12150
-S'Martin, John Butlin'
+S'Michigan Organization for Human Rights'
+p24535
+sg12152
+S'6/05/2014'
+p24536
+sg12154
+(lp24537
+g11010
+asg12156
+(lp24538
+g11005
+asg12158
+(lp24539
+S'Radio programs'
 p24540
-sg11
-g492
+assg8589
+(dp24541
+g12148
+S'1974 July 18'
+p24542
+sg12150
+S'Michigan Organization for Human Rights'
+p24543
+sg12152
+S'6/05/2014'
+p24544
+sg12154
+(lp24545
+g8592
+asg12156
+(lp24546
+g8587
+asg12158
+(lp24547
+S'Radio programs'
+p24548
+assg8415
+(dp24549
+g12148
+S'1956 October 20, 22'
+p24550
+sg12150
+S'Schimpke, Albert J.'
+p24551
 sg12152
 S'11/01/2013'
-p24541
-sg12154
-(lp24542
-g487
-asg12156
-(lp24543
-S'Advertising'
-p24544
-assg9903
-(dp24545
-g12148
-S'1945 May 20'
-p24546
-sg12150
-S'Cushing, George'
-p24547
-sg11
-g9906
-sg12152
-S'2/25/2015'
-p24548
-sg12154
-(lp24549
-g9901
-asg12156
-(lp24550
-S'Radio programs'
-p24551
-aS'Talk shows'
 p24552
-assg7329
-(dp24553
-g12148
-S'1945 May 13'
-p24554
-sg12150
-S'Cushing, George'
-p24555
-sg11
-g7332
-sg12152
-S'2/25/2015'
+sg12154
+(lp24553
+g8418
+asg12156
+(lp24554
+g8413
+ag8419
+asg12158
+(lp24555
+S'Oral Histories'
 p24556
-sg12154
-(lp24557
-g7327
-asg12156
-(lp24558
-S'Radio programs'
+aS'Interviews'
+p24557
+aS'Oral Histories'
+p24558
+aS'Interviews'
 p24559
-aS'Talk shows'
-p24560
-assg1131
-(dp24561
+assg2373
+(dp24560
 g12148
-S'1945 May 06'
-p24562
+S'1960 September 21'
+p24561
 sg12150
-S'Cushing, George'
-p24563
-sg11
-g1134
+S'Schimpke, Albert J.'
+p24562
 sg12152
-S'2/25/2015'
-p24564
+S'11/01/2013'
+p24563
 sg12154
-(lp24565
-g1129
+(lp24564
+g2376
 asg12156
+(lp24565
+g2371
+asg12158
 (lp24566
-S'Radio programs'
+S'Oral Histories'
 p24567
-aS'Talk shows'
+aS'Interviews'
 p24568
-assg3837
+assg11841
 (dp24569
 g12148
-S'1945 April 22'
+S'1976 July 19'
 p24570
 sg12150
-S'Cushing, George'
+S'National Housewives League of America.'
 p24571
-sg11
-g3840
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p24572
 sg12154
 (lp24573
-g3835
+g11844
 asg12156
 (lp24574
-S'Radio programs'
-p24575
-aS'Talk shows'
+g11839
+asg12158
+(lp24575
+S'Interviews'
 p24576
-assg933
-(dp24577
-g12148
-S'1945 June 24'
+aS'Radio programs'
+p24577
+aS'Talk shows'
 p24578
-sg12150
-S'Cushing, George'
-p24579
-sg11
-g936
-sg12152
-S'2/25/2015'
+assg417
+(dp24579
+g12148
+S'1959 March 13'
 p24580
-sg12154
-(lp24581
-g931
-asg12156
-(lp24582
-S'Radio programs'
-p24583
-aS'Talk shows'
-p24584
-assg10437
-(dp24585
-g12148
-S'1945 June 10'
-p24586
-sg12150
-S'Cushing, George'
-p24587
-sg11
-g10440
-sg12152
-S'2/25/2015'
-p24588
-sg12154
-(lp24589
-g10435
-asg12156
-(lp24590
-S'Radio programs'
-p24591
-aS'Talk shows'
-p24592
-assg2241
-(dp24593
-g12148
-S'1945 June 03'
-p24594
-sg12150
-S'Cushing, George'
-p24595
-sg11
-g2244
-sg12152
-S'2/25/2015'
-p24596
-sg12154
-(lp24597
-g2239
-asg12156
-(lp24598
-S'Radio programs'
-p24599
-aS'Talk shows'
-p24600
-assg3765
-(dp24601
-g12148
-S'1945 May 27'
-p24602
-sg12150
-S'Cushing, George'
-p24603
-sg11
-g3768
-sg12152
-S'2/25/2015'
-p24604
-sg12154
-(lp24605
-g3763
-asg12156
-(lp24606
-S'Radio programs'
-p24607
-aS'Talk shows'
-p24608
-assg4365
-(dp24609
-g12148
-S'1945 September 02'
-p24610
-sg12150
-S'Cushing, George'
-p24611
-sg11
-g4368
-sg12152
-S'2/25/2015'
-p24612
-sg12154
-(lp24613
-g4363
-asg12156
-(lp24614
-S'Radio programs'
-p24615
-aS'Talk shows'
-p24616
-assg7035
-(dp24617
-g12148
-S'1945 July 01'
-p24618
-sg12150
-S'Cushing, George'
-p24619
-sg11
-g7038
-sg12152
-S'2/25/2015'
-p24620
-sg12154
-(lp24621
-g7033
-asg12156
-(lp24622
-S'Radio programs'
-p24623
-aS'Talk shows'
-p24624
-assg4683
-(dp24625
-g12148
-S'1962 June 14'
-p24626
 sg12150
 S'WUOM (Radio station: Ann Arbor, Mich.)'
-p24627
-sg11
-g4686
+p24581
 sg12152
 S'6/24/2013'
-p24628
+p24582
 sg12154
-(lp24629
-g4681
+(lp24583
+g420
 asg12156
-(lp24630
-S'Addresses'
-p24631
-aS'Radio programs'
+(lp24584
+g415
+asg12158
+(lp24585
+S'Radio programs'
+p24586
+aS'Panel discussions'
+p24587
+assg6141
+(dp24588
+g12148
+S'1972 September'
+p24589
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p24590
+sg12152
+S'6/05/2014'
+p24591
+sg12154
+(lp24592
+g6144
+asg12156
+(lp24593
+g6139
+asg12158
+(lp24594
+S'Conferences'
+p24595
+assg3339
+(dp24596
+g12148
+S'1972 September'
+p24597
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p24598
+sg12152
+S'6/05/2014'
+p24599
+sg12154
+(lp24600
+g3342
+asg12156
+(lp24601
+g3337
+asg12158
+(lp24602
+S'Conferences'
+p24603
+assg10113
+(dp24604
+g12148
+S'1954 April 18'
+p24605
+sg12150
+S'Cushing, George'
+p24606
+sg12152
+S'2/25/2015'
+p24607
+sg12154
+(lp24608
+g10116
+asg12156
+(lp24609
+g10111
+asg12158
+(lp24610
+S'Radio programs'
+p24611
+aS'Talk shows'
+p24612
+assg7485
+(dp24613
+g12148
+S'1954 May 02'
+p24614
+sg12150
+S'Cushing, George'
+p24615
+sg12152
+S'2/25/2015'
+p24616
+sg12154
+(lp24617
+g7488
+asg12156
+(lp24618
+g7483
+asg12158
+(lp24619
+S'Radio programs'
+p24620
+aS'Talk shows'
+p24621
+assg813
+(dp24622
+g12148
+S'1954 February 28'
+p24623
+sg12150
+S'Cushing, George'
+p24624
+sg12152
+S'2/25/2015'
+p24625
+sg12154
+(lp24626
+g816
+asg12156
+(lp24627
+g811
+asg12158
+(lp24628
+S'Radio programs'
+p24629
+aS'Talk shows'
+p24630
+assg3477
+(dp24631
+g12148
+S'1954 March 07'
 p24632
-aS'Dedications (ceremonies)'
+sg12150
+S'Cushing, George'
 p24633
-assg1413
-(dp24634
-g12148
-S'1966 April'
-p24635
-sg12150
-S'Interlochen Center for the Arts.'
-p24636
-sg11
-g1416
 sg12152
-S'6/24/2013'
-p24637
+S'2/25/2015'
+p24634
 sg12154
-(lp24638
-g1411
+(lp24635
+g3480
 asg12156
-(lp24639
-S'Television'
-p24640
-assg5223
-(dp24641
+(lp24636
+g3475
+asg12158
+(lp24637
+S'Radio programs'
+p24638
+aS'Talk shows'
+p24639
+assg6903
+(dp24640
 g12148
-S'1975'
+S'1954 February 14'
+p24641
+sg12150
+S'Cushing, George'
 p24642
-sg12150
-S'Interlochen Center for the Arts.'
-p24643
-sg11
-g5226
 sg12152
-S'6/24/2013'
-p24644
+S'2/25/2015'
+p24643
 sg12154
-(lp24645
-g5221
+(lp24644
+g6906
 asg12156
+(lp24645
+g6901
+asg12158
 (lp24646
-S'Musical performances'
+S'Radio programs'
 p24647
-aS'Dedications (ceremonies)'
+aS'Talk shows'
 p24648
-assg4911
+assg6909
 (dp24649
 g12148
-S'1958 July 04'
+S'1953 October 19'
 p24650
 sg12150
-S'Interlochen Center for the Arts.'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24651
-sg11
-g4914
 sg12152
 S'6/24/2013'
 p24652
 sg12154
 (lp24653
-g4909
+g6912
 asg12156
 (lp24654
-S'Oral Histories'
-p24655
-aS'Addresses'
+g6907
+asg12158
+(lp24655
+S'Radio programs'
 p24656
-assg7473
-(dp24657
+aS'Historical dramas'
+p24657
+assg939
+(dp24658
 g12148
-S'1958 July 04'
-p24658
-sg12150
-S'Interlochen Center for the Arts.'
+S'1954 March 28'
 p24659
-sg11
-g7476
-sg12152
-S'6/24/2013'
-p24660
-sg12154
-(lp24661
-g7471
-asg12156
-(lp24662
-S'Oral Histories'
-p24663
-aS'Addresses'
-p24664
-assg10713
-(dp24665
-g12148
-S'1975'
-p24666
-sg12150
-S'Interlochen Center for the Arts.'
-p24667
-sg11
-g10716
-sg12152
-S'6/24/2013'
-p24668
-sg12154
-(lp24669
-g10711
-asg12156
-(lp24670
-S'Musical performances'
-p24671
-aS'Dedications (ceremonies)'
-p24672
-assg7635
-(dp24673
-g12148
-S'1963 May 05'
-p24674
-sg12150
-S'Interlochen Center for the Arts.'
-p24675
-sg11
-g7638
-sg12152
-S'6/24/2013'
-p24676
-sg12154
-(lp24677
-g7633
-asg12156
-(lp24678
-S'Interviews'
-p24679
-assg1497
-(dp24680
-g12148
-S'1966 April 02'
-p24681
-sg12150
-S"University of Michigan. Men's Glee Club"
-p24682
-sg11
-g1500
-sg12152
-S'11/01/2013'
-p24683
-sg12154
-(lp24684
-g1495
-asg12156
-(lp24685
-S'Musical performances'
-p24686
-assg4419
-(dp24687
-g12148
-S'1966 April 02'
-p24688
-sg12150
-S"University of Michigan. Men's Glee Club"
-p24689
-sg11
-g4422
-sg12152
-S'11/01/2013'
-p24690
-sg12154
-(lp24691
-g4417
-asg12156
-(lp24692
-S'Musical performances'
-p24693
-assg10983
-(dp24694
-g12148
-S'1946 June 02'
-p24695
 sg12150
 S'Cushing, George'
-p24696
-sg11
-g10986
+p24660
 sg12152
 S'2/25/2015'
+p24661
+sg12154
+(lp24662
+g942
+asg12156
+(lp24663
+g937
+asg12158
+(lp24664
+S'Radio programs'
+p24665
+aS'Talk shows'
+p24666
+assg3627
+(dp24667
+g12148
+S'1954 April 11'
+p24668
+sg12150
+S'Cushing, George'
+p24669
+sg12152
+S'2/25/2015'
+p24670
+sg12154
+(lp24671
+g3630
+asg12156
+(lp24672
+g3625
+asg12158
+(lp24673
+S'Radio programs'
+p24674
+aS'Talk shows'
+p24675
+assg9627
+(dp24676
+g12148
+S'1954 March 14'
+p24677
+sg12150
+S'Cushing, George'
+p24678
+sg12152
+S'2/25/2015'
+p24679
+sg12154
+(lp24680
+g9630
+asg12156
+(lp24681
+g9625
+asg12158
+(lp24682
+S'Radio programs'
+p24683
+aS'Talk shows'
+p24684
+assg5457
+(dp24685
+g12148
+S'1954 March 21'
+p24686
+sg12150
+S'Cushing, George'
+p24687
+sg12152
+S'2/25/2015'
+p24688
+sg12154
+(lp24689
+g5460
+asg12156
+(lp24690
+g5455
+asg12158
+(lp24691
+S'Radio programs'
+p24692
+aS'Talk shows'
+p24693
+assg1239
+(dp24694
+g12148
+S'1957 March 20'
+p24695
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24696
+sg12152
+S'6/24/2013'
 p24697
 sg12154
 (lp24698
-g10981
+g1242
 asg12156
 (lp24699
+g1237
+asg12158
+(lp24700
 S'Radio programs'
-p24700
-aS'Talk shows'
 p24701
-assg1479
-(dp24702
+aS'Poetry readings'
+p24702
+assg4227
+(dp24703
 g12148
-S'1968 December'
-p24703
-sg12150
-S'Karoub, James'
+S'1962 August 01'
 p24704
-sg11
-g1482
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24705
 sg12152
 S'6/24/2013'
-p24705
+p24706
 sg12154
-(lp24706
-g1477
-ag1483
-asg12156
 (lp24707
-S'Addresses'
-p24708
-aS'Addresses'
-p24709
-assg4941
-(dp24710
-g12148
-S'1954 July 25'
+g4230
+asg12156
+(lp24708
+g4225
+asg12158
+(lp24709
+S'Interviews'
+p24710
+aS'Radio programs'
 p24711
-sg12150
-S'Cushing, George'
+aS'Panel discussions'
 p24712
-sg11
-g4944
-sg12152
-S'2/25/2015'
-p24713
-sg12154
-(lp24714
-g4939
-asg12156
-(lp24715
-S'Radio programs'
-p24716
 aS'Talk shows'
+p24713
+assg7755
+(dp24714
+g12148
+S'1964 May 28'
+p24715
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24716
+sg12152
+S'6/24/2013'
 p24717
-assg10731
-(dp24718
-g12148
-S'1967 February 06, 07, July, 1964 August, 1965 March, 1969 December'
-p24719
-sg12150
-S'Albright, William'
-p24720
-sg11
-g10734
-sg12152
-S'11/9/2012'
+sg12154
+(lp24718
+g7758
+asg12156
+(lp24719
+g7753
+asg12158
+(lp24720
+S'Interviews'
 p24721
-sg12154
-(lp24722
-g10729
-ag10741
-ag10735
-asg12156
-(lp24723
-S'Musical performances'
+aS'Radio programs'
+p24722
+aS'Panel discussions'
+p24723
+aS'Talk shows'
 p24724
-aS'Musical performances'
-p24725
-aS'Musical performances'
+assg10155
+(dp24725
+g12148
+S'1963 December 18'
 p24726
-assg8235
-(dp24727
-g12148
-S'[Undated]'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24727
+sg12152
+S'6/24/2013'
 p24728
-sg12150
-S'Albright, William'
-p24729
-sg11
-g8238
-sg12152
-S'11/9/2012'
-p24730
 sg12154
+(lp24729
+g10158
+asg12156
+(lp24730
+g10153
+asg12158
 (lp24731
-g8233
-ag8239
-asg12156
-(lp24732
-S'Musical performances'
+S'Interviews'
+p24732
+aS'Radio programs'
 p24733
-aS'Musical performances'
+aS'Panel discussions'
 p24734
-assg2007
-(dp24735
+aS'Talk shows'
+p24735
+assg1029
+(dp24736
 g12148
-S'[Undated]'
-p24736
-sg12150
-S'Albright, William'
+S'1966 March 09'
 p24737
-sg11
-g2010
-sg12152
-S'11/9/2012'
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24738
+sg12152
+S'6/24/2013'
+p24739
 sg12154
-(lp24739
-g2005
-ag1993
-ag1999
-asg12156
 (lp24740
-S'Musical performances'
-p24741
-aS'Musical performances'
-p24742
-aS'Musical performances'
+g1032
+asg12156
+(lp24741
+g1027
+asg12158
+(lp24742
+S'Interviews'
 p24743
-assg4767
-(dp24744
-g12148
-S'[Undated]'
+aS'Radio programs'
+p24744
+aS'Panel discussions'
 p24745
-sg12150
-S'Albright, William'
+aS'Talk shows'
 p24746
-sg11
-g4770
-sg12152
-S'11/9/2012'
-p24747
-sg12154
-(lp24748
-g4765
-asg12156
-(lp24749
-S'Musical performances'
-p24750
-assg1731
-(dp24751
+assg10557
+(dp24747
 g12148
-S'[Undated]'
-p24752
+S'1964 November 12'
+p24748
 sg12150
-S'Albright, William'
-p24753
-sg11
-g1734
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24749
 sg12152
-S'11/9/2012'
-p24754
+S'6/24/2013'
+p24750
 sg12154
-(lp24755
-g1729
+(lp24751
+g10560
 asg12156
-(lp24756
-S'Musical performances'
+(lp24752
+g10555
+asg12158
+(lp24753
+S'Interviews'
+p24754
+aS'Radio programs'
+p24755
+aS'Panel discussions'
+p24756
+aS'Talk shows'
 p24757
-assg11295
+assg4545
 (dp24758
 g12148
-S'1985'
+S'1967 December 31'
 p24759
 sg12150
-S'Albright, William'
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24760
-sg11
-g11298
 sg12152
-S'11/9/2012'
+S'6/24/2013'
 p24761
 sg12154
 (lp24762
-g11293
+g4548
 asg12156
 (lp24763
-S'Musical performances'
-p24764
-assg3681
-(dp24765
-g12148
-S'1967 April 29'
+g4543
+asg12158
+(lp24764
+S'Radio programs'
+p24765
+aS'Panel discussions'
 p24766
-sg12150
-S'Albright, William'
-p24767
-sg11
-g3684
-sg12152
-S'6/24/2013'
+assg6855
+(dp24767
+g12148
+S'1967 October 27'
 p24768
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24769
+sg12152
+S'6/24/2013'
+p24770
 sg12154
-(lp24769
-g3679
-ag3673
+(lp24771
+g6858
+ag6852
 asg12156
-(lp24770
-S'Musical performances'
-p24771
-aS'Musical performances'
-p24772
-assg4719
-(dp24773
-g12148
-S'1986 June 12, 1987 October 13'
+(lp24772
+g6853
+ag6847
+asg12158
+(lp24773
+S'Interviews'
 p24774
-sg12150
-S'Albright, William'
+aS'Radio programs'
 p24775
-sg11
-g4722
-sg12152
-S'6/24/2013'
+aS'Panel discussions'
 p24776
-sg12154
-(lp24777
-g4717
-asg12156
-(lp24778
-S'Musical performances'
+aS'Talk shows'
+p24777
+aS'Interviews'
+p24778
+aS'Radio programs'
 p24779
-assg4431
-(dp24780
-g12148
-S'1981 October'
+aS'Panel discussions'
+p24780
+aS'Talk shows'
 p24781
-sg12150
-S'Albright, William'
-p24782
-sg11
-g4434
-sg12152
-S'6/24/2013'
+assg7785
+(dp24782
+g12148
+S'1969 May'
 p24783
-sg12154
-(lp24784
-g4429
-asg12156
-(lp24785
-S'Musical performances'
-p24786
-assg8331
-(dp24787
-g12148
-S'[Undated]'
-p24788
 sg12150
-S'Albright, William'
-p24789
-sg11
-g8334
-sg12152
-S'6/24/2013'
-p24790
-sg12154
-(lp24791
-g8329
-asg12156
-(lp24792
-S'Musical performances'
-p24793
-assg10971
-(dp24794
-g12148
-S'1967 March 09'
-p24795
-sg12150
-S"University of Michigan. Men's Glee Club"
-p24796
-sg11
-g10974
+S'Shepard, Robert J.'
+p24784
 sg12152
 S'11/01/2013'
+p24785
+sg12154
+(lp24786
+g7788
+asg12156
+(lp24787
+g7783
+asg12158
+(lp24788
+S'Correspondence'
+p24789
+assg1545
+(dp24790
+g12148
+S'1969 April 06'
+p24791
+sg12150
+S'Shepard, Robert J.'
+p24792
+sg12152
+S'11/01/2013'
+p24793
+sg12154
+(lp24794
+g1548
+asg12156
+(lp24795
+g1543
+asg12158
+(lp24796
+S'Correspondence'
 p24797
-sg12154
-(lp24798
-g10969
-asg12156
-(lp24799
-S'Musical performances'
+assg4269
+(dp24798
+g12148
+S'1969 April 06'
+p24799
+sg12150
+S'Shepard, Robert J.'
 p24800
-assg8445
-(dp24801
-g12148
-S'1948 March 07'
-p24802
-sg12150
-S'Cushing, George'
-p24803
-sg11
-g8448
 sg12152
-S'2/25/2015'
-p24804
+S'11/01/2013'
+p24801
 sg12154
-(lp24805
-g8443
+(lp24802
+g4272
 asg12156
-(lp24806
-S'Sound tracks'
-p24807
-aS'Talk shows'
+(lp24803
+g4267
+ag4261
+asg12158
+(lp24804
+S'Correspondence'
+p24805
+aS'Correspondence'
+p24806
+assg9741
+(dp24807
+g12148
+S'1969 April 03'
 p24808
-assg5901
-(dp24809
-g12148
-S'1948 February 28'
+sg12150
+S'Shepard, Robert J.'
+p24809
+sg12152
+S'11/01/2013'
 p24810
-sg12150
-S'Cushing, George'
-p24811
-sg11
-g5904
-sg12152
-S'2/25/2015'
-p24812
 sg12154
+(lp24811
+g9744
+asg12156
+(lp24812
+g9739
+asg12158
 (lp24813
-g5899
-asg12156
-(lp24814
-S'Radio programs'
-p24815
-aS'Talk shows'
+S'Correspondence'
+p24814
+assg4485
+(dp24815
+g12148
+S'1969 March 30'
 p24816
-assg2481
-(dp24817
-g12148
-S'1947 December 28'
+sg12150
+S'Shepard, Robert J.'
+p24817
+sg12152
+S'11/01/2013'
 p24818
-sg12150
-S'Cushing, George'
-p24819
-sg11
-g2484
-sg12152
-S'2/25/2015'
-p24820
 sg12154
+(lp24819
+g4488
+asg12156
+(lp24820
+g4483
+ag2671
+asg12158
 (lp24821
-g2479
-asg12156
-(lp24822
-S'Radio programs'
+S'Correspondence'
+p24822
+aS'Correspondence'
 p24823
-aS'Talk shows'
-p24824
-assg5361
-(dp24825
+assg7173
+(dp24824
 g12148
-S'1947 December 21'
-p24826
+S'1969 March 13'
+p24825
 sg12150
-S'Cushing, George'
-p24827
-sg11
-g5364
+S'Shepard, Robert J.'
+p24826
 sg12152
-S'2/25/2015'
-p24828
+S'11/01/2013'
+p24827
 sg12154
-(lp24829
-g5359
+(lp24828
+g7176
 asg12156
+(lp24829
+g7171
+ag7177
+asg12158
 (lp24830
-S'Radio programs'
+S'Correspondence'
 p24831
-aS'Talk shows'
+aS'Correspondence'
 p24832
-assg2637
+assg4347
 (dp24833
 g12148
-S'1947 November 30'
+S'1969 March 11'
 p24834
 sg12150
-S'Cushing, George'
+S'Shepard, Robert J.'
 p24835
-sg11
-g2640
 sg12152
-S'2/25/2015'
+S'11/01/2013'
 p24836
 sg12154
 (lp24837
-g2635
+g4350
 asg12156
 (lp24838
-S'Radio programs'
-p24839
-aS'Talk shows'
+g4345
+ag4339
+asg12158
+(lp24839
+S'Correspondence'
 p24840
-assg11877
-(dp24841
+aS'Correspondence'
+p24841
+assg1599
+(dp24842
 g12148
-S'1948 February 22'
-p24842
-sg12150
-S'Cushing, George'
+S'1969 March'
 p24843
-sg11
-g11880
-sg12152
-S'2/25/2015'
+sg12150
+S'Shepard, Robert J.'
 p24844
+sg12152
+S'11/01/2013'
+p24845
 sg12154
-(lp24845
-g11875
-asg12156
 (lp24846
-S'Radio programs'
-p24847
-aS'Talk shows'
-p24848
-assg2397
-(dp24849
-g12148
-S'1948 February 15'
+g1602
+asg12156
+(lp24847
+g1597
+ag1585
+asg12158
+(lp24848
+S'Correspondence'
+p24849
+aS'Correspondence'
 p24850
-sg12150
-S'Cushing, George'
-p24851
-sg11
-g2400
-sg12152
-S'2/25/2015'
+assg5529
+(dp24851
+g12148
+S'1971 February 09'
 p24852
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24853
+sg12152
+S'6/24/2013'
+p24854
 sg12154
-(lp24853
-g2395
+(lp24855
+g5532
 asg12156
-(lp24854
-S'Radio programs'
-p24855
-aS'Talk shows'
-p24856
-assg8739
-(dp24857
-g12148
-S'1948 February 08'
+(lp24856
+g5527
+asg12158
+(lp24857
+S'Lectures'
 p24858
-sg12150
-S'Cushing, George'
+aS'Radio programs'
 p24859
-sg11
-g8742
-sg12152
-S'2/25/2015'
+aS'Rallies'
 p24860
-sg12154
-(lp24861
-g8737
-asg12156
-(lp24862
-S'Radio programs'
-p24863
-aS'Talk shows'
-p24864
-assg10533
-(dp24865
+assg2457
+(dp24861
 g12148
-S'1948 January 26'
-p24866
+S'1961 July 15'
+p24862
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p24863
+sg12152
+S'6/24/2013'
+p24864
+sg12154
+(lp24865
+g2460
+ag2448
+ag2454
+asg12156
+(lp24866
+g2455
+ag2443
+ag2449
+asg12158
+(lp24867
+S'Musical performances'
+p24868
+aS'Radio programs'
+p24869
+aS'Historical dramas'
+p24870
+aS'Musical performances'
+p24871
+aS'Radio programs'
+p24872
+aS'Historical dramas'
+p24873
+aS'Musical performances'
+p24874
+aS'Radio programs'
+p24875
+aS'Historical dramas'
+p24876
+assg2961
+(dp24877
+g12148
+S'1959?'
+p24878
+sg12150
+S'Williams, G. Mennen'
+p24879
+sg12152
+S'11/01/2013'
+p24880
+sg12154
+(lp24881
+g2964
+asg12156
+(lp24882
+g2959
+asg12158
+(lp24883
+S'Addresses'
+p24884
+assg2235
+(dp24885
+g12148
+S'1945 September 09'
+p24886
 sg12150
 S'Cushing, George'
-p24867
-sg11
-g10536
+p24887
 sg12152
 S'2/25/2015'
-p24868
+p24888
 sg12154
-(lp24869
-g10531
+(lp24889
+g2238
 asg12156
-(lp24870
+(lp24890
+g2233
+asg12158
+(lp24891
 S'Radio programs'
-p24871
+p24892
 aS'Talk shows'
-p24872
-assg8793
-(dp24873
+p24893
+assg11721
+(dp24894
 g12148
-S'[Undated]'
-p24874
-sg12150
-S'University of Michigan. Alumni Association.'
-p24875
-sg11
-g8796
-sg12152
-S'11/01/2013'
-p24876
-sg12154
-(lp24877
-g8791
-ag2605
-asg12156
-(lp24878
-S'Conferences'
-p24879
-aS'Conferences'
-p24880
-assg6399
-(dp24881
-g12148
-S'1977 November 18'
-p24882
-sg12150
-S'University of Michigan. Alumni Association.'
-p24883
-sg11
-g6402
-sg12152
-S'11/01/2013'
-p24884
-sg12154
-(lp24885
-g6397
-asg12156
-(lp24886
-S'Musical performances'
-p24887
-assg3465
-(dp24888
-g12148
-S'1972 August 27'
-p24889
-sg12150
-S'Democratic Party (Mich.)'
-p24890
-sg11
-g3468
-sg12152
-S'6/05/2014'
-p24891
-sg12154
-(lp24892
-g3463
-ag3469
-asg12156
-(lp24893
-S'Conferences'
-p24894
-aS'Conferences'
+S'1945 September 16'
 p24895
-assg9141
-(dp24896
-g12148
-S'1963 September 01'
-p24897
 sg12150
-S'Democratic Party (Mich.)'
-p24898
-sg11
-g9144
+S'Cushing, George'
+p24896
 sg12152
-S'6/05/2014'
-p24899
+S'2/25/2015'
+p24897
 sg12154
-(lp24900
-g9139
+(lp24898
+g11724
 asg12156
-(lp24901
+(lp24899
+g11719
+asg12158
+(lp24900
 S'Radio programs'
+p24901
+aS'Talk shows'
 p24902
-assg12021
+assg5745
 (dp24903
 g12148
-S'1965 April 20'
+S'1945 September 30'
 p24904
 sg12150
-S'Williams, Robert F.'
+S'Cushing, George'
 p24905
-sg11
-g12024
 sg12152
 S'2/25/2015'
 p24906
 sg12154
 (lp24907
-g12019
+g5748
 asg12156
 (lp24908
+g5743
+asg12158
+(lp24909
 S'Radio programs'
-p24909
-assg3177
-(dp24910
-g12148
-S'1961 December 07'
+p24910
+aS'Talk shows'
 p24911
-sg12150
-S'Romney, George'
-p24912
-sg11
-g3180
-sg12152
-S'6/05/2014'
+assg8547
+(dp24912
+g12148
+S'1945 November 04'
 p24913
-sg12154
-(lp24914
-g3175
-asg12156
-(lp24915
-S'Addresses'
-p24916
-assg10965
-(dp24917
-g12148
-S'1964 July 31'
-p24918
 sg12150
-S'Williams, Robert F.'
+S'Cushing, George'
+p24914
+sg12152
+S'2/25/2015'
+p24915
+sg12154
+(lp24916
+g8550
+asg12156
+(lp24917
+g8545
+asg12158
+(lp24918
+S'Radio programs'
 p24919
-sg11
-g10968
-sg12152
-S'2/25/2015'
+aS'Talk shows'
 p24920
-sg12154
-(lp24921
-g10963
-asg12156
-(lp24922
-S'Addresses'
+assg5565
+(dp24921
+g12148
+S'1945 November 11'
+p24922
+sg12150
+S'Cushing, George'
 p24923
-aS'Radio programs'
+sg12152
+S'2/25/2015'
 p24924
-assg831
-(dp24925
-g12148
-S'1964 September 19'
-p24926
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p24927
-sg11
-g834
-sg12152
-S'6/24/2013'
+sg12154
+(lp24925
+g5568
+asg12156
+(lp24926
+g5563
+asg12158
+(lp24927
+S'Radio programs'
 p24928
-sg12154
-(lp24929
-g829
-asg12156
-(lp24930
-S'Musical performances'
+aS'Talk shows'
+p24929
+assg4665
+(dp24930
+g12148
+S'1945 November 25'
 p24931
-aS'Radio programs'
+sg12150
+S'Cushing, George'
 p24932
-aS'Dedications (ceremonies)'
+sg12152
+S'2/25/2015'
 p24933
-assg10821
-(dp24934
-g12148
-S'[Undated]'
-p24935
-sg12150
-S'Williams, Robert F.'
-p24936
-sg11
-g10824
-sg12152
-S'2/25/2015'
+sg12154
+(lp24934
+g4668
+asg12156
+(lp24935
+g4663
+asg12158
+(lp24936
+S'Radio programs'
 p24937
-sg12154
-(lp24938
-g10819
-asg12156
-(lp24939
-S'Musical performances'
+aS'Talk shows'
+p24938
+assg9099
+(dp24939
+g12148
+S'1945 December 02'
 p24940
-aS'Dialogues'
+sg12150
+S'Cushing, George'
 p24941
-assg1329
-(dp24942
-g12148
-S'1967 September 07'
-p24943
-sg12150
-S'Romney, George'
-p24944
-sg11
-g1332
 sg12152
-S'6/05/2014'
-p24945
+S'2/25/2015'
+p24942
 sg12154
-(lp24946
-g1327
+(lp24943
+g9102
 asg12156
-(lp24947
-S'Interviews'
-p24948
-assg10371
-(dp24949
+(lp24944
+g9097
+asg12158
+(lp24945
+S'Radio programs'
+p24946
+aS'Talk shows'
+p24947
+assg1113
+(dp24948
 g12148
-S'1964 October 12'
+S'1945 December 16'
+p24949
+sg12150
+S'Cushing, George'
 p24950
-sg12150
-S'Romney, George'
+sg12152
+S'2/25/2015'
 p24951
-sg11
-g10374
-sg12152
-S'6/05/2014'
-p24952
 sg12154
+(lp24952
+g1116
+asg12156
 (lp24953
-g10369
-asg12156
+g1111
+asg12158
 (lp24954
-S'Debates'
+S'Radio programs'
 p24955
-assg10881
-(dp24956
+aS'Talk shows'
+p24956
+assg2349
+(dp24957
 g12148
-S'1965 January 22'
-p24957
-sg12150
-S'Williams, Robert F.'
+S'1946 January 13'
 p24958
-sg11
-g10884
-sg12152
-S'2/25/2015'
+sg12150
+S'Cushing, George'
 p24959
-sg12154
-(lp24960
-g10879
-asg12156
-(lp24961
-S'Musical performances'
-p24962
-assg3789
-(dp24963
-g12148
-S'[Undated]'
-p24964
-sg12150
-S'Williams, Robert F.'
-p24965
-sg11
-g3792
 sg12152
 S'2/25/2015'
-p24966
+p24960
 sg12154
-(lp24967
-g3787
+(lp24961
+g2352
 asg12156
-(lp24968
-S'Addresses'
+(lp24962
+g2347
+asg12158
+(lp24963
+S'Radio programs'
+p24964
+aS'Talk shows'
+p24965
+assg11829
+(dp24966
+g12148
+S'1946 February 03'
+p24967
+sg12150
+S'Cushing, George'
+p24968
+sg12152
+S'2/25/2015'
 p24969
-aS'Radio programs'
-p24970
-assg8223
-(dp24971
-g12148
-S'[Undated]'
-p24972
-sg12150
-S'University of Michigan. Institute of Gerontology.'
+sg12154
+(lp24970
+g11832
+asg12156
+(lp24971
+g11827
+asg12158
+(lp24972
+S'Radio programs'
 p24973
-sg11
-g8226
-sg12152
-S'6/05/2014'
+aS'Talk shows'
 p24974
-sg12154
-(lp24975
-g8221
-asg12156
-(lp24976
-S'Radio programs'
+assg3243
+(dp24975
+g12148
+S'1955 January 26'
+p24976
+sg12150
+S'Crane, Henry Hitt'
 p24977
-assg12129
-(dp24978
-g12148
-S'1966 February 28'
-p24979
-sg12150
-S'University of Michigan. Institute of Gerontology.'
-p24980
-sg11
-g12132
-sg12152
-S'6/05/2014'
-p24981
-sg12154
-(lp24982
-g12127
-asg12156
-(lp24983
-S'Radio programs'
-p24984
-assg7959
-(dp24985
-g12148
-S'1969 October 15'
-p24986
-sg12150
-S'WUOM (Radio station: Ann Arbor, Mich.)'
-p24987
-sg11
-g7962
 sg12152
 S'6/24/2013'
-p24988
+p24978
 sg12154
-(lp24989
-g7957
+(lp24979
+g3246
 asg12156
+(lp24980
+g3241
+ag3235
+asg12158
+(lp24981
+S'Sermons'
+p24982
+aS'Sermons'
+p24983
+assg9267
+(dp24984
+g12148
+S'[Undated]'
+p24985
+sg12150
+S'Detroit Urban League'
+p24986
+sg12152
+S'6/24/2013'
+p24987
+sg12154
+(lp24988
+g9270
+asg12156
+(lp24989
+g9265
+asg12158
 (lp24990
 S'Addresses'
 p24991
-aS'Radio programs'
-p24992
-assg11025
-(dp24993
+assg11859
+(dp24992
 g12148
-S'[Undated]'
+S'1968 April 05'
+p24993
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
 p24994
-sg12150
-S'Moncrieff, Frederick E.'
+sg12152
+S'6/24/2013'
 p24995
-sg11
-g11028
-sg12152
-S'6/05/2014'
-p24996
 sg12154
+(lp24996
+g11862
+asg12156
 (lp24997
-g11023
-asg12156
+g11857
+asg12158
 (lp24998
-S'Interviews'
+S'Radio programs'
 p24999
-assg4935
-(dp25000
+aS'Memorial services'
+p25000
+assg183
+(dp25001
 g12148
-S'[Undated]'
-p25001
-sg12150
-S'Moncrieff, Frederick E.'
+S'1968'
 p25002
-sg11
-g4938
-sg12152
-S'6/05/2014'
+sg12150
+S'Sinclair, John and Leni'
 p25003
+sg12152
+S'6/24/2013'
+p25004
 sg12154
-(lp25004
-g4933
-asg12156
 (lp25005
+g186
+asg12156
+(lp25006
+g181
+asg12158
+(lp25007
 S'Interviews'
-p25006
-assg2319
-(dp25007
-g12148
-S'[Undated]'
 p25008
-sg12150
-S'Moncrieff, Frederick E.'
-p25009
-sg11
-g2322
-sg12152
-S'6/05/2014'
-p25010
-sg12154
-(lp25011
-g2317
-asg12156
-(lp25012
-S'Interviews'
-p25013
-assg5169
-(dp25014
-g12148
-S'[Undated]'
-p25015
-sg12150
-S'Moncrieff, Frederick E.'
-p25016
-sg11
-g5172
-sg12152
-S'6/05/2014'
-p25017
-sg12154
-(lp25018
-g5167
-asg12156
-(lp25019
-S'Musical performances'
-p25020
 aS'Radio programs'
+p25009
+aS'Talk shows'
+p25010
+assg10011
+(dp25011
+g12148
+S'1969 November'
+p25012
+sg12150
+S'Sinclair, John and Leni'
+p25013
+sg12152
+S'6/24/2013'
+p25014
+sg12154
+(lp25015
+g10014
+asg12156
+(lp25016
+g10009
+ag3877
+ag3889
+ag10003
+asg12158
+(lp25017
+S'Interviews'
+p25018
+aS'Interviews'
+p25019
+aS'Interviews'
+p25020
+aS'Interviews'
 p25021
-assg7917
+assg8871
 (dp25022
 g12148
-S'[Undated]'
+S'1966 April 17'
 p25023
 sg12150
-S'Moncrieff, Frederick E.'
+S'Sinclair, John and Leni'
 p25024
-sg11
-g7920
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p25025
 sg12154
 (lp25026
-g7915
+g8874
 asg12156
 (lp25027
-S'Musical performances'
-p25028
-aS'Radio programs'
+g8869
+asg12158
+(lp25028
+S'Interviews'
 p25029
-assg5001
+assg6027
 (dp25030
 g12148
-S'[Undated]'
+S'1967 November 16'
 p25031
 sg12150
-S'Moncrieff, Frederick E.'
+S'Sinclair, John and Leni'
 p25032
-sg11
-g5004
 sg12152
-S'6/05/2014'
+S'6/24/2013'
 p25033
 sg12154
 (lp25034
-g4999
+g6030
 asg12156
 (lp25035
-S'Musical performances'
-p25036
-aS'Radio programs'
+g6025
+asg12158
+(lp25036
+S'Interviews'
 p25037
+assg12009
+(dp25038
+g12148
+S'[1976-1977?]'
+p25039
+sg12150
+S'Sinclair, John and Leni'
+p25040
+sg12152
+S'6/24/2013'
+p25041
+sg12154
+(lp25042
+g12012
+asg12156
+(lp25043
+g12007
+asg12158
+(lp25044
+S'Interviews'
+p25045
+aS'Radio programs'
+p25046
+aS'Talk shows'
+p25047
+assg3807
+(dp25048
+g12148
+S'[Undated]'
+p25049
+sg12150
+S'Sinclair, John and Leni'
+p25050
+sg12152
+S'6/24/2013'
+p25051
+sg12154
+(lp25052
+g3810
+asg12156
+(lp25053
+g3805
+ag3799
+asg12158
+(lp25054
+S'Interviews'
+p25055
+aS'Radio programs'
+p25056
+aS'Talk shows'
+p25057
+aS'Interviews'
+p25058
+aS'Radio programs'
+p25059
+aS'Talk shows'
+p25060
+assg11775
+(dp25061
+g12148
+S'[Undated]'
+p25062
+sg12150
+S'Sinclair, John and Leni'
+p25063
+sg12152
+S'6/24/2013'
+p25064
+sg12154
+(lp25065
+g11778
+asg12156
+(lp25066
+g11773
+asg12158
+(lp25067
+S'Interviews'
+p25068
+aS'Radio programs'
+p25069
+aS'Talk shows'
+p25070
+assg9189
+(dp25071
+g12148
+S'[Undated]'
+p25072
+sg12150
+S'Sinclair, John and Leni'
+p25073
+sg12152
+S'6/24/2013'
+p25074
+sg12154
+(lp25075
+g9192
+asg12156
+(lp25076
+g9187
+asg12158
+(lp25077
+S'Interviews'
+p25078
+aS'Radio programs'
+p25079
+aS'Talk shows'
+p25080
+assg12063
+(dp25081
+g12148
+S'[Undated]'
+p25082
+sg12150
+S'Sinclair, John and Leni'
+p25083
+sg12152
+S'6/24/2013'
+p25084
+sg12154
+(lp25085
+g12066
+asg12156
+(lp25086
+g12061
+asg12158
+(lp25087
+S'Interviews'
+p25088
+aS'Radio programs'
+p25089
+aS'Talk shows'
+p25090
+assg2601
+(dp25091
+g12148
+S'[Undated]'
+p25092
+sg12150
+S'Sinclair, John and Leni'
+p25093
+sg12152
+S'6/24/2013'
+p25094
+sg12154
+(lp25095
+g2604
+asg12156
+(lp25096
+g2599
+asg12158
+(lp25097
+S'Interviews'
+p25098
+aS'Radio programs'
+p25099
+aS'Talk shows'
+p25100
+assg3063
+(dp25101
+g12148
+S'1978 June 29'
+p25102
+sg12150
+S'Albright, William'
+p25103
+sg12152
+S'11/9/2012'
+p25104
+sg12154
+(lp25105
+g3066
+asg12156
+(lp25106
+g3061
+asg12158
+(lp25107
+S'Musical performances'
+p25108
+assg357
+(dp25109
+g12148
+S'1982 October 31, 1981 September'
+p25110
+sg12150
+S'Albright, William'
+p25111
+sg12152
+S'11/9/2012'
+p25112
+sg12154
+(lp25113
+g360
+asg12156
+(lp25114
+g355
+ag361
+asg12158
+(lp25115
+S'Musical performances'
+p25116
+aS'Musical performances'
+p25117
+assg6495
+(dp25118
+g12148
+S'1971 March 03'
+p25119
+sg12150
+S'Albright, William'
+p25120
+sg12152
+S'10/29/2012'
+p25121
+sg12154
+(lp25122
+g6498
+asg12156
+(lp25123
+g6493
+asg12158
+(lp25124
+S'Musical performances'
+p25125
+assg9309
+(dp25126
+g12148
+S'[Undated]'
+p25127
+sg12150
+S'Albright, William'
+p25128
+sg12152
+S'10/29/2012'
+p25129
+sg12154
+(lp25130
+g9312
+asg12156
+(lp25131
+g9307
+asg12158
+(lp25132
+S'Musical performances'
+p25133
+assg6333
+(dp25134
+g12148
+S'1971 May 25-26'
+p25135
+sg12150
+S'Albright, William'
+p25136
+sg12152
+S'10/29/2012'
+p25137
+sg12154
+(lp25138
+g6336
+asg12156
+(lp25139
+g6331
+asg12158
+(lp25140
+S'Musical performances'
+p25141
+assg3597
+(dp25142
+g12148
+S'1974 April, 1979 May 07'
+p25143
+sg12150
+S'Albright, William'
+p25144
+sg12152
+S'10/29/2012'
+p25145
+sg12154
+(lp25146
+g3600
+asg12156
+(lp25147
+g3595
+asg12158
+(lp25148
+S'Musical performances'
+p25149
+assg9735
+(dp25150
+g12148
+S'[Undated]'
+p25151
+sg12150
+S'Albright, William'
+p25152
+sg12152
+S'11/1/2012'
+p25153
+sg12154
+(lp25154
+g9738
+asg12156
+(lp25155
+g9733
+asg12158
+(lp25156
+S'Musical performances'
+p25157
+assg9273
+(dp25158
+g12148
+S'1977 February'
+p25159
+sg12150
+S'Albright, William'
+p25160
+sg12152
+S'10/29/2012'
+p25161
+sg12154
+(lp25162
+g9276
+asg12156
+(lp25163
+g9271
+asg12158
+(lp25164
+S'Musical performances'
+p25165
+assg6669
+(dp25166
+g12148
+S'[Undated]'
+p25167
+sg12150
+S'Albright, William'
+p25168
+sg12152
+S'11/9/2012'
+p25169
+sg12154
+(lp25170
+g6672
+asg12156
+(lp25171
+g6667
+ag6661
+asg12158
+(lp25172
+S'Musical performances'
+p25173
+aS'Musical performances'
+p25174
+assg9327
+(dp25175
+g12148
+S'[Undated]'
+p25176
+sg12150
+S'Albright, William'
+p25177
+sg12152
+S'11/9/2012'
+p25178
+sg12154
+(lp25179
+g9330
+asg12156
+(lp25180
+g9325
+asg12158
+(lp25181
+S'Musical performances'
+p25182
+assg471
+(dp25183
+g12148
+S'1983 March 25'
+p25184
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25185
+sg12152
+S'11/01/2013'
+p25186
+sg12154
+(lp25187
+g474
+asg12156
+(lp25188
+g469
+asg12158
+(lp25189
+S'Musical performances'
+p25190
+assg735
+(dp25191
+g12148
+S'1983 March 25'
+p25192
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25193
+sg12152
+S'11/01/2013'
+p25194
+sg12154
+(lp25195
+g738
+asg12156
+(lp25196
+g733
+asg12158
+(lp25197
+S'Musical performances'
+p25198
+assg3405
+(dp25199
+g12148
+S'1983 March 25'
+p25200
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25201
+sg12152
+S'11/01/2013'
+p25202
+sg12154
+(lp25203
+g3408
+asg12156
+(lp25204
+g3403
+asg12158
+(lp25205
+S'Musical performances'
+p25206
+assg6837
+(dp25207
+g12148
+S'1983 March 25'
+p25208
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25209
+sg12152
+S'11/01/2013'
+p25210
+sg12154
+(lp25211
+g6840
+asg12156
+(lp25212
+g6835
+asg12158
+(lp25213
+S'Musical performances'
+p25214
+assg7203
+(dp25215
+g12148
+S'1970 April 3'
+p25216
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25217
+sg12152
+S'11/01/2013'
+p25218
+sg12154
+(lp25219
+g7206
+asg12156
+(lp25220
+g7201
+ag7219
+asg12158
+(lp25221
+S'Musical performances'
+p25222
+aS'Musical performances'
+p25223
+assg3321
+(dp25224
+g12148
+S'1970 July 07'
+p25225
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25226
+sg12152
+S'6/24/2013'
+p25227
+sg12154
+(lp25228
+g3324
+asg12156
+(lp25229
+g3319
+asg12158
+(lp25230
+S'Radio programs'
+p25231
+aS'Panel discussions'
+p25232
+assg711
+(dp25233
+g12148
+S'1966 June 25'
+p25234
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25235
+sg12152
+S'6/24/2013'
+p25236
+sg12154
+(lp25237
+g714
+asg12156
+(lp25238
+g709
+asg12158
+(lp25239
+S'Oral Histories'
+p25240
+aS'Radio programs'
+p25241
+aS'Documentaries'
+p25242
+assg9891
+(dp25243
+g12148
+S'1966 June 30'
+p25244
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25245
+sg12152
+S'6/24/2013'
+p25246
+sg12154
+(lp25247
+g9894
+asg12156
+(lp25248
+g9889
+asg12158
+(lp25249
+S'Oral Histories'
+p25250
+aS'Radio programs'
+p25251
+aS'Documentaries'
+p25252
+assg411
+(dp25253
+g12148
+S'1966 March 10'
+p25254
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25255
+sg12152
+S'6/24/2013'
+p25256
+sg12154
+(lp25257
+g414
+asg12156
+(lp25258
+g409
+asg12158
+(lp25259
+S'Oral Histories'
+p25260
+aS'Radio programs'
+p25261
+aS'Documentaries'
+p25262
+assg3327
+(dp25263
+g12148
+S'1967 June 30'
+p25264
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25265
+sg12152
+S'6/24/2013'
+p25266
+sg12154
+(lp25267
+g3330
+asg12156
+(lp25268
+g3325
+asg12158
+(lp25269
+S'Oral Histories'
+p25270
+aS'Radio programs'
+p25271
+aS'Documentaries'
+p25272
+assg621
+(dp25273
+g12148
+S'1966 July 14'
+p25274
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25275
+sg12152
+S'6/24/2013'
+p25276
+sg12154
+(lp25277
+g624
+asg12156
+(lp25278
+g619
+asg12158
+(lp25279
+S'Oral Histories'
+p25280
+aS'Radio programs'
+p25281
+aS'Documentaries'
+p25282
+assg6381
+(dp25283
+g12148
+S'1966 February 11'
+p25284
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25285
+sg12152
+S'6/24/2013'
+p25286
+sg12154
+(lp25287
+g6384
+ag6372
+asg12156
+(lp25288
+g6379
+ag6367
+asg12158
+(lp25289
+S'Oral Histories'
+p25290
+aS'Radio programs'
+p25291
+aS'Documentaries'
+p25292
+aS'Oral Histories'
+p25293
+aS'Radio programs'
+p25294
+aS'Documentaries'
+p25295
+assg2661
+(dp25296
+g12148
+S'1966 April 17'
+p25297
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25298
+sg12152
+S'6/24/2013'
+p25299
+sg12154
+(lp25300
+g2664
+ag2658
+asg12156
+(lp25301
+g2659
+ag2653
+asg12158
+(lp25302
+S'Oral Histories'
+p25303
+aS'Radio programs'
+p25304
+aS'Documentaries'
+p25305
+aS'Oral Histories'
+p25306
+aS'Radio programs'
+p25307
+aS'Documentaries'
+p25308
+assg669
+(dp25309
+g12148
+S'1985'
+p25310
+sg12150
+S'Sinclair, John and Leni'
+p25311
+sg12152
+S'6/24/2013'
+p25312
+sg12154
+(lp25313
+g672
+asg12156
+(lp25314
+g667
+asg12158
+(lp25315
+S'Musical performances'
+p25316
+aS'Poetry readings'
+p25317
+assg7095
+(dp25318
+g12148
+S'1985'
+p25319
+sg12150
+S'Sinclair, John and Leni'
+p25320
+sg12152
+S'6/24/2013'
+p25321
+sg12154
+(lp25322
+g7098
+asg12156
+(lp25323
+g7093
+asg12158
+(lp25324
+S'Musical performances'
+p25325
+aS'Poetry readings'
+p25326
+assg963
+(dp25327
+g12148
+S'1972'
+p25328
+sg12150
+S'Sinclair, John and Leni'
+p25329
+sg12152
+S'6/24/2013'
+p25330
+sg12154
+(lp25331
+g966
+asg12156
+(lp25332
+g961
+asg12158
+(lp25333
+S'Poetry readings'
+p25334
+assg9939
+(dp25335
+g12148
+S'1972'
+p25336
+sg12150
+S'Sinclair, John and Leni'
+p25337
+sg12152
+S'6/24/2013'
+p25338
+sg12154
+(lp25339
+g9942
+asg12156
+(lp25340
+g9937
+asg12158
+(lp25341
+S'Poetry readings'
+p25342
+assg681
+(dp25343
+g12148
+S'1947 November 03'
+p25344
+sg12150
+S'Cushing, George'
+p25345
+sg12152
+S'2/25/2015'
+p25346
+sg12154
+(lp25347
+g684
+asg12156
+(lp25348
+g679
+asg12158
+(lp25349
+S'Radio programs'
+p25350
+aS'Talk shows'
+p25351
+assg7101
+(dp25352
+g12148
+S'1947 November 11'
+p25353
+sg12150
+S'Cushing, George'
+p25354
+sg12152
+S'2/25/2015'
+p25355
+sg12154
+(lp25356
+g7104
+asg12156
+(lp25357
+g7099
+asg12158
+(lp25358
+S'Radio programs'
+p25359
+aS'Talk shows'
+p25360
+assg759
+(dp25361
+g12148
+S'1964 April 21'
+p25362
+sg12150
+S'Hart, Philip A.'
+p25363
+sg12152
+S'11/01/2013'
+p25364
+sg12154
+(lp25365
+g762
+asg12156
+(lp25366
+g757
+asg12158
+(lp25367
+S'Conferences'
+p25368
+assg10215
+(dp25369
+g12148
+S'1964 April 21'
+p25370
+sg12150
+S'Hart, Philip A.'
+p25371
+sg12152
+S'11/01/2013'
+p25372
+sg12154
+(lp25373
+g10218
+asg12156
+(lp25374
+g10213
+asg12158
+(lp25375
+S'Conferences'
+p25376
+assg4149
+(dp25377
+g12148
+S'1964 April 21'
+p25378
+sg12150
+S'Hart, Philip A.'
+p25379
+sg12152
+S'11/01/2013'
+p25380
+sg12154
+(lp25381
+g4152
+asg12156
+(lp25382
+g4147
+asg12158
+(lp25383
+S'Conferences'
+p25384
+assg6825
+(dp25385
+g12148
+S'1964 April 21'
+p25386
+sg12150
+S'Hart, Philip A.'
+p25387
+sg12152
+S'11/01/2013'
+p25388
+sg12154
+(lp25389
+g6828
+asg12156
+(lp25390
+g6823
+asg12158
+(lp25391
+S'Conferences'
+p25392
+assg4137
+(dp25393
+g12148
+S'1947 September 28'
+p25394
+sg12150
+S'Cushing, George'
+p25395
+sg12152
+S'2/25/2015'
+p25396
+sg12154
+(lp25397
+g4140
+asg12156
+(lp25398
+g4135
+asg12158
+(lp25399
+S'Radio programs'
+p25400
+aS'Talk shows'
+p25401
+assg6819
+(dp25402
+g12148
+S'1947 October 02'
+p25403
+sg12150
+S'Cushing, George'
+p25404
+sg12152
+S'2/25/2015'
+p25405
+sg12154
+(lp25406
+g6822
+asg12156
+(lp25407
+g6817
+asg12158
+(lp25408
+S'Radio programs'
+p25409
+aS'Talk shows'
+p25410
+assg4209
+(dp25411
+g12148
+S'1964 March 31'
+p25412
+sg12150
+S'Hart, Philip A.'
+p25413
+sg12152
+S'11/01/2013'
+p25414
+sg12154
+(lp25415
+g4212
+asg12156
+(lp25416
+g4207
+asg12158
+(lp25417
+S'Radio programs'
+p25418
+aS'Debates'
+p25419
+assg10221
+(dp25420
+g12148
+S'1947 September 21'
+p25421
+sg12150
+S'Cushing, George'
+p25422
+sg12152
+S'2/25/2015'
+p25423
+sg12154
+(lp25424
+g10224
+asg12156
+(lp25425
+g10219
+asg12158
+(lp25426
+S'Radio programs'
+p25427
+aS'Talk shows'
+p25428
+assg6429
+(dp25429
+g12148
+S'1954 June 13'
+p25430
+sg12150
+S'Moody, Blair'
+p25431
+sg12152
+S'2/25/2015'
+p25432
+sg12154
+(lp25433
+g6432
+asg12156
+(lp25434
+g6427
+asg12158
+(lp25435
+S'Radio programs'
+p25436
+aS'Talk shows'
+p25437
+assg7749
+(dp25438
+g12148
+S'1962 January 09'
+p25439
+sg12150
+S'Romney, George'
+p25440
+sg12152
+S'6/05/2014'
+p25441
+sg12154
+(lp25442
+g7752
+asg12156
+(lp25443
+g7747
+asg12158
+(lp25444
+S'Debates'
+p25445
+assg1365
+(dp25446
+g12148
+S'1962 February 03'
+p25447
+sg12150
+S'Romney, George'
+p25448
+sg12152
+S'6/05/2014'
+p25449
+sg12154
+(lp25450
+g1368
+asg12156
+(lp25451
+g1363
+asg12158
+(lp25452
+S'Interviews'
+p25453
+aS'Television'
+p25454
+assg9561
+(dp25455
+g12148
+S'1962 January 09'
+p25456
+sg12150
+S'Romney, George'
+p25457
+sg12152
+S'6/05/2014'
+p25458
+sg12154
+(lp25459
+g9564
+asg12156
+(lp25460
+g9559
+asg12158
+(lp25461
+S'Debates'
+p25462
+assg8055
+(dp25463
+g12148
+S'1962 January 09'
+p25464
+sg12150
+S'Romney, George'
+p25465
+sg12152
+S'6/05/2014'
+p25466
+sg12154
+(lp25467
+g8058
+asg12156
+(lp25468
+g8053
+asg12158
+(lp25469
+S'Debates'
+p25470
+assg7779
+(dp25471
+g12148
+S'1962 February 03'
+p25472
+sg12150
+S'Romney, George'
+p25473
+sg12152
+S'6/05/2014'
+p25474
+sg12154
+(lp25475
+g7782
+asg12156
+(lp25476
+g7777
+asg12158
+(lp25477
+S'Interviews'
+p25478
+assg5013
+(dp25479
+g12148
+S'1962 December 04'
+p25480
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25481
+sg12152
+S'6/24/2013'
+p25482
+sg12154
+(lp25483
+g5016
+asg12156
+(lp25484
+g5011
+asg12158
+(lp25485
+S'Radio programs'
+p25486
+aS'Poetry readings'
+p25487
+assg555
+(dp25488
+g12148
+S'1973 September 06'
+p25489
+sg12150
+S'Michigan Organization for Human Rights'
+p25490
+sg12152
+S'6/05/2014'
+p25491
+sg12154
+(lp25492
+g558
+asg12156
+(lp25493
+g553
+asg12158
+(lp25494
+S'Radio programs'
+p25495
+assg5085
+(dp25496
+g12148
+S'1970'
+p25497
+sg12150
+S'Albright, William'
+p25498
+sg12152
+S'6/24/2013'
+p25499
+sg12154
+(lp25500
+g5088
+asg12156
+(lp25501
+g5083
+asg12158
+(lp25502
+S'Musical performances'
+p25503
+assg2409
+(dp25504
+g12148
+S'1969 June 11'
+p25505
+sg12150
+S'Albright, William'
+p25506
+sg12152
+S'6/24/2013'
+p25507
+sg12154
+(lp25508
+g2412
+asg12156
+(lp25509
+g2407
+asg12158
+(lp25510
+S'Musical performances'
+p25511
+assg12003
+(dp25512
+g12148
+S'1958 January 31'
+p25513
+sg12150
+S'Brucker, Wilber Marion'
+p25514
+sg12152
+S'11/01/2013'
+p25515
+sg12154
+(lp25516
+g12006
+asg12156
+(lp25517
+g12001
+asg12158
+(lp25518
+S'Radio programs'
+p25519
+assg6609
+(dp25520
+g12148
+S'1944 November 26'
+p25521
+sg12150
+S'Cushing, George'
+p25522
+sg12152
+S'2/25/2015'
+p25523
+sg12154
+(lp25524
+g6612
+asg12156
+(lp25525
+g6607
+asg12158
+(lp25526
+S'Radio programs'
+p25527
+aS'Talk shows'
+p25528
+assg4005
+(dp25529
+g12148
+S'1944 November 12'
+p25530
+sg12150
+S'Cushing, George'
+p25531
+sg12152
+S'2/25/2015'
+p25532
+sg12154
+(lp25533
+g4008
+asg12156
+(lp25534
+g4003
+asg12158
+(lp25535
+S'Radio programs'
+p25536
+aS'Talk shows'
+p25537
+assg5985
+(dp25538
+g12148
+S'1970 March 14'
+p25539
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25540
+sg12152
+S'6/24/2013'
+p25541
+sg12154
+(lp25542
+g5988
+asg12156
+(lp25543
+g5983
+asg12158
+(lp25544
+S'Addresses'
+p25545
+aS'Radio programs'
+p25546
+assg9897
+(dp25547
+g12148
+S'1959 March 18'
+p25548
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p25549
+sg12152
+S'6/24/2013'
+p25550
+sg12154
+(lp25551
+g9900
+asg12156
+(lp25552
+g9895
+asg12158
+(lp25553
+S'Interviews'
+p25554
+aS'Radio programs'
+p25555
+aS'Talk shows'
+p25556
+assg1911
+(dp25557
+g12148
+S'1984 April 07'
+p25558
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25559
+sg12152
+S'11/01/2013'
+p25560
+sg12154
+(lp25561
+g1914
+asg12156
+(lp25562
+g1909
+ag1915
+asg12158
+(lp25563
+S'Musical performances'
+p25564
+aS'Musical performances'
+p25565
+assg9885
+(dp25566
+g12148
+S'1944 September 24'
+p25567
+sg12150
+S'Cushing, George'
+p25568
+sg12152
+S'2/25/2015'
+p25569
+sg12154
+(lp25570
+g9888
+asg12156
+(lp25571
+g9883
+asg12158
+(lp25572
+S'Radio programs'
+p25573
+aS'Talk shows'
+p25574
+assg3555
+(dp25575
+g12148
+S'1960 May 14'
+p25576
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25577
+sg12152
+S'11/01/2013'
+p25578
+sg12154
+(lp25579
+g3558
+asg12156
+(lp25580
+g3553
+asg12158
+(lp25581
+S'Musical performances'
+p25582
+assg6285
+(dp25583
+g12148
+S'1969 June 22'
+p25584
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25585
+sg12152
+S'11/01/2013'
+p25586
+sg12154
+(lp25587
+g6288
+asg12156
+(lp25588
+g6283
+asg12158
+(lp25589
+S'Musical performances'
+p25590
+assg225
+(dp25591
+g12148
+S'1969 June 22'
+p25592
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25593
+sg12152
+S'11/01/2013'
+p25594
+sg12154
+(lp25595
+g228
+asg12156
+(lp25596
+g223
+asg12158
+(lp25597
+S'Musical performances'
+p25598
+assg9699
+(dp25599
+g12148
+S'1960 May 14'
+p25600
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25601
+sg12152
+S'11/01/2013'
+p25602
+sg12154
+(lp25603
+g9702
+asg12156
+(lp25604
+g9697
+asg12158
+(lp25605
+S'Musical performances'
+p25606
+assg1125
+(dp25607
+g12148
+S'1944 November 05'
+p25608
+sg12150
+S'Cushing, George'
+p25609
+sg12152
+S'2/25/2015'
+p25610
+sg12154
+(lp25611
+g1128
+asg12156
+(lp25612
+g1123
+asg12158
+(lp25613
+S'Radio programs'
+p25614
+aS'Talk shows'
+p25615
+assg3615
+(dp25616
+g12148
+S'1944 October 15'
+p25617
+sg12150
+S'Cushing, George'
+p25618
+sg12152
+S'2/25/2015'
+p25619
+sg12154
+(lp25620
+g3618
+asg12156
+(lp25621
+g3613
+asg12158
+(lp25622
+S'Radio programs'
+p25623
+aS'Talk shows'
+p25624
+assg6645
+(dp25625
+g12148
+S'1953 November 08'
+p25626
+sg12150
+S'Moody, Blair'
+p25627
+sg12152
+S'2/25/2015'
+p25628
+sg12154
+(lp25629
+g6648
+asg12156
+(lp25630
+g6643
+asg12158
+(lp25631
+S'Radio programs'
+p25632
+assg9447
+(dp25633
+g12148
+S'1953 November 01'
+p25634
+sg12150
+S'Moody, Blair'
+p25635
+sg12152
+S'2/25/2015'
+p25636
+sg12154
+(lp25637
+g9450
+asg12156
+(lp25638
+g9445
+asg12158
+(lp25639
+S'Radio programs'
+p25640
+assg6741
+(dp25641
+g12148
+S'1962 September 15'
+p25642
+sg12150
+S'Romney, George'
+p25643
+sg12152
+S'6/05/2014'
+p25644
+sg12154
+(lp25645
+g6744
+asg12156
+(lp25646
+g6739
+asg12158
+(lp25647
+S'Addresses'
+p25648
+assg9483
+(dp25649
+g12148
+S'1953 September 09'
+p25650
+sg12150
+S'Moody, Blair'
+p25651
+sg12152
+S'2/25/2015'
+p25652
+sg12154
+(lp25653
+g9486
+asg12156
+(lp25654
+g9481
+asg12158
+(lp25655
+S'Radio programs'
+p25656
+aS'Talk shows'
+p25657
+assg3351
+(dp25658
+g12148
+S'1953 October 18'
+p25659
+sg12150
+S'Moody, Blair'
+p25660
+sg12152
+S'2/25/2015'
+p25661
+sg12154
+(lp25662
+g3354
+asg12156
+(lp25663
+g3349
+asg12158
+(lp25664
+S'Radio programs'
+p25665
+assg603
+(dp25666
+g12148
+S'1953 September 23'
+p25667
+sg12150
+S'Moody, Blair'
+p25668
+sg12152
+S'2/25/2015'
+p25669
+sg12154
+(lp25670
+g606
+asg12156
+(lp25671
+g601
+asg12158
+(lp25672
+S'Radio programs'
+p25673
+aS'Talk shows'
+p25674
+assg6753
+(dp25675
+g12148
+S'1951'
+p25676
+sg12150
+S'Moody, Blair'
+p25677
+sg12152
+S'2/25/2015'
+p25678
+sg12154
+(lp25679
+g6756
+asg12156
+(lp25680
+g6751
+asg12158
+(lp25681
+S'Radio programs'
+p25682
+aS'Talk shows'
+p25683
+assg141
+(dp25684
+g12148
+S'1953 May 30'
+p25685
+sg12150
+S'Moody, Blair'
+p25686
+sg12152
+S'2/25/2015'
+p25687
+sg12154
+(lp25688
+g144
+asg12156
+(lp25689
+g139
+asg12158
+(lp25690
+S'Radio programs'
+p25691
+aS'Talk shows'
+p25692
+assg9651
+(dp25693
+g12148
+S'1953 May 14'
+p25694
+sg12150
+S'Moody, Blair'
+p25695
+sg12152
+S'2/25/2015'
+p25696
+sg12154
+(lp25697
+g9654
+asg12156
+(lp25698
+g9649
+asg12158
+(lp25699
+S'Radio programs'
+p25700
+aS'Talk shows'
+p25701
+assg6489
+(dp25702
+g12148
+S'1974 September 26'
+p25703
+sg12150
+S'Michigan Organization for Human Rights'
+p25704
+sg12152
+S'6/05/2014'
+p25705
+sg12154
+(lp25706
+g6492
+asg12156
+(lp25707
+g6487
+asg12158
+(lp25708
+S'Radio programs'
+p25709
+assg9921
+(dp25710
+g12148
+S'1974 August 15'
+p25711
+sg12150
+S'Michigan Organization for Human Rights'
+p25712
+sg12152
+S'6/05/2014'
+p25713
+sg12154
+(lp25714
+g9924
+asg12156
+(lp25715
+g9919
+asg12158
+(lp25716
+S'Radio programs'
+p25717
+assg423
+(dp25718
+g12148
+S'1974 August 01'
+p25719
+sg12150
+S'Michigan Organization for Human Rights'
+p25720
+sg12152
+S'6/05/2014'
+p25721
+sg12154
+(lp25722
+g426
+asg12156
+(lp25723
+g421
+asg12158
+(lp25724
+S'Radio programs'
+p25725
+assg9723
+(dp25726
+g12148
+S'1975 January 16'
+p25727
+sg12150
+S'Michigan Organization for Human Rights'
+p25728
+sg12152
+S'6/05/2014'
+p25729
+sg12154
+(lp25730
+g9726
+asg12156
+(lp25731
+g9721
+asg12158
+(lp25732
+S'Radio programs'
+p25733
+assg945
+(dp25734
+g12148
+S'1974 November 21'
+p25735
+sg12150
+S'Michigan Organization for Human Rights'
+p25736
+sg12152
+S'6/05/2014'
+p25737
+sg12154
+(lp25738
+g948
+asg12156
+(lp25739
+g943
+asg12158
+(lp25740
+S'Radio programs'
+p25741
+assg339
+(dp25742
+g12148
+S'1974 November 07'
+p25743
+sg12150
+S'Michigan Organization for Human Rights'
+p25744
+sg12152
+S'6/05/2014'
+p25745
+sg12154
+(lp25746
+g342
+asg12156
+(lp25747
+g337
+asg12158
+(lp25748
+S'Radio programs'
+p25749
+assg891
+(dp25750
+g12148
+S'1975 February 13'
+p25751
+sg12150
+S'Michigan Organization for Human Rights'
+p25752
+sg12152
+S'6/05/2014'
+p25753
+sg12154
+(lp25754
+g894
+asg12156
+(lp25755
+g889
+asg12158
+(lp25756
+S'Radio programs'
+p25757
+assg3585
+(dp25758
+g12148
+S'1975 January 30'
+p25759
+sg12150
+S'Michigan Organization for Human Rights'
+p25760
+sg12152
+S'6/05/2014'
+p25761
+sg12154
+(lp25762
+g3588
+asg12156
+(lp25763
+g3583
+asg12158
+(lp25764
+S'Radio programs'
+p25765
+assg981
+(dp25766
+g12148
+S'1984 January 31'
+p25767
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p25768
+sg12152
+S'6/05/2014'
+p25769
+sg12154
+(lp25770
+g984
+asg12156
+(lp25771
+g979
+asg12158
+(lp25772
+S'Lectures'
+p25773
+aS'Musical performances'
+p25774
+aS'Radio programs'
+p25775
+assg6783
+(dp25776
+g12148
+S'1953-1955'
+p25777
+sg12150
+S'Kurath, Gertrude Prokosc'
+p25778
+sg12152
+S'6/24/2013'
+p25779
+sg12154
+(lp25780
+g6786
+asg12156
+(lp25781
+g6781
+asg12158
+(lp25782
+S'Musical performances'
+p25783
+assg3819
+(dp25784
+g12148
+S'1953-1954'
+p25785
+sg12150
+S'Kurath, Gertrude Prokosc'
+p25786
+sg12152
+S'6/24/2013'
+p25787
+sg12154
+(lp25788
+g3822
+asg12156
+(lp25789
+g3817
+asg12158
+(lp25790
+S'Musical performances'
+p25791
+assg10203
+(dp25792
+g12148
+S'1974 September 26'
+p25793
+sg12150
+S"University of Michigan. Men's Glee Club"
+p25794
+sg12152
+S'11/01/2013'
+p25795
+sg12154
+(lp25796
+g10206
+asg12156
+(lp25797
+g10201
+asg12158
+(lp25798
+S'Musical performances'
+p25799
+assg6597
+(dp25800
+g12148
+S'1960-1961'
+p25801
+sg12150
+S'University of Michigan. Alumni Association.'
+p25802
+sg12152
+S'11/01/2013'
+p25803
+sg12154
+(lp25804
+g6600
+asg12156
+(lp25805
+g6595
+ag6589
+asg12158
+(lp25806
+S'Interviews'
+p25807
+aS'Interviews'
+p25808
+assg8019
+(dp25809
+g12148
+S'1954'
+p25810
+sg12150
+S'Michigan Fellowship of Reconciliation'
+p25811
+sg12152
+S'11/01/2013'
+p25812
+sg12154
+(lp25813
+g8022
+asg12156
+(lp25814
+g8017
+ag1249
+asg12158
+(lp25815
+S'Addresses'
+p25816
+aS'Conferences'
+p25817
+aS'Addresses'
+p25818
+aS'Conferences'
+p25819
+assg2079
+(dp25820
+g12148
+S'1983 December 15'
+p25821
+sg12150
+S'Blanchard, James'
+p25822
+sg12152
+S'6/24/2013'
+p25823
+sg12154
+(lp25824
+g2082
+asg12156
+(lp25825
+g2077
+asg12158
+(lp25826
+S'Interviews'
+p25827
+aS'Radio programs'
+p25828
+aS'Talk shows'
+p25829
+assg8325
+(dp25830
+g12148
+S'1984 January 18'
+p25831
+sg12150
+S'Blanchard, James'
+p25832
+sg12152
+S'6/24/2013'
+p25833
+sg12154
+(lp25834
+g8328
+asg12156
+(lp25835
+g8323
+asg12158
+(lp25836
+S'Addresses'
+p25837
+assg1863
+(dp25838
+g12148
+S'1972 September'
+p25839
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25840
+sg12152
+S'6/05/2014'
+p25841
+sg12154
+(lp25842
+g1866
+asg12156
+(lp25843
+g1861
+asg12158
+(lp25844
+S'Conferences'
+p25845
+assg11415
+(dp25846
+g12148
+S'1972 September'
+p25847
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25848
+sg12152
+S'6/05/2014'
+p25849
+sg12154
+(lp25850
+g11418
+asg12156
+(lp25851
+g11413
+asg12158
+(lp25852
+S'Conferences'
+p25853
+assg1509
+(dp25854
+g12148
+S'1968 September 14-16'
+p25855
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25856
+sg12152
+S'6/05/2014'
+p25857
+sg12154
+(lp25858
+g1512
+asg12156
+(lp25859
+g1507
+asg12158
+(lp25860
+S'Conferences'
+p25861
+assg11013
+(dp25862
+g12148
+S'1968 September 14-16'
+p25863
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25864
+sg12152
+S'6/05/2014'
+p25865
+sg12154
+(lp25866
+g11016
+asg12156
+(lp25867
+g11011
+asg12158
+(lp25868
+S'Conferences'
+p25869
+aS'Dinners'
+p25870
+assg4953
+(dp25871
+g12148
+S'1972 September 2'
+p25872
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25873
+sg12152
+S'6/05/2014'
+p25874
+sg12154
+(lp25875
+g4956
+asg12156
+(lp25876
+g4951
+asg12158
+(lp25877
+S'Conferences'
+p25878
+assg7695
+(dp25879
+g12148
+S'1968 September 14-16'
+p25880
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25881
+sg12152
+S'6/05/2014'
+p25882
+sg12154
+(lp25883
+g7698
+asg12156
+(lp25884
+g7693
+asg12158
+(lp25885
+S'Conferences'
+p25886
+assg4743
+(dp25887
+g12148
+S'1968 January 19, 20'
+p25888
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25889
+sg12152
+S'6/05/2014'
+p25890
+sg12154
+(lp25891
+g4746
+asg12156
+(lp25892
+g4741
+ag4099
+asg12158
+(lp25893
+S'Seminars'
+p25894
+aS'Seminars'
+p25895
+assg1977
+(dp25896
+g12148
+S'1968 January 19, 20'
+p25897
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25898
+sg12152
+S'6/05/2014'
+p25899
+sg12154
+(lp25900
+g1980
+asg12156
+(lp25901
+g1975
+ag1981
+asg12158
+(lp25902
+S'Seminars'
+p25903
+aS'Seminars'
+p25904
+assg5019
+(dp25905
+g12148
+S'1968 September 14-16'
+p25906
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25907
+sg12152
+S'6/05/2014'
+p25908
+sg12154
+(lp25909
+g5022
+asg12156
+(lp25910
+g5017
+asg12158
+(lp25911
+S'Conferences'
+p25912
+assg7767
+(dp25913
+g12148
+S'1968 January 19, 20'
+p25914
+sg12150
+S'Republican Party (Mich.). State Central Committee'
+p25915
+sg12152
+S'6/05/2014'
+p25916
+sg12154
+(lp25917
+g7770
+asg12156
+(lp25918
+g7765
+ag7759
+asg12158
+(lp25919
+S'Seminars'
+p25920
+aS'Seminars'
+p25921
+assg7977
+(dp25922
+g12148
+S'1951 September 23'
+p25923
+sg12150
+S'Cushing, George'
+p25924
+sg12152
+S'2/25/2015'
+p25925
+sg12154
+(lp25926
+g7980
+asg12156
+(lp25927
+g7975
+asg12158
+(lp25928
+S'Radio programs'
+p25929
+aS'Talk shows'
+p25930
+assg9183
+(dp25931
+g12148
+S'1954 November 14'
+p25932
+sg12150
+S'Cushing, George'
+p25933
+sg12152
+S'2/25/2015'
+p25934
+sg12154
+(lp25935
+g9186
+asg12156
+(lp25936
+g9181
+asg12158
+(lp25937
+S'Radio programs'
+p25938
+aS'Talk shows'
+p25939
+assg11715
+(dp25940
+g12148
+S'1954 November 17'
+p25941
+sg12150
+S'Cushing, George'
+p25942
+sg12152
+S'2/25/2015'
+p25943
+sg12154
+(lp25944
+g11718
+asg12156
+(lp25945
+g11713
+asg12158
+(lp25946
+S'Radio programs'
+p25947
+aS'Talk shows'
+p25948
+assg5757
+(dp25949
+g12148
+S'1954 October 17'
+p25950
+sg12150
+S'Cushing, George'
+p25951
+sg12152
+S'2/25/2015'
+p25952
+sg12154
+(lp25953
+g5760
+asg12156
+(lp25954
+g5755
+asg12158
+(lp25955
+S'Radio programs'
+p25956
+aS'Talk shows'
+p25957
+assg2931
+(dp25958
+g12148
+S'1954 October 17'
+p25959
+sg12150
+S'Cushing, George'
+p25960
+sg12152
+S'2/25/2015'
+p25961
+sg12154
+(lp25962
+g2934
+asg12156
+(lp25963
+g2929
+asg12158
+(lp25964
+S'Radio programs'
+p25965
+aS'Talk shows'
+p25966
+assg5997
+(dp25967
+g12148
+S'1954 October 10'
+p25968
+sg12150
+S'Cushing, George'
+p25969
+sg12152
+S'2/25/2015'
+p25970
+sg12154
+(lp25971
+g6000
+asg12156
+(lp25972
+g5995
+asg12158
+(lp25973
+S'Radio programs'
+p25974
+aS'Talk shows'
+p25975
+assg8823
+(dp25976
+g12148
+S'1954 October 03'
+p25977
+sg12150
+S'Cushing, George'
+p25978
+sg12152
+S'2/25/2015'
+p25979
+sg12154
+(lp25980
+g8826
+asg12156
+(lp25981
+g8821
+asg12158
+(lp25982
+S'Radio programs'
+p25983
+aS'Talk shows'
+p25984
+assg5685
+(dp25985
+g12148
+S'1954 September 26'
+p25986
+sg12150
+S'Cushing, George'
+p25987
+sg12152
+S'2/25/2015'
+p25988
+sg12154
+(lp25989
+g5688
+asg12156
+(lp25990
+g5683
+asg12158
+(lp25991
+S'Radio programs'
+p25992
+aS'Talk shows'
+p25993
+assg12015
+(dp25994
+g12148
+S'1954 September 19'
+p25995
+sg12150
+S'Cushing, George'
+p25996
+sg12152
+S'2/25/2015'
+p25997
+sg12154
+(lp25998
+g12018
+asg12156
+(lp25999
+g12013
+asg12158
+(lp26000
+S'Radio programs'
+p26001
+aS'Talk shows'
+p26002
+assg11979
+(dp26003
+g12148
+S'1950 January 15'
+p26004
+sg12150
+S'Cushing, George'
+p26005
+sg12152
+S'2/25/2015'
+p26006
+sg12154
+(lp26007
+g11982
+asg12156
+(lp26008
+g11977
+asg12158
+(lp26009
+S'Radio programs'
+p26010
+aS'Talk shows'
+p26011
+assg5157
+(dp26012
+g12148
+S'1954 November 28'
+p26013
+sg12150
+S'Cushing, George'
+p26014
+sg12152
+S'2/25/2015'
+p26015
+sg12154
+(lp26016
+g5160
+asg12156
+(lp26017
+g5155
+asg12158
+(lp26018
+S'Radio programs'
+p26019
+aS'Talk shows'
+p26020
+assg3591
+(dp26021
+g12148
+S'1954 November 21'
+p26022
+sg12150
+S'Cushing, George'
+p26023
+sg12152
+S'2/25/2015'
+p26024
+sg12154
+(lp26025
+g3594
+asg12156
+(lp26026
+g3589
+asg12158
+(lp26027
+S'Radio programs'
+p26028
+aS'Talk shows'
+p26029
+assg10335
+(dp26030
+g12148
+S'[Undated]'
+p26031
+sg12150
+S'Martin, John Butlin'
+p26032
+sg12152
+S'11/01/2013'
+p26033
+sg12154
+(lp26034
+g10338
+asg12156
+(lp26035
+g10333
+asg12158
+(lp26036
+S'Interviews'
+p26037
+assg159
+(dp26038
+g12148
+S'1983 October 04'
+p26039
+sg12150
+S'Eclipse Jazz (University of Michigan)'
+p26040
+sg12152
+S'6/05/2014'
+p26041
+sg12154
+(lp26042
+g162
+asg12156
+(lp26043
+g157
+asg12158
+(lp26044
+S'Radio programs'
+p26045
+assg4065
+(dp26046
+g12148
+S'1952 July'
+p26047
+sg12150
+S'Martin, John Butlin'
+p26048
+sg12152
+S'11/01/2013'
+p26049
+sg12154
+(lp26050
+g4068
+asg12156
+(lp26051
+g4063
+asg12158
+(lp26052
+S'Advertising'
+p26053
+assg6237
+(dp26054
+g12148
+S'1963 March 10'
+p26055
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p26056
+sg12152
+S'6/24/2013'
+p26057
+sg12154
+(lp26058
+g6240
+asg12156
+(lp26059
+g6235
+asg12158
+(lp26060
+S'Radio programs'
+p26061
+aS'Poetry readings'
+p26062
+assg6465
+(dp26063
+g12148
+S'1959 June 04'
+p26064
+sg12150
+S'Hatcher, Harlan Henthorne'
+p26065
+sg12152
+S'6/05/2014'
+p26066
+sg12154
+(lp26067
+g6468
+asg12156
+(lp26068
+g6463
+asg12158
+(lp26069
+S'Addresses'
+p26070
+assg1725
+(dp26071
+g12148
+S'1952 July'
+p26072
+sg12150
+S'Martin, John Butlin'
+p26073
+sg12152
+S'11/01/2013'
+p26074
+sg12154
+(lp26075
+g1728
+asg12156
+(lp26076
+g1723
+asg12158
+(lp26077
+S'Advertising'
+p26078
+assg489
+(dp26079
+g12148
+S'1952 July'
+p26080
+sg12150
+S'Martin, John Butlin'
+p26081
+sg12152
+S'11/01/2013'
+p26082
+sg12154
+(lp26083
+g492
+asg12156
+(lp26084
+g487
+asg12158
+(lp26085
+S'Advertising'
+p26086
+assg9903
+(dp26087
+g12148
+S'1945 May 20'
+p26088
+sg12150
+S'Cushing, George'
+p26089
+sg12152
+S'2/25/2015'
+p26090
+sg12154
+(lp26091
+g9906
+asg12156
+(lp26092
+g9901
+asg12158
+(lp26093
+S'Radio programs'
+p26094
+aS'Talk shows'
+p26095
+assg7329
+(dp26096
+g12148
+S'1945 May 13'
+p26097
+sg12150
+S'Cushing, George'
+p26098
+sg12152
+S'2/25/2015'
+p26099
+sg12154
+(lp26100
+g7332
+asg12156
+(lp26101
+g7327
+asg12158
+(lp26102
+S'Radio programs'
+p26103
+aS'Talk shows'
+p26104
+assg1131
+(dp26105
+g12148
+S'1945 May 06'
+p26106
+sg12150
+S'Cushing, George'
+p26107
+sg12152
+S'2/25/2015'
+p26108
+sg12154
+(lp26109
+g1134
+asg12156
+(lp26110
+g1129
+asg12158
+(lp26111
+S'Radio programs'
+p26112
+aS'Talk shows'
+p26113
+assg3837
+(dp26114
+g12148
+S'1945 April 22'
+p26115
+sg12150
+S'Cushing, George'
+p26116
+sg12152
+S'2/25/2015'
+p26117
+sg12154
+(lp26118
+g3840
+asg12156
+(lp26119
+g3835
+asg12158
+(lp26120
+S'Radio programs'
+p26121
+aS'Talk shows'
+p26122
+assg933
+(dp26123
+g12148
+S'1945 June 24'
+p26124
+sg12150
+S'Cushing, George'
+p26125
+sg12152
+S'2/25/2015'
+p26126
+sg12154
+(lp26127
+g936
+asg12156
+(lp26128
+g931
+asg12158
+(lp26129
+S'Radio programs'
+p26130
+aS'Talk shows'
+p26131
+assg10437
+(dp26132
+g12148
+S'1945 June 10'
+p26133
+sg12150
+S'Cushing, George'
+p26134
+sg12152
+S'2/25/2015'
+p26135
+sg12154
+(lp26136
+g10440
+asg12156
+(lp26137
+g10435
+asg12158
+(lp26138
+S'Radio programs'
+p26139
+aS'Talk shows'
+p26140
+assg2241
+(dp26141
+g12148
+S'1945 June 03'
+p26142
+sg12150
+S'Cushing, George'
+p26143
+sg12152
+S'2/25/2015'
+p26144
+sg12154
+(lp26145
+g2244
+asg12156
+(lp26146
+g2239
+asg12158
+(lp26147
+S'Radio programs'
+p26148
+aS'Talk shows'
+p26149
+assg3765
+(dp26150
+g12148
+S'1945 May 27'
+p26151
+sg12150
+S'Cushing, George'
+p26152
+sg12152
+S'2/25/2015'
+p26153
+sg12154
+(lp26154
+g3768
+asg12156
+(lp26155
+g3763
+asg12158
+(lp26156
+S'Radio programs'
+p26157
+aS'Talk shows'
+p26158
+assg4365
+(dp26159
+g12148
+S'1945 September 02'
+p26160
+sg12150
+S'Cushing, George'
+p26161
+sg12152
+S'2/25/2015'
+p26162
+sg12154
+(lp26163
+g4368
+asg12156
+(lp26164
+g4363
+asg12158
+(lp26165
+S'Radio programs'
+p26166
+aS'Talk shows'
+p26167
+assg7035
+(dp26168
+g12148
+S'1945 July 01'
+p26169
+sg12150
+S'Cushing, George'
+p26170
+sg12152
+S'2/25/2015'
+p26171
+sg12154
+(lp26172
+g7038
+asg12156
+(lp26173
+g7033
+asg12158
+(lp26174
+S'Radio programs'
+p26175
+aS'Talk shows'
+p26176
+assg4683
+(dp26177
+g12148
+S'1962 June 14'
+p26178
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p26179
+sg12152
+S'6/24/2013'
+p26180
+sg12154
+(lp26181
+g4686
+asg12156
+(lp26182
+g4681
+asg12158
+(lp26183
+S'Addresses'
+p26184
+aS'Radio programs'
+p26185
+aS'Dedications (ceremonies)'
+p26186
+assg1413
+(dp26187
+g12148
+S'1966 April'
+p26188
+sg12150
+S'Interlochen Center for the Arts.'
+p26189
+sg12152
+S'6/24/2013'
+p26190
+sg12154
+(lp26191
+g1416
+asg12156
+(lp26192
+g1411
+asg12158
+(lp26193
+S'Television'
+p26194
+assg5223
+(dp26195
+g12148
+S'1975'
+p26196
+sg12150
+S'Interlochen Center for the Arts.'
+p26197
+sg12152
+S'6/24/2013'
+p26198
+sg12154
+(lp26199
+g5226
+asg12156
+(lp26200
+g5221
+asg12158
+(lp26201
+S'Musical performances'
+p26202
+aS'Dedications (ceremonies)'
+p26203
+assg4911
+(dp26204
+g12148
+S'1958 July 04'
+p26205
+sg12150
+S'Interlochen Center for the Arts.'
+p26206
+sg12152
+S'6/24/2013'
+p26207
+sg12154
+(lp26208
+g4914
+asg12156
+(lp26209
+g4909
+asg12158
+(lp26210
+S'Oral Histories'
+p26211
+aS'Addresses'
+p26212
+assg7473
+(dp26213
+g12148
+S'1958 July 04'
+p26214
+sg12150
+S'Interlochen Center for the Arts.'
+p26215
+sg12152
+S'6/24/2013'
+p26216
+sg12154
+(lp26217
+g7476
+asg12156
+(lp26218
+g7471
+asg12158
+(lp26219
+S'Oral Histories'
+p26220
+aS'Addresses'
+p26221
+assg10713
+(dp26222
+g12148
+S'1975'
+p26223
+sg12150
+S'Interlochen Center for the Arts.'
+p26224
+sg12152
+S'6/24/2013'
+p26225
+sg12154
+(lp26226
+g10716
+asg12156
+(lp26227
+g10711
+asg12158
+(lp26228
+S'Musical performances'
+p26229
+aS'Dedications (ceremonies)'
+p26230
+assg7635
+(dp26231
+g12148
+S'1963 May 05'
+p26232
+sg12150
+S'Interlochen Center for the Arts.'
+p26233
+sg12152
+S'6/24/2013'
+p26234
+sg12154
+(lp26235
+g7638
+asg12156
+(lp26236
+g7633
+asg12158
+(lp26237
+S'Interviews'
+p26238
+assg1497
+(dp26239
+g12148
+S'1966 April 02'
+p26240
+sg12150
+S"University of Michigan. Men's Glee Club"
+p26241
+sg12152
+S'11/01/2013'
+p26242
+sg12154
+(lp26243
+g1500
+asg12156
+(lp26244
+g1495
+asg12158
+(lp26245
+S'Musical performances'
+p26246
+assg4419
+(dp26247
+g12148
+S'1966 April 02'
+p26248
+sg12150
+S"University of Michigan. Men's Glee Club"
+p26249
+sg12152
+S'11/01/2013'
+p26250
+sg12154
+(lp26251
+g4422
+asg12156
+(lp26252
+g4417
+asg12158
+(lp26253
+S'Musical performances'
+p26254
+assg10983
+(dp26255
+g12148
+S'1946 June 02'
+p26256
+sg12150
+S'Cushing, George'
+p26257
+sg12152
+S'2/25/2015'
+p26258
+sg12154
+(lp26259
+g10986
+asg12156
+(lp26260
+g10981
+asg12158
+(lp26261
+S'Radio programs'
+p26262
+aS'Talk shows'
+p26263
+assg1479
+(dp26264
+g12148
+S'1968 December'
+p26265
+sg12150
+S'Karoub, James'
+p26266
+sg12152
+S'6/24/2013'
+p26267
+sg12154
+(lp26268
+g1482
+asg12156
+(lp26269
+g1477
+ag1483
+asg12158
+(lp26270
+S'Addresses'
+p26271
+aS'Addresses'
+p26272
+assg4941
+(dp26273
+g12148
+S'1954 July 25'
+p26274
+sg12150
+S'Cushing, George'
+p26275
+sg12152
+S'2/25/2015'
+p26276
+sg12154
+(lp26277
+g4944
+asg12156
+(lp26278
+g4939
+asg12158
+(lp26279
+S'Radio programs'
+p26280
+aS'Talk shows'
+p26281
+assg10731
+(dp26282
+g12148
+S'1967 February 06, 07, July, 1964 August, 1965 March, 1969 December'
+p26283
+sg12150
+S'Albright, William'
+p26284
+sg12152
+S'11/9/2012'
+p26285
+sg12154
+(lp26286
+g10734
+asg12156
+(lp26287
+g10729
+ag10741
+ag10735
+asg12158
+(lp26288
+S'Musical performances'
+p26289
+aS'Musical performances'
+p26290
+aS'Musical performances'
+p26291
+assg8235
+(dp26292
+g12148
+S'[Undated]'
+p26293
+sg12150
+S'Albright, William'
+p26294
+sg12152
+S'11/9/2012'
+p26295
+sg12154
+(lp26296
+g8238
+asg12156
+(lp26297
+g8233
+ag8239
+asg12158
+(lp26298
+S'Musical performances'
+p26299
+aS'Musical performances'
+p26300
+assg2007
+(dp26301
+g12148
+S'[Undated]'
+p26302
+sg12150
+S'Albright, William'
+p26303
+sg12152
+S'11/9/2012'
+p26304
+sg12154
+(lp26305
+g2010
+asg12156
+(lp26306
+g2005
+ag1993
+ag1999
+asg12158
+(lp26307
+S'Musical performances'
+p26308
+aS'Musical performances'
+p26309
+aS'Musical performances'
+p26310
+assg4767
+(dp26311
+g12148
+S'[Undated]'
+p26312
+sg12150
+S'Albright, William'
+p26313
+sg12152
+S'11/9/2012'
+p26314
+sg12154
+(lp26315
+g4770
+asg12156
+(lp26316
+g4765
+asg12158
+(lp26317
+S'Musical performances'
+p26318
+assg1731
+(dp26319
+g12148
+S'[Undated]'
+p26320
+sg12150
+S'Albright, William'
+p26321
+sg12152
+S'11/9/2012'
+p26322
+sg12154
+(lp26323
+g1734
+asg12156
+(lp26324
+g1729
+asg12158
+(lp26325
+S'Musical performances'
+p26326
+assg11295
+(dp26327
+g12148
+S'1985'
+p26328
+sg12150
+S'Albright, William'
+p26329
+sg12152
+S'11/9/2012'
+p26330
+sg12154
+(lp26331
+g11298
+asg12156
+(lp26332
+g11293
+asg12158
+(lp26333
+S'Musical performances'
+p26334
+assg3681
+(dp26335
+g12148
+S'1967 April 29'
+p26336
+sg12150
+S'Albright, William'
+p26337
+sg12152
+S'6/24/2013'
+p26338
+sg12154
+(lp26339
+g3684
+asg12156
+(lp26340
+g3679
+ag3673
+asg12158
+(lp26341
+S'Musical performances'
+p26342
+aS'Musical performances'
+p26343
+assg4719
+(dp26344
+g12148
+S'1986 June 12, 1987 October 13'
+p26345
+sg12150
+S'Albright, William'
+p26346
+sg12152
+S'6/24/2013'
+p26347
+sg12154
+(lp26348
+g4722
+asg12156
+(lp26349
+g4717
+asg12158
+(lp26350
+S'Musical performances'
+p26351
+assg4431
+(dp26352
+g12148
+S'1981 October'
+p26353
+sg12150
+S'Albright, William'
+p26354
+sg12152
+S'6/24/2013'
+p26355
+sg12154
+(lp26356
+g4434
+asg12156
+(lp26357
+g4429
+asg12158
+(lp26358
+S'Musical performances'
+p26359
+assg8331
+(dp26360
+g12148
+S'[Undated]'
+p26361
+sg12150
+S'Albright, William'
+p26362
+sg12152
+S'6/24/2013'
+p26363
+sg12154
+(lp26364
+g8334
+asg12156
+(lp26365
+g8329
+asg12158
+(lp26366
+S'Musical performances'
+p26367
+assg10971
+(dp26368
+g12148
+S'1967 March 09'
+p26369
+sg12150
+S"University of Michigan. Men's Glee Club"
+p26370
+sg12152
+S'11/01/2013'
+p26371
+sg12154
+(lp26372
+g10974
+asg12156
+(lp26373
+g10969
+asg12158
+(lp26374
+S'Musical performances'
+p26375
+assg8445
+(dp26376
+g12148
+S'1948 March 07'
+p26377
+sg12150
+S'Cushing, George'
+p26378
+sg12152
+S'2/25/2015'
+p26379
+sg12154
+(lp26380
+g8448
+asg12156
+(lp26381
+g8443
+asg12158
+(lp26382
+S'Sound tracks'
+p26383
+aS'Talk shows'
+p26384
+assg5901
+(dp26385
+g12148
+S'1948 February 28'
+p26386
+sg12150
+S'Cushing, George'
+p26387
+sg12152
+S'2/25/2015'
+p26388
+sg12154
+(lp26389
+g5904
+asg12156
+(lp26390
+g5899
+asg12158
+(lp26391
+S'Radio programs'
+p26392
+aS'Talk shows'
+p26393
+assg2481
+(dp26394
+g12148
+S'1947 December 28'
+p26395
+sg12150
+S'Cushing, George'
+p26396
+sg12152
+S'2/25/2015'
+p26397
+sg12154
+(lp26398
+g2484
+asg12156
+(lp26399
+g2479
+asg12158
+(lp26400
+S'Radio programs'
+p26401
+aS'Talk shows'
+p26402
+assg5361
+(dp26403
+g12148
+S'1947 December 21'
+p26404
+sg12150
+S'Cushing, George'
+p26405
+sg12152
+S'2/25/2015'
+p26406
+sg12154
+(lp26407
+g5364
+asg12156
+(lp26408
+g5359
+asg12158
+(lp26409
+S'Radio programs'
+p26410
+aS'Talk shows'
+p26411
+assg2637
+(dp26412
+g12148
+S'1947 November 30'
+p26413
+sg12150
+S'Cushing, George'
+p26414
+sg12152
+S'2/25/2015'
+p26415
+sg12154
+(lp26416
+g2640
+asg12156
+(lp26417
+g2635
+asg12158
+(lp26418
+S'Radio programs'
+p26419
+aS'Talk shows'
+p26420
+assg11877
+(dp26421
+g12148
+S'1948 February 22'
+p26422
+sg12150
+S'Cushing, George'
+p26423
+sg12152
+S'2/25/2015'
+p26424
+sg12154
+(lp26425
+g11880
+asg12156
+(lp26426
+g11875
+asg12158
+(lp26427
+S'Radio programs'
+p26428
+aS'Talk shows'
+p26429
+assg2397
+(dp26430
+g12148
+S'1948 February 15'
+p26431
+sg12150
+S'Cushing, George'
+p26432
+sg12152
+S'2/25/2015'
+p26433
+sg12154
+(lp26434
+g2400
+asg12156
+(lp26435
+g2395
+asg12158
+(lp26436
+S'Radio programs'
+p26437
+aS'Talk shows'
+p26438
+assg8739
+(dp26439
+g12148
+S'1948 February 08'
+p26440
+sg12150
+S'Cushing, George'
+p26441
+sg12152
+S'2/25/2015'
+p26442
+sg12154
+(lp26443
+g8742
+asg12156
+(lp26444
+g8737
+asg12158
+(lp26445
+S'Radio programs'
+p26446
+aS'Talk shows'
+p26447
+assg10533
+(dp26448
+g12148
+S'1948 January 26'
+p26449
+sg12150
+S'Cushing, George'
+p26450
+sg12152
+S'2/25/2015'
+p26451
+sg12154
+(lp26452
+g10536
+asg12156
+(lp26453
+g10531
+asg12158
+(lp26454
+S'Radio programs'
+p26455
+aS'Talk shows'
+p26456
+assg8793
+(dp26457
+g12148
+S'[Undated]'
+p26458
+sg12150
+S'University of Michigan. Alumni Association.'
+p26459
+sg12152
+S'11/01/2013'
+p26460
+sg12154
+(lp26461
+g8796
+asg12156
+(lp26462
+g8791
+ag2605
+asg12158
+(lp26463
+S'Conferences'
+p26464
+aS'Conferences'
+p26465
+assg6399
+(dp26466
+g12148
+S'1977 November 18'
+p26467
+sg12150
+S'University of Michigan. Alumni Association.'
+p26468
+sg12152
+S'11/01/2013'
+p26469
+sg12154
+(lp26470
+g6402
+asg12156
+(lp26471
+g6397
+asg12158
+(lp26472
+S'Musical performances'
+p26473
+assg3465
+(dp26474
+g12148
+S'1972 August 27'
+p26475
+sg12150
+S'Democratic Party (Mich.)'
+p26476
+sg12152
+S'6/05/2014'
+p26477
+sg12154
+(lp26478
+g3468
+asg12156
+(lp26479
+g3463
+ag3469
+asg12158
+(lp26480
+S'Conferences'
+p26481
+aS'Conferences'
+p26482
+assg9141
+(dp26483
+g12148
+S'1963 September 01'
+p26484
+sg12150
+S'Democratic Party (Mich.)'
+p26485
+sg12152
+S'6/05/2014'
+p26486
+sg12154
+(lp26487
+g9144
+asg12156
+(lp26488
+g9139
+asg12158
+(lp26489
+S'Radio programs'
+p26490
+assg12021
+(dp26491
+g12148
+S'1965 April 20'
+p26492
+sg12150
+S'Williams, Robert F.'
+p26493
+sg12152
+S'2/25/2015'
+p26494
+sg12154
+(lp26495
+g12024
+asg12156
+(lp26496
+g12019
+asg12158
+(lp26497
+S'Radio programs'
+p26498
+assg3177
+(dp26499
+g12148
+S'1961 December 07'
+p26500
+sg12150
+S'Romney, George'
+p26501
+sg12152
+S'6/05/2014'
+p26502
+sg12154
+(lp26503
+g3180
+asg12156
+(lp26504
+g3175
+asg12158
+(lp26505
+S'Addresses'
+p26506
+assg10965
+(dp26507
+g12148
+S'1964 July 31'
+p26508
+sg12150
+S'Williams, Robert F.'
+p26509
+sg12152
+S'2/25/2015'
+p26510
+sg12154
+(lp26511
+g10968
+asg12156
+(lp26512
+g10963
+asg12158
+(lp26513
+S'Addresses'
+p26514
+aS'Radio programs'
+p26515
+assg831
+(dp26516
+g12148
+S'1964 September 19'
+p26517
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p26518
+sg12152
+S'6/24/2013'
+p26519
+sg12154
+(lp26520
+g834
+asg12156
+(lp26521
+g829
+asg12158
+(lp26522
+S'Musical performances'
+p26523
+aS'Radio programs'
+p26524
+aS'Dedications (ceremonies)'
+p26525
+assg10821
+(dp26526
+g12148
+S'[Undated]'
+p26527
+sg12150
+S'Williams, Robert F.'
+p26528
+sg12152
+S'2/25/2015'
+p26529
+sg12154
+(lp26530
+g10824
+asg12156
+(lp26531
+g10819
+asg12158
+(lp26532
+S'Musical performances'
+p26533
+aS'Dialogues'
+p26534
+assg1329
+(dp26535
+g12148
+S'1967 September 07'
+p26536
+sg12150
+S'Romney, George'
+p26537
+sg12152
+S'6/05/2014'
+p26538
+sg12154
+(lp26539
+g1332
+asg12156
+(lp26540
+g1327
+asg12158
+(lp26541
+S'Interviews'
+p26542
+assg10371
+(dp26543
+g12148
+S'1964 October 12'
+p26544
+sg12150
+S'Romney, George'
+p26545
+sg12152
+S'6/05/2014'
+p26546
+sg12154
+(lp26547
+g10374
+asg12156
+(lp26548
+g10369
+asg12158
+(lp26549
+S'Debates'
+p26550
+assg10881
+(dp26551
+g12148
+S'1965 January 22'
+p26552
+sg12150
+S'Williams, Robert F.'
+p26553
+sg12152
+S'2/25/2015'
+p26554
+sg12154
+(lp26555
+g10884
+asg12156
+(lp26556
+g10879
+asg12158
+(lp26557
+S'Musical performances'
+p26558
+assg3789
+(dp26559
+g12148
+S'[Undated]'
+p26560
+sg12150
+S'Williams, Robert F.'
+p26561
+sg12152
+S'2/25/2015'
+p26562
+sg12154
+(lp26563
+g3792
+asg12156
+(lp26564
+g3787
+asg12158
+(lp26565
+S'Addresses'
+p26566
+aS'Radio programs'
+p26567
+assg8223
+(dp26568
+g12148
+S'[Undated]'
+p26569
+sg12150
+S'University of Michigan. Institute of Gerontology.'
+p26570
+sg12152
+S'6/05/2014'
+p26571
+sg12154
+(lp26572
+g8226
+asg12156
+(lp26573
+g8221
+asg12158
+(lp26574
+S'Radio programs'
+p26575
+assg12129
+(dp26576
+g12148
+S'1966 February 28'
+p26577
+sg12150
+S'University of Michigan. Institute of Gerontology.'
+p26578
+sg12152
+S'6/05/2014'
+p26579
+sg12154
+(lp26580
+g12132
+asg12156
+(lp26581
+g12127
+asg12158
+(lp26582
+S'Radio programs'
+p26583
+assg7959
+(dp26584
+g12148
+S'1969 October 15'
+p26585
+sg12150
+S'WUOM (Radio station: Ann Arbor, Mich.)'
+p26586
+sg12152
+S'6/24/2013'
+p26587
+sg12154
+(lp26588
+g7962
+asg12156
+(lp26589
+g7957
+asg12158
+(lp26590
+S'Addresses'
+p26591
+aS'Radio programs'
+p26592
+assg11025
+(dp26593
+g12148
+S'[Undated]'
+p26594
+sg12150
+S'Moncrieff, Frederick E.'
+p26595
+sg12152
+S'6/05/2014'
+p26596
+sg12154
+(lp26597
+g11028
+asg12156
+(lp26598
+g11023
+asg12158
+(lp26599
+S'Interviews'
+p26600
+assg4935
+(dp26601
+g12148
+S'[Undated]'
+p26602
+sg12150
+S'Moncrieff, Frederick E.'
+p26603
+sg12152
+S'6/05/2014'
+p26604
+sg12154
+(lp26605
+g4938
+asg12156
+(lp26606
+g4933
+asg12158
+(lp26607
+S'Interviews'
+p26608
+assg2319
+(dp26609
+g12148
+S'[Undated]'
+p26610
+sg12150
+S'Moncrieff, Frederick E.'
+p26611
+sg12152
+S'6/05/2014'
+p26612
+sg12154
+(lp26613
+g2322
+asg12156
+(lp26614
+g2317
+asg12158
+(lp26615
+S'Interviews'
+p26616
+assg5169
+(dp26617
+g12148
+S'[Undated]'
+p26618
+sg12150
+S'Moncrieff, Frederick E.'
+p26619
+sg12152
+S'6/05/2014'
+p26620
+sg12154
+(lp26621
+g5172
+asg12156
+(lp26622
+g5167
+asg12158
+(lp26623
+S'Musical performances'
+p26624
+aS'Radio programs'
+p26625
+assg7917
+(dp26626
+g12148
+S'[Undated]'
+p26627
+sg12150
+S'Moncrieff, Frederick E.'
+p26628
+sg12152
+S'6/05/2014'
+p26629
+sg12154
+(lp26630
+g7920
+asg12156
+(lp26631
+g7915
+asg12158
+(lp26632
+S'Musical performances'
+p26633
+aS'Radio programs'
+p26634
+assg5001
+(dp26635
+g12148
+S'[Undated]'
+p26636
+sg12150
+S'Moncrieff, Frederick E.'
+p26637
+sg12152
+S'6/05/2014'
+p26638
+sg12154
+(lp26639
+g5004
+asg12156
+(lp26640
+g4999
+asg12158
+(lp26641
+S'Musical performances'
+p26642
+aS'Radio programs'
+p26643
 asss.

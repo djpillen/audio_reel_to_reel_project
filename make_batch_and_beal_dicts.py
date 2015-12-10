@@ -83,7 +83,9 @@ def build_beal_dict(export_dir):
 					digfilecalc = row[15]
 					beal_items_dict['files'][digfilecalc] = {'collitemno':collitemno,'title':title,'description_filename':description_filename.decode('windows-1252').encode('utf-8'),'abstract':abstract.decode('windows-1252').encode('utf-8')}
 					if collitemno not in beal_items_dict['items']:
-						beal_items_dict['items'][collitemno] = {'title':title,'collectioncreator':collectioncreator,'digfilecalcs':[], 'itemdate':itemdate,'returndate':returndate,'types':[]}
+						beal_items_dict['items'][collitemno] = {'titles':[],'collectioncreator':collectioncreator,'digfilecalcs':[], 'itemdate':itemdate,'returndate':returndate,'types':[]}
+					if title not in beal_items_dict['items'][collitemno]['titles']:
+						beal_items_dict['items'][collitemno]['titles'].append(title)
 					beal_items_dict['items'][collitemno]['digfilecalcs'].append(digfilecalc)
 					beal_items_dict['items'][collitemno]['types'].append(audio_genre)
 				else:

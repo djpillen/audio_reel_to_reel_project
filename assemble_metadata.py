@@ -56,8 +56,19 @@ for batch in batches_dict:
 			mets = [filename for filename in batches_dict[batch][collection][item] if filename.endswith('xml')]
 			audio_files = [filename for filename in batches_dict[batch][collection][item] if filename.endswith('wav') or filename.endswith('mp3')]
 			if len(audio_files) > 0:
+				digfilecalcs = set([re.sub(r'\-?([A-Za-z]+)?\..*$','',filename) for filename in audio_files])
 				collitemno = find_collitemno(item)
-				title = beal_items_dict['items'][collitemno]['title']
+				# Some items have multiple titles associated with them in Beal
+				# This ends up being okay, for the most part, as the collitemnos actually correspond to separate folders (lookin' at you, 8738)
+				# This will make sure that if there is only 1 title associated with a collitemno, that title is used, or if there is a only 1 digfilecalc in a folder, the title associated with that digfilecalc is used, otherwise the multiple titles are joined together
+				titles = beal_items_dict['items'][collitemno]['titles']
+				if len(titles) == 1:
+					title = titles[0]
+				elif len(digfilecalcs) == 1:
+					digfilecalc = [item for item in digfilecalcs][0]
+					title = beal_items_dict['files'][digfilecalc]['title']
+				else:
+					title = '; '.join(titles)
 				itemdate = beal_items_dict['items'][collitemno]['itemdate']
 				returndate = beal_items_dict['items'][collitemno]['returndate']
 				collectioncreator = beal_items_dict['items'][collitemno]['collectioncreator']
